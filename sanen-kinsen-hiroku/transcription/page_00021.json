@@ -1,0 +1,1037 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1284,
+            124
+          ],
+          [
+            1284,
+            915
+          ],
+          [
+            1326,
+            124
+          ],
+          [
+            1326,
+            915
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "居る理家皆人ごとき桜の心る大したのやまかひの種まち",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            1228,
+            121
+          ],
+          [
+            1228,
+            927
+          ],
+          [
+            1269,
+            121
+          ],
+          [
+            1269,
+            927
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "高下とも一刻五分の前なざやはいつでも米にむかに理としれ",
+        "isTextline": "true",
+        "confidence": 0.866
+      },
+      {
+        "boundingBox": [
+          [
+            1181,
+            258
+          ],
+          [
+            1181,
+            563
+          ],
+          [
+            1216,
+            258
+          ],
+          [
+            1216,
+            563
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "飛上不可御門飛下可レ",
+        "isTextline": "true",
+        "confidence": 0.699
+      },
+      {
+        "boundingBox": [
+          [
+            1193,
+            574
+          ],
+          [
+            1193,
+            637
+          ],
+          [
+            1217,
+            574
+          ],
+          [
+            1217,
+            637
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "天明本",
+        "isTextline": "true",
+        "confidence": 0.534
+      },
+      {
+        "boundingBox": [
+          [
+            1125,
+            120
+          ],
+          [
+            1125,
+            908
+          ],
+          [
+            1161,
+            120
+          ],
+          [
+            1161,
+            908
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "飛せげはいつでも米にむかふべし飛木げならば米にしたがへ",
+        "isTextline": "true",
+        "confidence": 0.872
+      },
+      {
+        "boundingBox": [
+          [
+            1065,
+            120
+          ],
+          [
+            1065,
+            911
+          ],
+          [
+            1101,
+            120
+          ],
+          [
+            1101,
+            911
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "飛あげの三日つがきて音なくば米にむかにて飛さげを聞て",
+        "isTextline": "true",
+        "confidence": 0.858
+      },
+      {
+        "boundingBox": [
+          [
+            1012,
+            223
+          ],
+          [
+            1012,
+            476
+          ],
+          [
+            1042,
+            223
+          ],
+          [
+            1042,
+            476
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "智仁勇三徳の歌終",
+        "isTextline": "true",
+        "confidence": 0.847
+      },
+      {
+        "boundingBox": [
+          [
+            954,
+            686
+          ],
+          [
+            954,
+            847
+          ],
+          [
+            973,
+            686
+          ],
+          [
+            973,
+            847
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "量絵等考へ合大べし",
+        "isTextline": "true",
+        "confidence": 0.688
+      },
+      {
+        "boundingBox": [
+          [
+            949,
+            230
+          ],
+          [
+            949,
+            694
+          ],
+          [
+            990,
+            230
+          ],
+          [
+            990,
+            694
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "○田地米の数目",
+        "isTextline": "true",
+        "confidence": 0.46
+      },
+      {
+        "boundingBox": [
+          [
+            970,
+            687
+          ],
+          [
+            970,
+            914
+          ],
+          [
+            994,
+            687
+          ],
+          [
+            994,
+            914
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一夜正者曰順和名抄拾粉廿三才",
+        "isTextline": "true",
+        "confidence": 0.743
+      },
+      {
+        "boundingBox": [
+          [
+            898,
+            119
+          ],
+          [
+            898,
+            772
+          ],
+          [
+            938,
+            119
+          ],
+          [
+            938,
+            772
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "惣高米合せて二千八百八万五千四百八十二石",
+        "isTextline": "true",
+        "confidence": 0.842
+      },
+      {
+        "boundingBox": [
+          [
+            848,
+            205
+          ],
+          [
+            848,
+            719
+          ],
+          [
+            886,
+            205
+          ],
+          [
+            886,
+            719
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "田数合せて九十四万七千八百壹丁",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            797,
+            265
+          ],
+          [
+            797,
+            836
+          ],
+          [
+            838,
+            265
+          ],
+          [
+            838,
+            836
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "○世の中三段年々秋作見積のこと目付",
+        "isTextline": "true",
+        "confidence": 0.756
+      },
+      {
+        "boundingBox": [
+          [
+            640,
+            209
+          ],
+          [
+            640,
+            498
+          ],
+          [
+            668,
+            209
+          ],
+          [
+            668,
+            498
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "世の中三段之図",
+        "isTextline": "true",
+        "confidence": 0.753
+      },
+      {
+        "boundingBox": [
+          [
+            686,
+            561
+          ],
+          [
+            686,
+            911
+          ],
+          [
+            714,
+            561
+          ],
+          [
+            714,
+            911
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一断同一分三俵二分三俵三分九",
+        "isTextline": "true",
+        "confidence": 0.833
+      },
+      {
+        "boundingBox": [
+          [
+            664,
+            561
+          ],
+          [
+            664,
+            908
+          ],
+          [
+            689,
+            561
+          ],
+          [
+            689,
+            908
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一俵四分十二俵五分十五俵九分十八",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            637,
+            560
+          ],
+          [
+            637,
+            907
+          ],
+          [
+            662,
+            560
+          ],
+          [
+            662,
+            907
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "俵七分廿一俵八分廿四俵九分廿七",
+        "isTextline": "true",
+        "confidence": 0.824
+      },
+      {
+        "boundingBox": [
+          [
+            612,
+            557
+          ],
+          [
+            612,
+            908
+          ],
+          [
+            635,
+            557
+          ],
+          [
+            635,
+            908
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "俵十分三十俵是次ノ文ノオモムキナリ",
+        "isTextline": "true",
+        "confidence": 0.797
+      },
+      {
+        "boundingBox": [
+          [
+            545,
+            305
+          ],
+          [
+            545,
+            412
+          ],
+          [
+            588,
+            305
+          ],
+          [
+            588,
+            412
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一人",
+        "isTextline": "true",
+        "confidence": 0.54
+      },
+      {
+        "boundingBox": [
+          [
+            511,
+            408
+          ],
+          [
+            511,
+            468
+          ],
+          [
+            547,
+            408
+          ],
+          [
+            547,
+            468
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "ヤア",
+        "isTextline": "true",
+        "confidence": 0.406
+      },
+      {
+        "boundingBox": [
+          [
+            505,
+            239
+          ],
+          [
+            505,
+            284
+          ],
+          [
+            545,
+            239
+          ],
+          [
+            545,
+            284
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "四十五文",
+        "isTextline": "true",
+        "confidence": 0.338
+      },
+      {
+        "boundingBox": [
+          [
+            492,
+            290
+          ],
+          [
+            492,
+            411
+          ],
+          [
+            520,
+            290
+          ],
+          [
+            520,
+            411
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "上三拾五俵",
+        "isTextline": "true",
+        "confidence": 0.707
+      },
+      {
+        "boundingBox": [
+          [
+            557,
+            787
+          ],
+          [
+            557,
+            906
+          ],
+          [
+            577,
+            787
+          ],
+          [
+            577,
+            906
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "一石四斗",
+        "isTextline": "true",
+        "confidence": 0.551
+      },
+      {
+        "boundingBox": [
+          [
+            536,
+            788
+          ],
+          [
+            536,
+            898
+          ],
+          [
+            557,
+            788
+          ],
+          [
+            557,
+            898
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "一四拾五匁七分",
+        "isTextline": "true",
+        "confidence": 0.565
+      },
+      {
+        "boundingBox": [
+          [
+            533,
+            542
+          ],
+          [
+            533,
+            788
+          ],
+          [
+            569,
+            542
+          ],
+          [
+            569,
+            788
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "広直三拾五俵",
+        "isTextline": "true",
+        "confidence": 0.707
+      },
+      {
+        "boundingBox": [
+          [
+            438,
+            197
+          ],
+          [
+            438,
+            810
+          ],
+          [
+            486,
+            197
+          ],
+          [
+            486,
+            810
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "一分中三拾俵一分中墨三拾俵宛",
+        "isTextline": "true",
+        "confidence": 0.589
+      },
+      {
+        "boundingBox": [
+          [
+            472,
+            794
+          ],
+          [
+            472,
+            906
+          ],
+          [
+            492,
+            794
+          ],
+          [
+            492,
+            906
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "一石二斗",
+        "isTextline": "true",
+        "confidence": 0.656
+      },
+      {
+        "boundingBox": [
+          [
+            452,
+            795
+          ],
+          [
+            452,
+            905
+          ],
+          [
+            475,
+            795
+          ],
+          [
+            475,
+            905
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "五拾三匁一分",
+        "isTextline": "true",
+        "confidence": 0.65
+      },
+      {
+        "boundingBox": [
+          [
+            398,
+            291
+          ],
+          [
+            398,
+            423
+          ],
+          [
+            426,
+            291
+          ],
+          [
+            426,
+            423
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "下二拾五俵",
+        "isTextline": "true",
+        "confidence": 0.647
+      },
+      {
+        "boundingBox": [
+          [
+            377,
+            232
+          ],
+          [
+            377,
+            278
+          ],
+          [
+            413,
+            232
+          ],
+          [
+            413,
+            278
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "□□□□",
+        "isTextline": "true",
+        "confidence": 0.43
+      },
+      {
+        "boundingBox": [
+          [
+            369,
+            228
+          ],
+          [
+            369,
+            457
+          ],
+          [
+            419,
+            228
+          ],
+          [
+            419,
+            457
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "下二拾五俵",
+        "isTextline": "true",
+        "confidence": 0.363
+      },
+      {
+        "boundingBox": [
+          [
+            384,
+            794
+          ],
+          [
+            384,
+            905
+          ],
+          [
+            406,
+            794
+          ],
+          [
+            406,
+            905
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "一石",
+        "isTextline": "true",
+        "confidence": 0.384
+      },
+      {
+        "boundingBox": [
+          [
+            365,
+            795
+          ],
+          [
+            365,
+            906
+          ],
+          [
+            385,
+            795
+          ],
+          [
+            385,
+            906
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "一五拾三匁九分",
+        "isTextline": "true",
+        "confidence": 0.563
+      },
+      {
+        "boundingBox": [
+          [
+            364,
+            541
+          ],
+          [
+            364,
+            797
+          ],
+          [
+            396,
+            541
+          ],
+          [
+            396,
+            797
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "天井二拾五俵",
+        "isTextline": "true",
+        "confidence": 0.639
+      },
+      {
+        "boundingBox": [
+          [
+            356,
+            297
+          ],
+          [
+            356,
+            390
+          ],
+          [
+            378,
+            297
+          ],
+          [
+            378,
+            390
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "百三",
+        "isTextline": "true",
+        "confidence": 0.57
+      },
+      {
+        "boundingBox": [
+          [
+            327,
+            289
+          ],
+          [
+            327,
+            398
+          ],
+          [
+            356,
+            289
+          ],
+          [
+            356,
+            398
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "十分",
+        "isTextline": "true",
+        "confidence": 0.548
+      },
+      {
+        "boundingBox": [
+          [
+            313,
+            450
+          ],
+          [
+            313,
+            858
+          ],
+          [
+            334,
+            450
+          ],
+          [
+            334,
+            858
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "〇こゝにあげたはき十分迄三五がけ五米三かけと見ゆ",
+        "isTextline": "true",
+        "confidence": 0.705
+      },
+      {
+        "boundingBox": [
+          [
+            270,
+            130
+          ],
+          [
+            270,
+            914
+          ],
+          [
+            297,
+            130
+          ],
+          [
+            297,
+            914
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "●秋正元年迄同宝永和保吉今嘉安政弘巳様子寛永甲子年なり元禄九丙子子年七月一年七月一",
+        "isTextline": "true",
+        "confidence": 0.544
+      },
+      {
+        "boundingBox": [
+          [
+            246,
+            148
+          ],
+          [
+            246,
+            915
+          ],
+          [
+            271,
+            148
+          ],
+          [
+            271,
+            915
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "一有て十分四がけの割同十丁丑町より享保三代代町堂元金龍金にて十分三かけ",
+        "isTextline": "true",
+        "confidence": 0.738
+      },
+      {
+        "boundingBox": [
+          [
+            220,
+            157
+          ],
+          [
+            220,
+            912
+          ],
+          [
+            246,
+            157
+          ],
+          [
+            246,
+            912
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "の割乗は四巳亥年にりて同公平丑年せて十分四がけの割同七壬寅年より同廿乙卯",
+        "isTextline": "true",
+        "confidence": 0.796
+      },
+      {
+        "boundingBox": [
+          [
+            191,
+            160
+          ],
+          [
+            191,
+            910
+          ],
+          [
+            218,
+            160
+          ],
+          [
+            218,
+            910
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "耳まで飢へもにて十分五タリ日朝夕文元丙辰年にて十五三両寅去ら火金にて十分",
+        "isTextline": "true",
+        "confidence": 0.776
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00021.jpg",
+    "img_name": "page_00021.jpg"
+  }
+}

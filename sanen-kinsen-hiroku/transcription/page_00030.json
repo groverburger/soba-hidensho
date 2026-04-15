@@ -1,0 +1,512 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1291,
+            126
+          ],
+          [
+            1291,
+            394
+          ],
+          [
+            1330,
+            126
+          ],
+          [
+            1330,
+            394
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "の害合ありくるべし",
+        "isTextline": "true",
+        "confidence": 0.808
+      },
+      {
+        "boundingBox": [
+          [
+            1237,
+            112
+          ],
+          [
+            1237,
+            911
+          ],
+          [
+            1278,
+            112
+          ],
+          [
+            1278,
+            911
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "世の中積のこと弱気に八分に十八里にては強気には",
+        "isTextline": "true",
+        "confidence": 0.839
+      },
+      {
+        "boundingBox": [
+          [
+            1184,
+            111
+          ],
+          [
+            1184,
+            912
+          ],
+          [
+            1223,
+            111
+          ],
+          [
+            1223,
+            912
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "書分誰とつもる是こがひに勝負なしの中黒り続なる",
+        "isTextline": "true",
+        "confidence": 0.83
+      },
+      {
+        "boundingBox": [
+          [
+            1128,
+            112
+          ],
+          [
+            1128,
+            913
+          ],
+          [
+            1170,
+            112
+          ],
+          [
+            1170,
+            913
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "べし右強気の功かくの如しさて植はけより早魃風",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            1074,
+            118
+          ],
+          [
+            1074,
+            906
+          ],
+          [
+            1112,
+            118
+          ],
+          [
+            1112,
+            906
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "局の天災もなく十分の世の中といふは百年に三箇年な",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            1017,
+            116
+          ],
+          [
+            1017,
+            907
+          ],
+          [
+            1055,
+            116
+          ],
+          [
+            1055,
+            907
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "らではなるべからず我国豊卑なりとても東西南北の国",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            959,
+            116
+          ],
+          [
+            959,
+            906
+          ],
+          [
+            999,
+            116
+          ],
+          [
+            999,
+            906
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "は吹こたる国もあるべし前一箇目の豊平を見て日本",
+        "isTextline": "true",
+        "confidence": 0.916
+      },
+      {
+        "boundingBox": [
+          [
+            903,
+            111
+          ],
+          [
+            903,
+            917
+          ],
+          [
+            945,
+            111
+          ],
+          [
+            945,
+            917
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "〽国中よかるべしとかならず〳〵思ふへにらず惣じて下直",
+        "isTextline": "true",
+        "confidence": 0.897
+      },
+      {
+        "boundingBox": [
+          [
+            853,
+            116
+          ],
+          [
+            853,
+            912
+          ],
+          [
+            894,
+            116
+          ],
+          [
+            894,
+            912
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "なる国よりさきへあがる物なり老ふべし買方にはすき",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            798,
+            115
+          ],
+          [
+            798,
+            911
+          ],
+          [
+            838,
+            115
+          ],
+          [
+            838,
+            911
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "ならし物などを買あげて米をあくる理もあたが",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            691,
+            92
+          ],
+          [
+            691,
+            915
+          ],
+          [
+            739,
+            92
+          ],
+          [
+            739,
+            915
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "うりには天性の理をいた広あり外に一理もなし買方に",
+        "isTextline": "true",
+        "confidence": 0.866
+      },
+      {
+        "boundingBox": [
+          [
+            639,
+            108
+          ],
+          [
+            639,
+            567
+          ],
+          [
+            676,
+            108
+          ],
+          [
+            676,
+            567
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一刻の強みあること能々差ふべし",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            588,
+            266
+          ],
+          [
+            588,
+            443
+          ],
+          [
+            629,
+            266
+          ],
+          [
+            629,
+            443
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "弱気の功",
+        "isTextline": "true",
+        "confidence": 0.855
+      },
+      {
+        "boundingBox": [
+          [
+            533,
+            107
+          ],
+          [
+            533,
+            900
+          ],
+          [
+            575,
+            107
+          ],
+          [
+            575,
+            900
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一大高直段の耳々□酒など御目あまいは",
+        "isTextline": "true",
+        "confidence": 0.604
+      },
+      {
+        "boundingBox": [
+          [
+            471,
+            110
+          ],
+          [
+            471,
+            912
+          ],
+          [
+            517,
+            110
+          ],
+          [
+            517,
+            912
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一事仰出シのあるべし其外□また町中御勘門など仰",
+        "isTextline": "true",
+        "confidence": 0.833
+      },
+      {
+        "boundingBox": [
+          [
+            411,
+            114
+          ],
+          [
+            411,
+            512
+          ],
+          [
+            451,
+            114
+          ],
+          [
+            451,
+            512
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一出のあるべし是また老ふべし",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            354,
+            111
+          ],
+          [
+            354,
+            909
+          ],
+          [
+            404,
+            111
+          ],
+          [
+            404,
+            909
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "或は吹もせぬ風を吹たりといひすこしの破損も火分のや",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            302,
+            108
+          ],
+          [
+            302,
+            909
+          ],
+          [
+            350,
+            108
+          ],
+          [
+            350,
+            909
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "へ北にいつはり買〆などいたす年も日本は神国にて正通",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            244,
+            111
+          ],
+          [
+            244,
+            908
+          ],
+          [
+            299,
+            111
+          ],
+          [
+            299,
+            908
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一をもとする団故天性の天よりもあるべし強気の風雨",
+        "isTextline": "true",
+        "confidence": 0.861
+      },
+      {
+        "boundingBox": [
+          [
+            191,
+            111
+          ],
+          [
+            191,
+            907
+          ],
+          [
+            245,
+            111
+          ],
+          [
+            245,
+            907
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "のいひたり尤なれば船に船に船に船に気を見てほし候",
+        "isTextline": "true",
+        "confidence": 0.834
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00030.jpg",
+    "img_name": "page_00030.jpg"
+  }
+}

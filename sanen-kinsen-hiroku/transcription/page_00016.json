@@ -1,0 +1,562 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1274,
+            106
+          ],
+          [
+            1274,
+            910
+          ],
+          [
+            1321,
+            106
+          ],
+          [
+            1321,
+            910
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "戊申乙卯丙辰丁己巳未庚申癸亥",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            1217,
+            107
+          ],
+          [
+            1217,
+            911
+          ],
+          [
+            1263,
+            107
+          ],
+          [
+            1263,
+            911
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一右にあたるとしは勝負鬱発の変気もならは翌年",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            1170,
+            109
+          ],
+          [
+            1170,
+            911
+          ],
+          [
+            1211,
+            109
+          ],
+          [
+            1211,
+            911
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "なり然れども六七月に風もふかず火熱はなはごしけ",
+        "isTextline": "true",
+        "confidence": 0.9
+      },
+      {
+        "boundingBox": [
+          [
+            1147,
+            350
+          ],
+          [
+            1147,
+            433
+          ],
+          [
+            1171,
+            350
+          ],
+          [
+            1171,
+            433
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "温化画",
+        "isTextline": "true",
+        "confidence": 0.426
+      },
+      {
+        "boundingBox": [
+          [
+            1113,
+            106
+          ],
+          [
+            1113,
+            781
+          ],
+          [
+            1155,
+            106
+          ],
+          [
+            1155,
+            781
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "れは稲くさりうんかつくとしなり吉ふべし",
+        "isTextline": "true",
+        "confidence": 0.824
+      },
+      {
+        "boundingBox": [
+          [
+            1054,
+            254
+          ],
+          [
+            1054,
+            617
+          ],
+          [
+            1095,
+            254
+          ],
+          [
+            1095,
+            617
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "中豊作二箇年",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            1004,
+            309
+          ],
+          [
+            1004,
+            553
+          ],
+          [
+            1040,
+            309
+          ],
+          [
+            1040,
+            553
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "豊作と同断",
+        "isTextline": "true",
+        "confidence": 0.861
+      },
+      {
+        "boundingBox": [
+          [
+            942,
+            101
+          ],
+          [
+            942,
+            894
+          ],
+          [
+            985,
+            101
+          ],
+          [
+            985,
+            894
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "戊午壬辰●摂正者日以上大周六十年也",
+        "isTextline": "true",
+        "confidence": 0.765
+      },
+      {
+        "boundingBox": [
+          [
+            892,
+            119
+          ],
+          [
+            892,
+            785
+          ],
+          [
+            930,
+            119
+          ],
+          [
+            930,
+            785
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "右にあたるとしは豊平といへども中分の耳なり",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            840,
+            209
+          ],
+          [
+            840,
+            615
+          ],
+          [
+            882,
+            209
+          ],
+          [
+            882,
+            615
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "○大潮小汐の考周",
+        "isTextline": "true",
+        "confidence": 0.848
+      },
+      {
+        "boundingBox": [
+          [
+            784,
+            108
+          ],
+          [
+            784,
+            901
+          ],
+          [
+            826,
+            108
+          ],
+          [
+            826,
+            901
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "小しほとは六七八と九と十と二十一二と三四五としれ",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            677,
+            98
+          ],
+          [
+            677,
+            909
+          ],
+          [
+            725,
+            98
+          ],
+          [
+            725,
+            909
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一右の外皆大潮なり小汐の三日間大谷の日なり大風ふき",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            98
+          ],
+          [
+            628,
+            908
+          ],
+          [
+            677,
+            98
+          ],
+          [
+            677,
+            908
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "いだすなり風の吹出しはさししほに吹出し満汐にやむ",
+        "isTextline": "true",
+        "confidence": 0.858
+      },
+      {
+        "boundingBox": [
+          [
+            576,
+            112
+          ],
+          [
+            576,
+            246
+          ],
+          [
+            608,
+            112
+          ],
+          [
+            608,
+            246
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "ものなり",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            515,
+            98
+          ],
+          [
+            515,
+            910
+          ],
+          [
+            559,
+            98
+          ],
+          [
+            559,
+            910
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "十五日晦日の三ほは六ツに満夜ひるともに九ツにひく",
+        "isTextline": "true",
+        "confidence": 0.843
+      },
+      {
+        "boundingBox": [
+          [
+            461,
+            99
+          ],
+          [
+            461,
+            916
+          ],
+          [
+            507,
+            99
+          ],
+          [
+            507,
+            916
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "〽さししほは日々に四分づとおほく湯いくも四分づとおそくいく也",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            402,
+            245
+          ],
+          [
+            402,
+            647
+          ],
+          [
+            444,
+            245
+          ],
+          [
+            444,
+            647
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "○風吹ふかざるを考用丸",
+        "isTextline": "true",
+        "confidence": 0.839
+      },
+      {
+        "boundingBox": [
+          [
+            349,
+            100
+          ],
+          [
+            349,
+            914
+          ],
+          [
+            391,
+            100
+          ],
+          [
+            391,
+            914
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "庚申より十一日の庚午より去間獄丁丑の日間日なり",
+        "isTextline": "true",
+        "confidence": 0.843
+      },
+      {
+        "boundingBox": [
+          [
+            299,
+            444
+          ],
+          [
+            299,
+            899
+          ],
+          [
+            336,
+            444
+          ],
+          [
+            336,
+            899
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "なり以上十五日の間は風吹ぬものな",
+        "isTextline": "true",
+        "confidence": 0.347
+      },
+      {
+        "boundingBox": [
+          [
+            292,
+            111
+          ],
+          [
+            292,
+            911
+          ],
+          [
+            337,
+            111
+          ],
+          [
+            337,
+            911
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "戌寅の日より七日の間猶なり以上十五日の間は風吹ぬにものな",
+        "isTextline": "true",
+        "confidence": 0.812
+      },
+      {
+        "boundingBox": [
+          [
+            238,
+            111
+          ],
+          [
+            238,
+            906
+          ],
+          [
+            283,
+            111
+          ],
+          [
+            283,
+            906
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "り故に推にいると海上に船を乗り出し申なり万一にけ",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            188,
+            119
+          ],
+          [
+            188,
+            809
+          ],
+          [
+            230,
+            119
+          ],
+          [
+            230,
+            809
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "は間になり、それも百年のうちの一年と考へしるべし",
+        "isTextline": "true",
+        "confidence": 0.848
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00016.jpg",
+    "img_name": "page_00016.jpg"
+  }
+}

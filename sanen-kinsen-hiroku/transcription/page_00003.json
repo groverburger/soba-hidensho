@@ -1,0 +1,787 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1279,
+            82
+          ],
+          [
+            1279,
+            130
+          ],
+          [
+            1313,
+            82
+          ],
+          [
+            1313,
+            130
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "嘉",
+        "isTextline": "true",
+        "confidence": 0.348
+      },
+      {
+        "boundingBox": [
+          [
+            1223,
+            91
+          ],
+          [
+            1223,
+            163
+          ],
+          [
+            1264,
+            91
+          ],
+          [
+            1264,
+            163
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "水沢",
+        "isTextline": "true",
+        "confidence": 0.345
+      },
+      {
+        "boundingBox": [
+          [
+            1237,
+            124
+          ],
+          [
+            1237,
+            526
+          ],
+          [
+            1290,
+            124
+          ],
+          [
+            1290,
+            526
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "牛田権三郎遺稿",
+        "isTextline": "true",
+        "confidence": 0.794
+      },
+      {
+        "boundingBox": [
+          [
+            1170,
+            91
+          ],
+          [
+            1170,
+            118
+          ],
+          [
+            1204,
+            91
+          ],
+          [
+            1204,
+            118
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "一",
+        "isTextline": "true",
+        "confidence": 0.443
+      },
+      {
+        "boundingBox": [
+          [
+            1131,
+            129
+          ],
+          [
+            1131,
+            527
+          ],
+          [
+            1195,
+            129
+          ],
+          [
+            1195,
+            527
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "鳴川猛之助校正",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            1193,
+            513
+          ],
+          [
+            1193,
+            860
+          ],
+          [
+            1239,
+            513
+          ],
+          [
+            1239,
+            860
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "温故知新治法窮理",
+        "isTextline": "true",
+        "confidence": 0.836
+      },
+      {
+        "boundingBox": [
+          [
+            1117,
+            88
+          ],
+          [
+            1117,
+            129
+          ],
+          [
+            1149,
+            88
+          ],
+          [
+            1149,
+            129
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "辛",
+        "isTextline": "true",
+        "confidence": 0.564
+      },
+      {
+        "boundingBox": [
+          [
+            1063,
+            90
+          ],
+          [
+            1063,
+            125
+          ],
+          [
+            1092,
+            90
+          ],
+          [
+            1092,
+            125
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "亥",
+        "isTextline": "true",
+        "confidence": 0.587
+      },
+      {
+        "boundingBox": [
+          [
+            1005,
+            91
+          ],
+          [
+            1005,
+            127
+          ],
+          [
+            1035,
+            91
+          ],
+          [
+            1035,
+            127
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "年",
+        "isTextline": "true",
+        "confidence": 0.52
+      },
+      {
+        "boundingBox": [
+          [
+            1008,
+            105
+          ],
+          [
+            1008,
+            781
+          ],
+          [
+            1094,
+            105
+          ],
+          [
+            1094,
+            781
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "○十一月廿九俵金泉秘録金泉秘録全",
+        "isTextline": "true",
+        "confidence": 0.725
+      },
+      {
+        "boundingBox": [
+          [
+            954,
+            89
+          ],
+          [
+            954,
+            119
+          ],
+          [
+            983,
+            89
+          ],
+          [
+            983,
+            119
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "五",
+        "isTextline": "true",
+        "confidence": 0.342
+      },
+      {
+        "boundingBox": [
+          [
+            950,
+            376
+          ],
+          [
+            950,
+            832
+          ],
+          [
+            996,
+            376
+          ],
+          [
+            996,
+            832
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "天周秋佐見積之図一補附",
+        "isTextline": "true",
+        "confidence": 0.783
+      },
+      {
+        "boundingBox": [
+          [
+            896,
+            87
+          ],
+          [
+            896,
+            126
+          ],
+          [
+            925,
+            87
+          ],
+          [
+            925,
+            126
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "月",
+        "isTextline": "true",
+        "confidence": 0.526
+      },
+      {
+        "boundingBox": [
+          [
+            846,
+            86
+          ],
+          [
+            846,
+            123
+          ],
+          [
+            874,
+            86
+          ],
+          [
+            874,
+            123
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "新",
+        "isTextline": "true",
+        "confidence": 0.537
+      },
+      {
+        "boundingBox": [
+          [
+            824,
+            133
+          ],
+          [
+            824,
+            322
+          ],
+          [
+            857,
+            133
+          ],
+          [
+            857,
+            322
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "五十瀬津",
+        "isTextline": "true",
+        "confidence": 0.541
+      },
+      {
+        "boundingBox": [
+          [
+            817,
+            122
+          ],
+          [
+            817,
+            820
+          ],
+          [
+            860,
+            122
+          ],
+          [
+            860,
+            820
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "五十瀬津好問宜蔵版",
+        "isTextline": "true",
+        "confidence": 0.548
+      },
+      {
+        "boundingBox": [
+          [
+            793,
+            85
+          ],
+          [
+            793,
+            122
+          ],
+          [
+            831,
+            85
+          ],
+          [
+            831,
+            122
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "鑢",
+        "isTextline": "true",
+        "confidence": 0.377
+      },
+      {
+        "boundingBox": [
+          [
+            691,
+            368
+          ],
+          [
+            691,
+            445
+          ],
+          [
+            717,
+            368
+          ],
+          [
+            717,
+            445
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "二米三",
+        "isTextline": "true",
+        "confidence": 0.326
+      },
+      {
+        "boundingBox": [
+          [
+            683,
+            121
+          ],
+          [
+            683,
+            361
+          ],
+          [
+            717,
+            121
+          ],
+          [
+            717,
+            361
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "三猿金泉録序",
+        "isTextline": "true",
+        "confidence": 0.479
+      },
+      {
+        "boundingBox": [
+          [
+            631,
+            119
+          ],
+          [
+            631,
+            908
+          ],
+          [
+            679,
+            119
+          ],
+          [
+            679,
+            908
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "太極動きて陽を生じ動くこと極りて静なり",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            577,
+            113
+          ],
+          [
+            577,
+            922
+          ],
+          [
+            622,
+            113
+          ],
+          [
+            622,
+            922
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "静に為て陰を生ず静なること極りてまたらごく",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            542,
+            532
+          ],
+          [
+            542,
+            670
+          ],
+          [
+            564,
+            532
+          ],
+          [
+            564,
+            670
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "太極陰陽と天",
+        "isTextline": "true",
+        "confidence": 0.613
+      },
+      {
+        "boundingBox": [
+          [
+            524,
+            532
+          ],
+          [
+            524,
+            671
+          ],
+          [
+            544,
+            532
+          ],
+          [
+            544,
+            671
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "地万物の始ほり",
+        "isTextline": "true",
+        "confidence": 0.629
+      },
+      {
+        "boundingBox": [
+          [
+            520,
+            115
+          ],
+          [
+            520,
+            540
+          ],
+          [
+            562,
+            115
+          ],
+          [
+            562,
+            540
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "一動一静あるに其根となる時",
+        "isTextline": "true",
+        "confidence": 0.644
+      },
+      {
+        "boundingBox": [
+          [
+            531,
+            684
+          ],
+          [
+            531,
+            909
+          ],
+          [
+            563,
+            684
+          ],
+          [
+            563,
+            909
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "米の高下",
+        "isTextline": "true",
+        "confidence": 0.742
+      },
+      {
+        "boundingBox": [
+          [
+            462,
+            115
+          ],
+          [
+            462,
+            917
+          ],
+          [
+            508,
+            115
+          ],
+          [
+            508,
+            917
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "も天地陰陽の廻るがごとく強気の功あらはにて",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            407,
+            116
+          ],
+          [
+            407,
+            917
+          ],
+          [
+            454,
+            116
+          ],
+          [
+            454,
+            917
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "はなはだ高くなり上る理極れば其中に弱気の理",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            353,
+            116
+          ],
+          [
+            353,
+            924
+          ],
+          [
+            398,
+            116
+          ],
+          [
+            398,
+            924
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "を含む弱気の功あらはれてはなはだ安らなれば其中",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            299,
+            117
+          ],
+          [
+            299,
+            921
+          ],
+          [
+            347,
+            117
+          ],
+          [
+            347,
+            921
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "に強気の理を含む万人気弱き時は米上るべきの",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            245,
+            120
+          ],
+          [
+            245,
+            914
+          ],
+          [
+            290,
+            120
+          ],
+          [
+            290,
+            914
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "理なり諸人気強き時は米下はべきの種なり是み",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            189,
+            120
+          ],
+          [
+            189,
+            918
+          ],
+          [
+            242,
+            120
+          ],
+          [
+            242,
+            918
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "な天性理外の理なり予荘年の頃より米商に心を",
+        "isTextline": "true",
+        "confidence": 0.864
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00003.jpg",
+    "img_name": "page_00003.jpg"
+  }
+}

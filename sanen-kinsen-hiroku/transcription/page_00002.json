@@ -1,0 +1,237 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            475,
+            57
+          ],
+          [
+            475,
+            262
+          ],
+          [
+            503,
+            57
+          ],
+          [
+            503,
+            262
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "活法秘論首巻",
+        "isTextline": "true",
+        "confidence": 0.455
+      },
+      {
+        "boundingBox": [
+          [
+            445,
+            644
+          ],
+          [
+            445,
+            683
+          ],
+          [
+            481,
+            644
+          ],
+          [
+            481,
+            683
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.342
+      },
+      {
+        "boundingBox": [
+          [
+            433,
+            85
+          ],
+          [
+            433,
+            496
+          ],
+          [
+            480,
+            85
+          ],
+          [
+            480,
+            496
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "校正三猿金泉秘録",
+        "isTextline": "true",
+        "confidence": 0.598
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            790
+          ],
+          [
+            439,
+            820
+          ],
+          [
+            563,
+            790
+          ],
+          [
+            563,
+            820
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "91006836",
+        "isTextline": "true",
+        "confidence": 0.323
+      },
+      {
+        "boundingBox": [
+          [
+            226,
+            163
+          ],
+          [
+            226,
+            693
+          ],
+          [
+            335,
+            163
+          ],
+          [
+            335,
+            693
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "嶋田君寄贈",
+        "isTextline": "true",
+        "confidence": 0.663
+      },
+      {
+        "boundingBox": [
+          [
+            1279,
+            169
+          ],
+          [
+            1279,
+            224
+          ],
+          [
+            1333,
+            169
+          ],
+          [
+            1333,
+            224
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "アーサ",
+        "isTextline": "true",
+        "confidence": 0.312
+      },
+      {
+        "boundingBox": [
+          [
+            1275,
+            140
+          ],
+          [
+            1275,
+            174
+          ],
+          [
+            1335,
+            140
+          ],
+          [
+            1335,
+            174
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "香村攻庫",
+        "isTextline": "true",
+        "confidence": 0.326
+      },
+      {
+        "boundingBox": [
+          [
+            890,
+            930
+          ],
+          [
+            890,
+            971
+          ],
+          [
+            928,
+            930
+          ],
+          [
+            928,
+            971
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "一一",
+        "isTextline": "true",
+        "confidence": 0.341
+      },
+      {
+        "boundingBox": [
+          [
+            905,
+            915
+          ],
+          [
+            905,
+            971
+          ],
+          [
+            1198,
+            915
+          ],
+          [
+            1198,
+            971
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "第一著著著著著著著著著著著著著著著著著著著著著",
+        "isTextline": "true",
+        "confidence": 0.547
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00002.jpg",
+    "img_name": "page_00002.jpg"
+  }
+}

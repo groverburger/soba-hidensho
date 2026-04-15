@@ -1,0 +1,562 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1263,
+            228
+          ],
+          [
+            1263,
+            550
+          ],
+          [
+            1308,
+            228
+          ],
+          [
+            1308,
+            550
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "○入梅三十日同",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            1213,
+            107
+          ],
+          [
+            1213,
+            902
+          ],
+          [
+            1255,
+            107
+          ],
+          [
+            1255,
+            902
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "の梅は五月始の書にいり六月其にあくとしるべし",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            1153,
+            237
+          ],
+          [
+            1153,
+            430
+          ],
+          [
+            1198,
+            237
+          ],
+          [
+            1198,
+            430
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "○虹図",
+        "isTextline": "true",
+        "confidence": 0.552
+      },
+      {
+        "boundingBox": [
+          [
+            1102,
+            107
+          ],
+          [
+            1102,
+            897
+          ],
+          [
+            1144,
+            107
+          ],
+          [
+            1144,
+            897
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "朝にじる朝にじりと兼てしれ夕日の虹は日和なりけり",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            1046,
+            228
+          ],
+          [
+            1046,
+            809
+          ],
+          [
+            1088,
+            228
+          ],
+          [
+            1088,
+            809
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "○八専十二日壬子に万癸亥にあく同十一日",
+        "isTextline": "true",
+        "confidence": 0.868
+      },
+      {
+        "boundingBox": [
+          [
+            992,
+            110
+          ],
+          [
+            992,
+            900
+          ],
+          [
+            1030,
+            110
+          ],
+          [
+            1030,
+            900
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "八専のいるるに小雨なりいたせばあくまで降と兼て知るべし",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            935,
+            109
+          ],
+          [
+            935,
+            899
+          ],
+          [
+            973,
+            109
+          ],
+          [
+            973,
+            899
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "あいたるにまた降いたせば十二日は鳥がへりふるといふ舟に",
+        "isTextline": "true",
+        "confidence": 0.894
+      },
+      {
+        "boundingBox": [
+          [
+            878,
+            235
+          ],
+          [
+            878,
+            490
+          ],
+          [
+            917,
+            235
+          ],
+          [
+            917,
+            490
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "○玄雲目",
+        "isTextline": "true",
+        "confidence": 0.767
+      },
+      {
+        "boundingBox": [
+          [
+            830,
+            105
+          ],
+          [
+            830,
+            908
+          ],
+          [
+            868,
+            105
+          ],
+          [
+            868,
+            908
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "立雲に赤之まじりは風としれ白き黒きは雨としるべし",
+        "isTextline": "true",
+        "confidence": 0.846
+      },
+      {
+        "boundingBox": [
+          [
+            772,
+            230
+          ],
+          [
+            772,
+            636
+          ],
+          [
+            816,
+            230
+          ],
+          [
+            816,
+            636
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "○一部極意九躰ノ歎",
+        "isTextline": "true",
+        "confidence": 0.829
+      },
+      {
+        "boundingBox": [
+          [
+            673,
+            315
+          ],
+          [
+            673,
+            367
+          ],
+          [
+            708,
+            315
+          ],
+          [
+            708,
+            367
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "無",
+        "isTextline": "true",
+        "confidence": 0.652
+      },
+      {
+        "boundingBox": [
+          [
+            666,
+            470
+          ],
+          [
+            666,
+            513
+          ],
+          [
+            703,
+            470
+          ],
+          [
+            703,
+            513
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "極",
+        "isTextline": "true",
+        "confidence": 0.532
+      },
+      {
+        "boundingBox": [
+          [
+            618,
+            117
+          ],
+          [
+            618,
+            914
+          ],
+          [
+            662,
+            117
+          ],
+          [
+            662,
+            914
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "高安の理は空理にて眼に見えずかげも加厄者もなき物が体",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            567,
+            320
+          ],
+          [
+            567,
+            356
+          ],
+          [
+            603,
+            320
+          ],
+          [
+            603,
+            356
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "太",
+        "isTextline": "true",
+        "confidence": 0.603
+      },
+      {
+        "boundingBox": [
+          [
+            565,
+            317
+          ],
+          [
+            565,
+            512
+          ],
+          [
+            603,
+            317
+          ],
+          [
+            603,
+            512
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "太極",
+        "isTextline": "true",
+        "confidence": 0.676
+      },
+      {
+        "boundingBox": [
+          [
+            506,
+            114
+          ],
+          [
+            506,
+            917
+          ],
+          [
+            552,
+            114
+          ],
+          [
+            552,
+            917
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "鯉と非とのなかにこも無る理州の理米の窓のみなりとゝ",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            447,
+            316
+          ],
+          [
+            447,
+            518
+          ],
+          [
+            489,
+            316
+          ],
+          [
+            489,
+            518
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "陰食陽",
+        "isTextline": "true",
+        "confidence": 0.846
+      },
+      {
+        "boundingBox": [
+          [
+            390,
+            114
+          ],
+          [
+            390,
+            915
+          ],
+          [
+            437,
+            114
+          ],
+          [
+            437,
+            915
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "万人が万人ながら弱気ならのほるべき理をふくむ米なり",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            334,
+            315
+          ],
+          [
+            334,
+            519
+          ],
+          [
+            377,
+            315
+          ],
+          [
+            377,
+            519
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "陽舎陰",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            278,
+            113
+          ],
+          [
+            278,
+            917
+          ],
+          [
+            332,
+            113
+          ],
+          [
+            332,
+            917
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "千人が千人ながら強気ならくぐるべき理をふらむ米なり",
+        "isTextline": "true",
+        "confidence": 0.857
+      },
+      {
+        "boundingBox": [
+          [
+            228,
+            315
+          ],
+          [
+            228,
+            518
+          ],
+          [
+            273,
+            315
+          ],
+          [
+            273,
+            518
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "高安大法",
+        "isTextline": "true",
+        "confidence": 0.801
+      },
+      {
+        "boundingBox": [
+          [
+            168,
+            113
+          ],
+          [
+            168,
+            922
+          ],
+          [
+            223,
+            113
+          ],
+          [
+            223,
+            922
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "大洪が秋在月前半生峠五月下旬がたかとらげなり",
+        "isTextline": "true",
+        "confidence": 0.836
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00017.jpg",
+    "img_name": "page_00017.jpg"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1232,
+            350
+          ],
+          [
+            1232,
+            507
+          ],
+          [
+            1267,
+            350
+          ],
+          [
+            1267,
+            507
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "五百両売",
+        "isTextline": "true",
+        "confidence": 0.735
+      },
+      {
+        "boundingBox": [
+          [
+            1125,
+            351
+          ],
+          [
+            1125,
+            510
+          ],
+          [
+            1160,
+            351
+          ],
+          [
+            1160,
+            510
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "五百両売",
+        "isTextline": "true",
+        "confidence": 0.622
+      },
+      {
+        "boundingBox": [
+          [
+            1133,
+            516
+          ],
+          [
+            1133,
+            543
+          ],
+          [
+            1166,
+            516
+          ],
+          [
+            1166,
+            543
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "四",
+        "isTextline": "true",
+        "confidence": 0.369
+      },
+      {
+        "boundingBox": [
+          [
+            1282,
+            629
+          ],
+          [
+            1282,
+            776
+          ],
+          [
+            1318,
+            629
+          ],
+          [
+            1318,
+            776
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "千両買",
+        "isTextline": "true",
+        "confidence": 0.52
+      },
+      {
+        "boundingBox": [
+          [
+            1178,
+            634
+          ],
+          [
+            1178,
+            780
+          ],
+          [
+            1214,
+            634
+          ],
+          [
+            1214,
+            780
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "千両買",
+        "isTextline": "true",
+        "confidence": 0.69
+      },
+      {
+        "boundingBox": [
+          [
+            1062,
+            112
+          ],
+          [
+            1062,
+            914
+          ],
+          [
+            1106,
+            112
+          ],
+          [
+            1106,
+            914
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "一あき日子雨買五分子一割飛等ぶりこるはんぶん仕舞",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            1009,
+            116
+          ],
+          [
+            1009,
+            907
+          ],
+          [
+            1049,
+            116
+          ],
+          [
+            1049,
+            907
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "是半板なり半々五分う一刻さがるとき五百両買々灰",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            951,
+            109
+          ],
+          [
+            951,
+            917
+          ],
+          [
+            993,
+            109
+          ],
+          [
+            993,
+            917
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "此商力の仕方を買翰半板商ゆといふなり",
+        "isTextline": "true",
+        "confidence": 0.831
+      },
+      {
+        "boundingBox": [
+          [
+            899,
+            117
+          ],
+          [
+            899,
+            913
+          ],
+          [
+            936,
+            117
+          ],
+          [
+            936,
+            913
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "半板商力も右周意なり高下に利徳あり来の",
+        "isTextline": "true",
+        "confidence": 0.855
+      },
+      {
+        "boundingBox": [
+          [
+            849,
+            116
+          ],
+          [
+            849,
+            914
+          ],
+          [
+            886,
+            116
+          ],
+          [
+            886,
+            914
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "本体をうしなはずして天下一のめづらし其徳等きにこと",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            795,
+            120
+          ],
+          [
+            795,
+            308
+          ],
+          [
+            829,
+            120
+          ],
+          [
+            829,
+            308
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "しるべきなり",
+        "isTextline": "true",
+        "confidence": 0.814
+      },
+      {
+        "boundingBox": [
+          [
+            684,
+            116
+          ],
+          [
+            684,
+            907
+          ],
+          [
+            730,
+            116
+          ],
+          [
+            730,
+            907
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "亥更に金のや源らかる半板商拝ても起ても徳これるなり",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            606,
+            210
+          ],
+          [
+            606,
+            487
+          ],
+          [
+            637,
+            210
+          ],
+          [
+            637,
+            487
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "安楽商内之図",
+        "isTextline": "true",
+        "confidence": 0.697
+      },
+      {
+        "boundingBox": [
+          [
+            584,
+            596
+          ],
+          [
+            584,
+            742
+          ],
+          [
+            620,
+            596
+          ],
+          [
+            620,
+            742
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "百両買",
+        "isTextline": "true",
+        "confidence": 0.621
+      },
+      {
+        "boundingBox": [
+          [
+            522,
+            330
+          ],
+          [
+            522,
+            482
+          ],
+          [
+            561,
+            330
+          ],
+          [
+            561,
+            482
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "百両売",
+        "isTextline": "true",
+        "confidence": 0.624
+      },
+      {
+        "boundingBox": [
+          [
+            466,
+            561
+          ],
+          [
+            466,
+            596
+          ],
+          [
+            500,
+            561
+          ],
+          [
+            500,
+            596
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "三",
+        "isTextline": "true",
+        "confidence": 0.301
+      },
+      {
+        "boundingBox": [
+          [
+            469,
+            599
+          ],
+          [
+            469,
+            752
+          ],
+          [
+            505,
+            599
+          ],
+          [
+            505,
+            752
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "百両買",
+        "isTextline": "true",
+        "confidence": 0.656
+      },
+      {
+        "boundingBox": [
+          [
+            404,
+            332
+          ],
+          [
+            404,
+            526
+          ],
+          [
+            450,
+            332
+          ],
+          [
+            450,
+            526
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "百両売四",
+        "isTextline": "true",
+        "confidence": 0.708
+      },
+      {
+        "boundingBox": [
+          [
+            350,
+            118
+          ],
+          [
+            350,
+            908
+          ],
+          [
+            399,
+            118
+          ],
+          [
+            399,
+            908
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "取図の如く米等がり足なれは買桶の出業とはだめ",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            298,
+            115
+          ],
+          [
+            298,
+            912
+          ],
+          [
+            345,
+            115
+          ],
+          [
+            345,
+            912
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "一あきる里婦五分一刻とかき日商内のこらずうり",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            243,
+            115
+          ],
+          [
+            243,
+            914
+          ],
+          [
+            289,
+            115
+          ],
+          [
+            289,
+            914
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "ぱらひ徳をとりまた五分か一刻さがるときもとの如く",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            188,
+            122
+          ],
+          [
+            188,
+            904
+          ],
+          [
+            238,
+            122
+          ],
+          [
+            238,
+            904
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "買取早た高きる売払ふ此商内の仕方を買桶の",
+        "isTextline": "true",
+        "confidence": 0.879
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00012.jpg",
+    "img_name": "page_00012.jpg"
+  }
+}

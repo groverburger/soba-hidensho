@@ -1,0 +1,587 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1286,
+            114
+          ],
+          [
+            1286,
+            912
+          ],
+          [
+            1331,
+            114
+          ],
+          [
+            1331,
+            912
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "の寄昼夜工夫をめぐらし六十年来月日をおくりて",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            1233,
+            104
+          ],
+          [
+            1233,
+            914
+          ],
+          [
+            1278,
+            104
+          ],
+          [
+            1278,
+            914
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "漸々米強弱の悟を開きて米商の定法をこて一巻",
+        "isTextline": "true",
+        "confidence": 0.841
+      },
+      {
+        "boundingBox": [
+          [
+            1181,
+            120
+          ],
+          [
+            1181,
+            905
+          ],
+          [
+            1226,
+            120
+          ],
+          [
+            1226,
+            905
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "の秘書を作り号けて三猿金泉録といふ米穀の形",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            1126,
+            99
+          ],
+          [
+            1126,
+            915
+          ],
+          [
+            1168,
+            99
+          ],
+          [
+            1168,
+            915
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "の象は中まるく上下尖るまるは陽尖りと陰なり",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            1074,
+            101
+          ],
+          [
+            1074,
+            474
+          ],
+          [
+            1111,
+            101
+          ],
+          [
+            1111,
+            474
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "天地陰陽の気をうけ",
+        "isTextline": "true",
+        "confidence": 0.758
+      },
+      {
+        "boundingBox": [
+          [
+            1071,
+            470
+          ],
+          [
+            1071,
+            530
+          ],
+          [
+            1092,
+            470
+          ],
+          [
+            1092,
+            530
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "士略",
+        "isTextline": "true",
+        "confidence": 0.655
+      },
+      {
+        "boundingBox": [
+          [
+            1093,
+            468
+          ],
+          [
+            1093,
+            582
+          ],
+          [
+            1115,
+            468
+          ],
+          [
+            1115,
+            582
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "四民工商",
+        "isTextline": "true",
+        "confidence": 0.702
+      },
+      {
+        "boundingBox": [
+          [
+            1078,
+            580
+          ],
+          [
+            1078,
+            908
+          ],
+          [
+            1112,
+            580
+          ],
+          [
+            1112,
+            908
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "を申しなふ天下才",
+        "isTextline": "true",
+        "confidence": 0.763
+      },
+      {
+        "boundingBox": [
+          [
+            1011,
+            120
+          ],
+          [
+            1011,
+            915
+          ],
+          [
+            1058,
+            120
+          ],
+          [
+            1058,
+            915
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "一の宝なり三猿とは見猿聞猿言猿の三なり眼に",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            955,
+            118
+          ],
+          [
+            955,
+            916
+          ],
+          [
+            1001,
+            118
+          ],
+          [
+            1001,
+            916
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一強変を見て心に強変を測に沈むことなかれ只心",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            902,
+            118
+          ],
+          [
+            902,
+            920
+          ],
+          [
+            946,
+            118
+          ],
+          [
+            946,
+            920
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "に可含売耳に弱変を聞て心に弱変の渕に沈むこと",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            852,
+            125
+          ],
+          [
+            852,
+            915
+          ],
+          [
+            894,
+            125
+          ],
+          [
+            894,
+            915
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "となかれ只心に可含買強変を見聞とも人にかたること",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            797,
+            116
+          ],
+          [
+            797,
+            926
+          ],
+          [
+            843,
+            116
+          ],
+          [
+            843,
+            926
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "となかれ言は人の心と迷はす是三猿の秘密なり金",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            695,
+            119
+          ],
+          [
+            695,
+            498
+          ],
+          [
+            730,
+            119
+          ],
+          [
+            730,
+            498
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "泉録とは此書の号なり",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            644,
+            167
+          ],
+          [
+            644,
+            871
+          ],
+          [
+            686,
+            167
+          ],
+          [
+            686,
+            871
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一高安の理は空理にて眼に見えずかげも形も無物が躰",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            116
+          ],
+          [
+            585,
+            918
+          ],
+          [
+            629,
+            116
+          ],
+          [
+            629,
+            918
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "上の句の心を考ふなに法をもて上るともいつさがることも",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            115
+          ],
+          [
+            530,
+            918
+          ],
+          [
+            574,
+            115
+          ],
+          [
+            574,
+            918
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一定までざるが空理なり空理と見れば千年に一度もらり",
+        "isTextline": "true",
+        "confidence": 0.893
+      },
+      {
+        "boundingBox": [
+          [
+            472,
+            118
+          ],
+          [
+            472,
+            919
+          ],
+          [
+            517,
+            118
+          ],
+          [
+            517,
+            919
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "買する時節となしまた下の句の心を差ふるにかげも形",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            418,
+            119
+          ],
+          [
+            418,
+            919
+          ],
+          [
+            463,
+            119
+          ],
+          [
+            463,
+            919
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "も無物が体とあり鯡あれは定式あり定式あさる売買あ",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            362,
+            120
+          ],
+          [
+            362,
+            916
+          ],
+          [
+            406,
+            120
+          ],
+          [
+            406,
+            916
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "り仏道の定式は五戒儒道の定式も五常神道の定",
+        "isTextline": "true",
+        "confidence": 0.902
+      },
+      {
+        "boundingBox": [
+          [
+            309,
+            124
+          ],
+          [
+            309,
+            911
+          ],
+          [
+            351,
+            124
+          ],
+          [
+            351,
+            911
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "式は智仁勇の三徳みなされ〳〵定式あり●こか申す",
+        "isTextline": "true",
+        "confidence": 0.905
+      },
+      {
+        "boundingBox": [
+          [
+            256,
+            117
+          ],
+          [
+            256,
+            917
+          ],
+          [
+            298,
+            117
+          ],
+          [
+            298,
+            917
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "の定式古米おほく安き直段を新米へうつしさる",
+        "isTextline": "true",
+        "confidence": 0.898
+      },
+      {
+        "boundingBox": [
+          [
+            200,
+            116
+          ],
+          [
+            200,
+            917
+          ],
+          [
+            245,
+            116
+          ],
+          [
+            245,
+            917
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "の歳は加よ腹上り有年なり是を順来のとしといふ古",
+        "isTextline": "true",
+        "confidence": 0.872
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00004.jpg",
+    "img_name": "page_00004.jpg"
+  }
+}

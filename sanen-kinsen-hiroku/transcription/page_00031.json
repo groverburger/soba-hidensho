@@ -1,0 +1,412 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1269,
+            112
+          ],
+          [
+            1269,
+            922
+          ],
+          [
+            1311,
+            112
+          ],
+          [
+            1311,
+            922
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "へは砂損もなく難なれは入船なり風はげしき時は火災",
+        "isTextline": "true",
+        "confidence": 0.846
+      },
+      {
+        "boundingBox": [
+          [
+            1224,
+            116
+          ],
+          [
+            1224,
+            421
+          ],
+          [
+            1257,
+            116
+          ],
+          [
+            1257,
+            421
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "をおそれて蔵結にす",
+        "isTextline": "true",
+        "confidence": 0.862
+      },
+      {
+        "boundingBox": [
+          [
+            1112,
+            106
+          ],
+          [
+            1112,
+            905
+          ],
+          [
+            1151,
+            106
+          ],
+          [
+            1151,
+            905
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "毎年初通段氏中墨と見る是第一の秘伝なり早々中",
+        "isTextline": "true",
+        "confidence": 0.858
+      },
+      {
+        "boundingBox": [
+          [
+            1056,
+            107
+          ],
+          [
+            1056,
+            910
+          ],
+          [
+            1100,
+            107
+          ],
+          [
+            1100,
+            910
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "墨を買申け第二なり正金百両にて百両の商印を初発に",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            1005,
+            113
+          ],
+          [
+            1005,
+            409
+          ],
+          [
+            1038,
+            113
+          ],
+          [
+            1038,
+            409
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "こつる第三秘伝なり",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            943,
+            107
+          ],
+          [
+            943,
+            915
+          ],
+          [
+            983,
+            107
+          ],
+          [
+            983,
+            915
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "一陰米陽米といふことありあがる米を陽くだる米を陰と",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            892,
+            111
+          ],
+          [
+            892,
+            815
+          ],
+          [
+            929,
+            111
+          ],
+          [
+            929,
+            815
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一品其理は陰は陽へくごる陽はすみのぼるなり",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            839,
+            115
+          ],
+          [
+            839,
+            911
+          ],
+          [
+            877,
+            115
+          ],
+          [
+            877,
+            911
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "大阪長休日の後相立候松場荘のとまり松場あり多き",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            784,
+            110
+          ],
+          [
+            784,
+            918
+          ],
+          [
+            827,
+            110
+          ],
+          [
+            827,
+            918
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "時は景気根強き米と知るべしあきこきは不景気と知るべし",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            672,
+            107
+          ],
+          [
+            672,
+            911
+          ],
+          [
+            722,
+            107
+          ],
+          [
+            722,
+            911
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一男仕る之内人々工夫のこへしかゝる商内なりは兎角切場に",
+        "isTextline": "true",
+        "confidence": 0.83
+      },
+      {
+        "boundingBox": [
+          [
+            622,
+            114
+          ],
+          [
+            622,
+            264
+          ],
+          [
+            653,
+            114
+          ],
+          [
+            653,
+            264
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "しこが小べし",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            564,
+            109
+          ],
+          [
+            564,
+            901
+          ],
+          [
+            613,
+            109
+          ],
+          [
+            613,
+            901
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一東国西園おほいに高く当地も景気にき方三樽けておほ",
+        "isTextline": "true",
+        "confidence": 0.833
+      },
+      {
+        "boundingBox": [
+          [
+            511,
+            107
+          ],
+          [
+            511,
+            804
+          ],
+          [
+            553,
+            107
+          ],
+          [
+            553,
+            804
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "一あげいこしけへは極めて売申すべし安き方も同断",
+        "isTextline": "true",
+        "confidence": 0.814
+      },
+      {
+        "boundingBox": [
+          [
+            452,
+            114
+          ],
+          [
+            452,
+            715
+          ],
+          [
+            492,
+            114
+          ],
+          [
+            492,
+            715
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "新米相場は他処の詮文おほま高についてよし",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            243,
+            44
+          ],
+          [
+            243,
+            154
+          ],
+          [
+            326,
+            44
+          ],
+          [
+            326,
+            154
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.321
+      },
+      {
+        "boundingBox": [
+          [
+            179,
+            126
+          ],
+          [
+            179,
+            272
+          ],
+          [
+            218,
+            126
+          ],
+          [
+            218,
+            272
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "金鬼秘録",
+        "isTextline": "true",
+        "confidence": 0.505
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00031.jpg",
+    "img_name": "page_00031.jpg"
+  }
+}

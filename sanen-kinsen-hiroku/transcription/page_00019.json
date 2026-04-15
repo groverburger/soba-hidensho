@@ -1,0 +1,512 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1278,
+            275
+          ],
+          [
+            1278,
+            842
+          ],
+          [
+            1313,
+            275
+          ],
+          [
+            1313,
+            842
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "二十八首桂正者曰仁ハ四ナリ時節午待ナリイナカスナリ",
+        "isTextline": "true",
+        "confidence": 0.685
+      },
+      {
+        "boundingBox": [
+          [
+            1222,
+            117
+          ],
+          [
+            1222,
+            912
+          ],
+          [
+            1266,
+            117
+          ],
+          [
+            1266,
+            912
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一売買をせがず答がず侍とくの乘まで待も仁なり",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            1170,
+            119
+          ],
+          [
+            1170,
+            908
+          ],
+          [
+            1208,
+            119
+          ],
+          [
+            1208,
+            908
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "只せくるせく商力に徳はなし五分安を買五分高をうれ",
+        "isTextline": "true",
+        "confidence": 0.904
+      },
+      {
+        "boundingBox": [
+          [
+            1116,
+            114
+          ],
+          [
+            1116,
+            911
+          ],
+          [
+            1156,
+            114
+          ],
+          [
+            1156,
+            911
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "売買をせけはせらほど損をするとんと抔で手をかへて見よ",
+        "isTextline": "true",
+        "confidence": 0.915
+      },
+      {
+        "boundingBox": [
+          [
+            1059,
+            114
+          ],
+          [
+            1059,
+            916
+          ],
+          [
+            1099,
+            114
+          ],
+          [
+            1099,
+            916
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一亥年の米のきれめの音などれ待てうるのが仁のとくなり",
+        "isTextline": "true",
+        "confidence": 0.909
+      },
+      {
+        "boundingBox": [
+          [
+            1004,
+            119
+          ],
+          [
+            1004,
+            909
+          ],
+          [
+            1040,
+            119
+          ],
+          [
+            1040,
+            909
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "たゞせらに百俵あげて百俵さげたためしがおほき事なり",
+        "isTextline": "true",
+        "confidence": 0.899
+      },
+      {
+        "boundingBox": [
+          [
+            949,
+            111
+          ],
+          [
+            949,
+            912
+          ],
+          [
+            986,
+            111
+          ],
+          [
+            986,
+            912
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "買せさをせぬか強気の秘密なり筋でも出きるを聞つて買",
+        "isTextline": "true",
+        "confidence": 0.91
+      },
+      {
+        "boundingBox": [
+          [
+            895,
+            111
+          ],
+          [
+            895,
+            910
+          ],
+          [
+            934,
+            111
+          ],
+          [
+            934,
+            910
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "売せきをせぬか弱気の秘密なりいつでも有もるをまつて売",
+        "isTextline": "true",
+        "confidence": 0.902
+      },
+      {
+        "boundingBox": [
+          [
+            844,
+            111
+          ],
+          [
+            844,
+            918
+          ],
+          [
+            881,
+            111
+          ],
+          [
+            881,
+            918
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "三年にも二年にもいらぬ安直段せかずにまつがだいこみつなり",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            794,
+            116
+          ],
+          [
+            794,
+            910
+          ],
+          [
+            828,
+            116
+          ],
+          [
+            828,
+            910
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一平もいらぬ時節を待がよしこかせとゆえにかららすをふむ",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            684,
+            113
+          ],
+          [
+            684,
+            913
+          ],
+          [
+            730,
+            113
+          ],
+          [
+            730,
+            913
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "下流理にも時いたられば下はまじ買ぜきするは大たわけなり",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            632,
+            109
+          ],
+          [
+            632,
+            916
+          ],
+          [
+            678,
+            109
+          ],
+          [
+            678,
+            916
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一土海理にも時節がこねは上らぬぞ世を買をして悔むまじきぞ",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            578,
+            109
+          ],
+          [
+            578,
+            914
+          ],
+          [
+            628,
+            109
+          ],
+          [
+            628,
+            914
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "せ候故に安きをうりてあたまから書きをかにてかららすを踏",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            523,
+            109
+          ],
+          [
+            523,
+            912
+          ],
+          [
+            573,
+            109
+          ],
+          [
+            573,
+            912
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "上るべき気がつきぬればおのづからくごるところか天性としれ",
+        "isTextline": "true",
+        "confidence": 0.914
+      },
+      {
+        "boundingBox": [
+          [
+            468,
+            108
+          ],
+          [
+            468,
+            911
+          ],
+          [
+            514,
+            108
+          ],
+          [
+            514,
+            911
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一下るほどくごれは弱気の気もつきて上海ところか天性としれ",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            404,
+            66
+          ],
+          [
+            404,
+            911
+          ],
+          [
+            454,
+            66
+          ],
+          [
+            454,
+            911
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "○風ふかぬ二百廿日の安直段定式として半はうけてころ",
+        "isTextline": "true",
+        "confidence": 0.836
+      },
+      {
+        "boundingBox": [
+          [
+            349,
+            102
+          ],
+          [
+            349,
+            911
+          ],
+          [
+            397,
+            102
+          ],
+          [
+            397,
+            911
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "万人別あきれはてたる直がおれ候そそれ前高くりの毘なりけり",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            297,
+            82
+          ],
+          [
+            297,
+            912
+          ],
+          [
+            342,
+            82
+          ],
+          [
+            342,
+            912
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "○雨風の日をまはうけて米は売日和をまさて米は買べし",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            243,
+            107
+          ],
+          [
+            243,
+            909
+          ],
+          [
+            290,
+            107
+          ],
+          [
+            290,
+            909
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "順徳の智のみなもなは遂小第そのみなもことまつ仁にあり",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            193,
+            249
+          ],
+          [
+            193,
+            820
+          ],
+          [
+            228,
+            249
+          ],
+          [
+            228,
+            820
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "勇二十六日辛子ナリストナリストナリ平スナリ",
+        "isTextline": "true",
+        "confidence": 0.716
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00019.jpg",
+    "img_name": "page_00019.jpg"
+  }
+}

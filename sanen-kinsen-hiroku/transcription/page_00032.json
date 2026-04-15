@@ -1,0 +1,312 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1272,
+            111
+          ],
+          [
+            1272,
+            916
+          ],
+          [
+            1314,
+            111
+          ],
+          [
+            1314,
+            916
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "今の世まか仰して対して遅れけれけれを見ずに歎の前はこまに葉文",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            1223,
+            111
+          ],
+          [
+            1223,
+            913
+          ],
+          [
+            1261,
+            111
+          ],
+          [
+            1261,
+            913
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "索の坂やまり、へるも見えてまつときはなしに事あやまりおほきを法に",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            1170,
+            108
+          ],
+          [
+            1170,
+            914
+          ],
+          [
+            1209,
+            108
+          ],
+          [
+            1209,
+            914
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "左てと春買にかくる時は左とへにいふ一歩千里のたがひとなりたすけと",
+        "isTextline": "true",
+        "confidence": 0.898
+      },
+      {
+        "boundingBox": [
+          [
+            1115,
+            106
+          ],
+          [
+            1115,
+            916
+          ],
+          [
+            1154,
+            106
+          ],
+          [
+            1154,
+            916
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "是ならずしてかへりておほきなる木やまちとなるべし玉づれ四五箇年",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            1053,
+            113
+          ],
+          [
+            1053,
+            908
+          ],
+          [
+            1099,
+            113
+          ],
+          [
+            1099,
+            908
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "娘なこまり人々の写してもたるゝ本どもあま老かりみけ”ひきかへ差へく",
+        "isTextline": "true",
+        "confidence": 0.875
+      },
+      {
+        "boundingBox": [
+          [
+            999,
+            111
+          ],
+          [
+            999,
+            913
+          ],
+          [
+            1040,
+            111
+          ],
+          [
+            1040,
+            913
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "らへみよしとおもはなく方をあげて出生とはならぬされとかく申おの",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            942,
+            106
+          ],
+          [
+            942,
+            915
+          ],
+          [
+            984,
+            106
+          ],
+          [
+            984,
+            915
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "逢此道にいりそめてより木まこのとしをつまされは猶牛田大介も",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            889,
+            115
+          ],
+          [
+            889,
+            909
+          ],
+          [
+            929,
+            115
+          ],
+          [
+            929,
+            909
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "とえらまれこまにたがひたるもあらむかとおそるゝになむ具眼の人こそ",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            842,
+            116
+          ],
+          [
+            842,
+            908
+          ],
+          [
+            876,
+            116
+          ],
+          [
+            876,
+            908
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "もしさるものば公な六もあらはたがしき方に山を通しあらんめてみかし",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            794,
+            206
+          ],
+          [
+            794,
+            390
+          ],
+          [
+            820,
+            206
+          ],
+          [
+            820,
+            390
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "嘉永四年五月三日",
+        "isTextline": "true",
+        "confidence": 0.661
+      },
+      {
+        "boundingBox": [
+          [
+            789,
+            576
+          ],
+          [
+            789,
+            757
+          ],
+          [
+            829,
+            576
+          ],
+          [
+            829,
+            757
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "鳴川繁楽",
+        "isTextline": "true",
+        "confidence": 0.564
+      },
+      {
+        "boundingBox": [
+          [
+            610,
+            38
+          ],
+          [
+            610,
+            165
+          ],
+          [
+            658,
+            38
+          ],
+          [
+            658,
+            165
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "さる",
+        "isTextline": "true",
+        "confidence": 0.328
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00032.jpg",
+    "img_name": "page_00032.jpg"
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1286,
+            116
+          ],
+          [
+            1286,
+            907
+          ],
+          [
+            1330,
+            116
+          ],
+          [
+            1330,
+            907
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "一出等商内にいふ売桶案商内に付同壱匁引事扱",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            1235,
+            119
+          ],
+          [
+            1235,
+            431
+          ],
+          [
+            1267,
+            119
+          ],
+          [
+            1267,
+            431
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "商内より別徳おほし",
+        "isTextline": "true",
+        "confidence": 0.784
+      },
+      {
+        "boundingBox": [
+          [
+            1174,
+            117
+          ],
+          [
+            1174,
+            906
+          ],
+          [
+            1221,
+            117
+          ],
+          [
+            1221,
+            906
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "別徳おほく常に一心やすからな福徳円万の世楽商とみれ",
+        "isTextline": "true",
+        "confidence": 0.835
+      },
+      {
+        "boundingBox": [
+          [
+            1094,
+            235
+          ],
+          [
+            1094,
+            488
+          ],
+          [
+            1126,
+            235
+          ],
+          [
+            1126,
+            488
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "転変商内之図",
+        "isTextline": "true",
+        "confidence": 0.681
+      },
+      {
+        "boundingBox": [
+          [
+            1069,
+            547
+          ],
+          [
+            1069,
+            743
+          ],
+          [
+            1109,
+            547
+          ],
+          [
+            1109,
+            743
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一千両買",
+        "isTextline": "true",
+        "confidence": 0.487
+      },
+      {
+        "boundingBox": [
+          [
+            1012,
+            324
+          ],
+          [
+            1012,
+            475
+          ],
+          [
+            1047,
+            324
+          ],
+          [
+            1047,
+            475
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "二千両売一",
+        "isTextline": "true",
+        "confidence": 0.728
+      },
+      {
+        "boundingBox": [
+          [
+            902,
+            323
+          ],
+          [
+            902,
+            515
+          ],
+          [
+            942,
+            323
+          ],
+          [
+            942,
+            515
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "二千両売四",
+        "isTextline": "true",
+        "confidence": 0.599
+      },
+      {
+        "boundingBox": [
+          [
+            955,
+            552
+          ],
+          [
+            955,
+            591
+          ],
+          [
+            992,
+            552
+          ],
+          [
+            992,
+            591
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "三",
+        "isTextline": "true",
+        "confidence": 0.301
+      },
+      {
+        "boundingBox": [
+          [
+            956,
+            596
+          ],
+          [
+            956,
+            737
+          ],
+          [
+            993,
+            596
+          ],
+          [
+            993,
+            737
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "千両買",
+        "isTextline": "true",
+        "confidence": 0.705
+      },
+      {
+        "boundingBox": [
+          [
+            850,
+            114
+          ],
+          [
+            850,
+            916
+          ],
+          [
+            889,
+            114
+          ],
+          [
+            889,
+            916
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "右図の如く売買するを転変といふなり米の本解に",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            796,
+            109
+          ],
+          [
+            796,
+            923
+          ],
+          [
+            837,
+            109
+          ],
+          [
+            837,
+            923
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "きのゝはらずめにもの強弱に順に転変商内の秘密なり",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            692,
+            116
+          ],
+          [
+            692,
+            915
+          ],
+          [
+            739,
+            116
+          ],
+          [
+            739,
+            915
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "口時日買桶転変売椅転変のふく商つなり買翰転",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            643,
+            116
+          ],
+          [
+            643,
+            915
+          ],
+          [
+            686,
+            116
+          ],
+          [
+            686,
+            915
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "変の商内の仕方は木ぶり足の米と見さごめたらぞ買を",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            111
+          ],
+          [
+            585,
+            920
+          ],
+          [
+            631,
+            111
+          ],
+          [
+            631,
+            920
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一おほく売をすくなく商内すべし先の仕方は安きる千両",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            531,
+            114
+          ],
+          [
+            531,
+            914
+          ],
+          [
+            572,
+            114
+          ],
+          [
+            572,
+            914
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "買五分か一刻たかきり子三百両売て三百両売になるまた",
+        "isTextline": "true",
+        "confidence": 0.905
+      },
+      {
+        "boundingBox": [
+          [
+            471,
+            111
+          ],
+          [
+            471,
+            921
+          ],
+          [
+            515,
+            111
+          ],
+          [
+            515,
+            921
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一五分の一刻ある千三百両買もとの如く千石買持になる",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            416,
+            114
+          ],
+          [
+            416,
+            917
+          ],
+          [
+            461,
+            114
+          ],
+          [
+            461,
+            917
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "是を買捨転変といふなり売橋転変商のも右用意の",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            359,
+            114
+          ],
+          [
+            359,
+            919
+          ],
+          [
+            405,
+            114
+          ],
+          [
+            405,
+            919
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "此方なけ伝口伝曰売方橋商内了簡ちがひと思ふとき",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            307,
+            121
+          ],
+          [
+            307,
+            916
+          ],
+          [
+            352,
+            121
+          ],
+          [
+            352,
+            916
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "早く見切転発して強変となり買べし一心たさまて",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            251,
+            115
+          ],
+          [
+            251,
+            919
+          ],
+          [
+            297,
+            115
+          ],
+          [
+            297,
+            919
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "此案にして徳商力となるべし買者損商内も",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            200,
+            126
+          ],
+          [
+            200,
+            286
+          ],
+          [
+            230,
+            126
+          ],
+          [
+            230,
+            286
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "同意千架",
+        "isTextline": "true",
+        "confidence": 0.873
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00013.jpg",
+    "img_name": "page_00013.jpg"
+  }
+}

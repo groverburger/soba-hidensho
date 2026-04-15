@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+        <respStmt>
+          <resp>Automated Transcription</resp>
+          <name ref="https://github.com/ndl-lab/ndlkotenocr-lite">NDL古典籍OCR-Liteアプリケーション</name>
+        </respStmt>
+        <respStmt>
+          <resp>Conversion to TEI encoding</resp>
+          <name>Kiyonori Nagasaki</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00005.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0000_000" ulx="1282" uly="118" lrx="1326" lry="905" />
+      <zone xml:id="L0000_001" ulx="1228" uly="117" lrx="1270" lry="906" />
+      <zone xml:id="L0000_002" ulx="1175" uly="114" lrx="1219" lry="910" />
+      <zone xml:id="L0000_003" ulx="1119" uly="119" lrx="1162" lry="907" />
+      <zone xml:id="L0000_004" ulx="1060" uly="116" lrx="1106" lry="913" />
+      <zone xml:id="L0000_005" ulx="1006" uly="122" lrx="1049" lry="910" />
+      <zone xml:id="L0000_006" ulx="951" uly="121" lrx="997" lry="912" />
+      <zone xml:id="L0000_007" ulx="898" uly="117" lrx="943" lry="922" />
+      <zone xml:id="L0000_008" ulx="849" uly="119" lrx="885" lry="589" />
+      <zone xml:id="L0000_009" ulx="800" uly="207" lrx="826" lry="435" />
+      <zone xml:id="L0000_010" ulx="795" uly="536" lrx="840" lry="919" />
+      <zone xml:id="L0000_011" ulx="685" uly="122" lrx="722" lry="394" />
+      <zone xml:id="L0000_012" ulx="634" uly="238" lrx="673" lry="721" />
+      <zone xml:id="L0000_013" ulx="585" uly="282" lrx="619" lry="740" />
+      <zone xml:id="L0000_014" ulx="523" uly="114" lrx="567" lry="912" />
+      <zone xml:id="L0000_015" ulx="467" uly="118" lrx="511" lry="915" />
+      <zone xml:id="L0000_016" ulx="412" uly="289" lrx="451" lry="528" />
+      <zone xml:id="L0000_017" ulx="357" uly="124" lrx="401" lry="906" />
+      <zone xml:id="L0000_018" ulx="303" uly="124" lrx="345" lry="913" />
+      <zone xml:id="L0000_019" ulx="253" uly="284" lrx="289" lry="759" />
+      <zone xml:id="L0000_020" ulx="195" uly="123" lrx="237" lry="906" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <p>
+        <pb n="page_00005.jpg" facs="#page_00005.jpg" />
+        <lb n="0" facs="#L0000_000" />米すくなくじて高き直段を新米へうつしたる歳は<lb n="1" facs="#L0000_001" />空腹下のあるとしなり六七八月に強変いつれどまさしく<lb n="2" facs="#L0000_002" />一空復下の歳なり是を変来の歳といふ売買の定<lb n="3" facs="#L0000_003" />式は逆平順来のふ姓つなり逆平にて平買にこれを<lb n="4" facs="#L0000_004" />買順乗とは上る道理をたゞしく見つけ来買に買を順<lb n="5" facs="#L0000_005" />来といふなり順来変来十二平商内家伝高安鑑三十<lb n="6" facs="#L0000_006" />八来商内十五禁制万歳運気豊凶録等これを考<lb n="7" facs="#L0000_007" />ふる時は千度に千度まけざる妙の術なり誠に家伝<lb n="8" facs="#L0000_008" />秘蔵の宝なり秘すべし〳〵<lb n="9" facs="#L0000_009" />宝暦五年秋九月下旬<lb n="10" facs="#L0000_010" />慈雲斎牛田權三郎<lb n="11" facs="#L0000_011" />同同三猿金泉秘録<lb n="12" facs="#L0000_012" />○順来変来十二平商内天門天明本<lb n="13" facs="#L0000_013" />一古米おほき豊年の高安順来六句<lb n="14" facs="#L0000_014" />一秋やすくから腹上り一刻半霜月さがり暮上るなり<lb n="15" facs="#L0000_015" />一春時わり四五月下り水無月と文月の米下るものなり<lb n="16" facs="#L0000_016" />順乗六句商内<lb n="17" facs="#L0000_017" />秋は買かし腹上りに売転変吉月転変暮は安楽<lb n="18" facs="#L0000_018" />春転変四五月は買五月寸ゑはこの種土け六七八の掌<lb n="19" facs="#L0000_019" />古米すくなき五年の高安変衰大句<lb n="20" facs="#L0000_020" />秋たかく廻ら腹下り一刻半不た月やすく暮にもあがらず</p>
+    </body>
+  </text>
+</TEI>

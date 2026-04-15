@@ -1,0 +1,587 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1275,
+            319
+          ],
+          [
+            1275,
+            507
+          ],
+          [
+            1313,
+            319
+          ],
+          [
+            1313,
+            507
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "天ノ性",
+        "isTextline": "true",
+        "confidence": 0.785
+      },
+      {
+        "boundingBox": [
+          [
+            1220,
+            119
+          ],
+          [
+            1220,
+            914
+          ],
+          [
+            1265,
+            119
+          ],
+          [
+            1265,
+            914
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一宣下とも五月万分天性の利のなるときと兼て知るべし",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            1168,
+            330
+          ],
+          [
+            1168,
+            503
+          ],
+          [
+            1209,
+            330
+          ],
+          [
+            1209,
+            503
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "商定式",
+        "isTextline": "true",
+        "confidence": 0.894
+      },
+      {
+        "boundingBox": [
+          [
+            1112,
+            110
+          ],
+          [
+            1112,
+            918
+          ],
+          [
+            1150,
+            110
+          ],
+          [
+            1150,
+            918
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "間下とも五分一刻に随ひて二割三刻む糸銀と忘れ",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            1055,
+            324
+          ],
+          [
+            1055,
+            877
+          ],
+          [
+            1090,
+            324
+          ],
+          [
+            1090,
+            877
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "平来定式普通本此一章ナトシタリ",
+        "isTextline": "true",
+        "confidence": 0.749
+      },
+      {
+        "boundingBox": [
+          [
+            1000,
+            111
+          ],
+          [
+            1000,
+            922
+          ],
+          [
+            1037,
+            111
+          ],
+          [
+            1037,
+            922
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "売買は五分高下にて平すべし或も同じく五分高くり也",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            937,
+            330
+          ],
+          [
+            937,
+            516
+          ],
+          [
+            981,
+            330
+          ],
+          [
+            981,
+            516
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "売買定式",
+        "isTextline": "true",
+        "confidence": 0.827
+      },
+      {
+        "boundingBox": [
+          [
+            886,
+            112
+          ],
+          [
+            886,
+            919
+          ],
+          [
+            925,
+            112
+          ],
+          [
+            925,
+            919
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "買時は端午名月米ざよりはこは水亡月文月としれ",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            833,
+            271
+          ],
+          [
+            833,
+            618
+          ],
+          [
+            876,
+            271
+          ],
+          [
+            876,
+            618
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "○智仁勇三徳四",
+        "isTextline": "true",
+        "confidence": 0.474
+      },
+      {
+        "boundingBox": [
+          [
+            851,
+            602
+          ],
+          [
+            851,
+            674
+          ],
+          [
+            871,
+            602
+          ],
+          [
+            871,
+            674
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "四十八首",
+        "isTextline": "true",
+        "confidence": 0.418
+      },
+      {
+        "boundingBox": [
+          [
+            843,
+            674
+          ],
+          [
+            843,
+            737
+          ],
+          [
+            860,
+            674
+          ],
+          [
+            860,
+            737
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "第十五",
+        "isTextline": "true",
+        "confidence": 0.401
+      },
+      {
+        "boundingBox": [
+          [
+            788,
+            535
+          ],
+          [
+            788,
+            917
+          ],
+          [
+            810,
+            535
+          ],
+          [
+            810,
+            917
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一校正同知日ノ歳ルナリ順徳ナリ善意チ聞タル跡ナリ",
+        "isTextline": "true",
+        "confidence": 0.459
+      },
+      {
+        "boundingBox": [
+          [
+            784,
+            333
+          ],
+          [
+            784,
+            925
+          ],
+          [
+            812,
+            333
+          ],
+          [
+            812,
+            925
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "知十首杉正志曰智ト求ルナリ順徳ナリ順徳ナリ",
+        "isTextline": "true",
+        "confidence": 0.417
+      },
+      {
+        "boundingBox": [
+          [
+            677,
+            106
+          ],
+          [
+            677,
+            922
+          ],
+          [
+            725,
+            106
+          ],
+          [
+            725,
+            922
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "順商内となりたらは万両にも一手に葬事知るの秘密なり",
+        "isTextline": "true",
+        "confidence": 0.724
+      },
+      {
+        "boundingBox": [
+          [
+            625,
+            109
+          ],
+          [
+            625,
+            913
+          ],
+          [
+            674,
+            109
+          ],
+          [
+            674,
+            913
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "多きせばせかず答がずまつはにむかには普理乖は智の徳",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            567,
+            110
+          ],
+          [
+            567,
+            913
+          ],
+          [
+            619,
+            110
+          ],
+          [
+            619,
+            913
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一待は仁むかふは売理のまと知る半橋商内妙術としれ",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            511,
+            106
+          ],
+          [
+            511,
+            916
+          ],
+          [
+            565,
+            106
+          ],
+          [
+            565,
+            916
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一天元商力三年もみなるとい蘭齋はたがしき本商句としれ",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            457,
+            80
+          ],
+          [
+            457,
+            915
+          ],
+          [
+            504,
+            80
+          ],
+          [
+            504,
+            915
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "○宮下とも五分一刻は桑がよし中墨すぎて葬は馬鹿なり",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            402,
+            103
+          ],
+          [
+            402,
+            918
+          ],
+          [
+            446,
+            103
+          ],
+          [
+            446,
+            918
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一土下とも長き足には痰がよし雉子口上には桑さるがよし",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            342,
+            67
+          ],
+          [
+            342,
+            920
+          ],
+          [
+            391,
+            67
+          ],
+          [
+            391,
+            920
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "〇・社風中から後あぶりの旬来れば金の王きでは飛上りなり",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            294,
+            62
+          ],
+          [
+            294,
+            922
+          ],
+          [
+            336,
+            62
+          ],
+          [
+            336,
+            922
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "○水無月の米のきれめの音なぐれ春田時夕に飛さがはなり",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            236,
+            65
+          ],
+          [
+            236,
+            917
+          ],
+          [
+            282,
+            65
+          ],
+          [
+            282,
+            917
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "〇五月米人気弱く所尊に上る飛上り商内の旬としるべし",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            184,
+            66
+          ],
+          [
+            184,
+            918
+          ],
+          [
+            232,
+            66
+          ],
+          [
+            232,
+            918
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "〇あぶる埋来時いさだねど等ぶるまじ理を水にやげて米に随へ",
+        "isTextline": "true",
+        "confidence": 0.862
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00018.jpg",
+    "img_name": "page_00018.jpg"
+  }
+}

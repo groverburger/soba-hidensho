@@ -1,0 +1,962 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1271,
+            268
+          ],
+          [
+            1271,
+            608
+          ],
+          [
+            1307,
+            268
+          ],
+          [
+            1307,
+            608
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "一売桶二平来安楽商内",
+        "isTextline": "true",
+        "confidence": 0.839
+      },
+      {
+        "boundingBox": [
+          [
+            1218,
+            110
+          ],
+          [
+            1218,
+            917
+          ],
+          [
+            1257,
+            110
+          ],
+          [
+            1257,
+            917
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "六百両北黒北等南内徳米百六拾俵内三拾俵桶米引残て",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            1170,
+            126
+          ],
+          [
+            1170,
+            278
+          ],
+          [
+            1203,
+            126
+          ],
+          [
+            1203,
+            278
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "百三拾俵徳",
+        "isTextline": "true",
+        "confidence": 0.825
+      },
+      {
+        "boundingBox": [
+          [
+            1130,
+            342
+          ],
+          [
+            1130,
+            423
+          ],
+          [
+            1144,
+            342
+          ],
+          [
+            1144,
+            423
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "八斗四升",
+        "isTextline": "true",
+        "confidence": 0.495
+      },
+      {
+        "boundingBox": [
+          [
+            1117,
+            343
+          ],
+          [
+            1117,
+            419
+          ],
+          [
+            1132,
+            343
+          ],
+          [
+            1132,
+            419
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一七十六本一ト",
+        "isTextline": "true",
+        "confidence": 0.51
+      },
+      {
+        "boundingBox": [
+          [
+            1114,
+            254
+          ],
+          [
+            1114,
+            343
+          ],
+          [
+            1142,
+            254
+          ],
+          [
+            1142,
+            343
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "廿一俵",
+        "isTextline": "true",
+        "confidence": 0.661
+      },
+      {
+        "boundingBox": [
+          [
+            1114,
+            434
+          ],
+          [
+            1114,
+            636
+          ],
+          [
+            1142,
+            434
+          ],
+          [
+            1142,
+            636
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一出染商内六百両",
+        "isTextline": "true",
+        "confidence": 0.566
+      },
+      {
+        "boundingBox": [
+          [
+            1052,
+            143
+          ],
+          [
+            1052,
+            750
+          ],
+          [
+            1093,
+            143
+          ],
+          [
+            1093,
+            750
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "百両売天元商内廿俵弐十九斗九斗九斗九升",
+        "isTextline": "true",
+        "confidence": 0.759
+      },
+      {
+        "boundingBox": [
+          [
+            1014,
+            535
+          ],
+          [
+            1014,
+            631
+          ],
+          [
+            1031,
+            535
+          ],
+          [
+            1031,
+            631
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "七斗六升",
+        "isTextline": "true",
+        "confidence": 0.331
+      },
+      {
+        "boundingBox": [
+          [
+            1000,
+            536
+          ],
+          [
+            1000,
+            629
+          ],
+          [
+            1017,
+            536
+          ],
+          [
+            1017,
+            629
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一バ十四匁一分",
+        "isTextline": "true",
+        "confidence": 0.306
+      },
+      {
+        "boundingBox": [
+          [
+            999,
+            245
+          ],
+          [
+            999,
+            837
+          ],
+          [
+            1033,
+            245
+          ],
+          [
+            1033,
+            837
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "百両売一平十九俵七斗六升一合一升一米二百両売",
+        "isTextline": "true",
+        "confidence": 0.69
+      },
+      {
+        "boundingBox": [
+          [
+            945,
+            226
+          ],
+          [
+            945,
+            653
+          ],
+          [
+            974,
+            226
+          ],
+          [
+            974,
+            653
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "○二百両売二平十八俵七斗二升",
+        "isTextline": "true",
+        "confidence": 0.848
+      },
+      {
+        "boundingBox": [
+          [
+            886,
+            118
+          ],
+          [
+            886,
+            913
+          ],
+          [
+            924,
+            118
+          ],
+          [
+            924,
+            913
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "合せて四百両売損米三拾俵代金およそそ拾五両敷金",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            839,
+            115
+          ],
+          [
+            839,
+            754
+          ],
+          [
+            872,
+            115
+          ],
+          [
+            872,
+            754
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "越十両水無月下り商内に此肉を定木とすべし",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            789,
+            240
+          ],
+          [
+            789,
+            606
+          ],
+          [
+            818,
+            240
+          ],
+          [
+            818,
+            606
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "西宮恵日順太神宮五月下旬商内",
+        "isTextline": "true",
+        "confidence": 0.853
+      },
+      {
+        "boundingBox": [
+          [
+            681,
+            250
+          ],
+          [
+            681,
+            593
+          ],
+          [
+            717,
+            250
+          ],
+          [
+            717,
+            593
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "売桶順徳二乗転変商内",
+        "isTextline": "true",
+        "confidence": 0.845
+      },
+      {
+        "boundingBox": [
+          [
+            635,
+            255
+          ],
+          [
+            635,
+            514
+          ],
+          [
+            666,
+            255
+          ],
+          [
+            666,
+            514
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一安東商内四百両買",
+        "isTextline": "true",
+        "confidence": 0.577
+      },
+      {
+        "boundingBox": [
+          [
+            597,
+            339
+          ],
+          [
+            597,
+            433
+          ],
+          [
+            613,
+            339
+          ],
+          [
+            613,
+            433
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "九斗六升",
+        "isTextline": "true",
+        "confidence": 0.507
+      },
+      {
+        "boundingBox": [
+          [
+            581,
+            334
+          ],
+          [
+            581,
+            437
+          ],
+          [
+            600,
+            334
+          ],
+          [
+            600,
+            437
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "六十九匁五分",
+        "isTextline": "true",
+        "confidence": 0.376
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            245
+          ],
+          [
+            579,
+            341
+          ],
+          [
+            608,
+            245
+          ],
+          [
+            608,
+            341
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "○廿三俵",
+        "isTextline": "true",
+        "confidence": 0.45
+      },
+      {
+        "boundingBox": [
+          [
+            584,
+            436
+          ],
+          [
+            584,
+            504
+          ],
+          [
+            612,
+            436
+          ],
+          [
+            612,
+            504
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "転変",
+        "isTextline": "true",
+        "confidence": 0.744
+      },
+      {
+        "boundingBox": [
+          [
+            598,
+            513
+          ],
+          [
+            598,
+            785
+          ],
+          [
+            625,
+            513
+          ],
+          [
+            625,
+            785
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "八百両買の内四百両買次徳米",
+        "isTextline": "true",
+        "confidence": 0.793
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            512
+          ],
+          [
+            579,
+            727
+          ],
+          [
+            602,
+            512
+          ],
+          [
+            602,
+            727
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "七十俵残り四百両買持",
+        "isTextline": "true",
+        "confidence": 0.824
+      },
+      {
+        "boundingBox": [
+          [
+            541,
+            564
+          ],
+          [
+            541,
+            665
+          ],
+          [
+            558,
+            564
+          ],
+          [
+            558,
+            665
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "八斗八升",
+        "isTextline": "true",
+        "confidence": 0.703
+      },
+      {
+        "boundingBox": [
+          [
+            524,
+            425
+          ],
+          [
+            524,
+            565
+          ],
+          [
+            552,
+            425
+          ],
+          [
+            552,
+            565
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "二来廿二俵",
+        "isTextline": "true",
+        "confidence": 0.491
+      },
+      {
+        "boundingBox": [
+          [
+            522,
+            256
+          ],
+          [
+            522,
+            567
+          ],
+          [
+            552,
+            256
+          ],
+          [
+            552,
+            567
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "二百両売二来廿二俵",
+        "isTextline": "true",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          [
+            529,
+            564
+          ],
+          [
+            529,
+            665
+          ],
+          [
+            547,
+            564
+          ],
+          [
+            547,
+            665
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "七十二匁七分",
+        "isTextline": "true",
+        "confidence": 0.727
+      },
+      {
+        "boundingBox": [
+          [
+            487,
+            325
+          ],
+          [
+            487,
+            526
+          ],
+          [
+            509,
+            325
+          ],
+          [
+            509,
+            526
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "一書案内四百商売次",
+        "isTextline": "true",
+        "confidence": 0.765
+      },
+      {
+        "boundingBox": [
+          [
+            464,
+            326
+          ],
+          [
+            464,
+            529
+          ],
+          [
+            488,
+            326
+          ],
+          [
+            488,
+            529
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "一徳米四十俵〆百十俵",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            426,
+            563
+          ],
+          [
+            426,
+            667
+          ],
+          [
+            442,
+            563
+          ],
+          [
+            442,
+            667
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "八斗四升",
+        "isTextline": "true",
+        "confidence": 0.6
+      },
+      {
+        "boundingBox": [
+          [
+            414,
+            564
+          ],
+          [
+            414,
+            645
+          ],
+          [
+            429,
+            564
+          ],
+          [
+            429,
+            645
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "七十六匁一分",
+        "isTextline": "true",
+        "confidence": 0.628
+      },
+      {
+        "boundingBox": [
+          [
+            412,
+            568
+          ],
+          [
+            412,
+            664
+          ],
+          [
+            427,
+            568
+          ],
+          [
+            427,
+            664
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "七十六匁一分",
+        "isTextline": "true",
+        "confidence": 0.319
+      },
+      {
+        "boundingBox": [
+          [
+            409,
+            257
+          ],
+          [
+            409,
+            566
+          ],
+          [
+            438,
+            257
+          ],
+          [
+            438,
+            566
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "百両売一来廿一俵",
+        "isTextline": "true",
+        "confidence": 0.61
+      },
+      {
+        "boundingBox": [
+          [
+            347,
+            123
+          ],
+          [
+            347,
+            559
+          ],
+          [
+            392,
+            123
+          ],
+          [
+            392,
+            559
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "百両売天元商内廿俵",
+        "isTextline": "true",
+        "confidence": 0.599
+      },
+      {
+        "boundingBox": [
+          [
+            361,
+            562
+          ],
+          [
+            361,
+            664
+          ],
+          [
+            379,
+            562
+          ],
+          [
+            379,
+            664
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "同七十九分",
+        "isTextline": "true",
+        "confidence": 0.483
+      },
+      {
+        "boundingBox": [
+          [
+            296,
+            125
+          ],
+          [
+            296,
+            721
+          ],
+          [
+            340,
+            125
+          ],
+          [
+            340,
+            721
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "義無月下り商内にても此図を定木とすべし",
+        "isTextline": "true",
+        "confidence": 0.808
+      },
+      {
+        "boundingBox": [
+          [
+            239,
+            285
+          ],
+          [
+            239,
+            686
+          ],
+          [
+            282,
+            285
+          ],
+          [
+            282,
+            686
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "〇半板五架転変の仕法目",
+        "isTextline": "true",
+        "confidence": 0.714
+      },
+      {
+        "boundingBox": [
+          [
+            192,
+            305
+          ],
+          [
+            192,
+            559
+          ],
+          [
+            222,
+            305
+          ],
+          [
+            222,
+            559
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "半板南内之図",
+        "isTextline": "true",
+        "confidence": 0.66
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00011.jpg",
+    "img_name": "page_00011.jpg"
+  }
+}

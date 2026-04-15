@@ -1,0 +1,212 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1134,
+            108
+          ],
+          [
+            1134,
+            916
+          ],
+          [
+            1169,
+            108
+          ],
+          [
+            1169,
+            916
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "Ar23456Me slofirt2isitisBrris19",
+        "isTextline": "true",
+        "confidence": 0.338
+      },
+      {
+        "boundingBox": [
+          [
+            1012,
+            408
+          ],
+          [
+            1012,
+            465
+          ],
+          [
+            1028,
+            408
+          ],
+          [
+            1028,
+            465
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "Yellow",
+        "isTextline": "true",
+        "confidence": 0.338
+      },
+      {
+        "boundingBox": [
+          [
+            622,
+            89
+          ],
+          [
+            622,
+            224
+          ],
+          [
+            671,
+            89
+          ],
+          [
+            671,
+            224
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "百廿九日",
+        "isTextline": "true",
+        "confidence": 0.684
+      },
+      {
+        "boundingBox": [
+          [
+            567,
+            100
+          ],
+          [
+            567,
+            177
+          ],
+          [
+            606,
+            100
+          ],
+          [
+            606,
+            177
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "つゆ",
+        "isTextline": "true",
+        "confidence": 0.606
+      },
+      {
+        "boundingBox": [
+          [
+            659,
+            816
+          ],
+          [
+            659,
+            841
+          ],
+          [
+            700,
+            816
+          ],
+          [
+            700,
+            841
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "谷村文",
+        "isTextline": "true",
+        "confidence": 0.418
+      },
+      {
+        "boundingBox": [
+          [
+            658,
+            827
+          ],
+          [
+            658,
+            898
+          ],
+          [
+            703,
+            827
+          ],
+          [
+            703,
+            898
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "廿九日",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            424,
+            50
+          ],
+          [
+            424,
+            861
+          ],
+          [
+            505,
+            50
+          ],
+          [
+            505,
+            861
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一正三猿金泉秘録金泉秘録全",
+        "isTextline": "true",
+        "confidence": 0.747
+      },
+      {
+        "boundingBox": [
+          [
+            449,
+            90
+          ],
+          [
+            449,
+            129
+          ],
+          [
+            546,
+            90
+          ],
+          [
+            546,
+            129
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "Allap.",
+        "isTextline": "true",
+        "confidence": 0.382
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00001.jpg",
+    "img_name": "page_00001.jpg"
+  }
+}

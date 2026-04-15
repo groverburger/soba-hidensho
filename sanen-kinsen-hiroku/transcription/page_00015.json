@@ -1,0 +1,762 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1290,
+            537
+          ],
+          [
+            1290,
+            623
+          ],
+          [
+            1316,
+            537
+          ],
+          [
+            1316,
+            623
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "金気",
+        "isTextline": "true",
+        "confidence": 0.372
+      },
+      {
+        "boundingBox": [
+          [
+            1289,
+            756
+          ],
+          [
+            1289,
+            799
+          ],
+          [
+            1319,
+            756
+          ],
+          [
+            1319,
+            799
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "水",
+        "isTextline": "true",
+        "confidence": 0.344
+      },
+      {
+        "boundingBox": [
+          [
+            1278,
+            106
+          ],
+          [
+            1278,
+            914
+          ],
+          [
+            1328,
+            106
+          ],
+          [
+            1328,
+            914
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "とも中分の坪なり六七月間に金気鬱驚水気",
+        "isTextline": "true",
+        "confidence": 0.521
+      },
+      {
+        "boundingBox": [
+          [
+            1268,
+            537
+          ],
+          [
+            1268,
+            628
+          ],
+          [
+            1291,
+            537
+          ],
+          [
+            1291,
+            628
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "陽明輝金",
+        "isTextline": "true",
+        "confidence": 0.66
+      },
+      {
+        "boundingBox": [
+          [
+            1271,
+            756
+          ],
+          [
+            1271,
+            847
+          ],
+          [
+            1290,
+            756
+          ],
+          [
+            1290,
+            847
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "太陽寒水",
+        "isTextline": "true",
+        "confidence": 0.522
+      },
+      {
+        "boundingBox": [
+          [
+            1229,
+            118
+          ],
+          [
+            1229,
+            449
+          ],
+          [
+            1267,
+            118
+          ],
+          [
+            1267,
+            449
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "往復あれは豊卑となる",
+        "isTextline": "true",
+        "confidence": 0.818
+      },
+      {
+        "boundingBox": [
+          [
+            1177,
+            274
+          ],
+          [
+            1177,
+            571
+          ],
+          [
+            1213,
+            274
+          ],
+          [
+            1213,
+            571
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "霖雨二箇年",
+        "isTextline": "true",
+        "confidence": 0.798
+      },
+      {
+        "boundingBox": [
+          [
+            1115,
+            316
+          ],
+          [
+            1115,
+            373
+          ],
+          [
+            1163,
+            316
+          ],
+          [
+            1163,
+            373
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "○",
+        "isTextline": "true",
+        "confidence": 0.372
+      },
+      {
+        "boundingBox": [
+          [
+            1142,
+            443
+          ],
+          [
+            1142,
+            642
+          ],
+          [
+            1166,
+            443
+          ],
+          [
+            1166,
+            642
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "一夜正者日此外に商内",
+        "isTextline": "true",
+        "confidence": 0.796
+      },
+      {
+        "boundingBox": [
+          [
+            1121,
+            443
+          ],
+          [
+            1121,
+            642
+          ],
+          [
+            1142,
+            443
+          ],
+          [
+            1142,
+            642
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "仕方の注にし春小べし",
+        "isTextline": "true",
+        "confidence": 0.771
+      },
+      {
+        "boundingBox": [
+          [
+            1064,
+            119
+          ],
+          [
+            1064,
+            362
+          ],
+          [
+            1103,
+            119
+          ],
+          [
+            1103,
+            362
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "癸未癸丑",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            1174,
+            670
+          ],
+          [
+            1174,
+            907
+          ],
+          [
+            1199,
+            670
+          ],
+          [
+            1199,
+            907
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一校正者曰○西林和名奈加阿女",
+        "isTextline": "true",
+        "confidence": 0.755
+      },
+      {
+        "boundingBox": [
+          [
+            1149,
+            669
+          ],
+          [
+            1149,
+            899
+          ],
+          [
+            1178,
+            669
+          ],
+          [
+            1178,
+            899
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "一今按又連爾又名二苦両一同例",
+        "isTextline": "true",
+        "confidence": 0.809
+      },
+      {
+        "boundingBox": [
+          [
+            1127,
+            671
+          ],
+          [
+            1127,
+            878
+          ],
+          [
+            1152,
+            671
+          ],
+          [
+            1152,
+            878
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "云両三日是往以雨ノ麓",
+        "isTextline": "true",
+        "confidence": 0.762
+      },
+      {
+        "boundingBox": [
+          [
+            1010,
+            115
+          ],
+          [
+            1010,
+            907
+          ],
+          [
+            1051,
+            115
+          ],
+          [
+            1051,
+            907
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "右にあたるとして寒冷つよく万物さかえかたき大凶",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            955,
+            108
+          ],
+          [
+            955,
+            909
+          ],
+          [
+            995,
+            108
+          ],
+          [
+            995,
+            909
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "年なり然れども六七月の間に火気欝発の変気あ",
+        "isTextline": "true",
+        "confidence": 0.841
+      },
+      {
+        "boundingBox": [
+          [
+            902,
+            114
+          ],
+          [
+            902,
+            352
+          ],
+          [
+            941,
+            114
+          ],
+          [
+            941,
+            352
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "れは豊早楽楽",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            844,
+            281
+          ],
+          [
+            844,
+            559
+          ],
+          [
+            890,
+            281
+          ],
+          [
+            890,
+            559
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "極凶八箇年",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            797,
+            441
+          ],
+          [
+            797,
+            619
+          ],
+          [
+            820,
+            441
+          ],
+          [
+            820,
+            619
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "仕方の説なし考ふべし",
+        "isTextline": "true",
+        "confidence": 0.788
+      },
+      {
+        "boundingBox": [
+          [
+            819,
+            441
+          ],
+          [
+            819,
+            616
+          ],
+          [
+            843,
+            441
+          ],
+          [
+            843,
+            616
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "一従正者日此処に商内",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            680,
+            99
+          ],
+          [
+            680,
+            912
+          ],
+          [
+            734,
+            99
+          ],
+          [
+            734,
+            912
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "丙寅丙寅丙寅丙寅丙寅丙午庚戌",
+        "isTextline": "true",
+        "confidence": 0.843
+      },
+      {
+        "boundingBox": [
+          [
+            632,
+            113
+          ],
+          [
+            632,
+            220
+          ],
+          [
+            665,
+            113
+          ],
+          [
+            665,
+            220
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "女子",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            578,
+            102
+          ],
+          [
+            578,
+            913
+          ],
+          [
+            627,
+            102
+          ],
+          [
+            627,
+            913
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "一大にあたるとしめ壬年壬子は格凶の卑なり其餘は",
+        "isTextline": "true",
+        "confidence": 0.862
+      },
+      {
+        "boundingBox": [
+          [
+            519,
+            109
+          ],
+          [
+            519,
+            873
+          ],
+          [
+            566,
+            109
+          ],
+          [
+            566,
+            873
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "六七月の間に火気薄発の変気あれは豊卑なり",
+        "isTextline": "true",
+        "confidence": 0.868
+      },
+      {
+        "boundingBox": [
+          [
+            462,
+            270
+          ],
+          [
+            462,
+            645
+          ],
+          [
+            503,
+            270
+          ],
+          [
+            503,
+            645
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "豊作廿八箇年",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            412,
+            338
+          ],
+          [
+            412,
+            914
+          ],
+          [
+            457,
+            338
+          ],
+          [
+            457,
+            914
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "一秋名月に三平二乗半板あ薬転変声",
+        "isTextline": "true",
+        "confidence": 0.813
+      },
+      {
+        "boundingBox": [
+          [
+            359,
+            344
+          ],
+          [
+            359,
+            598
+          ],
+          [
+            394,
+            344
+          ],
+          [
+            394,
+            598
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "しかける年なり",
+        "isTextline": "true",
+        "confidence": 0.838
+      },
+      {
+        "boundingBox": [
+          [
+            300,
+            112
+          ],
+          [
+            300,
+            917
+          ],
+          [
+            351,
+            112
+          ],
+          [
+            351,
+            917
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "戊辰庚午辛来壬申癸酉甲戌乙亥",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            241,
+            112
+          ],
+          [
+            241,
+            914
+          ],
+          [
+            296,
+            112
+          ],
+          [
+            296,
+            914
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "戊寅乙酉丙戌丁亥戊子巳丑庚寅",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            192,
+            110
+          ],
+          [
+            192,
+            912
+          ],
+          [
+            241,
+            110
+          ],
+          [
+            241,
+            912
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "癸巳戊戌庚寅辛丑壬寅癸卯甲辰",
+        "isTextline": "true",
+        "confidence": 0.885
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00015.jpg",
+    "img_name": "page_00015.jpg"
+  }
+}

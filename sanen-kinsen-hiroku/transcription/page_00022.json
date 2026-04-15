@@ -1,0 +1,937 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1310,
+            166
+          ],
+          [
+            1310,
+            909
+          ],
+          [
+            1339,
+            166
+          ],
+          [
+            1339,
+            909
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "三言かけ□の刻なり□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.642
+      },
+      {
+        "boundingBox": [
+          [
+            1288,
+            168
+          ],
+          [
+            1288,
+            730
+          ],
+          [
+            1310,
+            168
+          ],
+          [
+            1310,
+            730
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "リ三五がは一返草の見積り奉はべし一信刻は三がけとのみ思ふべからず",
+        "isTextline": "true",
+        "confidence": 0.526
+      },
+      {
+        "boundingBox": [
+          [
+            1235,
+            121
+          ],
+          [
+            1235,
+            875
+          ],
+          [
+            1276,
+            121
+          ],
+          [
+            1276,
+            875
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一右三段の法をもてむにしより其年々の世の中の善悪を積る",
+        "isTextline": "true",
+        "confidence": 0.746
+      },
+      {
+        "boundingBox": [
+          [
+            1179,
+            121
+          ],
+          [
+            1179,
+            906
+          ],
+          [
+            1224,
+            121
+          ],
+          [
+            1224,
+            906
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "上分の年三十年もつゞくことなり",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            1127,
+            113
+          ],
+          [
+            1127,
+            918
+          ],
+          [
+            1173,
+            113
+          ],
+          [
+            1173,
+            918
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "ことあり下分の年八九年もつゞくことあり○さて其卑",
+        "isTextline": "true",
+        "confidence": 0.667
+      },
+      {
+        "boundingBox": [
+          [
+            1074,
+            120
+          ],
+          [
+            1074,
+            918
+          ],
+          [
+            1115,
+            120
+          ],
+          [
+            1115,
+            918
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "の出来を考ふること中分の世の中時節その年の出来七分とつも",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            1039,
+            608
+          ],
+          [
+            1039,
+            725
+          ],
+          [
+            1059,
+            608
+          ],
+          [
+            1059,
+            725
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "八斗四升",
+        "isTextline": "true",
+        "confidence": 0.51
+      },
+      {
+        "boundingBox": [
+          [
+            1020,
+            122
+          ],
+          [
+            1020,
+            612
+          ],
+          [
+            1054,
+            122
+          ],
+          [
+            1054,
+            612
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "らは七に三をかけて見れと三七廿一俵",
+        "isTextline": "true",
+        "confidence": 0.784
+      },
+      {
+        "boundingBox": [
+          [
+            1020,
+            614
+          ],
+          [
+            1020,
+            725
+          ],
+          [
+            1041,
+            614
+          ],
+          [
+            1041,
+            725
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "七十六匁一分",
+        "isTextline": "true",
+        "confidence": 0.565
+      },
+      {
+        "boundingBox": [
+          [
+            1019,
+            723
+          ],
+          [
+            1019,
+            912
+          ],
+          [
+            1051,
+            723
+          ],
+          [
+            1051,
+            912
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "幅手形割と",
+        "isTextline": "true",
+        "confidence": 0.714
+      },
+      {
+        "boundingBox": [
+          [
+            958,
+            118
+          ],
+          [
+            958,
+            923
+          ],
+          [
+            1003,
+            118
+          ],
+          [
+            1003,
+            923
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "なる是を中墨の直すと見るべし",
+        "isTextline": "true",
+        "confidence": 0.85
+      },
+      {
+        "boundingBox": [
+          [
+            905,
+            111
+          ],
+          [
+            905,
+            925
+          ],
+          [
+            945,
+            111
+          ],
+          [
+            945,
+            925
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "の物直段をもつて中墨と見て下り二刻をいれて法とすべし",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            852,
+            115
+          ],
+          [
+            852,
+            915
+          ],
+          [
+            894,
+            115
+          ],
+          [
+            894,
+            915
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "左とへば直段ならは三割のさぶり六俵をいれて廿六俵城法とす",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            801,
+            112
+          ],
+          [
+            801,
+            924
+          ],
+          [
+            841,
+            112
+          ],
+          [
+            841,
+            924
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "べし暮そのこしに変り申さぬほふにて一厘も小違なり",
+        "isTextline": "true",
+        "confidence": 0.85
+      },
+      {
+        "boundingBox": [
+          [
+            694,
+            123
+          ],
+          [
+            694,
+            917
+          ],
+          [
+            737,
+            123
+          ],
+          [
+            737,
+            917
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "いつのとしにても十二分一ツリ三割十二分十一り三割と差ふべし",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            643,
+            116
+          ],
+          [
+            643,
+            914
+          ],
+          [
+            685,
+            116
+          ],
+          [
+            685,
+            914
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "此法といつのとしまても新米神売の日七分々と見る",
+        "isTextline": "true",
+        "confidence": 0.855
+      },
+      {
+        "boundingBox": [
+          [
+            587,
+            126
+          ],
+          [
+            587,
+            190
+          ],
+          [
+            627,
+            126
+          ],
+          [
+            627,
+            190
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "べし",
+        "isTextline": "true",
+        "confidence": 0.618
+      },
+      {
+        "boundingBox": [
+          [
+            612,
+            159
+          ],
+          [
+            612,
+            896
+          ],
+          [
+            639,
+            159
+          ],
+          [
+            639,
+            896
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "桂正元日己々になげこと申分申分七分と来るこそ上の署のとして別あり",
+        "isTextline": "true",
+        "confidence": 0.53
+      },
+      {
+        "boundingBox": [
+          [
+            594,
+            172
+          ],
+          [
+            594,
+            847
+          ],
+          [
+            618,
+            172
+          ],
+          [
+            618,
+            847
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "七十分神也用病分九分上八分中七分下候也五分「立分立方上共分中四分下増也或ふべし",
+        "isTextline": "true",
+        "confidence": 0.51
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            242
+          ],
+          [
+            530,
+            644
+          ],
+          [
+            572,
+            242
+          ],
+          [
+            572,
+            644
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "〇強気五ツの秘伝同",
+        "isTextline": "true",
+        "confidence": 0.686
+      },
+      {
+        "boundingBox": [
+          [
+            469,
+            127
+          ],
+          [
+            469,
+            179
+          ],
+          [
+            519,
+            127
+          ],
+          [
+            519,
+            179
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "○",
+        "isTextline": "true",
+        "confidence": 0.321
+      },
+      {
+        "boundingBox": [
+          [
+            492,
+            193
+          ],
+          [
+            492,
+            240
+          ],
+          [
+            516,
+            193
+          ],
+          [
+            516,
+            240
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "第一",
+        "isTextline": "true",
+        "confidence": 0.435
+      },
+      {
+        "boundingBox": [
+          [
+            477,
+            238
+          ],
+          [
+            477,
+            471
+          ],
+          [
+            513,
+            238
+          ],
+          [
+            513,
+            471
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "一割半さげ百両",
+        "isTextline": "true",
+        "confidence": 0.537
+      },
+      {
+        "boundingBox": [
+          [
+            495,
+            529
+          ],
+          [
+            495,
+            571
+          ],
+          [
+            518,
+            529
+          ],
+          [
+            518,
+            571
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "第二",
+        "isTextline": "true",
+        "confidence": 0.608
+      },
+      {
+        "boundingBox": [
+          [
+            479,
+            568
+          ],
+          [
+            479,
+            767
+          ],
+          [
+            513,
+            568
+          ],
+          [
+            513,
+            767
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "二割さげ二百両一",
+        "isTextline": "true",
+        "confidence": 0.658
+      },
+      {
+        "boundingBox": [
+          [
+            500,
+            819
+          ],
+          [
+            500,
+            863
+          ],
+          [
+            521,
+            819
+          ],
+          [
+            521,
+            863
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "文三",
+        "isTextline": "true",
+        "confidence": 0.394
+      },
+      {
+        "boundingBox": [
+          [
+            478,
+            858
+          ],
+          [
+            478,
+            918
+          ],
+          [
+            510,
+            858
+          ],
+          [
+            510,
+            918
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "二割",
+        "isTextline": "true",
+        "confidence": 0.342
+      },
+      {
+        "boundingBox": [
+          [
+            416,
+            122
+          ],
+          [
+            416,
+            291
+          ],
+          [
+            452,
+            122
+          ],
+          [
+            452,
+            291
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "半さげ四百両",
+        "isTextline": "true",
+        "confidence": 0.707
+      },
+      {
+        "boundingBox": [
+          [
+            423,
+            311
+          ],
+          [
+            423,
+            541
+          ],
+          [
+            458,
+            311
+          ],
+          [
+            458,
+            541
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "第四三割八百両",
+        "isTextline": "true",
+        "confidence": 0.446
+      },
+      {
+        "boundingBox": [
+          [
+            442,
+            596
+          ],
+          [
+            442,
+            644
+          ],
+          [
+            465,
+            596
+          ],
+          [
+            465,
+            644
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "第五",
+        "isTextline": "true",
+        "confidence": 0.71
+      },
+      {
+        "boundingBox": [
+          [
+            428,
+            646
+          ],
+          [
+            428,
+            919
+          ],
+          [
+            459,
+            646
+          ],
+          [
+            459,
+            919
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "三割余は千両",
+        "isTextline": "true",
+        "confidence": 0.536
+      },
+      {
+        "boundingBox": [
+          [
+            391,
+            478
+          ],
+          [
+            391,
+            617
+          ],
+          [
+            413,
+            478
+          ],
+          [
+            413,
+            617
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "横正者同此五段",
+        "isTextline": "true",
+        "confidence": 0.799
+      },
+      {
+        "boundingBox": [
+          [
+            371,
+            478
+          ],
+          [
+            371,
+            620
+          ],
+          [
+            390,
+            478
+          ],
+          [
+            390,
+            620
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "一天元商句なり",
+        "isTextline": "true",
+        "confidence": 0.679
+      },
+      {
+        "boundingBox": [
+          [
+            364,
+            126
+          ],
+          [
+            364,
+            478
+          ],
+          [
+            398,
+            126
+          ],
+          [
+            398,
+            478
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "にても二千両にても買ふべし",
+        "isTextline": "true",
+        "confidence": 0.757
+      },
+      {
+        "boundingBox": [
+          [
+            312,
+            307
+          ],
+          [
+            312,
+            393
+          ],
+          [
+            347,
+            307
+          ],
+          [
+            347,
+            393
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "第一",
+        "isTextline": "true",
+        "confidence": 0.757
+      },
+      {
+        "boundingBox": [
+          [
+            254,
+            118
+          ],
+          [
+            254,
+            917
+          ],
+          [
+            304,
+            118
+          ],
+          [
+            304,
+            917
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "先京心に其年の世の中十分と積り新米直段ことの外た",
+        "isTextline": "true",
+        "confidence": 0.829
+      },
+      {
+        "boundingBox": [
+          [
+            199,
+            125
+          ],
+          [
+            199,
+            918
+          ],
+          [
+            245,
+            125
+          ],
+          [
+            245,
+            918
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "かく慥に三割もさがるべしと思ふとしにても必々売べからず",
+        "isTextline": "true",
+        "confidence": 0.841
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00022.jpg",
+    "img_name": "page_00022.jpg"
+  }
+}

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+        <respStmt>
+          <resp>Automated Transcription</resp>
+          <name ref="https://github.com/ndl-lab/ndlkotenocr-lite">NDL古典籍OCR-Liteアプリケーション</name>
+        </respStmt>
+        <respStmt>
+          <resp>Conversion to TEI encoding</resp>
+          <name>Kiyonori Nagasaki</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00004.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0000_000" ulx="1286" uly="114" lrx="1331" lry="912" />
+      <zone xml:id="L0000_001" ulx="1233" uly="104" lrx="1278" lry="914" />
+      <zone xml:id="L0000_002" ulx="1181" uly="120" lrx="1226" lry="905" />
+      <zone xml:id="L0000_003" ulx="1126" uly="99" lrx="1168" lry="915" />
+      <zone xml:id="L0000_004" ulx="1074" uly="101" lrx="1111" lry="474" />
+      <zone xml:id="L0000_005" ulx="1071" uly="470" lrx="1092" lry="530" />
+      <zone xml:id="L0000_006" ulx="1093" uly="468" lrx="1115" lry="582" />
+      <zone xml:id="L0000_007" ulx="1078" uly="580" lrx="1112" lry="908" />
+      <zone xml:id="L0000_008" ulx="1011" uly="120" lrx="1058" lry="915" />
+      <zone xml:id="L0000_009" ulx="955" uly="118" lrx="1001" lry="916" />
+      <zone xml:id="L0000_010" ulx="902" uly="118" lrx="946" lry="920" />
+      <zone xml:id="L0000_011" ulx="852" uly="125" lrx="894" lry="915" />
+      <zone xml:id="L0000_012" ulx="797" uly="116" lrx="843" lry="926" />
+      <zone xml:id="L0000_013" ulx="695" uly="119" lrx="730" lry="498" />
+      <zone xml:id="L0000_014" ulx="644" uly="167" lrx="686" lry="871" />
+      <zone xml:id="L0000_015" ulx="585" uly="116" lrx="629" lry="918" />
+      <zone xml:id="L0000_016" ulx="530" uly="115" lrx="574" lry="918" />
+      <zone xml:id="L0000_017" ulx="472" uly="118" lrx="517" lry="919" />
+      <zone xml:id="L0000_018" ulx="418" uly="119" lrx="463" lry="919" />
+      <zone xml:id="L0000_019" ulx="362" uly="120" lrx="406" lry="916" />
+      <zone xml:id="L0000_020" ulx="309" uly="124" lrx="351" lry="911" />
+      <zone xml:id="L0000_021" ulx="256" uly="117" lrx="298" lry="917" />
+      <zone xml:id="L0000_022" ulx="200" uly="116" lrx="245" lry="917" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <p>
+        <pb n="page_00004.jpg" facs="#page_00004.jpg" />
+        <lb n="0" facs="#L0000_000" />の寄昼夜工夫をめぐらし六十年来月日をおくりて<lb n="1" facs="#L0000_001" />漸々米強弱の悟を開きて米商の定法をこて一巻<lb n="2" facs="#L0000_002" />の秘書を作り号けて三猿金泉録といふ米穀の形<lb n="3" facs="#L0000_003" />の象は中まるく上下尖るまるは陽尖りと陰なり<lb n="4" facs="#L0000_004" />天地陰陽の気をうけ<lb n="5" facs="#L0000_005" />士略<lb n="6" facs="#L0000_006" />四民工商<lb n="7" facs="#L0000_007" />を申しなふ天下才<lb n="8" facs="#L0000_008" />一の宝なり三猿とは見猿聞猿言猿の三なり眼に<lb n="9" facs="#L0000_009" />一強変を見て心に強変を測に沈むことなかれ只心<lb n="10" facs="#L0000_010" />に可含売耳に弱変を聞て心に弱変の渕に沈むこと<lb n="11" facs="#L0000_011" />となかれ只心に可含買強変を見聞とも人にかたること<lb n="12" facs="#L0000_012" />となかれ言は人の心と迷はす是三猿の秘密なり金<lb n="13" facs="#L0000_013" />泉録とは此書の号なり<lb n="14" facs="#L0000_014" />一高安の理は空理にて眼に見えずかげも形も無物が躰<lb n="15" facs="#L0000_015" />上の句の心を考ふなに法をもて上るともいつさがることも<lb n="16" facs="#L0000_016" />一定までざるが空理なり空理と見れば千年に一度もらり<lb n="17" facs="#L0000_017" />買する時節となしまた下の句の心を差ふるにかげも形<lb n="18" facs="#L0000_018" />も無物が体とあり鯡あれは定式あり定式あさる売買あ<lb n="19" facs="#L0000_019" />り仏道の定式は五戒儒道の定式も五常神道の定<lb n="20" facs="#L0000_020" />式は智仁勇の三徳みなされ〳〵定式あり●こか申す<lb n="21" facs="#L0000_021" />の定式古米おほく安き直段を新米へうつしさる<lb n="22" facs="#L0000_022" />の歳は加よ腹上り有年なり是を順来のとしといふ古</p>
+    </body>
+  </text>
+</TEI>

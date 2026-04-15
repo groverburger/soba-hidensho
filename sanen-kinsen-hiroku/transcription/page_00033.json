@@ -1,0 +1,62 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            861,
+            739
+          ],
+          [
+            861,
+            810
+          ],
+          [
+            951,
+            739
+          ],
+          [
+            951,
+            810
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.314
+      },
+      {
+        "boundingBox": [
+          [
+            1001,
+            809
+          ],
+          [
+            1001,
+            915
+          ],
+          [
+            1323,
+            809
+          ],
+          [
+            1323,
+            915
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "二十一日",
+        "isTextline": "true",
+        "confidence": 0.325
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00033.jpg",
+    "img_name": "page_00033.jpg"
+  }
+}

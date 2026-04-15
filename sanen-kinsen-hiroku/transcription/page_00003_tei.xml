@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+        <respStmt>
+          <resp>Automated Transcription</resp>
+          <name ref="https://github.com/ndl-lab/ndlkotenocr-lite">NDL古典籍OCR-Liteアプリケーション</name>
+        </respStmt>
+        <respStmt>
+          <resp>Conversion to TEI encoding</resp>
+          <name>Kiyonori Nagasaki</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00003.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0000_000" ulx="1279" uly="82" lrx="1313" lry="130" />
+      <zone xml:id="L0000_001" ulx="1223" uly="91" lrx="1264" lry="163" />
+      <zone xml:id="L0000_002" ulx="1237" uly="124" lrx="1290" lry="526" />
+      <zone xml:id="L0000_003" ulx="1170" uly="91" lrx="1204" lry="118" />
+      <zone xml:id="L0000_004" ulx="1131" uly="129" lrx="1195" lry="527" />
+      <zone xml:id="L0000_005" ulx="1193" uly="513" lrx="1239" lry="860" />
+      <zone xml:id="L0000_006" ulx="1117" uly="88" lrx="1149" lry="129" />
+      <zone xml:id="L0000_007" ulx="1063" uly="90" lrx="1092" lry="125" />
+      <zone xml:id="L0000_008" ulx="1005" uly="91" lrx="1035" lry="127" />
+      <zone xml:id="L0000_009" ulx="1008" uly="105" lrx="1094" lry="781" />
+      <zone xml:id="L0000_010" ulx="954" uly="89" lrx="983" lry="119" />
+      <zone xml:id="L0000_011" ulx="950" uly="376" lrx="996" lry="832" />
+      <zone xml:id="L0000_012" ulx="896" uly="87" lrx="925" lry="126" />
+      <zone xml:id="L0000_013" ulx="846" uly="86" lrx="874" lry="123" />
+      <zone xml:id="L0000_014" ulx="824" uly="133" lrx="857" lry="322" />
+      <zone xml:id="L0000_015" ulx="817" uly="122" lrx="860" lry="820" />
+      <zone xml:id="L0000_016" ulx="793" uly="85" lrx="831" lry="122" />
+      <zone xml:id="L0000_017" ulx="691" uly="368" lrx="717" lry="445" />
+      <zone xml:id="L0000_018" ulx="683" uly="121" lrx="717" lry="361" />
+      <zone xml:id="L0000_019" ulx="631" uly="119" lrx="679" lry="908" />
+      <zone xml:id="L0000_020" ulx="577" uly="113" lrx="622" lry="922" />
+      <zone xml:id="L0000_021" ulx="542" uly="532" lrx="564" lry="670" />
+      <zone xml:id="L0000_022" ulx="524" uly="532" lrx="544" lry="671" />
+      <zone xml:id="L0000_023" ulx="520" uly="115" lrx="562" lry="540" />
+      <zone xml:id="L0000_024" ulx="531" uly="684" lrx="563" lry="909" />
+      <zone xml:id="L0000_025" ulx="462" uly="115" lrx="508" lry="917" />
+      <zone xml:id="L0000_026" ulx="407" uly="116" lrx="454" lry="917" />
+      <zone xml:id="L0000_027" ulx="353" uly="116" lrx="398" lry="924" />
+      <zone xml:id="L0000_028" ulx="299" uly="117" lrx="347" lry="921" />
+      <zone xml:id="L0000_029" ulx="245" uly="120" lrx="290" lry="914" />
+      <zone xml:id="L0000_030" ulx="189" uly="120" lrx="242" lry="918" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <p>
+        <pb n="page_00003.jpg" facs="#page_00003.jpg" />
+        <lb n="0" facs="#L0000_000" />嘉<lb n="1" facs="#L0000_001" />水沢<lb n="2" facs="#L0000_002" />牛田権三郎遺稿<lb n="3" facs="#L0000_003" />一<lb n="4" facs="#L0000_004" />鳴川猛之助校正<lb n="5" facs="#L0000_005" />温故知新治法窮理<lb n="6" facs="#L0000_006" />辛<lb n="7" facs="#L0000_007" />亥<lb n="8" facs="#L0000_008" />年<lb n="9" facs="#L0000_009" />○十一月廿九俵金泉秘録金泉秘録全<lb n="10" facs="#L0000_010" />五<lb n="11" facs="#L0000_011" />天周秋佐見積之図一補附<lb n="12" facs="#L0000_012" />月<lb n="13" facs="#L0000_013" />新<lb n="14" facs="#L0000_014" />五十瀬津<lb n="15" facs="#L0000_015" />五十瀬津好問宜蔵版<lb n="16" facs="#L0000_016" />鑢<lb n="17" facs="#L0000_017" />二米三<lb n="18" facs="#L0000_018" />三猿金泉録序<lb n="19" facs="#L0000_019" />太極動きて陽を生じ動くこと極りて静なり<lb n="20" facs="#L0000_020" />静に為て陰を生ず静なること極りてまたらごく<lb n="21" facs="#L0000_021" />太極陰陽と天<lb n="22" facs="#L0000_022" />地万物の始ほり<lb n="23" facs="#L0000_023" />一動一静あるに其根となる時<lb n="24" facs="#L0000_024" />米の高下<lb n="25" facs="#L0000_025" />も天地陰陽の廻るがごとく強気の功あらはにて<lb n="26" facs="#L0000_026" />はなはだ高くなり上る理極れば其中に弱気の理<lb n="27" facs="#L0000_027" />を含む弱気の功あらはれてはなはだ安らなれば其中<lb n="28" facs="#L0000_028" />に強気の理を含む万人気弱き時は米上るべきの<lb n="29" facs="#L0000_029" />理なり諸人気強き時は米下はべきの種なり是み<lb n="30" facs="#L0000_030" />な天性理外の理なり予荘年の頃より米商に心を</p>
+    </body>
+  </text>
+</TEI>

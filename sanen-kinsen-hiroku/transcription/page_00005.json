@@ -1,0 +1,537 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1282,
+            118
+          ],
+          [
+            1282,
+            905
+          ],
+          [
+            1326,
+            118
+          ],
+          [
+            1326,
+            905
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "米すくなくじて高き直段を新米へうつしたる歳は",
+        "isTextline": "true",
+        "confidence": 0.872
+      },
+      {
+        "boundingBox": [
+          [
+            1228,
+            117
+          ],
+          [
+            1228,
+            906
+          ],
+          [
+            1270,
+            117
+          ],
+          [
+            1270,
+            906
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "空腹下のあるとしなり六七八月に強変いつれどまさしく",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            1175,
+            114
+          ],
+          [
+            1175,
+            910
+          ],
+          [
+            1219,
+            114
+          ],
+          [
+            1219,
+            910
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一空復下の歳なり是を変来の歳といふ売買の定",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            1119,
+            119
+          ],
+          [
+            1119,
+            907
+          ],
+          [
+            1162,
+            119
+          ],
+          [
+            1162,
+            907
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "式は逆平順来のふ姓つなり逆平にて平買にこれを",
+        "isTextline": "true",
+        "confidence": 0.905
+      },
+      {
+        "boundingBox": [
+          [
+            1060,
+            116
+          ],
+          [
+            1060,
+            913
+          ],
+          [
+            1106,
+            116
+          ],
+          [
+            1106,
+            913
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "買順乗とは上る道理をたゞしく見つけ来買に買を順",
+        "isTextline": "true",
+        "confidence": 0.894
+      },
+      {
+        "boundingBox": [
+          [
+            1006,
+            122
+          ],
+          [
+            1006,
+            910
+          ],
+          [
+            1049,
+            122
+          ],
+          [
+            1049,
+            910
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "来といふなり順来変来十二平商内家伝高安鑑三十",
+        "isTextline": "true",
+        "confidence": 0.902
+      },
+      {
+        "boundingBox": [
+          [
+            951,
+            121
+          ],
+          [
+            951,
+            912
+          ],
+          [
+            997,
+            121
+          ],
+          [
+            997,
+            912
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "八来商内十五禁制万歳運気豊凶録等これを考",
+        "isTextline": "true",
+        "confidence": 0.9
+      },
+      {
+        "boundingBox": [
+          [
+            898,
+            117
+          ],
+          [
+            898,
+            922
+          ],
+          [
+            943,
+            117
+          ],
+          [
+            943,
+            922
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "ふる時は千度に千度まけざる妙の術なり誠に家伝",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            849,
+            119
+          ],
+          [
+            849,
+            589
+          ],
+          [
+            885,
+            119
+          ],
+          [
+            885,
+            589
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "秘蔵の宝なり秘すべし〳〵",
+        "isTextline": "true",
+        "confidence": 0.836
+      },
+      {
+        "boundingBox": [
+          [
+            800,
+            207
+          ],
+          [
+            800,
+            435
+          ],
+          [
+            826,
+            207
+          ],
+          [
+            826,
+            435
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "宝暦五年秋九月下旬",
+        "isTextline": "true",
+        "confidence": 0.597
+      },
+      {
+        "boundingBox": [
+          [
+            795,
+            536
+          ],
+          [
+            795,
+            919
+          ],
+          [
+            840,
+            536
+          ],
+          [
+            840,
+            919
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "慈雲斎牛田權三郎",
+        "isTextline": "true",
+        "confidence": 0.471
+      },
+      {
+        "boundingBox": [
+          [
+            685,
+            122
+          ],
+          [
+            685,
+            394
+          ],
+          [
+            722,
+            122
+          ],
+          [
+            722,
+            394
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "同同三猿金泉秘録",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            634,
+            238
+          ],
+          [
+            634,
+            721
+          ],
+          [
+            673,
+            238
+          ],
+          [
+            673,
+            721
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "○順来変来十二平商内天門天明本",
+        "isTextline": "true",
+        "confidence": 0.711
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            282
+          ],
+          [
+            585,
+            740
+          ],
+          [
+            619,
+            282
+          ],
+          [
+            619,
+            740
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一古米おほき豊年の高安順来六句",
+        "isTextline": "true",
+        "confidence": 0.857
+      },
+      {
+        "boundingBox": [
+          [
+            523,
+            114
+          ],
+          [
+            523,
+            912
+          ],
+          [
+            567,
+            114
+          ],
+          [
+            567,
+            912
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一秋やすくから腹上り一刻半霜月さがり暮上るなり",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            467,
+            118
+          ],
+          [
+            467,
+            915
+          ],
+          [
+            511,
+            118
+          ],
+          [
+            511,
+            915
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一春時わり四五月下り水無月と文月の米下るものなり",
+        "isTextline": "true",
+        "confidence": 0.875
+      },
+      {
+        "boundingBox": [
+          [
+            412,
+            289
+          ],
+          [
+            412,
+            528
+          ],
+          [
+            451,
+            289
+          ],
+          [
+            451,
+            528
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "順乗六句商内",
+        "isTextline": "true",
+        "confidence": 0.839
+      },
+      {
+        "boundingBox": [
+          [
+            357,
+            124
+          ],
+          [
+            357,
+            906
+          ],
+          [
+            401,
+            124
+          ],
+          [
+            401,
+            906
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "秋は買かし腹上りに売転変吉月転変暮は安楽",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            303,
+            124
+          ],
+          [
+            303,
+            913
+          ],
+          [
+            345,
+            124
+          ],
+          [
+            345,
+            913
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "春転変四五月は買五月寸ゑはこの種土け六七八の掌",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            253,
+            284
+          ],
+          [
+            253,
+            759
+          ],
+          [
+            289,
+            284
+          ],
+          [
+            289,
+            759
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "古米すくなき五年の高安変衰大句",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            195,
+            123
+          ],
+          [
+            195,
+            906
+          ],
+          [
+            237,
+            123
+          ],
+          [
+            237,
+            906
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "秋たかく廻ら腹下り一刻半不た月やすく暮にもあがらず",
+        "isTextline": "true",
+        "confidence": 0.882
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00005.jpg",
+    "img_name": "page_00005.jpg"
+  }
+}

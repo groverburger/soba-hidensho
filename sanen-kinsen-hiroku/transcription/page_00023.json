@@ -1,0 +1,987 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1284,
+            118
+          ],
+          [
+            1284,
+            916
+          ],
+          [
+            1325,
+            118
+          ],
+          [
+            1325,
+            916
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "一割半さげ宜申候が大秘密なりいつのとしにても新米",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            1231,
+            119
+          ],
+          [
+            1231,
+            919
+          ],
+          [
+            1275,
+            119
+          ],
+          [
+            1275,
+            919
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "初直段を中墨と見る家伝の秘密なりたとへと直段",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            1175,
+            117
+          ],
+          [
+            1175,
+            919
+          ],
+          [
+            1216,
+            117
+          ],
+          [
+            1216,
+            919
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "廿俵銭ならは廿俵代中墨と見て中巻より一刻半",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            1143,
+            286
+          ],
+          [
+            1143,
+            385
+          ],
+          [
+            1159,
+            286
+          ],
+          [
+            1159,
+            385
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "九斗四升",
+        "isTextline": "true",
+        "confidence": 0.579
+      },
+      {
+        "boundingBox": [
+          [
+            1144,
+            636
+          ],
+          [
+            1144,
+            766
+          ],
+          [
+            1160,
+            636
+          ],
+          [
+            1160,
+            766
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "同九斗六升",
+        "isTextline": "true",
+        "confidence": 0.474
+      },
+      {
+        "boundingBox": [
+          [
+            1129,
+            285
+          ],
+          [
+            1129,
+            392
+          ],
+          [
+            1145,
+            285
+          ],
+          [
+            1145,
+            392
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "一六十五五",
+        "isTextline": "true",
+        "confidence": 0.576
+      },
+      {
+        "boundingBox": [
+          [
+            1126,
+            123
+          ],
+          [
+            1126,
+            286
+          ],
+          [
+            1157,
+            123
+          ],
+          [
+            1157,
+            286
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "さげ廿三俵",
+        "isTextline": "true",
+        "confidence": 0.674
+      },
+      {
+        "boundingBox": [
+          [
+            1127,
+            636
+          ],
+          [
+            1127,
+            722
+          ],
+          [
+            1145,
+            636
+          ],
+          [
+            1145,
+            722
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "一六十六匁一",
+        "isTextline": "true",
+        "confidence": 0.372
+      },
+      {
+        "boundingBox": [
+          [
+            1125,
+            392
+          ],
+          [
+            1125,
+            638
+          ],
+          [
+            1156,
+            392
+          ],
+          [
+            1156,
+            638
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "にて百両買廿四俵",
+        "isTextline": "true",
+        "confidence": 0.555
+      },
+      {
+        "boundingBox": [
+          [
+            1125,
+            779
+          ],
+          [
+            1125,
+            911
+          ],
+          [
+            1151,
+            779
+          ],
+          [
+            1151,
+            911
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "にて",
+        "isTextline": "true",
+        "confidence": 0.384
+      },
+      {
+        "boundingBox": [
+          [
+            1083,
+            720
+          ],
+          [
+            1083,
+            837
+          ],
+          [
+            1099,
+            720
+          ],
+          [
+            1099,
+            837
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一石四升",
+        "isTextline": "true",
+        "confidence": 0.365
+      },
+      {
+        "boundingBox": [
+          [
+            1071,
+            339
+          ],
+          [
+            1071,
+            450
+          ],
+          [
+            1087,
+            339
+          ],
+          [
+            1087,
+            450
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一六十三匁五分",
+        "isTextline": "true",
+        "confidence": 0.536
+      },
+      {
+        "boundingBox": [
+          [
+            1071,
+            448
+          ],
+          [
+            1071,
+            734
+          ],
+          [
+            1101,
+            448
+          ],
+          [
+            1101,
+            734
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "にて二百両買廿六俵",
+        "isTextline": "true",
+        "confidence": 0.429
+      },
+      {
+        "boundingBox": [
+          [
+            1069,
+            124
+          ],
+          [
+            1069,
+            341
+          ],
+          [
+            1101,
+            124
+          ],
+          [
+            1101,
+            341
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "百石買廿五俵",
+        "isTextline": "true",
+        "confidence": 0.582
+      },
+      {
+        "boundingBox": [
+          [
+            1068,
+            839
+          ],
+          [
+            1068,
+            906
+          ],
+          [
+            1095,
+            839
+          ],
+          [
+            1095,
+            906
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "にて",
+        "isTextline": "true",
+        "confidence": 0.353
+      },
+      {
+        "boundingBox": [
+          [
+            1067,
+            724
+          ],
+          [
+            1067,
+            833
+          ],
+          [
+            1085,
+            724
+          ],
+          [
+            1085,
+            833
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "六十一匁五分",
+        "isTextline": "true",
+        "confidence": 0.416
+      },
+      {
+        "boundingBox": [
+          [
+            1010,
+            117
+          ],
+          [
+            1010,
+            914
+          ],
+          [
+            1048,
+            117
+          ],
+          [
+            1048,
+            914
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "四百両買〆八百両買持なり七十俵の損一割等がれは百六十",
+        "isTextline": "true",
+        "confidence": 0.875
+      },
+      {
+        "boundingBox": [
+          [
+            951,
+            120
+          ],
+          [
+            951,
+            381
+          ],
+          [
+            986,
+            120
+          ],
+          [
+            986,
+            381
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "綾の徳になるな成",
+        "isTextline": "true",
+        "confidence": 0.857
+      },
+      {
+        "boundingBox": [
+          [
+            904,
+            302
+          ],
+          [
+            904,
+            401
+          ],
+          [
+            937,
+            302
+          ],
+          [
+            937,
+            401
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "第二",
+        "isTextline": "true",
+        "confidence": 0.794
+      },
+      {
+        "boundingBox": [
+          [
+            853,
+            291
+          ],
+          [
+            853,
+            391
+          ],
+          [
+            871,
+            291
+          ],
+          [
+            871,
+            391
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "七十九匁九分",
+        "isTextline": "true",
+        "confidence": 0.302
+      },
+      {
+        "boundingBox": [
+          [
+            849,
+            114
+          ],
+          [
+            849,
+            768
+          ],
+          [
+            882,
+            114
+          ],
+          [
+            882,
+            768
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "中墨廿俵六十七十七斗六斗六合",
+        "isTextline": "true",
+        "confidence": 0.452
+      },
+      {
+        "boundingBox": [
+          [
+            863,
+            689
+          ],
+          [
+            863,
+            789
+          ],
+          [
+            881,
+            689
+          ],
+          [
+            881,
+            789
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "九斗六升",
+        "isTextline": "true",
+        "confidence": 0.54
+      },
+      {
+        "boundingBox": [
+          [
+            849,
+            690
+          ],
+          [
+            849,
+            807
+          ],
+          [
+            866,
+            690
+          ],
+          [
+            866,
+            807
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "一六十六匁一分",
+        "isTextline": "true",
+        "confidence": 0.441
+      },
+      {
+        "boundingBox": [
+          [
+            847,
+            822
+          ],
+          [
+            847,
+            907
+          ],
+          [
+            879,
+            822
+          ],
+          [
+            879,
+            907
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "にて二",
+        "isTextline": "true",
+        "confidence": 0.464
+      },
+      {
+        "boundingBox": [
+          [
+            798,
+            107
+          ],
+          [
+            798,
+            923
+          ],
+          [
+            838,
+            107
+          ],
+          [
+            838,
+            923
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "百両買廿五俵にて二百両廿六俵にて買物買合せ之",
+        "isTextline": "true",
+        "confidence": 0.664
+      },
+      {
+        "boundingBox": [
+          [
+            685,
+            117
+          ],
+          [
+            685,
+            915
+          ],
+          [
+            728,
+            117
+          ],
+          [
+            728,
+            915
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "一八百両買持なり六拾俵の損一割等ぶれは百六十俵の襦",
+        "isTextline": "true",
+        "confidence": 0.841
+      },
+      {
+        "boundingBox": [
+          [
+            639,
+            284
+          ],
+          [
+            639,
+            381
+          ],
+          [
+            670,
+            284
+          ],
+          [
+            670,
+            381
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "第三",
+        "isTextline": "true",
+        "confidence": 0.771
+      },
+      {
+        "boundingBox": [
+          [
+            580,
+            100
+          ],
+          [
+            580,
+            921
+          ],
+          [
+            622,
+            100
+          ],
+          [
+            622,
+            921
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "一中墨廿俵いかけ廿五俵六十五俵六十五俵六十六匁",
+        "isTextline": "true",
+        "confidence": 0.625
+      },
+      {
+        "boundingBox": [
+          [
+            520,
+            108
+          ],
+          [
+            520,
+            915
+          ],
+          [
+            566,
+            108
+          ],
+          [
+            566,
+            915
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "四百両買廿六俵一千四百両買〆八百両八百両八百両なり四十",
+        "isTextline": "true",
+        "confidence": 0.813
+      },
+      {
+        "boundingBox": [
+          [
+            460,
+            114
+          ],
+          [
+            460,
+            659
+          ],
+          [
+            500,
+            114
+          ],
+          [
+            500,
+            659
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "一俵の種一刻あがれは百六十俵の徳なり",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            414,
+            279
+          ],
+          [
+            414,
+            392
+          ],
+          [
+            445,
+            279
+          ],
+          [
+            445,
+            392
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "第四",
+        "isTextline": "true",
+        "confidence": 0.794
+      },
+      {
+        "boundingBox": [
+          [
+            357,
+            373
+          ],
+          [
+            357,
+            658
+          ],
+          [
+            392,
+            373
+          ],
+          [
+            392,
+            658
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "より三刻さげ廿六俵一",
+        "isTextline": "true",
+        "confidence": 0.306
+      },
+      {
+        "boundingBox": [
+          [
+            354,
+            119
+          ],
+          [
+            354,
+            655
+          ],
+          [
+            388,
+            119
+          ],
+          [
+            388,
+            655
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "申墨廿俵本より三刻さげせし",
+        "isTextline": "true",
+        "confidence": 0.651
+      },
+      {
+        "boundingBox": [
+          [
+            375,
+            651
+          ],
+          [
+            375,
+            763
+          ],
+          [
+            394,
+            651
+          ],
+          [
+            394,
+            763
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "一石六升",
+        "isTextline": "true",
+        "confidence": 0.496
+      },
+      {
+        "boundingBox": [
+          [
+            361,
+            652
+          ],
+          [
+            361,
+            760
+          ],
+          [
+            379,
+            652
+          ],
+          [
+            379,
+            760
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "同六十匁五分",
+        "isTextline": "true",
+        "confidence": 0.445
+      },
+      {
+        "boundingBox": [
+          [
+            364,
+            762
+          ],
+          [
+            364,
+            903
+          ],
+          [
+            396,
+            762
+          ],
+          [
+            396,
+            903
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "にて八百両",
+        "isTextline": "true",
+        "confidence": 0.63
+      },
+      {
+        "boundingBox": [
+          [
+            299,
+            115
+          ],
+          [
+            299,
+            569
+          ],
+          [
+            335,
+            115
+          ],
+          [
+            335,
+            569
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "買一割等がれば百六十俵の徳なり",
+        "isTextline": "true",
+        "confidence": 0.857
+      },
+      {
+        "boundingBox": [
+          [
+            251,
+            289
+          ],
+          [
+            251,
+            405
+          ],
+          [
+            281,
+            289
+          ],
+          [
+            281,
+            405
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "第五",
+        "isTextline": "true",
+        "confidence": 0.735
+      },
+      {
+        "boundingBox": [
+          [
+            191,
+            106
+          ],
+          [
+            191,
+            918
+          ],
+          [
+            235,
+            106
+          ],
+          [
+            235,
+            918
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "中墨廿俵ハ何まり三軒余もさぶり廿七八俵ならる",
+        "isTextline": "true",
+        "confidence": 0.76
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00023.jpg",
+    "img_name": "page_00023.jpg"
+  }
+}

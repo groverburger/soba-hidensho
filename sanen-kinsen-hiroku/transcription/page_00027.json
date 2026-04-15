@@ -1,0 +1,587 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1289,
+            119
+          ],
+          [
+            1289,
+            906
+          ],
+          [
+            1327,
+            119
+          ],
+          [
+            1327,
+            906
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "申ことありにも三拾五俵かまづまでもあぶり一冊キなしてもなそ又",
+        "isTextline": "true",
+        "confidence": 0.734
+      },
+      {
+        "boundingBox": [
+          [
+            1236,
+            115
+          ],
+          [
+            1236,
+            911
+          ],
+          [
+            1275,
+            115
+          ],
+          [
+            1275,
+            911
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "四百両癸猶そのうへまでゆきなく杉四俵仕打切汁にて四百",
+        "isTextline": "true",
+        "confidence": 0.807
+      },
+      {
+        "boundingBox": [
+          [
+            1198,
+            204
+          ],
+          [
+            1198,
+            299
+          ],
+          [
+            1216,
+            204
+          ],
+          [
+            1216,
+            299
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "三刻上り十二",
+        "isTextline": "true",
+        "confidence": 0.639
+      },
+      {
+        "boundingBox": [
+          [
+            1186,
+            124
+          ],
+          [
+            1186,
+            205
+          ],
+          [
+            1217,
+            124
+          ],
+          [
+            1217,
+            205
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "雨売",
+        "isTextline": "true",
+        "confidence": 0.69
+      },
+      {
+        "boundingBox": [
+          [
+            1186,
+            204
+          ],
+          [
+            1186,
+            299
+          ],
+          [
+            1200,
+            204
+          ],
+          [
+            1200,
+            299
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一分ノミコ二十リ",
+        "isTextline": "true",
+        "confidence": 0.645
+      },
+      {
+        "boundingBox": [
+          [
+            1184,
+            300
+          ],
+          [
+            1184,
+            909
+          ],
+          [
+            1217,
+            300
+          ],
+          [
+            1217,
+            909
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "〆八百両売なり六拾俵の損一刻そがれは",
+        "isTextline": "true",
+        "confidence": 0.745
+      },
+      {
+        "boundingBox": [
+          [
+            1129,
+            120
+          ],
+          [
+            1129,
+            378
+          ],
+          [
+            1159,
+            120
+          ],
+          [
+            1159,
+            378
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "百六拾俵の徳なり",
+        "isTextline": "true",
+        "confidence": 0.83
+      },
+      {
+        "boundingBox": [
+          [
+            1073,
+            279
+          ],
+          [
+            1073,
+            584
+          ],
+          [
+            1108,
+            279
+          ],
+          [
+            1108,
+            584
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "度端一六の商内",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            1014,
+            109
+          ],
+          [
+            1014,
+            922
+          ],
+          [
+            1050,
+            109
+          ],
+          [
+            1050,
+            922
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "中墨廿俵出来候つまり三刻余もそぶり申時か三刻余も",
+        "isTextline": "true",
+        "confidence": 0.862
+      },
+      {
+        "boundingBox": [
+          [
+            960,
+            114
+          ],
+          [
+            960,
+            916
+          ],
+          [
+            997,
+            114
+          ],
+          [
+            997,
+            916
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "等ぎり候時は常に百両位を安に立てなきなひすべし",
+        "isTextline": "true",
+        "confidence": 0.902
+      },
+      {
+        "boundingBox": [
+          [
+            904,
+            113
+          ],
+          [
+            904,
+            910
+          ],
+          [
+            943,
+            113
+          ],
+          [
+            943,
+            910
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一七千両春も二千両王と思召て高かくべし三割",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            852,
+            113
+          ],
+          [
+            852,
+            919
+          ],
+          [
+            890,
+            113
+          ],
+          [
+            890,
+            919
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "余のさぶりとても千に一ツあぶりとても千に山とつの事なり",
+        "isTextline": "true",
+        "confidence": 0.854
+      },
+      {
+        "boundingBox": [
+          [
+            806,
+            290
+          ],
+          [
+            806,
+            515
+          ],
+          [
+            836,
+            290
+          ],
+          [
+            836,
+            515
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "立用商内",
+        "isTextline": "true",
+        "confidence": 0.726
+      },
+      {
+        "boundingBox": [
+          [
+            691,
+            109
+          ],
+          [
+            691,
+            913
+          ],
+          [
+            737,
+            109
+          ],
+          [
+            737,
+            913
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "立用にはゝるあきをいはすゑ〳〵の米の立下を聞へ〳〵よ",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            638,
+            112
+          ],
+          [
+            638,
+            910
+          ],
+          [
+            682,
+            112
+          ],
+          [
+            682,
+            910
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "り能々相考へ為かけ申ことなりとき〳〵平物違正申",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            582,
+            112
+          ],
+          [
+            582,
+            911
+          ],
+          [
+            627,
+            112
+          ],
+          [
+            627,
+            911
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一ことなり立用はおほく商内をする者の為に大分まきこ",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            525,
+            120
+          ],
+          [
+            525,
+            908
+          ],
+          [
+            568,
+            120
+          ],
+          [
+            568,
+            908
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "之な余その道理は五万両も拾万両にも買持など等るとき",
+        "isTextline": "true",
+        "confidence": 0.92
+      },
+      {
+        "boundingBox": [
+          [
+            470,
+            115
+          ],
+          [
+            470,
+            913
+          ],
+          [
+            514,
+            115
+          ],
+          [
+            514,
+            913
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一御売たく思へども売いだすと脇より追々て六七分も一",
+        "isTextline": "true",
+        "confidence": 0.908
+      },
+      {
+        "boundingBox": [
+          [
+            413,
+            114
+          ],
+          [
+            413,
+            919
+          ],
+          [
+            459,
+            114
+          ],
+          [
+            459,
+            919
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "し信も追ふことあり故に思ふやうに売りなされずければ",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            357,
+            116
+          ],
+          [
+            357,
+            706
+          ],
+          [
+            399,
+            116
+          ],
+          [
+            399,
+            706
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "此上用となことは心安くいとなきことなり",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            302,
+            230
+          ],
+          [
+            302,
+            892
+          ],
+          [
+            345,
+            230
+          ],
+          [
+            345,
+            892
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "一随色商内禁止者曰此商力は本体の商具等",
+        "isTextline": "true",
+        "confidence": 0.616
+      },
+      {
+        "boundingBox": [
+          [
+            249,
+            119
+          ],
+          [
+            249,
+            911
+          ],
+          [
+            295,
+            119
+          ],
+          [
+            295,
+            911
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "一熊色の商内の法は真なるおもれ森は格別のこと",
+        "isTextline": "true",
+        "confidence": 0.858
+      },
+      {
+        "boundingBox": [
+          [
+            198,
+            130
+          ],
+          [
+            198,
+            910
+          ],
+          [
+            241,
+            130
+          ],
+          [
+            241,
+            910
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "のもなきときは宣下相済まじとおもに米俄に五分方",
+        "isTextline": "true",
+        "confidence": 0.873
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00027.jpg",
+    "img_name": "page_00027.jpg"
+  }
+}

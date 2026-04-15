@@ -1,0 +1,512 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1267,
+            120
+          ],
+          [
+            1267,
+            911
+          ],
+          [
+            1309,
+            120
+          ],
+          [
+            1309,
+            911
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "春にわき順気の歳は五月さげ水無月文月上るものなり",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            1215,
+            248
+          ],
+          [
+            1215,
+            523
+          ],
+          [
+            1252,
+            248
+          ],
+          [
+            1252,
+            523
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "変来六句商内",
+        "isTextline": "true",
+        "confidence": 0.637
+      },
+      {
+        "boundingBox": [
+          [
+            1159,
+            118
+          ],
+          [
+            1159,
+            913
+          ],
+          [
+            1201,
+            118
+          ],
+          [
+            1201,
+            913
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一秋ははたがら腹下しに買半板霜月折祭暮休むべし",
+        "isTextline": "true",
+        "confidence": 0.842
+      },
+      {
+        "boundingBox": [
+          [
+            1104,
+            117
+          ],
+          [
+            1104,
+            915
+          ],
+          [
+            1146,
+            117
+          ],
+          [
+            1146,
+            915
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "○春にけた四月にのせて五月すゑ買の種まけ六七八の暮",
+        "isTextline": "true",
+        "confidence": 0.866
+      },
+      {
+        "boundingBox": [
+          [
+            1049,
+            238
+          ],
+          [
+            1049,
+            735
+          ],
+          [
+            1093,
+            238
+          ],
+          [
+            1093,
+            735
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "○家伝四季高安鑑第二天明本",
+        "isTextline": "true",
+        "confidence": 0.816
+      },
+      {
+        "boundingBox": [
+          [
+            993,
+            295
+          ],
+          [
+            993,
+            703
+          ],
+          [
+            1031,
+            295
+          ],
+          [
+            1031,
+            703
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "順来秋冬の高下を考へ歌",
+        "isTextline": "true",
+        "confidence": 0.855
+      },
+      {
+        "boundingBox": [
+          [
+            936,
+            114
+          ],
+          [
+            936,
+            930
+          ],
+          [
+            978,
+            114
+          ],
+          [
+            978,
+            930
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一古米おほく豊年と見る安米はから腹の上り年と知るべし",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            888,
+            302
+          ],
+          [
+            888,
+            714
+          ],
+          [
+            922,
+            302
+          ],
+          [
+            922,
+            714
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "変来秋冬の高下を考ふる歌",
+        "isTextline": "true",
+        "confidence": 0.866
+      },
+      {
+        "boundingBox": [
+          [
+            832,
+            114
+          ],
+          [
+            832,
+            931
+          ],
+          [
+            873,
+            114
+          ],
+          [
+            873,
+            931
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "一古米すくなく強変分出て高米は加ら腹下りの耳と知るべし",
+        "isTextline": "true",
+        "confidence": 0.817
+      },
+      {
+        "boundingBox": [
+          [
+            779,
+            302
+          ],
+          [
+            779,
+            715
+          ],
+          [
+            817,
+            302
+          ],
+          [
+            817,
+            715
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一順来変来春の高下の考へ歌",
+        "isTextline": "true",
+        "confidence": 0.825
+      },
+      {
+        "boundingBox": [
+          [
+            677,
+            110
+          ],
+          [
+            677,
+            915
+          ],
+          [
+            718,
+            110
+          ],
+          [
+            718,
+            915
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一青あげと見て買上屋畳の米はなか〳〵音くなるまじ",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            624,
+            115
+          ],
+          [
+            624,
+            909
+          ],
+          [
+            666,
+            115
+          ],
+          [
+            666,
+            909
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "春さげと見て直の安き冬の米春はなか〳〵安くな留まじ",
+        "isTextline": "true",
+        "confidence": 0.903
+      },
+      {
+        "boundingBox": [
+          [
+            566,
+            107
+          ],
+          [
+            566,
+            920
+          ],
+          [
+            617,
+            107
+          ],
+          [
+            617,
+            920
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "一春三月大音下なはすまり句高き日は売十すき日とかへ",
+        "isTextline": "true",
+        "confidence": 0.893
+      },
+      {
+        "boundingBox": [
+          [
+            510,
+            107
+          ],
+          [
+            510,
+            915
+          ],
+          [
+            555,
+            107
+          ],
+          [
+            555,
+            915
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "すわりには三平二乗半板商内たかやすともに平乗禁制",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            455,
+            108
+          ],
+          [
+            455,
+            922
+          ],
+          [
+            501,
+            108
+          ],
+          [
+            501,
+            922
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "須わりには売転変に買転変徳をにがする半数少条",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            401,
+            249
+          ],
+          [
+            401,
+            656
+          ],
+          [
+            437,
+            249
+          ],
+          [
+            437,
+            656
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "順来変来五月高下の考へ歌",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            344,
+            114
+          ],
+          [
+            344,
+            916
+          ],
+          [
+            386,
+            114
+          ],
+          [
+            386,
+            916
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一順乗のとしはきわめて五月あげ五月さがるは変来の年",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            286,
+            117
+          ],
+          [
+            286,
+            911
+          ],
+          [
+            331,
+            117
+          ],
+          [
+            331,
+            911
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "大法が秋名月かやす峠五月下旬がこかとらげなり",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            231,
+            115
+          ],
+          [
+            231,
+            915
+          ],
+          [
+            276,
+            115
+          ],
+          [
+            276,
+            915
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "五月米人気弱くて直と上は子々孫々まで売は禁剃",
+        "isTextline": "true",
+        "confidence": 0.862
+      },
+      {
+        "boundingBox": [
+          [
+            178,
+            238
+          ],
+          [
+            178,
+            642
+          ],
+          [
+            220,
+            238
+          ],
+          [
+            220,
+            642
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "順来夏の亭下を考ふる歌",
+        "isTextline": "true",
+        "confidence": 0.845
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00006.jpg",
+    "img_name": "page_00006.jpg"
+  }
+}

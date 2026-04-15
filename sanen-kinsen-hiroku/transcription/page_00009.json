@@ -1,0 +1,562 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1270,
+            114
+          ],
+          [
+            1270,
+            911
+          ],
+          [
+            1314,
+            114
+          ],
+          [
+            1314,
+            911
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "公にても三割さげは米くづれ万天元のかひ旬々知れ",
+        "isTextline": "true",
+        "confidence": 0.827
+      },
+      {
+        "boundingBox": [
+          [
+            1218,
+            222
+          ],
+          [
+            1218,
+            911
+          ],
+          [
+            1255,
+            222
+          ],
+          [
+            1255,
+            911
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一中の飲米は日々に二万俵一箇月には六十万俵なり",
+        "isTextline": "true",
+        "confidence": 0.694
+      },
+      {
+        "boundingBox": [
+          [
+            1163,
+            116
+          ],
+          [
+            1163,
+            915
+          ],
+          [
+            1204,
+            116
+          ],
+          [
+            1204,
+            915
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "京大阪場ふし見の飲米は二箇月には十五万余",
+        "isTextline": "true",
+        "confidence": 0.756
+      },
+      {
+        "boundingBox": [
+          [
+            1109,
+            117
+          ],
+          [
+            1109,
+            912
+          ],
+          [
+            1152,
+            117
+          ],
+          [
+            1152,
+            912
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "ふところに金をたやさぬ覚悟せよ金は米釣しほと知るべし",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            1055,
+            115
+          ],
+          [
+            1055,
+            906
+          ],
+          [
+            1096,
+            115
+          ],
+          [
+            1096,
+            906
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "文珠でも備へのこゝらぬ商内は宣下の変別あれどやぶは",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            997,
+            111
+          ],
+          [
+            997,
+            911
+          ],
+          [
+            1036,
+            111
+          ],
+          [
+            1036,
+            911
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "一売買はいはさの備へも同じこと米等きなひの軍兵はかね",
+        "isTextline": "true",
+        "confidence": 0.855
+      },
+      {
+        "boundingBox": [
+          [
+            939,
+            237
+          ],
+          [
+            939,
+            498
+          ],
+          [
+            980,
+            237
+          ],
+          [
+            980,
+            498
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "○十五禁言ナ",
+        "isTextline": "true",
+        "confidence": 0.529
+      },
+      {
+        "boundingBox": [
+          [
+            960,
+            486
+          ],
+          [
+            960,
+            555
+          ],
+          [
+            979,
+            486
+          ],
+          [
+            979,
+            555
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "十五首",
+        "isTextline": "true",
+        "confidence": 0.596
+      },
+      {
+        "boundingBox": [
+          [
+            945,
+            554
+          ],
+          [
+            945,
+            614
+          ],
+          [
+            966,
+            554
+          ],
+          [
+            966,
+            614
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "十四",
+        "isTextline": "true",
+        "confidence": 0.485
+      },
+      {
+        "boundingBox": [
+          [
+            886,
+            115
+          ],
+          [
+            886,
+            908
+          ],
+          [
+            925,
+            115
+          ],
+          [
+            925,
+            908
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "侍へなき商力ならはいつれても損徳なしに商内禁制",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            835,
+            113
+          ],
+          [
+            835,
+            909
+          ],
+          [
+            875,
+            113
+          ],
+          [
+            875,
+            909
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "大法が秋冬五月はた禁制春六七月はかいはきむぜい",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            783,
+            114
+          ],
+          [
+            783,
+            908
+          ],
+          [
+            824,
+            114
+          ],
+          [
+            824,
+            908
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "豊早は万人気弱く我よわしあきにまりてうりは禁制",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            681,
+            114
+          ],
+          [
+            681,
+            906
+          ],
+          [
+            726,
+            114
+          ],
+          [
+            726,
+            906
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "鼻は子気強く亦強し多きにありて買は禁制",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            108
+          ],
+          [
+            628,
+            909
+          ],
+          [
+            677,
+            108
+          ],
+          [
+            677,
+            909
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一弱気理世に現れおれは皆弱気安きによつて場は禁制",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            572,
+            109
+          ],
+          [
+            572,
+            907
+          ],
+          [
+            620,
+            109
+          ],
+          [
+            620,
+            907
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "強変が現れ出れ婆皆強気咲きにまへてかひは葉刺",
+        "isTextline": "true",
+        "confidence": 0.913
+      },
+      {
+        "boundingBox": [
+          [
+            523,
+            108
+          ],
+          [
+            523,
+            910
+          ],
+          [
+            564,
+            108
+          ],
+          [
+            564,
+            910
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "あがりあし見ばかく見ゆる米ならは年は強みも四は禁制",
+        "isTextline": "true",
+        "confidence": 0.909
+      },
+      {
+        "boundingBox": [
+          [
+            465,
+            108
+          ],
+          [
+            465,
+            905
+          ],
+          [
+            508,
+            108
+          ],
+          [
+            508,
+            905
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "さげる理と手にとるやうに思ふるも秋植のうへの湊して禁制",
+        "isTextline": "true",
+        "confidence": 0.899
+      },
+      {
+        "boundingBox": [
+          [
+            408,
+            116
+          ],
+          [
+            408,
+            902
+          ],
+          [
+            453,
+            116
+          ],
+          [
+            453,
+            902
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "五月米人気弱くて直は上る早々強けまで売は禁制",
+        "isTextline": "true",
+        "confidence": 0.904
+      },
+      {
+        "boundingBox": [
+          [
+            354,
+            111
+          ],
+          [
+            354,
+            910
+          ],
+          [
+            397,
+            111
+          ],
+          [
+            397,
+            910
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "さが理とたりしく思に米にても四五月頃のはこる葉刻",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            297,
+            111
+          ],
+          [
+            297,
+            910
+          ],
+          [
+            343,
+            111
+          ],
+          [
+            343,
+            910
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "天性の説は水無月に出るとしれ米に随ひ平来禁制",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            243,
+            112
+          ],
+          [
+            243,
+            908
+          ],
+          [
+            289,
+            112
+          ],
+          [
+            289,
+            908
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "洪水を大風ふきの飛等なりはいつのとしでも買は禁制",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            186,
+            115
+          ],
+          [
+            186,
+            908
+          ],
+          [
+            236,
+            115
+          ],
+          [
+            236,
+            908
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "米はづれ買落紙の土みせげは気そまつくとも端は禁制",
+        "isTextline": "true",
+        "confidence": 0.873
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00009.jpg",
+    "img_name": "page_00009.jpg"
+  }
+}

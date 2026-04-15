@@ -1,0 +1,512 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1265,
+            119
+          ],
+          [
+            1265,
+            912
+          ],
+          [
+            1310,
+            119
+          ],
+          [
+            1310,
+            912
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "弱気理世にあらはれなれは皆弱気何時にても買の難符",
+        "isTextline": "true",
+        "confidence": 0.894
+      },
+      {
+        "boundingBox": [
+          [
+            1216,
+            113
+          ],
+          [
+            1216,
+            914
+          ],
+          [
+            1255,
+            113
+          ],
+          [
+            1255,
+            914
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "荻の泰子郎殿上りまはうけて二割あがらはこりの種まけ",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            1163,
+            114
+          ],
+          [
+            1163,
+            912
+          ],
+          [
+            1205,
+            114
+          ],
+          [
+            1205,
+            912
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "秋の米から腹下り火ちかけて一刻半から二割さげかへ",
+        "isTextline": "true",
+        "confidence": 0.894
+      },
+      {
+        "boundingBox": [
+          [
+            1109,
+            113
+          ],
+          [
+            1109,
+            911
+          ],
+          [
+            1148,
+            113
+          ],
+          [
+            1148,
+            911
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "秋やすく人気も弱く我もまた売ときときときときときと",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            1053,
+            116
+          ],
+          [
+            1053,
+            910
+          ],
+          [
+            1091,
+            116
+          ],
+          [
+            1091,
+            910
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "秋こかく人気も強くなもまた買たきときと米の売じゆひ",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            992,
+            116
+          ],
+          [
+            992,
+            911
+          ],
+          [
+            1031,
+            116
+          ],
+          [
+            1031,
+            911
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "強変の出るとしはなり撰出して二百十日にかひの種まけ",
+        "isTextline": "true",
+        "confidence": 0.853
+      },
+      {
+        "boundingBox": [
+          [
+            942,
+            235
+          ],
+          [
+            942,
+            926
+          ],
+          [
+            979,
+            235
+          ],
+          [
+            979,
+            926
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "口僧日万歳運気豊立録等を考へて強貴森と",
+        "isTextline": "true",
+        "confidence": 0.803
+      },
+      {
+        "boundingBox": [
+          [
+            888,
+            228
+          ],
+          [
+            888,
+            825
+          ],
+          [
+            920,
+            228
+          ],
+          [
+            920,
+            825
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "して二百十日に買の種をまけといふ歌の意なり",
+        "isTextline": "true",
+        "confidence": 0.829
+      },
+      {
+        "boundingBox": [
+          [
+            835,
+            114
+          ],
+          [
+            835,
+            919
+          ],
+          [
+            871,
+            114
+          ],
+          [
+            871,
+            919
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "上りあし見はかく見ゆる米ならはとむと強気を止て売べし",
+        "isTextline": "true",
+        "confidence": 0.847
+      },
+      {
+        "boundingBox": [
+          [
+            781,
+            116
+          ],
+          [
+            781,
+            916
+          ],
+          [
+            819,
+            116
+          ],
+          [
+            819,
+            916
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一常弱気損とくしらぬ大こはけ貧乏神の氏子なるらむ",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            674,
+            108
+          ],
+          [
+            674,
+            913
+          ],
+          [
+            722,
+            108
+          ],
+          [
+            722,
+            913
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一桁灯と鐘と見まこりとよひ背徳おほし売損おほし",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            632,
+            241
+          ],
+          [
+            632,
+            915
+          ],
+          [
+            668,
+            241
+          ],
+          [
+            668,
+            915
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "の□金づまりはいつにても米に随ひ売の種まけ",
+        "isTextline": "true",
+        "confidence": 0.567
+      },
+      {
+        "boundingBox": [
+          [
+            575,
+            127
+          ],
+          [
+            575,
+            920
+          ],
+          [
+            613,
+            127
+          ],
+          [
+            613,
+            920
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.471
+      },
+      {
+        "boundingBox": [
+          [
+            514,
+            111
+          ],
+          [
+            514,
+            910
+          ],
+          [
+            554,
+            111
+          ],
+          [
+            554,
+            910
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一大法が五月下旬が売の約み秋名月が買のしゆむなり",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            456,
+            115
+          ],
+          [
+            456,
+            912
+          ],
+          [
+            499,
+            115
+          ],
+          [
+            499,
+            912
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "万人が心に構ふ来ならとつれなき道へおもむくがまし",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            108
+          ],
+          [
+            400,
+            918
+          ],
+          [
+            446,
+            108
+          ],
+          [
+            446,
+            918
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一四季ともに鞘がはりに土気をさむ立安ともに米に三たがへ",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            344,
+            114
+          ],
+          [
+            344,
+            916
+          ],
+          [
+            389,
+            114
+          ],
+          [
+            389,
+            916
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "買米を一度にかには無分別二度に買べし二度に売べし",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            294,
+            122
+          ],
+          [
+            294,
+            909
+          ],
+          [
+            336,
+            122
+          ],
+          [
+            336,
+            909
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一売買に徳の桑たる商内は半数商力のすくい場とみれ",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            237,
+            121
+          ],
+          [
+            237,
+            912
+          ],
+          [
+            280,
+            121
+          ],
+          [
+            280,
+            912
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "百坪に九十九年のたかやすすは三刻こゑぬ物と思るべし",
+        "isTextline": "true",
+        "confidence": 0.903
+      },
+      {
+        "boundingBox": [
+          [
+            181,
+            117
+          ],
+          [
+            181,
+            916
+          ],
+          [
+            230,
+            117
+          ],
+          [
+            230,
+            916
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "い一にても刻あげては九万一分千天元ノうり旬としれ",
+        "isTextline": "true",
+        "confidence": 0.852
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00008.jpg",
+    "img_name": "page_00008.jpg"
+  }
+}

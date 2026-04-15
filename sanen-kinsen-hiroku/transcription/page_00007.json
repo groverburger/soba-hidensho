@@ -1,0 +1,637 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1273,
+            118
+          ],
+          [
+            1273,
+            916
+          ],
+          [
+            1313,
+            118
+          ],
+          [
+            1313,
+            916
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "一平あげて翌から五月高米は水無月文月さがる年なり",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            1222,
+            270
+          ],
+          [
+            1222,
+            673
+          ],
+          [
+            1261,
+            270
+          ],
+          [
+            1261,
+            673
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "変来夏の音下を巻ふる歌",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            1171,
+            112
+          ],
+          [
+            1171,
+            917
+          ],
+          [
+            1208,
+            112
+          ],
+          [
+            1208,
+            917
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一坪あけて春から五月出来は水無月文月あがる年なり",
+        "isTextline": "true",
+        "confidence": 0.85
+      },
+      {
+        "boundingBox": [
+          [
+            1129,
+            486
+          ],
+          [
+            1129,
+            563
+          ],
+          [
+            1152,
+            486
+          ],
+          [
+            1152,
+            563
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "三十八首",
+        "isTextline": "true",
+        "confidence": 0.472
+      },
+      {
+        "boundingBox": [
+          [
+            1110,
+            265
+          ],
+          [
+            1110,
+            490
+          ],
+          [
+            1152,
+            265
+          ],
+          [
+            1152,
+            490
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "三十八来商内",
+        "isTextline": "true",
+        "confidence": 0.423
+      },
+      {
+        "boundingBox": [
+          [
+            1057,
+            113
+          ],
+          [
+            1057,
+            910
+          ],
+          [
+            1096,
+            113
+          ],
+          [
+            1096,
+            910
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "一順乗の早はから後木がりなり秋名月に買のこねまけ",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            1000,
+            112
+          ],
+          [
+            1000,
+            913
+          ],
+          [
+            1039,
+            112
+          ],
+          [
+            1039,
+            913
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一変来の耳はから後さがりなり秋名月に売のたねまけ",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            943,
+            113
+          ],
+          [
+            943,
+            916
+          ],
+          [
+            986,
+            113
+          ],
+          [
+            986,
+            916
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "下鞘が上さやになる鞘がはりから後あがり徳のりにかへ",
+        "isTextline": "true",
+        "confidence": 0.862
+      },
+      {
+        "boundingBox": [
+          [
+            888,
+            112
+          ],
+          [
+            888,
+            918
+          ],
+          [
+            929,
+            112
+          ],
+          [
+            929,
+            918
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "上ざやがしたげまになる鞘がはり加ら後比ぼり徳のりにくれ",
+        "isTextline": "true",
+        "confidence": 0.854
+      },
+      {
+        "boundingBox": [
+          [
+            870,
+            447
+          ],
+          [
+            870,
+            535
+          ],
+          [
+            887,
+            447
+          ],
+          [
+            887,
+            535
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "天明岑十リ",
+        "isTextline": "true",
+        "confidence": 0.545
+      },
+      {
+        "boundingBox": [
+          [
+            855,
+            448
+          ],
+          [
+            855,
+            520
+          ],
+          [
+            872,
+            448
+          ],
+          [
+            872,
+            520
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.674
+      },
+      {
+        "boundingBox": [
+          [
+            843,
+            448
+          ],
+          [
+            843,
+            521
+          ],
+          [
+            859,
+            448
+          ],
+          [
+            859,
+            521
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "来所之者",
+        "isTextline": "true",
+        "confidence": 0.583
+      },
+      {
+        "boundingBox": [
+          [
+            842,
+            118
+          ],
+          [
+            842,
+            458
+          ],
+          [
+            876,
+            118
+          ],
+          [
+            876,
+            458
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "上さやがしたげ申になるへ",
+        "isTextline": "true",
+        "confidence": 0.73
+      },
+      {
+        "boundingBox": [
+          [
+            841,
+            519
+          ],
+          [
+            841,
+            912
+          ],
+          [
+            873,
+            519
+          ],
+          [
+            873,
+            912
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "五月すゑから売こねをまけ",
+        "isTextline": "true",
+        "confidence": 0.665
+      },
+      {
+        "boundingBox": [
+          [
+            782,
+            110
+          ],
+          [
+            782,
+            924
+          ],
+          [
+            826,
+            110
+          ],
+          [
+            826,
+            924
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一天性の利は水無月に出るとしれ尚安ともに米にしたがへ",
+        "isTextline": "true",
+        "confidence": 0.849
+      },
+      {
+        "boundingBox": [
+          [
+            680,
+            111
+          ],
+          [
+            680,
+            914
+          ],
+          [
+            726,
+            111
+          ],
+          [
+            726,
+            914
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "下るべき米煮からあがるなら徳のこるほど徳のりにかへ",
+        "isTextline": "true",
+        "confidence": 0.829
+      },
+      {
+        "boundingBox": [
+          [
+            629,
+            118
+          ],
+          [
+            629,
+            909
+          ],
+          [
+            671,
+            118
+          ],
+          [
+            671,
+            909
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "五月下旬高くははこの種をせけ六七月は徳のりにうれ",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            575,
+            109
+          ],
+          [
+            575,
+            916
+          ],
+          [
+            620,
+            109
+          ],
+          [
+            620,
+            916
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一五月下旬あくは早山の種をまけ六七月は徳のりにかへ",
+        "isTextline": "true",
+        "confidence": 0.891
+      },
+      {
+        "boundingBox": [
+          [
+            516,
+            109
+          ],
+          [
+            516,
+            913
+          ],
+          [
+            560,
+            109
+          ],
+          [
+            560,
+            913
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一米はずめ買落城の飛さげして眼を小さぎ買の種蒔",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            458,
+            110
+          ],
+          [
+            458,
+            915
+          ],
+          [
+            503,
+            110
+          ],
+          [
+            503,
+            915
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "米がれに売落城の飛さげはたわけになりてはこの種まけ",
+        "isTextline": "true",
+        "confidence": 0.893
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            108
+          ],
+          [
+            400,
+            919
+          ],
+          [
+            444,
+            108
+          ],
+          [
+            444,
+            919
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "一洪水と大風ふその飛上りはあほうになりてはこの種まけ",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            346,
+            108
+          ],
+          [
+            346,
+            925
+          ],
+          [
+            389,
+            108
+          ],
+          [
+            389,
+            925
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "一五月米人気弱くて直は上る四月下旬に子山の種々第",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            295,
+            264
+          ],
+          [
+            295,
+            862
+          ],
+          [
+            334,
+            264
+          ],
+          [
+            334,
+            862
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "強変声にあらはるゝ耳は米下るべき種なり",
+        "isTextline": "true",
+        "confidence": 0.861
+      },
+      {
+        "boundingBox": [
+          [
+            235,
+            119
+          ],
+          [
+            235,
+            918
+          ],
+          [
+            282,
+            119
+          ],
+          [
+            282,
+            918
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "難変があらはれ出れは皆強気了簡なしに売の種まけ",
+        "isTextline": "true",
+        "confidence": 0.848
+      },
+      {
+        "boundingBox": [
+          [
+            182,
+            240
+          ],
+          [
+            182,
+            866
+          ],
+          [
+            229,
+            240
+          ],
+          [
+            229,
+            866
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "弱気蝟世にあらはなゝ年は米上るべき理なり",
+        "isTextline": "true",
+        "confidence": 0.847
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00007.jpg",
+    "img_name": "page_00007.jpg"
+  }
+}

@@ -1,0 +1,1148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+        <respStmt>
+          <resp>Automated Transcription</resp>
+          <name ref="https://github.com/ndl-lab/ndlkotenocr-lite">NDL古典籍OCR-Liteアプリケーション</name>
+        </respStmt>
+        <respStmt>
+          <resp>Conversion to TEI encoding</resp>
+          <name>Kiyonori Nagasaki</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00018.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0000_000" ulx="1275" uly="319" lrx="1313" lry="507" />
+      <zone xml:id="L0000_001" ulx="1220" uly="119" lrx="1265" lry="914" />
+      <zone xml:id="L0000_002" ulx="1168" uly="330" lrx="1209" lry="503" />
+      <zone xml:id="L0000_003" ulx="1112" uly="110" lrx="1150" lry="918" />
+      <zone xml:id="L0000_004" ulx="1055" uly="324" lrx="1090" lry="877" />
+      <zone xml:id="L0000_005" ulx="1000" uly="111" lrx="1037" lry="922" />
+      <zone xml:id="L0000_006" ulx="937" uly="330" lrx="981" lry="516" />
+      <zone xml:id="L0000_007" ulx="886" uly="112" lrx="925" lry="919" />
+      <zone xml:id="L0000_008" ulx="833" uly="271" lrx="876" lry="618" />
+      <zone xml:id="L0000_009" ulx="851" uly="602" lrx="871" lry="674" />
+      <zone xml:id="L0000_010" ulx="843" uly="674" lrx="860" lry="737" />
+      <zone xml:id="L0000_011" ulx="788" uly="535" lrx="810" lry="917" />
+      <zone xml:id="L0000_012" ulx="784" uly="333" lrx="812" lry="925" />
+      <zone xml:id="L0000_013" ulx="677" uly="106" lrx="725" lry="922" />
+      <zone xml:id="L0000_014" ulx="625" uly="109" lrx="674" lry="913" />
+      <zone xml:id="L0000_015" ulx="567" uly="110" lrx="619" lry="913" />
+      <zone xml:id="L0000_016" ulx="511" uly="106" lrx="565" lry="916" />
+      <zone xml:id="L0000_017" ulx="457" uly="80" lrx="504" lry="915" />
+      <zone xml:id="L0000_018" ulx="402" uly="103" lrx="446" lry="918" />
+      <zone xml:id="L0000_019" ulx="342" uly="67" lrx="391" lry="920" />
+      <zone xml:id="L0000_020" ulx="294" uly="62" lrx="336" lry="922" />
+      <zone xml:id="L0000_021" ulx="236" uly="65" lrx="282" lry="917" />
+      <zone xml:id="L0000_022" ulx="184" uly="66" lrx="232" lry="918" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00030.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0001_000" ulx="1291" uly="126" lrx="1330" lry="394" />
+      <zone xml:id="L0001_001" ulx="1237" uly="112" lrx="1278" lry="911" />
+      <zone xml:id="L0001_002" ulx="1184" uly="111" lrx="1223" lry="912" />
+      <zone xml:id="L0001_003" ulx="1128" uly="112" lrx="1170" lry="913" />
+      <zone xml:id="L0001_004" ulx="1074" uly="118" lrx="1112" lry="906" />
+      <zone xml:id="L0001_005" ulx="1017" uly="116" lrx="1055" lry="907" />
+      <zone xml:id="L0001_006" ulx="959" uly="116" lrx="999" lry="906" />
+      <zone xml:id="L0001_007" ulx="903" uly="111" lrx="945" lry="917" />
+      <zone xml:id="L0001_008" ulx="853" uly="116" lrx="894" lry="912" />
+      <zone xml:id="L0001_009" ulx="798" uly="115" lrx="838" lry="911" />
+      <zone xml:id="L0001_010" ulx="691" uly="92" lrx="739" lry="915" />
+      <zone xml:id="L0001_011" ulx="639" uly="108" lrx="676" lry="567" />
+      <zone xml:id="L0001_012" ulx="588" uly="266" lrx="629" lry="443" />
+      <zone xml:id="L0001_013" ulx="533" uly="107" lrx="575" lry="900" />
+      <zone xml:id="L0001_014" ulx="471" uly="110" lrx="517" lry="912" />
+      <zone xml:id="L0001_015" ulx="411" uly="114" lrx="451" lry="512" />
+      <zone xml:id="L0001_016" ulx="354" uly="111" lrx="404" lry="909" />
+      <zone xml:id="L0001_017" ulx="302" uly="108" lrx="350" lry="909" />
+      <zone xml:id="L0001_018" ulx="244" uly="111" lrx="299" lry="908" />
+      <zone xml:id="L0001_019" ulx="191" uly="111" lrx="245" lry="907" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00024.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0002_000" ulx="1285" uly="112" lrx="1326" lry="921" />
+      <zone xml:id="L0002_001" ulx="1238" uly="124" lrx="1272" lry="587" />
+      <zone xml:id="L0002_002" ulx="1182" uly="259" lrx="1220" lry="617" />
+      <zone xml:id="L0002_003" ulx="1145" uly="551" lrx="1170" lry="594" />
+      <zone xml:id="L0002_004" ulx="1143" uly="197" lrx="1170" lry="249" />
+      <zone xml:id="L0002_005" ulx="1128" uly="250" lrx="1166" lry="487" />
+      <zone xml:id="L0002_006" ulx="1128" uly="588" lrx="1164" lry="775" />
+      <zone xml:id="L0002_007" ulx="1127" uly="128" lrx="1170" lry="486" />
+      <zone xml:id="L0002_008" ulx="1125" uly="127" lrx="1174" lry="930" />
+      <zone xml:id="L0002_009" ulx="1070" uly="123" lrx="1104" lry="295" />
+      <zone xml:id="L0002_010" ulx="1091" uly="344" lrx="1112" lry="388" />
+      <zone xml:id="L0002_011" ulx="1072" uly="387" lrx="1107" lry="594" />
+      <zone xml:id="L0002_012" ulx="1088" uly="649" lrx="1112" lry="702" />
+      <zone xml:id="L0002_013" ulx="1071" uly="701" lrx="1105" lry="916" />
+      <zone xml:id="L0002_014" ulx="1029" uly="538" lrx="1053" lry="696" />
+      <zone xml:id="L0002_015" ulx="1015" uly="124" lrx="1050" lry="540" />
+      <zone xml:id="L0002_016" ulx="1013" uly="540" lrx="1033" lry="690" />
+      <zone xml:id="L0002_017" ulx="961" uly="295" lrx="994" lry="383" />
+      <zone xml:id="L0002_018" ulx="904" uly="107" lrx="942" lry="921" />
+      <zone xml:id="L0002_019" ulx="869" uly="321" lrx="885" lry="413" />
+      <zone xml:id="L0002_020" ulx="855" uly="321" lrx="871" lry="412" />
+      <zone xml:id="L0002_021" ulx="853" uly="119" lrx="887" lry="328" />
+      <zone xml:id="L0002_022" ulx="848" uly="108" lrx="888" lry="919" />
+      <zone xml:id="L0002_023" ulx="814" uly="317" lrx="832" lry="421" />
+      <zone xml:id="L0002_024" ulx="801" uly="120" lrx="833" lry="323" />
+      <zone xml:id="L0002_025" ulx="801" uly="318" lrx="816" lry="418" />
+      <zone xml:id="L0002_026" ulx="800" uly="416" lrx="835" lry="924" />
+      <zone xml:id="L0002_027" ulx="683" uly="113" lrx="722" lry="466" />
+      <zone xml:id="L0002_028" ulx="638" uly="301" lrx="670" lry="412" />
+      <zone xml:id="L0002_029" ulx="580" uly="111" lrx="621" lry="654" />
+      <zone xml:id="L0002_030" ulx="607" uly="649" lrx="625" lry="767" />
+      <zone xml:id="L0002_031" ulx="592" uly="651" lrx="610" lry="746" />
+      <zone xml:id="L0002_032" ulx="593" uly="759" lrx="626" lry="904" />
+      <zone xml:id="L0002_033" ulx="524" uly="118" lrx="556" lry="254" />
+      <zone xml:id="L0002_034" ulx="548" uly="612" lrx="564" lry="718" />
+      <zone xml:id="L0002_035" ulx="533" uly="614" lrx="551" lry="714" />
+      <zone xml:id="L0002_036" ulx="532" uly="348" lrx="564" lry="618" />
+      <zone xml:id="L0002_037" ulx="537" uly="716" lrx="572" lry="911" />
+      <zone xml:id="L0002_038" ulx="465" uly="109" lrx="504" lry="782" />
+      <zone xml:id="L0002_039" ulx="413" uly="305" lrx="443" lry="416" />
+      <zone xml:id="L0002_040" ulx="357" uly="103" lrx="401" lry="929" />
+      <zone xml:id="L0002_041" ulx="314" uly="250" lrx="331" lry="365" />
+      <zone xml:id="L0002_042" ulx="308" uly="362" lrx="347" lry="912" />
+      <zone xml:id="L0002_043" ulx="302" uly="249" lrx="316" lry="367" />
+      <zone xml:id="L0002_044" ulx="299" uly="124" lrx="334" lry="251" />
+      <zone xml:id="L0002_045" ulx="248" uly="111" lrx="280" lry="532" />
+      <zone xml:id="L0002_046" ulx="196" uly="304" lrx="230" lry="405" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00025.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0003_000" ulx="1292" uly="101" lrx="1333" lry="922" />
+      <zone xml:id="L0003_001" ulx="1243" uly="123" lrx="1273" lry="548" />
+      <zone xml:id="L0003_002" ulx="1191" uly="308" lrx="1219" lry="411" />
+      <zone xml:id="L0003_003" ulx="1132" uly="117" lrx="1169" lry="911" />
+      <zone xml:id="L0003_004" ulx="1075" uly="120" lrx="1114" lry="917" />
+      <zone xml:id="L0003_005" ulx="1018" uly="114" lrx="1050" lry="480" />
+      <zone xml:id="L0003_006" ulx="954" uly="239" lrx="998" lry="682" />
+      <zone xml:id="L0003_007" ulx="908" uly="115" lrx="944" lry="919" />
+      <zone xml:id="L0003_008" ulx="857" uly="117" lrx="894" lry="916" />
+      <zone xml:id="L0003_009" ulx="807" uly="117" lrx="839" lry="686" />
+      <zone xml:id="L0003_010" ulx="693" uly="288" lrx="722" lry="469" />
+      <zone xml:id="L0003_011" ulx="664" uly="321" lrx="685" lry="671" />
+      <zone xml:id="L0003_012" ulx="644" uly="317" lrx="663" lry="518" />
+      <zone xml:id="L0003_013" ulx="614" uly="611" lrx="632" lry="714" />
+      <zone xml:id="L0003_014" ulx="577" uly="112" lrx="622" lry="500" />
+      <zone xml:id="L0003_015" ulx="608" uly="494" lrx="626" lry="532" />
+      <zone xml:id="L0003_016" ulx="601" uly="492" lrx="621" lry="531" />
+      <zone xml:id="L0003_017" ulx="592" uly="494" lrx="609" lry="531" />
+      <zone xml:id="L0003_018" ulx="593" uly="531" lrx="625" lry="613" />
+      <zone xml:id="L0003_019" ulx="596" uly="612" lrx="615" lry="709" />
+      <zone xml:id="L0003_020" ulx="599" uly="714" lrx="632" lry="914" />
+      <zone xml:id="L0003_021" ulx="546" uly="259" lrx="563" lry="357" />
+      <zone xml:id="L0003_022" ulx="541" uly="260" lrx="558" lry="358" />
+      <zone xml:id="L0003_023" ulx="532" uly="260" lrx="549" lry="358" />
+      <zone xml:id="L0003_024" ulx="528" uly="123" lrx="561" lry="264" />
+      <zone xml:id="L0003_025" ulx="555" uly="544" lrx="573" lry="654" />
+      <zone xml:id="L0003_026" ulx="545" uly="879" lrx="568" lry="907" />
+      <zone xml:id="L0003_027" ulx="541" uly="749" lrx="562" lry="909" />
+      <zone xml:id="L0003_028" ulx="538" uly="543" lrx="556" lry="655" />
+      <zone xml:id="L0003_029" ulx="538" uly="653" lrx="569" lry="749" />
+      <zone xml:id="L0003_030" ulx="537" uly="362" lrx="567" lry="550" />
+      <zone xml:id="L0003_031" ulx="492" uly="268" lrx="506" lry="300" />
+      <zone xml:id="L0003_032" ulx="475" uly="308" lrx="510" lry="395" />
+      <zone xml:id="L0003_033" ulx="469" uly="120" lrx="506" lry="278" />
+      <zone xml:id="L0003_034" ulx="493" uly="390" lrx="512" lry="497" />
+      <zone xml:id="L0003_035" ulx="479" uly="392" lrx="495" lry="490" />
+      <zone xml:id="L0003_036" ulx="502" uly="695" lrx="524" lry="903" />
+      <zone xml:id="L0003_037" ulx="482" uly="699" lrx="502" lry="830" />
+      <zone xml:id="L0003_038" ulx="481" uly="498" lrx="513" lry="700" />
+      <zone xml:id="L0003_039" ulx="429" uly="126" lrx="449" lry="183" />
+      <zone xml:id="L0003_040" ulx="416" uly="121" lrx="433" lry="182" />
+      <zone xml:id="L0003_041" ulx="414" uly="164" lrx="461" lry="922" />
+      <zone xml:id="L0003_042" ulx="389" uly="584" lrx="408" lry="711" />
+      <zone xml:id="L0003_043" ulx="361" uly="274" lrx="396" lry="591" />
+      <zone xml:id="L0003_044" ulx="374" uly="585" lrx="390" lry="714" />
+      <zone xml:id="L0003_045" ulx="329" uly="526" lrx="347" lry="565" />
+      <zone xml:id="L0003_046" ulx="314" uly="527" lrx="331" lry="565" />
+      <zone xml:id="L0003_047" ulx="312" uly="366" lrx="344" lry="530" />
+      <zone xml:id="L0003_048" ulx="303" uly="122" lrx="337" lry="278" />
+      <zone xml:id="L0003_049" ulx="311" uly="571" lrx="345" lry="660" />
+      <zone xml:id="L0003_050" ulx="334" uly="659" lrx="351" lry="754" />
+      <zone xml:id="L0003_051" ulx="319" uly="661" lrx="336" lry="730" />
+      <zone xml:id="L0003_052" ulx="322" uly="764" lrx="349" lry="910" />
+      <zone xml:id="L0003_053" ulx="282" uly="852" lrx="302" lry="904" />
+      <zone xml:id="L0003_054" ulx="250" uly="115" lrx="289" lry="515" />
+      <zone xml:id="L0003_055" ulx="275" uly="506" lrx="292" lry="603" />
+      <zone xml:id="L0003_056" ulx="262" uly="507" lrx="278" lry="604" />
+      <zone xml:id="L0003_057" ulx="265" uly="851" lrx="283" lry="905" />
+      <zone xml:id="L0003_058" ulx="263" uly="604" lrx="296" lry="858" />
+      <zone xml:id="L0003_059" ulx="221" uly="549" lrx="239" lry="604" />
+      <zone xml:id="L0003_060" ulx="203" uly="606" lrx="238" lry="700" />
+      <zone xml:id="L0003_061" ulx="226" uly="695" lrx="242" lry="809" />
+      <zone xml:id="L0003_062" ulx="210" uly="695" lrx="228" lry="808" />
+      <zone xml:id="L0003_063" ulx="212" uly="819" lrx="240" lry="911" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00031.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0004_000" ulx="1269" uly="112" lrx="1311" lry="922" />
+      <zone xml:id="L0004_001" ulx="1224" uly="116" lrx="1257" lry="421" />
+      <zone xml:id="L0004_002" ulx="1112" uly="106" lrx="1151" lry="905" />
+      <zone xml:id="L0004_003" ulx="1056" uly="107" lrx="1100" lry="910" />
+      <zone xml:id="L0004_004" ulx="1005" uly="113" lrx="1038" lry="409" />
+      <zone xml:id="L0004_005" ulx="943" uly="107" lrx="983" lry="915" />
+      <zone xml:id="L0004_006" ulx="892" uly="111" lrx="929" lry="815" />
+      <zone xml:id="L0004_007" ulx="839" uly="115" lrx="877" lry="911" />
+      <zone xml:id="L0004_008" ulx="784" uly="110" lrx="827" lry="918" />
+      <zone xml:id="L0004_009" ulx="672" uly="107" lrx="722" lry="911" />
+      <zone xml:id="L0004_010" ulx="622" uly="114" lrx="653" lry="264" />
+      <zone xml:id="L0004_011" ulx="564" uly="109" lrx="613" lry="901" />
+      <zone xml:id="L0004_012" ulx="511" uly="107" lrx="553" lry="804" />
+      <zone xml:id="L0004_013" ulx="452" uly="114" lrx="492" lry="715" />
+      <zone xml:id="L0004_014" ulx="243" uly="44" lrx="326" lry="154" />
+      <zone xml:id="L0004_015" ulx="179" uly="126" lrx="218" lry="272" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00019.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0005_000" ulx="1278" uly="275" lrx="1313" lry="842" />
+      <zone xml:id="L0005_001" ulx="1222" uly="117" lrx="1266" lry="912" />
+      <zone xml:id="L0005_002" ulx="1170" uly="119" lrx="1208" lry="908" />
+      <zone xml:id="L0005_003" ulx="1116" uly="114" lrx="1156" lry="911" />
+      <zone xml:id="L0005_004" ulx="1059" uly="114" lrx="1099" lry="916" />
+      <zone xml:id="L0005_005" ulx="1004" uly="119" lrx="1040" lry="909" />
+      <zone xml:id="L0005_006" ulx="949" uly="111" lrx="986" lry="912" />
+      <zone xml:id="L0005_007" ulx="895" uly="111" lrx="934" lry="910" />
+      <zone xml:id="L0005_008" ulx="844" uly="111" lrx="881" lry="918" />
+      <zone xml:id="L0005_009" ulx="794" uly="116" lrx="828" lry="910" />
+      <zone xml:id="L0005_010" ulx="684" uly="113" lrx="730" lry="913" />
+      <zone xml:id="L0005_011" ulx="632" uly="109" lrx="678" lry="916" />
+      <zone xml:id="L0005_012" ulx="578" uly="109" lrx="628" lry="914" />
+      <zone xml:id="L0005_013" ulx="523" uly="109" lrx="573" lry="912" />
+      <zone xml:id="L0005_014" ulx="468" uly="108" lrx="514" lry="911" />
+      <zone xml:id="L0005_015" ulx="404" uly="66" lrx="454" lry="911" />
+      <zone xml:id="L0005_016" ulx="349" uly="102" lrx="397" lry="911" />
+      <zone xml:id="L0005_017" ulx="297" uly="82" lrx="342" lry="912" />
+      <zone xml:id="L0005_018" ulx="243" uly="107" lrx="290" lry="909" />
+      <zone xml:id="L0005_019" ulx="193" uly="249" lrx="228" lry="820" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00027.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0006_000" ulx="1289" uly="119" lrx="1327" lry="906" />
+      <zone xml:id="L0006_001" ulx="1236" uly="115" lrx="1275" lry="911" />
+      <zone xml:id="L0006_002" ulx="1198" uly="204" lrx="1216" lry="299" />
+      <zone xml:id="L0006_003" ulx="1186" uly="124" lrx="1217" lry="205" />
+      <zone xml:id="L0006_004" ulx="1186" uly="204" lrx="1200" lry="299" />
+      <zone xml:id="L0006_005" ulx="1184" uly="300" lrx="1217" lry="909" />
+      <zone xml:id="L0006_006" ulx="1129" uly="120" lrx="1159" lry="378" />
+      <zone xml:id="L0006_007" ulx="1073" uly="279" lrx="1108" lry="584" />
+      <zone xml:id="L0006_008" ulx="1014" uly="109" lrx="1050" lry="922" />
+      <zone xml:id="L0006_009" ulx="960" uly="114" lrx="997" lry="916" />
+      <zone xml:id="L0006_010" ulx="904" uly="113" lrx="943" lry="910" />
+      <zone xml:id="L0006_011" ulx="852" uly="113" lrx="890" lry="919" />
+      <zone xml:id="L0006_012" ulx="806" uly="290" lrx="836" lry="515" />
+      <zone xml:id="L0006_013" ulx="691" uly="109" lrx="737" lry="913" />
+      <zone xml:id="L0006_014" ulx="638" uly="112" lrx="682" lry="910" />
+      <zone xml:id="L0006_015" ulx="582" uly="112" lrx="627" lry="911" />
+      <zone xml:id="L0006_016" ulx="525" uly="120" lrx="568" lry="908" />
+      <zone xml:id="L0006_017" ulx="470" uly="115" lrx="514" lry="913" />
+      <zone xml:id="L0006_018" ulx="413" uly="114" lrx="459" lry="919" />
+      <zone xml:id="L0006_019" ulx="357" uly="116" lrx="399" lry="706" />
+      <zone xml:id="L0006_020" ulx="302" uly="230" lrx="345" lry="892" />
+      <zone xml:id="L0006_021" ulx="249" uly="119" lrx="295" lry="911" />
+      <zone xml:id="L0006_022" ulx="198" uly="130" lrx="241" lry="910" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00033.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0007_000" ulx="861" uly="739" lrx="951" lry="810" />
+      <zone xml:id="L0007_001" ulx="1001" uly="809" lrx="1323" lry="915" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00032.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0008_000" ulx="1272" uly="111" lrx="1314" lry="916" />
+      <zone xml:id="L0008_001" ulx="1223" uly="111" lrx="1261" lry="913" />
+      <zone xml:id="L0008_002" ulx="1170" uly="108" lrx="1209" lry="914" />
+      <zone xml:id="L0008_003" ulx="1115" uly="106" lrx="1154" lry="916" />
+      <zone xml:id="L0008_004" ulx="1053" uly="113" lrx="1099" lry="908" />
+      <zone xml:id="L0008_005" ulx="999" uly="111" lrx="1040" lry="913" />
+      <zone xml:id="L0008_006" ulx="942" uly="106" lrx="984" lry="915" />
+      <zone xml:id="L0008_007" ulx="889" uly="115" lrx="929" lry="909" />
+      <zone xml:id="L0008_008" ulx="842" uly="116" lrx="876" lry="908" />
+      <zone xml:id="L0008_009" ulx="794" uly="206" lrx="820" lry="390" />
+      <zone xml:id="L0008_010" ulx="789" uly="576" lrx="829" lry="757" />
+      <zone xml:id="L0008_011" ulx="610" uly="38" lrx="658" lry="165" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00026.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0009_000" ulx="1303" uly="649" lrx="1321" lry="706" />
+      <zone xml:id="L0009_001" ulx="1306" uly="367" lrx="1320" lry="396" />
+      <zone xml:id="L0009_002" ulx="1291" uly="366" lrx="1309" lry="433" />
+      <zone xml:id="L0009_003" ulx="1287" uly="466" lrx="1318" lry="658" />
+      <zone xml:id="L0009_004" ulx="1287" uly="650" lrx="1304" lry="706" />
+      <zone xml:id="L0009_005" ulx="1287" uly="706" lrx="1318" lry="783" />
+      <zone xml:id="L0009_006" ulx="1285" uly="124" lrx="1321" lry="371" />
+      <zone xml:id="L0009_007" ulx="1306" uly="783" lrx="1325" lry="906" />
+      <zone xml:id="L0009_008" ulx="1288" uly="784" lrx="1308" lry="907" />
+      <zone xml:id="L0009_009" ulx="1250" uly="297" lrx="1268" lry="397" />
+      <zone xml:id="L0009_010" ulx="1234" uly="296" lrx="1253" lry="394" />
+      <zone xml:id="L0009_011" ulx="1233" uly="122" lrx="1268" lry="305" />
+      <zone xml:id="L0009_012" ulx="1233" uly="387" lrx="1268" lry="914" />
+      <zone xml:id="L0009_013" ulx="1182" uly="122" lrx="1217" lry="429" />
+      <zone xml:id="L0009_014" ulx="1198" uly="431" lrx="1215" lry="536" />
+      <zone xml:id="L0009_015" ulx="1187" uly="431" lrx="1202" lry="536" />
+      <zone xml:id="L0009_016" ulx="1203" uly="733" lrx="1219" lry="830" />
+      <zone xml:id="L0009_017" ulx="1186" uly="537" lrx="1215" lry="737" />
+      <zone xml:id="L0009_018" ulx="1186" uly="733" lrx="1204" lry="830" />
+      <zone xml:id="L0009_019" ulx="1184" uly="831" lrx="1216" lry="907" />
+      <zone xml:id="L0009_020" ulx="1147" uly="467" lrx="1166" lry="616" />
+      <zone xml:id="L0009_021" ulx="1146" uly="223" lrx="1164" lry="320" />
+      <zone xml:id="L0009_022" ulx="1132" uly="472" lrx="1153" lry="588" />
+      <zone xml:id="L0009_023" ulx="1131" uly="224" lrx="1147" lry="320" />
+      <zone xml:id="L0009_024" ulx="1131" uly="319" lrx="1163" lry="473" />
+      <zone xml:id="L0009_025" ulx="1130" uly="124" lrx="1163" lry="226" />
+      <zone xml:id="L0009_026" ulx="1129" uly="470" lrx="1147" lry="582" />
+      <zone xml:id="L0009_027" ulx="1129" uly="610" lrx="1159" lry="730" />
+      <zone xml:id="L0009_028" ulx="1145" uly="735" lrx="1166" lry="903" />
+      <zone xml:id="L0009_029" ulx="1130" uly="739" lrx="1146" lry="880" />
+      <zone xml:id="L0009_030" ulx="1086" uly="298" lrx="1102" lry="347" />
+      <zone xml:id="L0009_031" ulx="1073" uly="120" lrx="1103" lry="306" />
+      <zone xml:id="L0009_032" ulx="1073" uly="299" lrx="1088" lry="346" />
+      <zone xml:id="L0009_033" ulx="1089" uly="433" lrx="1106" lry="532" />
+      <zone xml:id="L0009_034" ulx="1073" uly="433" lrx="1090" lry="533" />
+      <zone xml:id="L0009_035" ulx="1072" uly="349" lrx="1100" lry="435" />
+      <zone xml:id="L0009_036" ulx="1070" uly="536" lrx="1103" lry="711" />
+      <zone xml:id="L0009_037" ulx="1088" uly="711" lrx="1107" lry="785" />
+      <zone xml:id="L0009_038" ulx="1073" uly="712" lrx="1087" lry="781" />
+      <zone xml:id="L0009_039" ulx="1072" uly="788" lrx="1103" lry="904" />
+      <zone xml:id="L0009_040" ulx="1029" uly="128" lrx="1047" lry="232" />
+      <zone xml:id="L0009_041" ulx="1019" uly="126" lrx="1037" lry="232" />
+      <zone xml:id="L0009_042" ulx="1030" uly="414" lrx="1046" lry="528" />
+      <zone xml:id="L0009_043" ulx="1016" uly="239" lrx="1044" lry="419" />
+      <zone xml:id="L0009_044" ulx="1015" uly="414" lrx="1032" lry="528" />
+      <zone xml:id="L0009_045" ulx="1012" uly="523" lrx="1046" lry="910" />
+      <zone xml:id="L0009_046" ulx="958" uly="115" lrx="993" lry="641" />
+      <zone xml:id="L0009_047" ulx="909" uly="122" lrx="945" lry="216" />
+      <zone xml:id="L0009_048" ulx="905" uly="288" lrx="934" lry="666" />
+      <zone xml:id="L0009_049" ulx="870" uly="628" lrx="886" lry="728" />
+      <zone xml:id="L0009_050" ulx="856" uly="629" lrx="873" lry="728" />
+      <zone xml:id="L0009_051" ulx="854" uly="114" lrx="888" lry="630" />
+      <zone xml:id="L0009_052" ulx="863" uly="817" lrx="882" lry="913" />
+      <zone xml:id="L0009_053" ulx="853" uly="818" lrx="869" lry="913" />
+      <zone xml:id="L0009_054" ulx="850" uly="730" lrx="881" lry="819" />
+      <zone xml:id="L0009_055" ulx="819" uly="125" lrx="836" lry="196" />
+      <zone xml:id="L0009_056" ulx="803" uly="126" lrx="819" lry="196" />
+      <zone xml:id="L0009_057" ulx="818" uly="399" lrx="834" lry="497" />
+      <zone xml:id="L0009_058" ulx="804" uly="398" lrx="819" lry="498" />
+      <zone xml:id="L0009_059" ulx="803" uly="198" lrx="834" lry="404" />
+      <zone xml:id="L0009_060" ulx="802" uly="500" lrx="831" lry="687" />
+      <zone xml:id="L0009_061" ulx="796" uly="696" lrx="830" lry="920" />
+      <zone xml:id="L0009_062" ulx="709" uly="570" lrx="731" lry="716" />
+      <zone xml:id="L0009_063" ulx="702" uly="234" lrx="720" lry="353" />
+      <zone xml:id="L0009_064" ulx="693" uly="343" lrx="724" lry="572" />
+      <zone xml:id="L0009_065" ulx="686" uly="120" lrx="724" lry="574" />
+      <zone xml:id="L0009_066" ulx="682" uly="121" lrx="715" lry="257" />
+      <zone xml:id="L0009_067" ulx="696" uly="568" lrx="713" lry="717" />
+      <zone xml:id="L0009_068" ulx="694" uly="586" lrx="711" lry="697" />
+      <zone xml:id="L0009_069" ulx="698" uly="719" lrx="730" lry="913" />
+      <zone xml:id="L0009_070" ulx="632" uly="118" lrx="670" lry="355" />
+      <zone xml:id="L0009_071" ulx="657" uly="356" lrx="673" lry="377" />
+      <zone xml:id="L0009_072" ulx="641" uly="354" lrx="657" lry="443" />
+      <zone xml:id="L0009_073" ulx="663" uly="636" lrx="678" lry="670" />
+      <zone xml:id="L0009_074" ulx="649" uly="636" lrx="666" lry="669" />
+      <zone xml:id="L0009_075" ulx="649" uly="659" lrx="681" lry="911" />
+      <zone xml:id="L0009_076" ulx="644" uly="458" lrx="677" lry="639" />
+      <zone xml:id="L0009_077" ulx="597" uly="195" lrx="614" lry="323" />
+      <zone xml:id="L0009_078" ulx="587" uly="316" lrx="625" lry="915" />
+      <zone xml:id="L0009_079" ulx="581" uly="198" lrx="600" lry="326" />
+      <zone xml:id="L0009_080" ulx="578" uly="124" lrx="614" lry="200" />
+      <zone xml:id="L0009_081" ulx="527" uly="117" lrx="560" lry="404" />
+      <zone xml:id="L0009_082" ulx="472" uly="261" lrx="503" lry="582" />
+      <zone xml:id="L0009_083" ulx="418" uly="363" lrx="453" lry="635" />
+      <zone xml:id="L0009_084" ulx="415" uly="269" lrx="432" lry="371" />
+      <zone xml:id="L0009_085" ulx="410" uly="122" lrx="444" lry="273" />
+      <zone xml:id="L0009_086" ulx="437" uly="626" lrx="454" lry="723" />
+      <zone xml:id="L0009_087" ulx="424" uly="626" lrx="441" lry="721" />
+      <zone xml:id="L0009_088" ulx="440" uly="802" lrx="456" lry="907" />
+      <zone xml:id="L0009_089" ulx="425" uly="802" lrx="443" lry="912" />
+      <zone xml:id="L0009_090" ulx="424" uly="726" lrx="455" lry="805" />
+      <zone xml:id="L0009_091" ulx="368" uly="205" lrx="385" lry="312" />
+      <zone xml:id="L0009_092" ulx="356" uly="206" lrx="374" lry="313" />
+      <zone xml:id="L0009_093" ulx="351" uly="126" lrx="384" lry="206" />
+      <zone xml:id="L0009_094" ulx="383" uly="686" lrx="399" lry="808" />
+      <zone xml:id="L0009_095" ulx="372" uly="423" lrx="393" lry="491" />
+      <zone xml:id="L0009_096" ulx="369" uly="683" lrx="383" lry="797" />
+      <zone xml:id="L0009_097" ulx="363" uly="488" lrx="397" lry="687" />
+      <zone xml:id="L0009_098" ulx="360" uly="316" lrx="392" lry="425" />
+      <zone xml:id="L0009_099" ulx="362" uly="422" lrx="382" lry="490" />
+      <zone xml:id="L0009_100" ulx="294" uly="125" lrx="332" lry="207" />
+      <zone xml:id="L0009_101" ulx="316" uly="206" lrx="335" lry="286" />
+      <zone xml:id="L0009_102" ulx="297" uly="207" lrx="317" lry="288" />
+      <zone xml:id="L0009_103" ulx="322" uly="667" lrx="340" lry="794" />
+      <zone xml:id="L0009_104" ulx="306" uly="297" lrx="347" lry="916" />
+      <zone xml:id="L0009_105" ulx="303" uly="284" lrx="341" lry="666" />
+      <zone xml:id="L0009_106" ulx="267" uly="299" lrx="285" lry="422" />
+      <zone xml:id="L0009_107" ulx="252" uly="299" lrx="270" lry="420" />
+      <zone xml:id="L0009_108" ulx="247" uly="122" lrx="281" lry="302" />
+      <zone xml:id="L0009_109" ulx="256" uly="423" lrx="294" lry="922" />
+      <zone xml:id="L0009_110" ulx="195" uly="129" lrx="235" lry="367" />
+      <zone xml:id="L0009_111" ulx="217" uly="369" lrx="238" lry="528" />
+      <zone xml:id="L0009_112" ulx="203" uly="520" lrx="237" lry="919" />
+      <zone xml:id="L0009_113" ulx="200" uly="369" lrx="219" lry="529" />
+      <zone xml:id="L0009_114" ulx="168" uly="248" lrx="200" lry="369" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00022.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0010_000" ulx="1310" uly="166" lrx="1339" lry="909" />
+      <zone xml:id="L0010_001" ulx="1288" uly="168" lrx="1310" lry="730" />
+      <zone xml:id="L0010_002" ulx="1235" uly="121" lrx="1276" lry="875" />
+      <zone xml:id="L0010_003" ulx="1179" uly="121" lrx="1224" lry="906" />
+      <zone xml:id="L0010_004" ulx="1127" uly="113" lrx="1173" lry="918" />
+      <zone xml:id="L0010_005" ulx="1074" uly="120" lrx="1115" lry="918" />
+      <zone xml:id="L0010_006" ulx="1039" uly="608" lrx="1059" lry="725" />
+      <zone xml:id="L0010_007" ulx="1020" uly="122" lrx="1054" lry="612" />
+      <zone xml:id="L0010_008" ulx="1020" uly="614" lrx="1041" lry="725" />
+      <zone xml:id="L0010_009" ulx="1019" uly="723" lrx="1051" lry="912" />
+      <zone xml:id="L0010_010" ulx="958" uly="118" lrx="1003" lry="923" />
+      <zone xml:id="L0010_011" ulx="905" uly="111" lrx="945" lry="925" />
+      <zone xml:id="L0010_012" ulx="852" uly="115" lrx="894" lry="915" />
+      <zone xml:id="L0010_013" ulx="801" uly="112" lrx="841" lry="924" />
+      <zone xml:id="L0010_014" ulx="694" uly="123" lrx="737" lry="917" />
+      <zone xml:id="L0010_015" ulx="643" uly="116" lrx="685" lry="914" />
+      <zone xml:id="L0010_016" ulx="587" uly="126" lrx="627" lry="190" />
+      <zone xml:id="L0010_017" ulx="612" uly="159" lrx="639" lry="896" />
+      <zone xml:id="L0010_018" ulx="594" uly="172" lrx="618" lry="847" />
+      <zone xml:id="L0010_019" ulx="530" uly="242" lrx="572" lry="644" />
+      <zone xml:id="L0010_020" ulx="469" uly="127" lrx="519" lry="179" />
+      <zone xml:id="L0010_021" ulx="492" uly="193" lrx="516" lry="240" />
+      <zone xml:id="L0010_022" ulx="477" uly="238" lrx="513" lry="471" />
+      <zone xml:id="L0010_023" ulx="495" uly="529" lrx="518" lry="571" />
+      <zone xml:id="L0010_024" ulx="479" uly="568" lrx="513" lry="767" />
+      <zone xml:id="L0010_025" ulx="500" uly="819" lrx="521" lry="863" />
+      <zone xml:id="L0010_026" ulx="478" uly="858" lrx="510" lry="918" />
+      <zone xml:id="L0010_027" ulx="416" uly="122" lrx="452" lry="291" />
+      <zone xml:id="L0010_028" ulx="423" uly="311" lrx="458" lry="541" />
+      <zone xml:id="L0010_029" ulx="442" uly="596" lrx="465" lry="644" />
+      <zone xml:id="L0010_030" ulx="428" uly="646" lrx="459" lry="919" />
+      <zone xml:id="L0010_031" ulx="391" uly="478" lrx="413" lry="617" />
+      <zone xml:id="L0010_032" ulx="371" uly="478" lrx="390" lry="620" />
+      <zone xml:id="L0010_033" ulx="364" uly="126" lrx="398" lry="478" />
+      <zone xml:id="L0010_034" ulx="312" uly="307" lrx="347" lry="393" />
+      <zone xml:id="L0010_035" ulx="254" uly="118" lrx="304" lry="917" />
+      <zone xml:id="L0010_036" ulx="199" uly="125" lrx="245" lry="918" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00023.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0011_000" ulx="1284" uly="118" lrx="1325" lry="916" />
+      <zone xml:id="L0011_001" ulx="1231" uly="119" lrx="1275" lry="919" />
+      <zone xml:id="L0011_002" ulx="1175" uly="117" lrx="1216" lry="919" />
+      <zone xml:id="L0011_003" ulx="1143" uly="286" lrx="1159" lry="385" />
+      <zone xml:id="L0011_004" ulx="1144" uly="636" lrx="1160" lry="766" />
+      <zone xml:id="L0011_005" ulx="1129" uly="285" lrx="1145" lry="392" />
+      <zone xml:id="L0011_006" ulx="1126" uly="123" lrx="1157" lry="286" />
+      <zone xml:id="L0011_007" ulx="1127" uly="636" lrx="1145" lry="722" />
+      <zone xml:id="L0011_008" ulx="1125" uly="392" lrx="1156" lry="638" />
+      <zone xml:id="L0011_009" ulx="1125" uly="779" lrx="1151" lry="911" />
+      <zone xml:id="L0011_010" ulx="1083" uly="720" lrx="1099" lry="837" />
+      <zone xml:id="L0011_011" ulx="1071" uly="339" lrx="1087" lry="450" />
+      <zone xml:id="L0011_012" ulx="1071" uly="448" lrx="1101" lry="734" />
+      <zone xml:id="L0011_013" ulx="1069" uly="124" lrx="1101" lry="341" />
+      <zone xml:id="L0011_014" ulx="1068" uly="839" lrx="1095" lry="906" />
+      <zone xml:id="L0011_015" ulx="1067" uly="724" lrx="1085" lry="833" />
+      <zone xml:id="L0011_016" ulx="1010" uly="117" lrx="1048" lry="914" />
+      <zone xml:id="L0011_017" ulx="951" uly="120" lrx="986" lry="381" />
+      <zone xml:id="L0011_018" ulx="904" uly="302" lrx="937" lry="401" />
+      <zone xml:id="L0011_019" ulx="853" uly="291" lrx="871" lry="391" />
+      <zone xml:id="L0011_020" ulx="849" uly="114" lrx="882" lry="768" />
+      <zone xml:id="L0011_021" ulx="863" uly="689" lrx="881" lry="789" />
+      <zone xml:id="L0011_022" ulx="849" uly="690" lrx="866" lry="807" />
+      <zone xml:id="L0011_023" ulx="847" uly="822" lrx="879" lry="907" />
+      <zone xml:id="L0011_024" ulx="798" uly="107" lrx="838" lry="923" />
+      <zone xml:id="L0011_025" ulx="685" uly="117" lrx="728" lry="915" />
+      <zone xml:id="L0011_026" ulx="639" uly="284" lrx="670" lry="381" />
+      <zone xml:id="L0011_027" ulx="580" uly="100" lrx="622" lry="921" />
+      <zone xml:id="L0011_028" ulx="520" uly="108" lrx="566" lry="915" />
+      <zone xml:id="L0011_029" ulx="460" uly="114" lrx="500" lry="659" />
+      <zone xml:id="L0011_030" ulx="414" uly="279" lrx="445" lry="392" />
+      <zone xml:id="L0011_031" ulx="357" uly="373" lrx="392" lry="658" />
+      <zone xml:id="L0011_032" ulx="354" uly="119" lrx="388" lry="655" />
+      <zone xml:id="L0011_033" ulx="375" uly="651" lrx="394" lry="763" />
+      <zone xml:id="L0011_034" ulx="361" uly="652" lrx="379" lry="760" />
+      <zone xml:id="L0011_035" ulx="364" uly="762" lrx="396" lry="903" />
+      <zone xml:id="L0011_036" ulx="299" uly="115" lrx="335" lry="569" />
+      <zone xml:id="L0011_037" ulx="251" uly="289" lrx="281" lry="405" />
+      <zone xml:id="L0011_038" ulx="191" uly="106" lrx="235" lry="918" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00021.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0012_000" ulx="1284" uly="124" lrx="1326" lry="915" />
+      <zone xml:id="L0012_001" ulx="1228" uly="121" lrx="1269" lry="927" />
+      <zone xml:id="L0012_002" ulx="1181" uly="258" lrx="1216" lry="563" />
+      <zone xml:id="L0012_003" ulx="1193" uly="574" lrx="1217" lry="637" />
+      <zone xml:id="L0012_004" ulx="1125" uly="120" lrx="1161" lry="908" />
+      <zone xml:id="L0012_005" ulx="1065" uly="120" lrx="1101" lry="911" />
+      <zone xml:id="L0012_006" ulx="1012" uly="223" lrx="1042" lry="476" />
+      <zone xml:id="L0012_007" ulx="954" uly="686" lrx="973" lry="847" />
+      <zone xml:id="L0012_008" ulx="949" uly="230" lrx="990" lry="694" />
+      <zone xml:id="L0012_009" ulx="970" uly="687" lrx="994" lry="914" />
+      <zone xml:id="L0012_010" ulx="898" uly="119" lrx="938" lry="772" />
+      <zone xml:id="L0012_011" ulx="848" uly="205" lrx="886" lry="719" />
+      <zone xml:id="L0012_012" ulx="797" uly="265" lrx="838" lry="836" />
+      <zone xml:id="L0012_013" ulx="640" uly="209" lrx="668" lry="498" />
+      <zone xml:id="L0012_014" ulx="686" uly="561" lrx="714" lry="911" />
+      <zone xml:id="L0012_015" ulx="664" uly="561" lrx="689" lry="908" />
+      <zone xml:id="L0012_016" ulx="637" uly="560" lrx="662" lry="907" />
+      <zone xml:id="L0012_017" ulx="612" uly="557" lrx="635" lry="908" />
+      <zone xml:id="L0012_018" ulx="545" uly="305" lrx="588" lry="412" />
+      <zone xml:id="L0012_019" ulx="511" uly="408" lrx="547" lry="468" />
+      <zone xml:id="L0012_020" ulx="505" uly="239" lrx="545" lry="284" />
+      <zone xml:id="L0012_021" ulx="492" uly="290" lrx="520" lry="411" />
+      <zone xml:id="L0012_022" ulx="557" uly="787" lrx="577" lry="906" />
+      <zone xml:id="L0012_023" ulx="536" uly="788" lrx="557" lry="898" />
+      <zone xml:id="L0012_024" ulx="533" uly="542" lrx="569" lry="788" />
+      <zone xml:id="L0012_025" ulx="438" uly="197" lrx="486" lry="810" />
+      <zone xml:id="L0012_026" ulx="472" uly="794" lrx="492" lry="906" />
+      <zone xml:id="L0012_027" ulx="452" uly="795" lrx="475" lry="905" />
+      <zone xml:id="L0012_028" ulx="398" uly="291" lrx="426" lry="423" />
+      <zone xml:id="L0012_029" ulx="377" uly="232" lrx="413" lry="278" />
+      <zone xml:id="L0012_030" ulx="369" uly="228" lrx="419" lry="457" />
+      <zone xml:id="L0012_031" ulx="384" uly="794" lrx="406" lry="905" />
+      <zone xml:id="L0012_032" ulx="365" uly="795" lrx="385" lry="906" />
+      <zone xml:id="L0012_033" ulx="364" uly="541" lrx="396" lry="797" />
+      <zone xml:id="L0012_034" ulx="356" uly="297" lrx="378" lry="390" />
+      <zone xml:id="L0012_035" ulx="327" uly="289" lrx="356" lry="398" />
+      <zone xml:id="L0012_036" ulx="313" uly="450" lrx="334" lry="858" />
+      <zone xml:id="L0012_037" ulx="270" uly="130" lrx="297" lry="914" />
+      <zone xml:id="L0012_038" ulx="246" uly="148" lrx="271" lry="915" />
+      <zone xml:id="L0012_039" ulx="220" uly="157" lrx="246" lry="912" />
+      <zone xml:id="L0012_040" ulx="191" uly="160" lrx="218" lry="910" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00009.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0013_000" ulx="1270" uly="114" lrx="1314" lry="911" />
+      <zone xml:id="L0013_001" ulx="1218" uly="222" lrx="1255" lry="911" />
+      <zone xml:id="L0013_002" ulx="1163" uly="116" lrx="1204" lry="915" />
+      <zone xml:id="L0013_003" ulx="1109" uly="117" lrx="1152" lry="912" />
+      <zone xml:id="L0013_004" ulx="1055" uly="115" lrx="1096" lry="906" />
+      <zone xml:id="L0013_005" ulx="997" uly="111" lrx="1036" lry="911" />
+      <zone xml:id="L0013_006" ulx="939" uly="237" lrx="980" lry="498" />
+      <zone xml:id="L0013_007" ulx="960" uly="486" lrx="979" lry="555" />
+      <zone xml:id="L0013_008" ulx="945" uly="554" lrx="966" lry="614" />
+      <zone xml:id="L0013_009" ulx="886" uly="115" lrx="925" lry="908" />
+      <zone xml:id="L0013_010" ulx="835" uly="113" lrx="875" lry="909" />
+      <zone xml:id="L0013_011" ulx="783" uly="114" lrx="824" lry="908" />
+      <zone xml:id="L0013_012" ulx="681" uly="114" lrx="726" lry="906" />
+      <zone xml:id="L0013_013" ulx="628" uly="108" lrx="677" lry="909" />
+      <zone xml:id="L0013_014" ulx="572" uly="109" lrx="620" lry="907" />
+      <zone xml:id="L0013_015" ulx="523" uly="108" lrx="564" lry="910" />
+      <zone xml:id="L0013_016" ulx="465" uly="108" lrx="508" lry="905" />
+      <zone xml:id="L0013_017" ulx="408" uly="116" lrx="453" lry="902" />
+      <zone xml:id="L0013_018" ulx="354" uly="111" lrx="397" lry="910" />
+      <zone xml:id="L0013_019" ulx="297" uly="111" lrx="343" lry="910" />
+      <zone xml:id="L0013_020" ulx="243" uly="112" lrx="289" lry="908" />
+      <zone xml:id="L0013_021" ulx="186" uly="115" lrx="236" lry="908" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00008.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0014_000" ulx="1265" uly="119" lrx="1310" lry="912" />
+      <zone xml:id="L0014_001" ulx="1216" uly="113" lrx="1255" lry="914" />
+      <zone xml:id="L0014_002" ulx="1163" uly="114" lrx="1205" lry="912" />
+      <zone xml:id="L0014_003" ulx="1109" uly="113" lrx="1148" lry="911" />
+      <zone xml:id="L0014_004" ulx="1053" uly="116" lrx="1091" lry="910" />
+      <zone xml:id="L0014_005" ulx="992" uly="116" lrx="1031" lry="911" />
+      <zone xml:id="L0014_006" ulx="942" uly="235" lrx="979" lry="926" />
+      <zone xml:id="L0014_007" ulx="888" uly="228" lrx="920" lry="825" />
+      <zone xml:id="L0014_008" ulx="835" uly="114" lrx="871" lry="919" />
+      <zone xml:id="L0014_009" ulx="781" uly="116" lrx="819" lry="916" />
+      <zone xml:id="L0014_010" ulx="674" uly="108" lrx="722" lry="913" />
+      <zone xml:id="L0014_011" ulx="632" uly="241" lrx="668" lry="915" />
+      <zone xml:id="L0014_012" ulx="575" uly="127" lrx="613" lry="920" />
+      <zone xml:id="L0014_013" ulx="514" uly="111" lrx="554" lry="910" />
+      <zone xml:id="L0014_014" ulx="456" uly="115" lrx="499" lry="912" />
+      <zone xml:id="L0014_015" ulx="400" uly="108" lrx="446" lry="918" />
+      <zone xml:id="L0014_016" ulx="344" uly="114" lrx="389" lry="916" />
+      <zone xml:id="L0014_017" ulx="294" uly="122" lrx="336" lry="909" />
+      <zone xml:id="L0014_018" ulx="237" uly="121" lrx="280" lry="912" />
+      <zone xml:id="L0014_019" ulx="181" uly="117" lrx="230" lry="916" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00020.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0015_000" ulx="1291" uly="126" lrx="1334" lry="913" />
+      <zone xml:id="L0015_001" ulx="1239" uly="121" lrx="1278" lry="922" />
+      <zone xml:id="L0015_002" ulx="1186" uly="276" lrx="1222" lry="734" />
+      <zone xml:id="L0015_003" ulx="1198" uly="721" lrx="1221" lry="782" />
+      <zone xml:id="L0015_004" ulx="1132" uly="119" lrx="1168" lry="913" />
+      <zone xml:id="L0015_005" ulx="1073" uly="281" lrx="1111" lry="598" />
+      <zone xml:id="L0015_006" ulx="1016" uly="111" lrx="1056" lry="917" />
+      <zone xml:id="L0015_007" ulx="961" uly="115" lrx="999" lry="910" />
+      <zone xml:id="L0015_008" ulx="906" uly="110" lrx="944" lry="917" />
+      <zone xml:id="L0015_009" ulx="856" uly="277" lrx="894" lry="681" />
+      <zone xml:id="L0015_010" ulx="801" uly="112" lrx="839" lry="917" />
+      <zone xml:id="L0015_011" ulx="696" uly="106" lrx="739" lry="914" />
+      <zone xml:id="L0015_012" ulx="689" uly="513" lrx="708" lry="623" />
+      <zone xml:id="L0015_013" ulx="646" uly="117" lrx="690" lry="907" />
+      <zone xml:id="L0015_014" ulx="592" uly="115" lrx="635" lry="914" />
+      <zone xml:id="L0015_015" ulx="538" uly="117" lrx="575" lry="651" />
+      <zone xml:id="L0015_016" ulx="564" uly="653" lrx="587" lry="926" />
+      <zone xml:id="L0015_017" ulx="543" uly="654" lrx="566" lry="926" />
+      <zone xml:id="L0015_018" ulx="478" uly="117" lrx="519" lry="916" />
+      <zone xml:id="L0015_019" ulx="419" uly="115" lrx="468" lry="913" />
+      <zone xml:id="L0015_020" ulx="365" uly="114" lrx="412" lry="914" />
+      <zone xml:id="L0015_021" ulx="312" uly="116" lrx="355" lry="918" />
+      <zone xml:id="L0015_022" ulx="257" uly="238" lrx="296" lry="505" />
+      <zone xml:id="L0015_023" ulx="280" uly="511" lrx="301" lry="573" />
+      <zone xml:id="L0015_024" ulx="279" uly="581" lrx="303" lry="877" />
+      <zone xml:id="L0015_025" ulx="258" uly="583" lrx="284" lry="874" />
+      <zone xml:id="L0015_026" ulx="201" uly="112" lrx="247" lry="916" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00011.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0016_000" ulx="1271" uly="268" lrx="1307" lry="608" />
+      <zone xml:id="L0016_001" ulx="1218" uly="110" lrx="1257" lry="917" />
+      <zone xml:id="L0016_002" ulx="1170" uly="126" lrx="1203" lry="278" />
+      <zone xml:id="L0016_003" ulx="1130" uly="342" lrx="1144" lry="423" />
+      <zone xml:id="L0016_004" ulx="1117" uly="343" lrx="1132" lry="419" />
+      <zone xml:id="L0016_005" ulx="1114" uly="254" lrx="1142" lry="343" />
+      <zone xml:id="L0016_006" ulx="1114" uly="434" lrx="1142" lry="636" />
+      <zone xml:id="L0016_007" ulx="1052" uly="143" lrx="1093" lry="750" />
+      <zone xml:id="L0016_008" ulx="1014" uly="535" lrx="1031" lry="631" />
+      <zone xml:id="L0016_009" ulx="1000" uly="536" lrx="1017" lry="629" />
+      <zone xml:id="L0016_010" ulx="999" uly="245" lrx="1033" lry="837" />
+      <zone xml:id="L0016_011" ulx="945" uly="226" lrx="974" lry="653" />
+      <zone xml:id="L0016_012" ulx="886" uly="118" lrx="924" lry="913" />
+      <zone xml:id="L0016_013" ulx="839" uly="115" lrx="872" lry="754" />
+      <zone xml:id="L0016_014" ulx="789" uly="240" lrx="818" lry="606" />
+      <zone xml:id="L0016_015" ulx="681" uly="250" lrx="717" lry="593" />
+      <zone xml:id="L0016_016" ulx="635" uly="255" lrx="666" lry="514" />
+      <zone xml:id="L0016_017" ulx="597" uly="339" lrx="613" lry="433" />
+      <zone xml:id="L0016_018" ulx="581" uly="334" lrx="600" lry="437" />
+      <zone xml:id="L0016_019" ulx="579" uly="245" lrx="608" lry="341" />
+      <zone xml:id="L0016_020" ulx="584" uly="436" lrx="612" lry="504" />
+      <zone xml:id="L0016_021" ulx="598" uly="513" lrx="625" lry="785" />
+      <zone xml:id="L0016_022" ulx="579" uly="512" lrx="602" lry="727" />
+      <zone xml:id="L0016_023" ulx="541" uly="564" lrx="558" lry="665" />
+      <zone xml:id="L0016_024" ulx="524" uly="425" lrx="552" lry="565" />
+      <zone xml:id="L0016_025" ulx="522" uly="256" lrx="552" lry="567" />
+      <zone xml:id="L0016_026" ulx="529" uly="564" lrx="547" lry="665" />
+      <zone xml:id="L0016_027" ulx="487" uly="325" lrx="509" lry="526" />
+      <zone xml:id="L0016_028" ulx="464" uly="326" lrx="488" lry="529" />
+      <zone xml:id="L0016_029" ulx="426" uly="563" lrx="442" lry="667" />
+      <zone xml:id="L0016_030" ulx="414" uly="564" lrx="429" lry="645" />
+      <zone xml:id="L0016_031" ulx="412" uly="568" lrx="427" lry="664" />
+      <zone xml:id="L0016_032" ulx="409" uly="257" lrx="438" lry="566" />
+      <zone xml:id="L0016_033" ulx="347" uly="123" lrx="392" lry="559" />
+      <zone xml:id="L0016_034" ulx="361" uly="562" lrx="379" lry="664" />
+      <zone xml:id="L0016_035" ulx="296" uly="125" lrx="340" lry="721" />
+      <zone xml:id="L0016_036" ulx="239" uly="285" lrx="282" lry="686" />
+      <zone xml:id="L0016_037" ulx="192" uly="305" lrx="222" lry="559" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00005.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0017_000" ulx="1282" uly="118" lrx="1326" lry="905" />
+      <zone xml:id="L0017_001" ulx="1228" uly="117" lrx="1270" lry="906" />
+      <zone xml:id="L0017_002" ulx="1175" uly="114" lrx="1219" lry="910" />
+      <zone xml:id="L0017_003" ulx="1119" uly="119" lrx="1162" lry="907" />
+      <zone xml:id="L0017_004" ulx="1060" uly="116" lrx="1106" lry="913" />
+      <zone xml:id="L0017_005" ulx="1006" uly="122" lrx="1049" lry="910" />
+      <zone xml:id="L0017_006" ulx="951" uly="121" lrx="997" lry="912" />
+      <zone xml:id="L0017_007" ulx="898" uly="117" lrx="943" lry="922" />
+      <zone xml:id="L0017_008" ulx="849" uly="119" lrx="885" lry="589" />
+      <zone xml:id="L0017_009" ulx="800" uly="207" lrx="826" lry="435" />
+      <zone xml:id="L0017_010" ulx="795" uly="536" lrx="840" lry="919" />
+      <zone xml:id="L0017_011" ulx="685" uly="122" lrx="722" lry="394" />
+      <zone xml:id="L0017_012" ulx="634" uly="238" lrx="673" lry="721" />
+      <zone xml:id="L0017_013" ulx="585" uly="282" lrx="619" lry="740" />
+      <zone xml:id="L0017_014" ulx="523" uly="114" lrx="567" lry="912" />
+      <zone xml:id="L0017_015" ulx="467" uly="118" lrx="511" lry="915" />
+      <zone xml:id="L0017_016" ulx="412" uly="289" lrx="451" lry="528" />
+      <zone xml:id="L0017_017" ulx="357" uly="124" lrx="401" lry="906" />
+      <zone xml:id="L0017_018" ulx="303" uly="124" lrx="345" lry="913" />
+      <zone xml:id="L0017_019" ulx="253" uly="284" lrx="289" lry="759" />
+      <zone xml:id="L0017_020" ulx="195" uly="123" lrx="237" lry="906" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00004.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0018_000" ulx="1286" uly="114" lrx="1331" lry="912" />
+      <zone xml:id="L0018_001" ulx="1233" uly="104" lrx="1278" lry="914" />
+      <zone xml:id="L0018_002" ulx="1181" uly="120" lrx="1226" lry="905" />
+      <zone xml:id="L0018_003" ulx="1126" uly="99" lrx="1168" lry="915" />
+      <zone xml:id="L0018_004" ulx="1074" uly="101" lrx="1111" lry="474" />
+      <zone xml:id="L0018_005" ulx="1071" uly="470" lrx="1092" lry="530" />
+      <zone xml:id="L0018_006" ulx="1093" uly="468" lrx="1115" lry="582" />
+      <zone xml:id="L0018_007" ulx="1078" uly="580" lrx="1112" lry="908" />
+      <zone xml:id="L0018_008" ulx="1011" uly="120" lrx="1058" lry="915" />
+      <zone xml:id="L0018_009" ulx="955" uly="118" lrx="1001" lry="916" />
+      <zone xml:id="L0018_010" ulx="902" uly="118" lrx="946" lry="920" />
+      <zone xml:id="L0018_011" ulx="852" uly="125" lrx="894" lry="915" />
+      <zone xml:id="L0018_012" ulx="797" uly="116" lrx="843" lry="926" />
+      <zone xml:id="L0018_013" ulx="695" uly="119" lrx="730" lry="498" />
+      <zone xml:id="L0018_014" ulx="644" uly="167" lrx="686" lry="871" />
+      <zone xml:id="L0018_015" ulx="585" uly="116" lrx="629" lry="918" />
+      <zone xml:id="L0018_016" ulx="530" uly="115" lrx="574" lry="918" />
+      <zone xml:id="L0018_017" ulx="472" uly="118" lrx="517" lry="919" />
+      <zone xml:id="L0018_018" ulx="418" uly="119" lrx="463" lry="919" />
+      <zone xml:id="L0018_019" ulx="362" uly="120" lrx="406" lry="916" />
+      <zone xml:id="L0018_020" ulx="309" uly="124" lrx="351" lry="911" />
+      <zone xml:id="L0018_021" ulx="256" uly="117" lrx="298" lry="917" />
+      <zone xml:id="L0018_022" ulx="200" uly="116" lrx="245" lry="917" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00010.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0019_000" ulx="1270" uly="115" lrx="1313" lry="915" />
+      <zone xml:id="L0019_001" ulx="1219" uly="114" lrx="1260" lry="915" />
+      <zone xml:id="L0019_002" ulx="1160" uly="223" lrx="1202" lry="608" />
+      <zone xml:id="L0019_003" ulx="1115" uly="267" lrx="1153" lry="688" />
+      <zone xml:id="L0019_004" ulx="1055" uly="319" lrx="1093" lry="708" />
+      <zone xml:id="L0019_005" ulx="1012" uly="129" lrx="1038" lry="201" />
+      <zone xml:id="L0019_006" ulx="998" uly="152" lrx="1038" lry="927" />
+      <zone xml:id="L0019_007" ulx="939" uly="108" lrx="985" lry="919" />
+      <zone xml:id="L0019_008" ulx="891" uly="122" lrx="925" lry="366" />
+      <zone xml:id="L0019_009" ulx="842" uly="236" lrx="870" lry="580" />
+      <zone xml:id="L0019_010" ulx="850" uly="591" lrx="870" lry="728" />
+      <zone xml:id="L0019_011" ulx="842" uly="591" lrx="862" lry="729" />
+      <zone xml:id="L0019_012" ulx="836" uly="591" lrx="855" lry="729" />
+      <zone xml:id="L0019_013" ulx="792" uly="261" lrx="819" lry="575" />
+      <zone xml:id="L0019_014" ulx="807" uly="591" lrx="826" lry="728" />
+      <zone xml:id="L0019_015" ulx="792" uly="724" lrx="821" lry="869" />
+      <zone xml:id="L0019_016" ulx="788" uly="589" lrx="807" lry="726" />
+      <zone xml:id="L0019_017" ulx="689" uly="481" lrx="715" lry="553" />
+      <zone xml:id="L0019_018" ulx="684" uly="238" lrx="714" lry="439" />
+      <zone xml:id="L0019_019" ulx="702" uly="573" lrx="723" lry="704" />
+      <zone xml:id="L0019_020" ulx="685" uly="576" lrx="704" lry="702" />
+      <zone xml:id="L0019_021" ulx="693" uly="712" lrx="725" lry="867" />
+      <zone xml:id="L0019_022" ulx="625" uly="139" lrx="669" lry="700" />
+      <zone xml:id="L0019_023" ulx="578" uly="244" lrx="607" lry="357" />
+      <zone xml:id="L0019_024" ulx="591" uly="379" lrx="611" lry="535" />
+      <zone xml:id="L0019_025" ulx="574" uly="379" lrx="594" lry="532" />
+      <zone xml:id="L0019_026" ulx="582" uly="546" lrx="615" lry="735" />
+      <zone xml:id="L0019_027" ulx="522" uly="246" lrx="551" lry="359" />
+      <zone xml:id="L0019_028" ulx="538" uly="383" lrx="561" lry="407" />
+      <zone xml:id="L0019_029" ulx="538" uly="392" lrx="561" lry="535" />
+      <zone xml:id="L0019_030" ulx="521" uly="434" lrx="542" lry="536" />
+      <zone xml:id="L0019_031" ulx="528" uly="548" lrx="560" lry="765" />
+      <zone xml:id="L0019_032" ulx="471" uly="199" lrx="492" lry="237" />
+      <zone xml:id="L0019_033" ulx="464" uly="199" lrx="489" lry="237" />
+      <zone xml:id="L0019_034" ulx="460" uly="122" lrx="490" lry="201" />
+      <zone xml:id="L0019_035" ulx="459" uly="200" lrx="482" lry="238" />
+      <zone xml:id="L0019_036" ulx="475" uly="240" lrx="492" lry="335" />
+      <zone xml:id="L0019_037" ulx="460" uly="242" lrx="478" lry="335" />
+      <zone xml:id="L0019_038" ulx="464" uly="332" lrx="502" lry="915" />
+      <zone xml:id="L0019_039" ulx="423" uly="339" lrx="441" lry="377" />
+      <zone xml:id="L0019_040" ulx="409" uly="339" lrx="426" lry="378" />
+      <zone xml:id="L0019_041" ulx="406" uly="117" lrx="438" lry="341" />
+      <zone xml:id="L0019_042" ulx="427" uly="383" lrx="444" lry="480" />
+      <zone xml:id="L0019_043" ulx="412" uly="478" lrx="446" lry="917" />
+      <zone xml:id="L0019_044" ulx="411" uly="382" lrx="429" lry="480" />
+      <zone xml:id="L0019_045" ulx="351" uly="111" lrx="389" lry="753" />
+      <zone xml:id="L0019_046" ulx="374" uly="747" lrx="390" lry="849" />
+      <zone xml:id="L0019_047" ulx="361" uly="746" lrx="378" lry="841" />
+      <zone xml:id="L0019_048" ulx="362" uly="854" lrx="392" lry="911" />
+      <zone xml:id="L0019_049" ulx="293" uly="109" lrx="344" lry="926" />
+      <zone xml:id="L0019_050" ulx="241" uly="113" lrx="275" lry="390" />
+      <zone xml:id="L0019_051" ulx="225" uly="288" lrx="244" lry="605" />
+      <zone xml:id="L0019_052" ulx="189" uly="251" lrx="223" lry="540" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00006.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0020_000" ulx="1267" uly="120" lrx="1309" lry="911" />
+      <zone xml:id="L0020_001" ulx="1215" uly="248" lrx="1252" lry="523" />
+      <zone xml:id="L0020_002" ulx="1159" uly="118" lrx="1201" lry="913" />
+      <zone xml:id="L0020_003" ulx="1104" uly="117" lrx="1146" lry="915" />
+      <zone xml:id="L0020_004" ulx="1049" uly="238" lrx="1093" lry="735" />
+      <zone xml:id="L0020_005" ulx="993" uly="295" lrx="1031" lry="703" />
+      <zone xml:id="L0020_006" ulx="936" uly="114" lrx="978" lry="930" />
+      <zone xml:id="L0020_007" ulx="888" uly="302" lrx="922" lry="714" />
+      <zone xml:id="L0020_008" ulx="832" uly="114" lrx="873" lry="931" />
+      <zone xml:id="L0020_009" ulx="779" uly="302" lrx="817" lry="715" />
+      <zone xml:id="L0020_010" ulx="677" uly="110" lrx="718" lry="915" />
+      <zone xml:id="L0020_011" ulx="624" uly="115" lrx="666" lry="909" />
+      <zone xml:id="L0020_012" ulx="566" uly="107" lrx="617" lry="920" />
+      <zone xml:id="L0020_013" ulx="510" uly="107" lrx="555" lry="915" />
+      <zone xml:id="L0020_014" ulx="455" uly="108" lrx="501" lry="922" />
+      <zone xml:id="L0020_015" ulx="401" uly="249" lrx="437" lry="656" />
+      <zone xml:id="L0020_016" ulx="344" uly="114" lrx="386" lry="916" />
+      <zone xml:id="L0020_017" ulx="286" uly="117" lrx="331" lry="911" />
+      <zone xml:id="L0020_018" ulx="231" uly="115" lrx="276" lry="915" />
+      <zone xml:id="L0020_019" ulx="178" uly="238" lrx="220" lry="642" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00012.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0021_000" ulx="1232" uly="350" lrx="1267" lry="507" />
+      <zone xml:id="L0021_001" ulx="1125" uly="351" lrx="1160" lry="510" />
+      <zone xml:id="L0021_002" ulx="1133" uly="516" lrx="1166" lry="543" />
+      <zone xml:id="L0021_003" ulx="1282" uly="629" lrx="1318" lry="776" />
+      <zone xml:id="L0021_004" ulx="1178" uly="634" lrx="1214" lry="780" />
+      <zone xml:id="L0021_005" ulx="1062" uly="112" lrx="1106" lry="914" />
+      <zone xml:id="L0021_006" ulx="1009" uly="116" lrx="1049" lry="907" />
+      <zone xml:id="L0021_007" ulx="951" uly="109" lrx="993" lry="917" />
+      <zone xml:id="L0021_008" ulx="899" uly="117" lrx="936" lry="913" />
+      <zone xml:id="L0021_009" ulx="849" uly="116" lrx="886" lry="914" />
+      <zone xml:id="L0021_010" ulx="795" uly="120" lrx="829" lry="308" />
+      <zone xml:id="L0021_011" ulx="684" uly="116" lrx="730" lry="907" />
+      <zone xml:id="L0021_012" ulx="606" uly="210" lrx="637" lry="487" />
+      <zone xml:id="L0021_013" ulx="584" uly="596" lrx="620" lry="742" />
+      <zone xml:id="L0021_014" ulx="522" uly="330" lrx="561" lry="482" />
+      <zone xml:id="L0021_015" ulx="466" uly="561" lrx="500" lry="596" />
+      <zone xml:id="L0021_016" ulx="469" uly="599" lrx="505" lry="752" />
+      <zone xml:id="L0021_017" ulx="404" uly="332" lrx="450" lry="526" />
+      <zone xml:id="L0021_018" ulx="350" uly="118" lrx="399" lry="908" />
+      <zone xml:id="L0021_019" ulx="298" uly="115" lrx="345" lry="912" />
+      <zone xml:id="L0021_020" ulx="243" uly="115" lrx="289" lry="914" />
+      <zone xml:id="L0021_021" ulx="188" uly="122" lrx="238" lry="904" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00013.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0022_000" ulx="1286" uly="116" lrx="1330" lry="907" />
+      <zone xml:id="L0022_001" ulx="1235" uly="119" lrx="1267" lry="431" />
+      <zone xml:id="L0022_002" ulx="1174" uly="117" lrx="1221" lry="906" />
+      <zone xml:id="L0022_003" ulx="1094" uly="235" lrx="1126" lry="488" />
+      <zone xml:id="L0022_004" ulx="1069" uly="547" lrx="1109" lry="743" />
+      <zone xml:id="L0022_005" ulx="1012" uly="324" lrx="1047" lry="475" />
+      <zone xml:id="L0022_006" ulx="902" uly="323" lrx="942" lry="515" />
+      <zone xml:id="L0022_007" ulx="955" uly="552" lrx="992" lry="591" />
+      <zone xml:id="L0022_008" ulx="956" uly="596" lrx="993" lry="737" />
+      <zone xml:id="L0022_009" ulx="850" uly="114" lrx="889" lry="916" />
+      <zone xml:id="L0022_010" ulx="796" uly="109" lrx="837" lry="923" />
+      <zone xml:id="L0022_011" ulx="692" uly="116" lrx="739" lry="915" />
+      <zone xml:id="L0022_012" ulx="643" uly="116" lrx="686" lry="915" />
+      <zone xml:id="L0022_013" ulx="585" uly="111" lrx="631" lry="920" />
+      <zone xml:id="L0022_014" ulx="531" uly="114" lrx="572" lry="914" />
+      <zone xml:id="L0022_015" ulx="471" uly="111" lrx="515" lry="921" />
+      <zone xml:id="L0022_016" ulx="416" uly="114" lrx="461" lry="917" />
+      <zone xml:id="L0022_017" ulx="359" uly="114" lrx="405" lry="919" />
+      <zone xml:id="L0022_018" ulx="307" uly="121" lrx="352" lry="916" />
+      <zone xml:id="L0022_019" ulx="251" uly="115" lrx="297" lry="919" />
+      <zone xml:id="L0022_020" ulx="200" uly="126" lrx="230" lry="286" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00007.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0023_000" ulx="1273" uly="118" lrx="1313" lry="916" />
+      <zone xml:id="L0023_001" ulx="1222" uly="270" lrx="1261" lry="673" />
+      <zone xml:id="L0023_002" ulx="1171" uly="112" lrx="1208" lry="917" />
+      <zone xml:id="L0023_003" ulx="1129" uly="486" lrx="1152" lry="563" />
+      <zone xml:id="L0023_004" ulx="1110" uly="265" lrx="1152" lry="490" />
+      <zone xml:id="L0023_005" ulx="1057" uly="113" lrx="1096" lry="910" />
+      <zone xml:id="L0023_006" ulx="1000" uly="112" lrx="1039" lry="913" />
+      <zone xml:id="L0023_007" ulx="943" uly="113" lrx="986" lry="916" />
+      <zone xml:id="L0023_008" ulx="888" uly="112" lrx="929" lry="918" />
+      <zone xml:id="L0023_009" ulx="870" uly="447" lrx="887" lry="535" />
+      <zone xml:id="L0023_010" ulx="855" uly="448" lrx="872" lry="520" />
+      <zone xml:id="L0023_011" ulx="843" uly="448" lrx="859" lry="521" />
+      <zone xml:id="L0023_012" ulx="842" uly="118" lrx="876" lry="458" />
+      <zone xml:id="L0023_013" ulx="841" uly="519" lrx="873" lry="912" />
+      <zone xml:id="L0023_014" ulx="782" uly="110" lrx="826" lry="924" />
+      <zone xml:id="L0023_015" ulx="680" uly="111" lrx="726" lry="914" />
+      <zone xml:id="L0023_016" ulx="629" uly="118" lrx="671" lry="909" />
+      <zone xml:id="L0023_017" ulx="575" uly="109" lrx="620" lry="916" />
+      <zone xml:id="L0023_018" ulx="516" uly="109" lrx="560" lry="913" />
+      <zone xml:id="L0023_019" ulx="458" uly="110" lrx="503" lry="915" />
+      <zone xml:id="L0023_020" ulx="400" uly="108" lrx="444" lry="919" />
+      <zone xml:id="L0023_021" ulx="346" uly="108" lrx="389" lry="925" />
+      <zone xml:id="L0023_022" ulx="295" uly="264" lrx="334" lry="862" />
+      <zone xml:id="L0023_023" ulx="235" uly="119" lrx="282" lry="918" />
+      <zone xml:id="L0023_024" ulx="182" uly="240" lrx="229" lry="866" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00003.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0024_000" ulx="1279" uly="82" lrx="1313" lry="130" />
+      <zone xml:id="L0024_001" ulx="1223" uly="91" lrx="1264" lry="163" />
+      <zone xml:id="L0024_002" ulx="1237" uly="124" lrx="1290" lry="526" />
+      <zone xml:id="L0024_003" ulx="1170" uly="91" lrx="1204" lry="118" />
+      <zone xml:id="L0024_004" ulx="1131" uly="129" lrx="1195" lry="527" />
+      <zone xml:id="L0024_005" ulx="1193" uly="513" lrx="1239" lry="860" />
+      <zone xml:id="L0024_006" ulx="1117" uly="88" lrx="1149" lry="129" />
+      <zone xml:id="L0024_007" ulx="1063" uly="90" lrx="1092" lry="125" />
+      <zone xml:id="L0024_008" ulx="1005" uly="91" lrx="1035" lry="127" />
+      <zone xml:id="L0024_009" ulx="1008" uly="105" lrx="1094" lry="781" />
+      <zone xml:id="L0024_010" ulx="954" uly="89" lrx="983" lry="119" />
+      <zone xml:id="L0024_011" ulx="950" uly="376" lrx="996" lry="832" />
+      <zone xml:id="L0024_012" ulx="896" uly="87" lrx="925" lry="126" />
+      <zone xml:id="L0024_013" ulx="846" uly="86" lrx="874" lry="123" />
+      <zone xml:id="L0024_014" ulx="824" uly="133" lrx="857" lry="322" />
+      <zone xml:id="L0024_015" ulx="817" uly="122" lrx="860" lry="820" />
+      <zone xml:id="L0024_016" ulx="793" uly="85" lrx="831" lry="122" />
+      <zone xml:id="L0024_017" ulx="691" uly="368" lrx="717" lry="445" />
+      <zone xml:id="L0024_018" ulx="683" uly="121" lrx="717" lry="361" />
+      <zone xml:id="L0024_019" ulx="631" uly="119" lrx="679" lry="908" />
+      <zone xml:id="L0024_020" ulx="577" uly="113" lrx="622" lry="922" />
+      <zone xml:id="L0024_021" ulx="542" uly="532" lrx="564" lry="670" />
+      <zone xml:id="L0024_022" ulx="524" uly="532" lrx="544" lry="671" />
+      <zone xml:id="L0024_023" ulx="520" uly="115" lrx="562" lry="540" />
+      <zone xml:id="L0024_024" ulx="531" uly="684" lrx="563" lry="909" />
+      <zone xml:id="L0024_025" ulx="462" uly="115" lrx="508" lry="917" />
+      <zone xml:id="L0024_026" ulx="407" uly="116" lrx="454" lry="917" />
+      <zone xml:id="L0024_027" ulx="353" uly="116" lrx="398" lry="924" />
+      <zone xml:id="L0024_028" ulx="299" uly="117" lrx="347" lry="921" />
+      <zone xml:id="L0024_029" ulx="245" uly="120" lrx="290" lry="914" />
+      <zone xml:id="L0024_030" ulx="189" uly="120" lrx="242" lry="918" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00017.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0025_000" ulx="1263" uly="228" lrx="1308" lry="550" />
+      <zone xml:id="L0025_001" ulx="1213" uly="107" lrx="1255" lry="902" />
+      <zone xml:id="L0025_002" ulx="1153" uly="237" lrx="1198" lry="430" />
+      <zone xml:id="L0025_003" ulx="1102" uly="107" lrx="1144" lry="897" />
+      <zone xml:id="L0025_004" ulx="1046" uly="228" lrx="1088" lry="809" />
+      <zone xml:id="L0025_005" ulx="992" uly="110" lrx="1030" lry="900" />
+      <zone xml:id="L0025_006" ulx="935" uly="109" lrx="973" lry="899" />
+      <zone xml:id="L0025_007" ulx="878" uly="235" lrx="917" lry="490" />
+      <zone xml:id="L0025_008" ulx="830" uly="105" lrx="868" lry="908" />
+      <zone xml:id="L0025_009" ulx="772" uly="230" lrx="816" lry="636" />
+      <zone xml:id="L0025_010" ulx="673" uly="315" lrx="708" lry="367" />
+      <zone xml:id="L0025_011" ulx="666" uly="470" lrx="703" lry="513" />
+      <zone xml:id="L0025_012" ulx="618" uly="117" lrx="662" lry="914" />
+      <zone xml:id="L0025_013" ulx="567" uly="320" lrx="603" lry="356" />
+      <zone xml:id="L0025_014" ulx="565" uly="317" lrx="603" lry="512" />
+      <zone xml:id="L0025_015" ulx="506" uly="114" lrx="552" lry="917" />
+      <zone xml:id="L0025_016" ulx="447" uly="316" lrx="489" lry="518" />
+      <zone xml:id="L0025_017" ulx="390" uly="114" lrx="437" lry="915" />
+      <zone xml:id="L0025_018" ulx="334" uly="315" lrx="377" lry="519" />
+      <zone xml:id="L0025_019" ulx="278" uly="113" lrx="332" lry="917" />
+      <zone xml:id="L0025_020" ulx="228" uly="315" lrx="273" lry="518" />
+      <zone xml:id="L0025_021" ulx="168" uly="113" lrx="223" lry="922" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00016.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0026_000" ulx="1274" uly="106" lrx="1321" lry="910" />
+      <zone xml:id="L0026_001" ulx="1217" uly="107" lrx="1263" lry="911" />
+      <zone xml:id="L0026_002" ulx="1170" uly="109" lrx="1211" lry="911" />
+      <zone xml:id="L0026_003" ulx="1147" uly="350" lrx="1171" lry="433" />
+      <zone xml:id="L0026_004" ulx="1113" uly="106" lrx="1155" lry="781" />
+      <zone xml:id="L0026_005" ulx="1054" uly="254" lrx="1095" lry="617" />
+      <zone xml:id="L0026_006" ulx="1004" uly="309" lrx="1040" lry="553" />
+      <zone xml:id="L0026_007" ulx="942" uly="101" lrx="985" lry="894" />
+      <zone xml:id="L0026_008" ulx="892" uly="119" lrx="930" lry="785" />
+      <zone xml:id="L0026_009" ulx="840" uly="209" lrx="882" lry="615" />
+      <zone xml:id="L0026_010" ulx="784" uly="108" lrx="826" lry="901" />
+      <zone xml:id="L0026_011" ulx="677" uly="98" lrx="725" lry="909" />
+      <zone xml:id="L0026_012" ulx="628" uly="98" lrx="677" lry="908" />
+      <zone xml:id="L0026_013" ulx="576" uly="112" lrx="608" lry="246" />
+      <zone xml:id="L0026_014" ulx="515" uly="98" lrx="559" lry="910" />
+      <zone xml:id="L0026_015" ulx="461" uly="99" lrx="507" lry="916" />
+      <zone xml:id="L0026_016" ulx="402" uly="245" lrx="444" lry="647" />
+      <zone xml:id="L0026_017" ulx="349" uly="100" lrx="391" lry="914" />
+      <zone xml:id="L0026_018" ulx="299" uly="444" lrx="336" lry="899" />
+      <zone xml:id="L0026_019" ulx="292" uly="111" lrx="337" lry="911" />
+      <zone xml:id="L0026_020" ulx="238" uly="111" lrx="283" lry="906" />
+      <zone xml:id="L0026_021" ulx="188" uly="119" lrx="230" lry="809" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00002.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0027_000" ulx="475" uly="57" lrx="503" lry="262" />
+      <zone xml:id="L0027_001" ulx="445" uly="644" lrx="481" lry="683" />
+      <zone xml:id="L0027_002" ulx="433" uly="85" lrx="480" lry="496" />
+      <zone xml:id="L0027_003" ulx="439" uly="790" lrx="563" lry="820" />
+      <zone xml:id="L0027_004" ulx="226" uly="163" lrx="335" lry="693" />
+      <zone xml:id="L0027_005" ulx="1279" uly="169" lrx="1333" lry="224" />
+      <zone xml:id="L0027_006" ulx="1275" uly="140" lrx="1335" lry="174" />
+      <zone xml:id="L0027_007" ulx="890" uly="930" lrx="928" lry="971" />
+      <zone xml:id="L0027_008" ulx="905" uly="915" lrx="1198" lry="971" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00014.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0028_000" ulx="1278" uly="117" lrx="1328" lry="908" />
+      <zone xml:id="L0028_001" ulx="1228" uly="246" lrx="1267" lry="622" />
+      <zone xml:id="L0028_002" ulx="1174" uly="264" lrx="1216" lry="557" />
+      <zone xml:id="L0028_003" ulx="1195" uly="566" lrx="1225" lry="901" />
+      <zone xml:id="L0028_004" ulx="1174" uly="569" lrx="1198" lry="857" />
+      <zone xml:id="L0028_005" ulx="1118" uly="328" lrx="1161" lry="908" />
+      <zone xml:id="L0028_006" ulx="1071" uly="330" lrx="1102" lry="547" />
+      <zone xml:id="L0028_007" ulx="1005" uly="114" lrx="1047" lry="919" />
+      <zone xml:id="L0028_008" ulx="954" uly="111" lrx="992" lry="721" />
+      <zone xml:id="L0028_009" ulx="900" uly="116" lrx="941" lry="907" />
+      <zone xml:id="L0028_010" ulx="887" uly="707" lrx="908" lry="808" />
+      <zone xml:id="L0028_011" ulx="846" uly="109" lrx="887" lry="915" />
+      <zone xml:id="L0028_012" ulx="794" uly="118" lrx="830" lry="491" />
+      <zone xml:id="L0028_013" ulx="688" uly="266" lrx="728" lry="552" />
+      <zone xml:id="L0028_014" ulx="642" uly="309" lrx="679" lry="528" />
+      <zone xml:id="L0028_015" ulx="580" uly="114" lrx="626" lry="671" />
+      <zone xml:id="L0028_016" ulx="522" uly="106" lrx="575" lry="918" />
+      <zone xml:id="L0028_017" ulx="516" uly="732" lrx="538" lry="816" />
+      <zone xml:id="L0028_018" ulx="468" uly="112" lrx="515" lry="912" />
+      <zone xml:id="L0028_019" ulx="413" uly="116" lrx="447" lry="363" />
+      <zone xml:id="L0028_020" ulx="354" uly="268" lrx="400" lry="543" />
+      <zone xml:id="L0028_021" ulx="322" uly="424" lrx="350" lry="624" />
+      <zone xml:id="L0028_022" ulx="299" uly="424" lrx="325" lry="623" />
+      <zone xml:id="L0028_023" ulx="244" uly="126" lrx="287" lry="476" />
+      <zone xml:id="L0028_024" ulx="189" uly="113" lrx="244" lry="926" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00028.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0029_000" ulx="1271" uly="126" lrx="1311" lry="915" />
+      <zone xml:id="L0029_001" ulx="1221" uly="123" lrx="1259" lry="913" />
+      <zone xml:id="L0029_002" ulx="1167" uly="116" lrx="1206" lry="919" />
+      <zone xml:id="L0029_003" ulx="1110" uly="117" lrx="1150" lry="922" />
+      <zone xml:id="L0029_004" ulx="1057" uly="121" lrx="1095" lry="915" />
+      <zone xml:id="L0029_005" ulx="1005" uly="118" lrx="1037" lry="512" />
+      <zone xml:id="L0029_006" ulx="943" uly="226" lrx="986" lry="674" />
+      <zone xml:id="L0029_007" ulx="890" uly="117" lrx="933" lry="919" />
+      <zone xml:id="L0029_008" ulx="841" uly="116" lrx="882" lry="923" />
+      <zone xml:id="L0029_009" ulx="788" uly="119" lrx="826" lry="636" />
+      <zone xml:id="L0029_010" ulx="189" uly="174" lrx="228" lry="608" />
+      <zone xml:id="L0029_011" ulx="247" uly="127" lrx="297" lry="177" />
+      <zone xml:id="L0029_012" ulx="458" uly="140" lrx="664" lry="174" />
+      <zone xml:id="L0029_013" ulx="431" uly="139" lrx="468" lry="175" />
+      <zone xml:id="L0029_014" ulx="311" uly="134" lrx="643" lry="176" />
+      <zone xml:id="L0029_015" ulx="246" uly="137" lrx="407" lry="180" />
+      <zone xml:id="L0029_016" ulx="473" uly="197" lrx="517" lry="297" />
+      <zone xml:id="L0029_017" ulx="387" uly="202" lrx="433" lry="302" />
+      <zone xml:id="L0029_018" ulx="295" uly="237" lrx="370" lry="315" />
+      <zone xml:id="L0029_019" ulx="252" uly="375" lrx="331" lry="400" />
+      <zone xml:id="L0029_020" ulx="250" uly="341" lrx="333" lry="380" />
+      <zone xml:id="L0029_021" ulx="246" uly="345" lrx="334" lry="397" />
+      <zone xml:id="L0029_022" ulx="367" uly="332" lrx="390" lry="359" />
+      <zone xml:id="L0029_023" ulx="347" uly="376" lrx="375" lry="398" />
+      <zone xml:id="L0029_024" ulx="255" uly="424" lrx="334" lry="476" />
+      <zone xml:id="L0029_025" ulx="348" uly="428" lrx="376" lry="450" />
+      <zone xml:id="L0029_026" ulx="251" uly="434" lrx="334" lry="495" />
+      <zone xml:id="L0029_027" ulx="281" uly="478" lrx="372" lry="579" />
+      <zone xml:id="L0029_028" ulx="430" uly="361" lrx="461" lry="464" />
+      <zone xml:id="L0029_029" ulx="392" uly="528" lrx="432" lry="618" />
+      <zone xml:id="L0029_030" ulx="471" uly="528" lrx="512" lry="620" />
+      <zone xml:id="L0029_031" ulx="566" uly="255" lrx="618" lry="299" />
+      <zone xml:id="L0029_032" ulx="528" uly="248" lrx="619" lry="339" />
+      <zone xml:id="L0029_033" ulx="574" uly="354" lrx="662" lry="399" />
+      <zone xml:id="L0029_034" ulx="530" uly="431" lrx="557" lry="452" />
+      <zone xml:id="L0029_035" ulx="561" uly="422" lrx="658" lry="468" />
+      <zone xml:id="L0029_036" ulx="536" uly="521" lrx="602" lry="585" />
+      <zone xml:id="L0029_037" ulx="569" uly="430" lrx="660" lry="487" />
+      <zone xml:id="L0029_038" ulx="677" uly="163" lrx="717" lry="619" />
+      <zone xml:id="L0029_039" ulx="613" uly="635" lrx="645" lry="693" />
+      <zone xml:id="L0029_040" ulx="694" uly="730" lrx="718" lry="808" />
+      <zone xml:id="L0029_041" ulx="670" uly="707" lrx="699" lry="916" />
+      <zone xml:id="L0029_042" ulx="649" uly="708" lrx="673" lry="809" />
+      <zone xml:id="L0029_043" ulx="587" uly="711" lrx="612" lry="807" />
+      <zone xml:id="L0029_044" ulx="563" uly="704" lrx="588" lry="821" />
+      <zone xml:id="L0029_045" ulx="541" uly="706" lrx="567" lry="808" />
+      <zone xml:id="L0029_046" ulx="563" uly="703" lrx="590" lry="913" />
+      <zone xml:id="L0029_047" ulx="437" uly="630" lrx="482" lry="925" />
+      <zone xml:id="L0029_048" ulx="321" uly="712" lrx="390" lry="782" />
+      <zone xml:id="L0029_049" ulx="335" uly="717" lrx="367" lry="916" />
+      <zone xml:id="L0029_050" ulx="321" uly="712" lrx="386" lry="752" />
+      <zone xml:id="L0029_051" ulx="318" uly="720" lrx="342" lry="812" />
+      <zone xml:id="L0029_052" ulx="273" uly="637" lrx="310" lry="715" />
+      <zone xml:id="L0029_053" ulx="253" uly="720" lrx="277" lry="816" />
+      <zone xml:id="L0029_054" ulx="219" uly="720" lrx="275" lry="803" />
+      <zone xml:id="L0029_055" ulx="216" uly="718" lrx="276" lry="751" />
+      <zone xml:id="L0029_056" ulx="208" uly="722" lrx="231" lry="817" />
+      <zone xml:id="L0029_057" ulx="228" uly="722" lrx="254" lry="918" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00029.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0030_000" ulx="1276" uly="122" lrx="1320" lry="906" />
+      <zone xml:id="L0030_001" ulx="1244" uly="337" lrx="1264" lry="381" />
+      <zone xml:id="L0030_002" ulx="1225" uly="118" lrx="1258" lry="341" />
+      <zone xml:id="L0030_003" ulx="1225" uly="338" lrx="1244" lry="383" />
+      <zone xml:id="L0030_004" ulx="1244" uly="515" lrx="1264" lry="566" />
+      <zone xml:id="L0030_005" ulx="1234" uly="500" lrx="1254" lry="586" />
+      <zone xml:id="L0030_006" ulx="1228" uly="383" lrx="1260" lry="516" />
+      <zone xml:id="L0030_007" ulx="1227" uly="514" lrx="1245" lry="566" />
+      <zone xml:id="L0030_008" ulx="1227" uly="563" lrx="1261" lry="907" />
+      <zone xml:id="L0030_009" ulx="1166" uly="120" lrx="1210" lry="912" />
+      <zone xml:id="L0030_010" ulx="1114" uly="120" lrx="1156" lry="912" />
+      <zone xml:id="L0030_011" ulx="1058" uly="119" lrx="1099" lry="906" />
+      <zone xml:id="L0030_012" ulx="1001" uly="115" lrx="1040" lry="473" />
+      <zone xml:id="L0030_013" ulx="945" uly="292" lrx="988" lry="504" />
+      <zone xml:id="L0030_014" ulx="891" uly="114" lrx="933" lry="909" />
+      <zone xml:id="L0030_015" ulx="844" uly="114" lrx="881" lry="669" />
+      <zone xml:id="L0030_016" ulx="786" uly="114" lrx="825" lry="719" />
+      <zone xml:id="L0030_017" ulx="671" uly="107" lrx="730" lry="914" />
+      <zone xml:id="L0030_018" ulx="628" uly="120" lrx="656" lry="272" />
+      <zone xml:id="L0030_019" ulx="571" uly="113" lrx="609" lry="546" />
+      <zone xml:id="L0030_020" ulx="514" uly="115" lrx="561" lry="838" />
+      <zone xml:id="L0030_021" ulx="450" uly="115" lrx="494" lry="577" />
+      <zone xml:id="L0030_022" ulx="402" uly="116" lrx="443" lry="705" />
+      <zone xml:id="L0030_023" ulx="344" uly="120" lrx="388" lry="649" />
+      <zone xml:id="L0030_024" ulx="283" uly="114" lrx="341" lry="918" />
+      <zone xml:id="L0030_025" ulx="281" uly="456" lrx="298" lry="542" />
+      <zone xml:id="L0030_026" ulx="239" uly="125" lrx="270" lry="208" />
+      <zone xml:id="L0030_027" ulx="182" uly="117" lrx="234" lry="917" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00001.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0031_000" ulx="1134" uly="108" lrx="1169" lry="916" />
+      <zone xml:id="L0031_001" ulx="1012" uly="408" lrx="1028" lry="465" />
+      <zone xml:id="L0031_002" ulx="622" uly="89" lrx="671" lry="224" />
+      <zone xml:id="L0031_003" ulx="567" uly="100" lrx="606" lry="177" />
+      <zone xml:id="L0031_004" ulx="659" uly="816" lrx="700" lry="841" />
+      <zone xml:id="L0031_005" ulx="658" uly="827" lrx="703" lry="898" />
+      <zone xml:id="L0031_006" ulx="424" uly="50" lrx="505" lry="861" />
+      <zone xml:id="L0031_007" ulx="449" uly="90" lrx="546" lry="129" />
+    </surface>
+    <surface>
+      <graphic url="/Users/grob/Documents/projects/japanese/original-manuscript/page_00015.jpg" width="1525px" height="1024px" />
+      <zone xml:id="L0032_000" ulx="1290" uly="537" lrx="1316" lry="623" />
+      <zone xml:id="L0032_001" ulx="1289" uly="756" lrx="1319" lry="799" />
+      <zone xml:id="L0032_002" ulx="1278" uly="106" lrx="1328" lry="914" />
+      <zone xml:id="L0032_003" ulx="1268" uly="537" lrx="1291" lry="628" />
+      <zone xml:id="L0032_004" ulx="1271" uly="756" lrx="1290" lry="847" />
+      <zone xml:id="L0032_005" ulx="1229" uly="118" lrx="1267" lry="449" />
+      <zone xml:id="L0032_006" ulx="1177" uly="274" lrx="1213" lry="571" />
+      <zone xml:id="L0032_007" ulx="1115" uly="316" lrx="1163" lry="373" />
+      <zone xml:id="L0032_008" ulx="1142" uly="443" lrx="1166" lry="642" />
+      <zone xml:id="L0032_009" ulx="1121" uly="443" lrx="1142" lry="642" />
+      <zone xml:id="L0032_010" ulx="1064" uly="119" lrx="1103" lry="362" />
+      <zone xml:id="L0032_011" ulx="1174" uly="670" lrx="1199" lry="907" />
+      <zone xml:id="L0032_012" ulx="1149" uly="669" lrx="1178" lry="899" />
+      <zone xml:id="L0032_013" ulx="1127" uly="671" lrx="1152" lry="878" />
+      <zone xml:id="L0032_014" ulx="1010" uly="115" lrx="1051" lry="907" />
+      <zone xml:id="L0032_015" ulx="955" uly="108" lrx="995" lry="909" />
+      <zone xml:id="L0032_016" ulx="902" uly="114" lrx="941" lry="352" />
+      <zone xml:id="L0032_017" ulx="844" uly="281" lrx="890" lry="559" />
+      <zone xml:id="L0032_018" ulx="797" uly="441" lrx="820" lry="619" />
+      <zone xml:id="L0032_019" ulx="819" uly="441" lrx="843" lry="616" />
+      <zone xml:id="L0032_020" ulx="680" uly="99" lrx="734" lry="912" />
+      <zone xml:id="L0032_021" ulx="632" uly="113" lrx="665" lry="220" />
+      <zone xml:id="L0032_022" ulx="578" uly="102" lrx="627" lry="913" />
+      <zone xml:id="L0032_023" ulx="519" uly="109" lrx="566" lry="873" />
+      <zone xml:id="L0032_024" ulx="462" uly="270" lrx="503" lry="645" />
+      <zone xml:id="L0032_025" ulx="412" uly="338" lrx="457" lry="914" />
+      <zone xml:id="L0032_026" ulx="359" uly="344" lrx="394" lry="598" />
+      <zone xml:id="L0032_027" ulx="300" uly="112" lrx="351" lry="917" />
+      <zone xml:id="L0032_028" ulx="241" uly="112" lrx="296" lry="914" />
+      <zone xml:id="L0032_029" ulx="192" uly="110" lrx="241" lry="912" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <p>
+        <pb n="page_00018.jpg" facs="#page_00018.jpg" />
+        <lb n="0" facs="#L0000_000" />天ノ性<lb n="1" facs="#L0000_001" />一宣下とも五月万分天性の利のなるときと兼て知るべし<lb n="2" facs="#L0000_002" />商定式<lb n="3" facs="#L0000_003" />間下とも五分一刻に随ひて二割三刻む糸銀と忘れ<lb n="4" facs="#L0000_004" />平来定式普通本此一章ナトシタリ<lb n="5" facs="#L0000_005" />売買は五分高下にて平すべし或も同じく五分高くり也<lb n="6" facs="#L0000_006" />売買定式<lb n="7" facs="#L0000_007" />買時は端午名月米ざよりはこは水亡月文月としれ<lb n="8" facs="#L0000_008" />○智仁勇三徳四<lb n="9" facs="#L0000_009" />四十八首<lb n="10" facs="#L0000_010" />第十五<lb n="11" facs="#L0000_011" />一校正同知日ノ歳ルナリ順徳ナリ善意チ聞タル跡ナリ<lb n="12" facs="#L0000_012" />知十首杉正志曰智ト求ルナリ順徳ナリ順徳ナリ<lb n="13" facs="#L0000_013" />順商内となりたらは万両にも一手に葬事知るの秘密なり<lb n="14" facs="#L0000_014" />多きせばせかず答がずまつはにむかには普理乖は智の徳<lb n="15" facs="#L0000_015" />一待は仁むかふは売理のまと知る半橋商内妙術としれ<lb n="16" facs="#L0000_016" />一天元商力三年もみなるとい蘭齋はたがしき本商句としれ<lb n="17" facs="#L0000_017" />○宮下とも五分一刻は桑がよし中墨すぎて葬は馬鹿なり<lb n="18" facs="#L0000_018" />一土下とも長き足には痰がよし雉子口上には桑さるがよし<lb n="19" facs="#L0000_019" />〇・社風中から後あぶりの旬来れば金の王きでは飛上りなり<lb n="20" facs="#L0000_020" />○水無月の米のきれめの音なぐれ春田時夕に飛さがはなり<lb n="21" facs="#L0000_021" />〇五月米人気弱く所尊に上る飛上り商内の旬としるべし<lb n="22" facs="#L0000_022" />〇あぶる埋来時いさだねど等ぶるまじ理を水にやげて米に随へ<pb n="page_00030.jpg" facs="#page_00030.jpg" />
+        <lb n="0" facs="#L0001_000" />の害合ありくるべし<lb n="1" facs="#L0001_001" />世の中積のこと弱気に八分に十八里にては強気には<lb n="2" facs="#L0001_002" />書分誰とつもる是こがひに勝負なしの中黒り続なる<lb n="3" facs="#L0001_003" />べし右強気の功かくの如しさて植はけより早魃風<lb n="4" facs="#L0001_004" />局の天災もなく十分の世の中といふは百年に三箇年な<lb n="5" facs="#L0001_005" />らではなるべからず我国豊卑なりとても東西南北の国<lb n="6" facs="#L0001_006" />は吹こたる国もあるべし前一箇目の豊平を見て日本<lb n="7" facs="#L0001_007" />〽国中よかるべしとかならず〳〵思ふへにらず惣じて下直<lb n="8" facs="#L0001_008" />なる国よりさきへあがる物なり老ふべし買方にはすき<lb n="9" facs="#L0001_009" />ならし物などを買あげて米をあくる理もあたが<lb n="10" facs="#L0001_010" />うりには天性の理をいた広あり外に一理もなし買方に<lb n="11" facs="#L0001_011" />一刻の強みあること能々差ふべし<lb n="12" facs="#L0001_012" />弱気の功<lb n="13" facs="#L0001_013" />一大高直段の耳々□酒など御目あまいは<lb n="14" facs="#L0001_014" />一事仰出シのあるべし其外□また町中御勘門など仰<lb n="15" facs="#L0001_015" />一出のあるべし是また老ふべし<lb n="16" facs="#L0001_016" />或は吹もせぬ風を吹たりといひすこしの破損も火分のや<lb n="17" facs="#L0001_017" />へ北にいつはり買〆などいたす年も日本は神国にて正通<lb n="18" facs="#L0001_018" />一をもとする団故天性の天よりもあるべし強気の風雨<lb n="19" facs="#L0001_019" />のいひたり尤なれば船に船に船に船に気を見てほし候<pb n="page_00024.jpg" facs="#page_00024.jpg" />
+        <lb n="0" facs="#L0002_000" />千両王子二千両にでも買べし一者の選ためしと思ふべし<lb n="1" facs="#L0002_001" />此郎へのさげは子に六と川の事なり<lb n="2" facs="#L0002_002" />○弱気五つの秘伝図<lb n="3" facs="#L0002_003" />第二<lb n="4" facs="#L0002_004" />第一<lb n="5" facs="#L0002_005" />一刻半あげ百石<lb n="6" facs="#L0002_006" />二刻あげ二百両<lb n="7" facs="#L0002_007" />第一一刻刻等あげ百石<lb n="8" facs="#L0002_008" />○第一一刻半なげ百石○㐧二二刻あげ二百両〇第二二<lb n="9" facs="#L0002_009" />半等げ四百両<lb n="10" facs="#L0002_010" />第四<lb n="11" facs="#L0002_011" />三刻あげ八百両<lb n="12" facs="#L0002_012" />第五<lb n="13" facs="#L0002_013" />三割余あげは<lb n="14" facs="#L0002_014" />右同断同同同壱人<lb n="15" facs="#L0002_015" />千両にても二千両にても売べし<lb n="16" facs="#L0002_016" />天元産るナリ<lb n="17" facs="#L0002_017" />第一<lb n="18" facs="#L0002_018" />中墨廿俵ハ七十七俵<lb n="19" facs="#L0002_019" />六斗八升<lb n="20" facs="#L0002_020" />大十九斗九分<lb n="21" facs="#L0002_021" />百両売十六俵は<lb n="22" facs="#L0002_022" />一百両売十六俵五十五俵<lb n="23" facs="#L0002_023" />一九斗六升<lb n="24" facs="#L0002_024" />二百両売十四俵<lb n="25" facs="#L0002_025" />百十四丁目<lb n="26" facs="#L0002_026" />引にて四百両売七十俵の損一刻さが<lb n="27" facs="#L0002_027" />一生は百六十俵の徳なり<lb n="28" facs="#L0002_028" />第二<lb n="29" facs="#L0002_029" />一中春廿俵ハ七二十六俵<lb n="30" facs="#L0002_030" />九斗四升<lb n="31" facs="#L0002_031" />九十九匁九分<lb n="32" facs="#L0002_032" />口にて二百両<lb n="33" facs="#L0002_033" />売十五俵<lb n="34" facs="#L0002_034" />五斗六升<lb n="35" facs="#L0002_035" />百十四匁一分<lb n="36" facs="#L0002_036" />にて二百両売十四俵は<lb n="37" facs="#L0002_037" />一貫四百両〆八百<lb n="38" facs="#L0002_038" />一両売六十俵の損一刻さがれは百六十俵の徳なり<lb n="39" facs="#L0002_039" />第三<lb n="40" facs="#L0002_040" />中奏世俵ハ奉存より二刻半木げ十五俵七匁<lb n="41" facs="#L0002_041" />五斗六升<lb n="42" facs="#L0002_042" />直て四百両売〆八百両売四十俵の損一刻<lb n="43" facs="#L0002_043" />一百十四匁一分<lb n="44" facs="#L0002_044" />売十四俵<lb n="45" facs="#L0002_045" />さぶれは百六十俵の徳なり<lb n="46" facs="#L0002_046" />第四<pb n="page_00025.jpg" facs="#page_00025.jpg" />
+        <lb n="0" facs="#L0003_000" />中墨廿俵弐十四俵<lb n="1" facs="#L0003_001" />一刻さがれは百六十俵の徳なり<lb n="2" facs="#L0003_002" />第五<lb n="3" facs="#L0003_003" />中墨世優ざり件まり三刻余もあがり十二三俵ならは千両<lb n="4" facs="#L0003_004" />にても二千両にても一書の道だめしとおもふべし此うへのあげと<lb n="5" facs="#L0003_005" />ても千に六と川の上となり<lb n="6" facs="#L0003_006" />○七福郎生秘密巻目<lb n="7" facs="#L0003_007" />惣けて唐端は三刻てげ三刻ほどと申せども買方には<lb n="8" facs="#L0003_008" />一刻の強み相見え候へは買方にすぐるゝことなしいつのと<lb n="9" facs="#L0003_009" />申にても新米初直段を中墨と見て買べし<lb n="10" facs="#L0003_010" />一強気逆権商内<lb n="11" facs="#L0003_011" />逆積の商力中墨あり二刻までは一刻はなし<lb n="12" facs="#L0003_012" />一二刻余は五分なしなり<lb n="13" facs="#L0003_013" />八千八千八千八万八千八百<lb n="14" facs="#L0003_014" />中墨廿俵七十五分にて百両買也<lb n="15" facs="#L0003_015" />天元<lb n="16" facs="#L0003_016" />天元<lb n="17" facs="#L0003_017" />南内<lb n="18" facs="#L0003_018" />廿二俵<lb n="19" facs="#L0003_019" />七十二斗七分<lb n="20" facs="#L0003_020" />にて百両買<lb n="21" facs="#L0003_021" />九郎六升<lb n="22" facs="#L0003_022" />九郎六十一<lb n="23" facs="#L0003_023" />同七十六匁<lb n="24" facs="#L0003_024" />十一月廿四俵<lb n="25" facs="#L0003_025" />一刻廿一リコーデ<lb n="26" facs="#L0003_026" />に<lb n="27" facs="#L0003_027" />六十二匁五分子<lb n="28" facs="#L0003_028" />ニテ二割サザリナリ<lb n="29" facs="#L0003_029" />廿五俵<lb n="30" facs="#L0003_030" />にて二百両買<lb n="31" facs="#L0003_031" />五分<lb n="32" facs="#L0003_032" />廿六俵<lb n="33" facs="#L0003_033" />天四百両四貫<lb n="34" facs="#L0003_034" />一石四升<lb n="35" facs="#L0003_035" />六十一匁五分<lb n="36" facs="#L0003_036" />五分下リ五分ト五分ニテ<lb n="37" facs="#L0003_037" />一割郡合にて三割<lb n="38" facs="#L0003_038" />にて八百両買<lb n="39" facs="#L0003_039" />同十二年<lb n="40" facs="#L0003_040" />参物<lb n="41" facs="#L0003_041" />一千六百両買持百八十俵の損一割あがくと三百廿俵の徳の徳<lb n="42" facs="#L0003_042" />順徳の音申と<lb n="43" facs="#L0003_043" />一強気一割あげ順徳逆損商内<lb n="44" facs="#L0003_044" />一五方ならし<lb n="45" facs="#L0003_045" />天元<lb n="46" facs="#L0003_046" />屏風<lb n="47" facs="#L0003_047" />にて百石売<lb n="48" facs="#L0003_048" />中墨廿俵<lb n="49" facs="#L0003_049" />拾九俵<lb n="50" facs="#L0003_050" />七本土升<lb n="51" facs="#L0003_051" />一八十四丁<lb n="52" facs="#L0003_052" />壱子まは<lb n="53" facs="#L0003_053" />一本順<lb n="54" facs="#L0003_054" />御通し五分一刻あがり。拾八俵<lb n="55" facs="#L0003_055" />七斗二升<lb n="56" facs="#L0003_056" />ハ十八匁<lb n="57" facs="#L0003_057" />徳ナリ<lb n="58" facs="#L0003_058" />にて売次廿俵の徳<lb n="59" facs="#L0003_059" />一割半<lb n="60" facs="#L0003_060" />拾六俵<lb n="61" facs="#L0003_061" />午午四午<lb n="62" facs="#L0003_062" />九十九匁九分<lb n="63" facs="#L0003_063" />にて<pb n="page_00031.jpg" facs="#page_00031.jpg" />
+        <lb n="0" facs="#L0004_000" />へは砂損もなく難なれは入船なり風はげしき時は火災<lb n="1" facs="#L0004_001" />をおそれて蔵結にす<lb n="2" facs="#L0004_002" />毎年初通段氏中墨と見る是第一の秘伝なり早々中<lb n="3" facs="#L0004_003" />墨を買申け第二なり正金百両にて百両の商印を初発に<lb n="4" facs="#L0004_004" />こつる第三秘伝なり<lb n="5" facs="#L0004_005" />一陰米陽米といふことありあがる米を陽くだる米を陰と<lb n="6" facs="#L0004_006" />一品其理は陰は陽へくごる陽はすみのぼるなり<lb n="7" facs="#L0004_007" />大阪長休日の後相立候松場荘のとまり松場あり多き<lb n="8" facs="#L0004_008" />時は景気根強き米と知るべしあきこきは不景気と知るべし<lb n="9" facs="#L0004_009" />一男仕る之内人々工夫のこへしかゝる商内なりは兎角切場に<lb n="10" facs="#L0004_010" />しこが小べし<lb n="11" facs="#L0004_011" />一東国西園おほいに高く当地も景気にき方三樽けておほ<lb n="12" facs="#L0004_012" />一あげいこしけへは極めて売申すべし安き方も同断<lb n="13" facs="#L0004_013" />新米相場は他処の詮文おほま高についてよし<lb n="14" facs="#L0004_014" />□□□□□□□□<lb n="15" facs="#L0004_015" />金鬼秘録<pb n="page_00019.jpg" facs="#page_00019.jpg" />
+        <lb n="0" facs="#L0005_000" />二十八首桂正者曰仁ハ四ナリ時節午待ナリイナカスナリ<lb n="1" facs="#L0005_001" />一売買をせがず答がず侍とくの乘まで待も仁なり<lb n="2" facs="#L0005_002" />只せくるせく商力に徳はなし五分安を買五分高をうれ<lb n="3" facs="#L0005_003" />売買をせけはせらほど損をするとんと抔で手をかへて見よ<lb n="4" facs="#L0005_004" />一亥年の米のきれめの音などれ待てうるのが仁のとくなり<lb n="5" facs="#L0005_005" />たゞせらに百俵あげて百俵さげたためしがおほき事なり<lb n="6" facs="#L0005_006" />買せさをせぬか強気の秘密なり筋でも出きるを聞つて買<lb n="7" facs="#L0005_007" />売せきをせぬか弱気の秘密なりいつでも有もるをまつて売<lb n="8" facs="#L0005_008" />三年にも二年にもいらぬ安直段せかずにまつがだいこみつなり<lb n="9" facs="#L0005_009" />一平もいらぬ時節を待がよしこかせとゆえにかららすをふむ<lb n="10" facs="#L0005_010" />下流理にも時いたられば下はまじ買ぜきするは大たわけなり<lb n="11" facs="#L0005_011" />一土海理にも時節がこねは上らぬぞ世を買をして悔むまじきぞ<lb n="12" facs="#L0005_012" />せ候故に安きをうりてあたまから書きをかにてかららすを踏<lb n="13" facs="#L0005_013" />上るべき気がつきぬればおのづからくごるところか天性としれ<lb n="14" facs="#L0005_014" />一下るほどくごれは弱気の気もつきて上海ところか天性としれ<lb n="15" facs="#L0005_015" />○風ふかぬ二百廿日の安直段定式として半はうけてころ<lb n="16" facs="#L0005_016" />万人別あきれはてたる直がおれ候そそれ前高くりの毘なりけり<lb n="17" facs="#L0005_017" />○雨風の日をまはうけて米は売日和をまさて米は買べし<lb n="18" facs="#L0005_018" />順徳の智のみなもなは遂小第そのみなもことまつ仁にあり<lb n="19" facs="#L0005_019" />勇二十六日辛子ナリストナリストナリ平スナリ<pb n="page_00027.jpg" facs="#page_00027.jpg" />
+        <lb n="0" facs="#L0006_000" />申ことありにも三拾五俵かまづまでもあぶり一冊キなしてもなそ又<lb n="1" facs="#L0006_001" />四百両癸猶そのうへまでゆきなく杉四俵仕打切汁にて四百<lb n="2" facs="#L0006_002" />三刻上り十二<lb n="3" facs="#L0006_003" />雨売<lb n="4" facs="#L0006_004" />一分ノミコ二十リ<lb n="5" facs="#L0006_005" />〆八百両売なり六拾俵の損一刻そがれは<lb n="6" facs="#L0006_006" />百六拾俵の徳なり<lb n="7" facs="#L0006_007" />度端一六の商内<lb n="8" facs="#L0006_008" />中墨廿俵出来候つまり三刻余もそぶり申時か三刻余も<lb n="9" facs="#L0006_009" />等ぎり候時は常に百両位を安に立てなきなひすべし<lb n="10" facs="#L0006_010" />一七千両春も二千両王と思召て高かくべし三割<lb n="11" facs="#L0006_011" />余のさぶりとても千に一ツあぶりとても千に山とつの事なり<lb n="12" facs="#L0006_012" />立用商内<lb n="13" facs="#L0006_013" />立用にはゝるあきをいはすゑ〳〵の米の立下を聞へ〳〵よ<lb n="14" facs="#L0006_014" />り能々相考へ為かけ申ことなりとき〳〵平物違正申<lb n="15" facs="#L0006_015" />一ことなり立用はおほく商内をする者の為に大分まきこ<lb n="16" facs="#L0006_016" />之な余その道理は五万両も拾万両にも買持など等るとき<lb n="17" facs="#L0006_017" />一御売たく思へども売いだすと脇より追々て六七分も一<lb n="18" facs="#L0006_018" />し信も追ふことあり故に思ふやうに売りなされずければ<lb n="19" facs="#L0006_019" />此上用となことは心安くいとなきことなり<lb n="20" facs="#L0006_020" />一随色商内禁止者曰此商力は本体の商具等<lb n="21" facs="#L0006_021" />一熊色の商内の法は真なるおもれ森は格別のこと<lb n="22" facs="#L0006_022" />のもなきときは宣下相済まじとおもに米俄に五分方<pb n="page_00033.jpg" facs="#page_00033.jpg" />
+        <lb n="0" facs="#L0007_000" />□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□<lb n="1" facs="#L0007_001" />二十一日<pb n="page_00032.jpg" facs="#page_00032.jpg" />
+        <lb n="0" facs="#L0008_000" />今の世まか仰して対して遅れけれけれを見ずに歎の前はこまに葉文<lb n="1" facs="#L0008_001" />索の坂やまり、へるも見えてまつときはなしに事あやまりおほきを法に<lb n="2" facs="#L0008_002" />左てと春買にかくる時は左とへにいふ一歩千里のたがひとなりたすけと<lb n="3" facs="#L0008_003" />是ならずしてかへりておほきなる木やまちとなるべし玉づれ四五箇年<lb n="4" facs="#L0008_004" />娘なこまり人々の写してもたるゝ本どもあま老かりみけ”ひきかへ差へく<lb n="5" facs="#L0008_005" />らへみよしとおもはなく方をあげて出生とはならぬされとかく申おの<lb n="6" facs="#L0008_006" />逢此道にいりそめてより木まこのとしをつまされは猶牛田大介も<lb n="7" facs="#L0008_007" />とえらまれこまにたがひたるもあらむかとおそるゝになむ具眼の人こそ<lb n="8" facs="#L0008_008" />もしさるものば公な六もあらはたがしき方に山を通しあらんめてみかし<lb n="9" facs="#L0008_009" />嘉永四年五月三日<lb n="10" facs="#L0008_010" />鳴川繁楽<lb n="11" facs="#L0008_011" />さる<pb n="page_00026.jpg" facs="#page_00026.jpg" />
+        <lb n="0" facs="#L0009_000" />一割半<lb n="1" facs="#L0009_001" />市<lb n="2" facs="#L0009_002" />了なに書<lb n="3" facs="#L0009_003" />にて二百両売<lb n="4" facs="#L0009_004" />「アガリ<lb n="5" facs="#L0009_005" />十四俵<lb n="6" facs="#L0009_006" />百両売二百四拾五俵<lb n="7" facs="#L0009_007" />五斗六升<lb n="8" facs="#L0009_008" />百十四本一分<lb n="9" facs="#L0009_009" />三割上りす<lb n="10" facs="#L0009_010" />以上四述平<lb n="11" facs="#L0009_011" />にて四百両売<lb n="12" facs="#L0009_012" />〆八百両売七拾俵の損一割せがれば<lb n="13" facs="#L0009_013" />六十俵の徳もし拾九俵<lb n="14" facs="#L0009_014" />七斗七升<lb n="15" facs="#L0009_015" />八十四と十一分<lb n="16" facs="#L0009_016" />十八位ヨリナリ<lb n="17" facs="#L0009_017" />にさぎりたらば<lb n="18" facs="#L0009_018" />五分ノサガリ<lb n="19" facs="#L0009_019" />百両か<lb n="20" facs="#L0009_020" />天之商内ノ目ヂンヨリ<lb n="21" facs="#L0009_021" />八斗八升<lb n="22" facs="#L0009_022" />一割十リナリ<lb n="23" facs="#L0009_023" />七十二匁七分<lb n="24" facs="#L0009_024" />にて百両買<lb n="25" facs="#L0009_025" />小廿二俵<lb n="26" facs="#L0009_026" />一割十リナリ<lb n="27" facs="#L0009_027" />同廿三俵<lb n="28" facs="#L0009_028" />一九斗四升<lb n="29" facs="#L0009_029" />六拾九匁五分<lb n="30" facs="#L0009_030" />同一割<lb n="31" facs="#L0009_031" />にて二百両売店<lb n="32" facs="#L0009_032" />半下リ<lb n="33" facs="#L0009_033" />九斗文升<lb n="34" facs="#L0009_034" />六十六匁一分<lb n="35" facs="#L0009_035" />廿四俵<lb n="36" facs="#L0009_036" />にて四万両買<lb n="37" facs="#L0009_037" />同二割<lb n="38" facs="#L0009_038" />下リ<lb n="39" facs="#L0009_039" />廿五俵<lb n="40" facs="#L0009_040" />一石<lb n="41" facs="#L0009_041" />六十三匁五分同<lb n="42" facs="#L0009_042" />同二割半七リ十<lb n="43" facs="#L0009_043" />にて八百両買<lb n="44" facs="#L0009_044" />一八倍ヨリ四割余<lb n="45" facs="#L0009_045" />〆千六百両買持仕送百六拾俵<lb n="46" facs="#L0009_046" />の損一割あがれは三百二拾俵の徳なり<lb n="47" facs="#L0009_047" />□□□□□□□<lb n="48" facs="#L0009_048" />強気一割半あげ順徳逆損商内<lb n="49" facs="#L0009_049" />七十匁十<lb n="50" facs="#L0009_050" />八十四匁一分<lb n="51" facs="#L0009_051" />中墨廿俵おゐな升にて百両買拾九俵<lb n="52" facs="#L0009_052" />七斗二升<lb n="53" facs="#L0009_053" />八十八匁八分<lb n="54" facs="#L0009_054" />拾八俵<lb n="55" facs="#L0009_055" />コンテニ<lb n="56" facs="#L0009_056" />テ一割ナリ<lb n="57" facs="#L0009_057" />大干気干<lb n="58" facs="#L0009_058" />九十四本<lb n="59" facs="#L0009_059" />兵通し十七俵<lb n="60" facs="#L0009_060" />にて売次半刻<lb n="61" facs="#L0009_061" />二拾俵の徳なり<lb n="62" facs="#L0009_062" />一刻半アガリ二度<lb n="63" facs="#L0009_063" />文政斗四升<lb n="64" facs="#L0009_064" />にて新米百両買<lb n="65" facs="#L0009_065" />則十七俵九斗四升四百五斗四分<lb n="66" facs="#L0009_066" />則十七俵<lb n="67" facs="#L0009_067" />一目ノ天文目タシナリ<lb n="68" facs="#L0009_068" />天文日ゟ三十リ<lb n="69" facs="#L0009_069" />拾六俵にて<lb n="70" facs="#L0009_070" />百角売場拾五俵<lb n="71" facs="#L0009_071" />より<lb n="72" facs="#L0009_072" />百六匁六分<lb n="73" facs="#L0009_073" />五分<lb n="74" facs="#L0009_074" />エリ<lb n="75" facs="#L0009_075" />同十四俵子一ら四百<lb n="76" facs="#L0009_076" />青二百商売<lb n="77" facs="#L0009_077" />五分上リ都合ニテ<lb n="78" facs="#L0009_078" />〆八百両売なり七拾俵の損一刻さがれ<lb n="79" facs="#L0009_079" />一刻半上り天久三年<lb n="80" facs="#L0009_080" />屋売<lb n="81" facs="#L0009_081" />は百六拾俵の徳な余<lb n="82" facs="#L0009_082" />強気二刻あげ順徳丞様商内<lb n="83" facs="#L0009_083" />千壱百百売拾九俵<lb n="84" facs="#L0009_084" />一七十九匁五分<lb n="85" facs="#L0009_085" />中墨廿俵<lb n="86" facs="#L0009_086" />七斗六升<lb n="87" facs="#L0009_087" />一八十四匁一分<lb n="88" facs="#L0009_088" />七斗二升<lb n="89" facs="#L0009_089" />は十八にはじ<lb n="90" facs="#L0009_090" />十八俵<lb n="91" facs="#L0009_091" />六年八年<lb n="92" facs="#L0009_092" />九寸四匁<lb n="93" facs="#L0009_093" />十七俵<lb n="94" facs="#L0009_094" />上斗二斗四十<lb n="95" facs="#L0009_095" />三割一割<lb n="96" facs="#L0009_096" />一九十九匁一分<lb n="97" facs="#L0009_097" />二刻あげ拾六俵<lb n="98" facs="#L0009_098" />壱通し<lb n="99" facs="#L0009_099" />半ナリ<lb n="100" facs="#L0009_100" />曹次<lb n="101" facs="#L0009_101" />二割上リ<lb n="102" facs="#L0009_102" />順徳<lb n="103" facs="#L0009_103" />一土斗四升<lb n="104" facs="#L0009_104" />なり四拾俵の徳なり則拾火俵七斗四升にて<lb n="105" facs="#L0009_105" />なり四拾俵の徳なり則格書俵<lb n="106" facs="#L0009_106" />二度目天元目●<lb n="107" facs="#L0009_107" />ダンヨリ転露<lb n="108" facs="#L0009_108" />越に二百両売<lb n="109" facs="#L0009_109" />それあり段々御がれは仕合なり<lb n="110" facs="#L0009_110" />追違いこす人からず<lb n="111" facs="#L0009_111" />二州上リテ天井ゟ見積<lb n="112" facs="#L0009_112" />たゞし三刻あげと<lb n="113" facs="#L0009_113" />一故直売ハセザルナリ<lb n="114" facs="#L0009_114" />同断<pb n="page_00022.jpg" facs="#page_00022.jpg" />
+        <lb n="0" facs="#L0010_000" />三言かけ□の刻なり□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□<lb n="1" facs="#L0010_001" />リ三五がは一返草の見積り奉はべし一信刻は三がけとのみ思ふべからず<lb n="2" facs="#L0010_002" />一右三段の法をもてむにしより其年々の世の中の善悪を積る<lb n="3" facs="#L0010_003" />上分の年三十年もつゞくことなり<lb n="4" facs="#L0010_004" />ことあり下分の年八九年もつゞくことあり○さて其卑<lb n="5" facs="#L0010_005" />の出来を考ふること中分の世の中時節その年の出来七分とつも<lb n="6" facs="#L0010_006" />八斗四升<lb n="7" facs="#L0010_007" />らは七に三をかけて見れと三七廿一俵<lb n="8" facs="#L0010_008" />七十六匁一分<lb n="9" facs="#L0010_009" />幅手形割と<lb n="10" facs="#L0010_010" />なる是を中墨の直すと見るべし<lb n="11" facs="#L0010_011" />の物直段をもつて中墨と見て下り二刻をいれて法とすべし<lb n="12" facs="#L0010_012" />左とへば直段ならは三割のさぶり六俵をいれて廿六俵城法とす<lb n="13" facs="#L0010_013" />べし暮そのこしに変り申さぬほふにて一厘も小違なり<lb n="14" facs="#L0010_014" />いつのとしにても十二分一ツリ三割十二分十一り三割と差ふべし<lb n="15" facs="#L0010_015" />此法といつのとしまても新米神売の日七分々と見る<lb n="16" facs="#L0010_016" />べし<lb n="17" facs="#L0010_017" />桂正元日己々になげこと申分申分七分と来るこそ上の署のとして別あり<lb n="18" facs="#L0010_018" />七十分神也用病分九分上八分中七分下候也五分「立分立方上共分中四分下増也或ふべし<lb n="19" facs="#L0010_019" />〇強気五ツの秘伝同<lb n="20" facs="#L0010_020" />○<lb n="21" facs="#L0010_021" />第一<lb n="22" facs="#L0010_022" />一割半さげ百両<lb n="23" facs="#L0010_023" />第二<lb n="24" facs="#L0010_024" />二割さげ二百両一<lb n="25" facs="#L0010_025" />文三<lb n="26" facs="#L0010_026" />二割<lb n="27" facs="#L0010_027" />半さげ四百両<lb n="28" facs="#L0010_028" />第四三割八百両<lb n="29" facs="#L0010_029" />第五<lb n="30" facs="#L0010_030" />三割余は千両<lb n="31" facs="#L0010_031" />横正者同此五段<lb n="32" facs="#L0010_032" />一天元商句なり<lb n="33" facs="#L0010_033" />にても二千両にても買ふべし<lb n="34" facs="#L0010_034" />第一<lb n="35" facs="#L0010_035" />先京心に其年の世の中十分と積り新米直段ことの外た<lb n="36" facs="#L0010_036" />かく慥に三割もさがるべしと思ふとしにても必々売べからず<pb n="page_00023.jpg" facs="#page_00023.jpg" />
+        <lb n="0" facs="#L0011_000" />一割半さげ宜申候が大秘密なりいつのとしにても新米<lb n="1" facs="#L0011_001" />初直段を中墨と見る家伝の秘密なりたとへと直段<lb n="2" facs="#L0011_002" />廿俵銭ならは廿俵代中墨と見て中巻より一刻半<lb n="3" facs="#L0011_003" />九斗四升<lb n="4" facs="#L0011_004" />同九斗六升<lb n="5" facs="#L0011_005" />一六十五五<lb n="6" facs="#L0011_006" />さげ廿三俵<lb n="7" facs="#L0011_007" />一六十六匁一<lb n="8" facs="#L0011_008" />にて百両買廿四俵<lb n="9" facs="#L0011_009" />にて<lb n="10" facs="#L0011_010" />一石四升<lb n="11" facs="#L0011_011" />一六十三匁五分<lb n="12" facs="#L0011_012" />にて二百両買廿六俵<lb n="13" facs="#L0011_013" />百石買廿五俵<lb n="14" facs="#L0011_014" />にて<lb n="15" facs="#L0011_015" />六十一匁五分<lb n="16" facs="#L0011_016" />四百両買〆八百両買持なり七十俵の損一割等がれは百六十<lb n="17" facs="#L0011_017" />綾の徳になるな成<lb n="18" facs="#L0011_018" />第二<lb n="19" facs="#L0011_019" />七十九匁九分<lb n="20" facs="#L0011_020" />中墨廿俵六十七十七斗六斗六合<lb n="21" facs="#L0011_021" />九斗六升<lb n="22" facs="#L0011_022" />一六十六匁一分<lb n="23" facs="#L0011_023" />にて二<lb n="24" facs="#L0011_024" />百両買廿五俵にて二百両廿六俵にて買物買合せ之<lb n="25" facs="#L0011_025" />一八百両買持なり六拾俵の損一割等ぶれは百六十俵の襦<lb n="26" facs="#L0011_026" />第三<lb n="27" facs="#L0011_027" />一中墨廿俵いかけ廿五俵六十五俵六十五俵六十六匁<lb n="28" facs="#L0011_028" />四百両買廿六俵一千四百両買〆八百両八百両八百両なり四十<lb n="29" facs="#L0011_029" />一俵の種一刻あがれは百六十俵の徳なり<lb n="30" facs="#L0011_030" />第四<lb n="31" facs="#L0011_031" />より三刻さげ廿六俵一<lb n="32" facs="#L0011_032" />申墨廿俵本より三刻さげせし<lb n="33" facs="#L0011_033" />一石六升<lb n="34" facs="#L0011_034" />同六十匁五分<lb n="35" facs="#L0011_035" />にて八百両<lb n="36" facs="#L0011_036" />買一割等がれば百六十俵の徳なり<lb n="37" facs="#L0011_037" />第五<lb n="38" facs="#L0011_038" />中墨廿俵ハ何まり三軒余もさぶり廿七八俵ならる<pb n="page_00021.jpg" facs="#page_00021.jpg" />
+        <lb n="0" facs="#L0012_000" />居る理家皆人ごとき桜の心る大したのやまかひの種まち<lb n="1" facs="#L0012_001" />高下とも一刻五分の前なざやはいつでも米にむかに理としれ<lb n="2" facs="#L0012_002" />飛上不可御門飛下可レ<lb n="3" facs="#L0012_003" />天明本<lb n="4" facs="#L0012_004" />飛せげはいつでも米にむかふべし飛木げならば米にしたがへ<lb n="5" facs="#L0012_005" />飛あげの三日つがきて音なくば米にむかにて飛さげを聞て<lb n="6" facs="#L0012_006" />智仁勇三徳の歌終<lb n="7" facs="#L0012_007" />量絵等考へ合大べし<lb n="8" facs="#L0012_008" />○田地米の数目<lb n="9" facs="#L0012_009" />一夜正者曰順和名抄拾粉廿三才<lb n="10" facs="#L0012_010" />惣高米合せて二千八百八万五千四百八十二石<lb n="11" facs="#L0012_011" />田数合せて九十四万七千八百壹丁<lb n="12" facs="#L0012_012" />○世の中三段年々秋作見積のこと目付<lb n="13" facs="#L0012_013" />世の中三段之図<lb n="14" facs="#L0012_014" />一断同一分三俵二分三俵三分九<lb n="15" facs="#L0012_015" />一俵四分十二俵五分十五俵九分十八<lb n="16" facs="#L0012_016" />俵七分廿一俵八分廿四俵九分廿七<lb n="17" facs="#L0012_017" />俵十分三十俵是次ノ文ノオモムキナリ<lb n="18" facs="#L0012_018" />一人<lb n="19" facs="#L0012_019" />ヤア<lb n="20" facs="#L0012_020" />四十五文<lb n="21" facs="#L0012_021" />上三拾五俵<lb n="22" facs="#L0012_022" />一石四斗<lb n="23" facs="#L0012_023" />一四拾五匁七分<lb n="24" facs="#L0012_024" />広直三拾五俵<lb n="25" facs="#L0012_025" />一分中三拾俵一分中墨三拾俵宛<lb n="26" facs="#L0012_026" />一石二斗<lb n="27" facs="#L0012_027" />五拾三匁一分<lb n="28" facs="#L0012_028" />下二拾五俵<lb n="29" facs="#L0012_029" />□□□□<lb n="30" facs="#L0012_030" />下二拾五俵<lb n="31" facs="#L0012_031" />一石<lb n="32" facs="#L0012_032" />一五拾三匁九分<lb n="33" facs="#L0012_033" />天井二拾五俵<lb n="34" facs="#L0012_034" />百三<lb n="35" facs="#L0012_035" />十分<lb n="36" facs="#L0012_036" />〇こゝにあげたはき十分迄三五がけ五米三かけと見ゆ<lb n="37" facs="#L0012_037" />●秋正元年迄同宝永和保吉今嘉安政弘巳様子寛永甲子年なり元禄九丙子子年七月一年七月一<lb n="38" facs="#L0012_038" />一有て十分四がけの割同十丁丑町より享保三代代町堂元金龍金にて十分三かけ<lb n="39" facs="#L0012_039" />の割乗は四巳亥年にりて同公平丑年せて十分四がけの割同七壬寅年より同廿乙卯<lb n="40" facs="#L0012_040" />耳まで飢へもにて十分五タリ日朝夕文元丙辰年にて十五三両寅去ら火金にて十分<pb n="page_00009.jpg" facs="#page_00009.jpg" />
+        <lb n="0" facs="#L0013_000" />公にても三割さげは米くづれ万天元のかひ旬々知れ<lb n="1" facs="#L0013_001" />一中の飲米は日々に二万俵一箇月には六十万俵なり<lb n="2" facs="#L0013_002" />京大阪場ふし見の飲米は二箇月には十五万余<lb n="3" facs="#L0013_003" />ふところに金をたやさぬ覚悟せよ金は米釣しほと知るべし<lb n="4" facs="#L0013_004" />文珠でも備へのこゝらぬ商内は宣下の変別あれどやぶは<lb n="5" facs="#L0013_005" />一売買はいはさの備へも同じこと米等きなひの軍兵はかね<lb n="6" facs="#L0013_006" />○十五禁言ナ<lb n="7" facs="#L0013_007" />十五首<lb n="8" facs="#L0013_008" />十四<lb n="9" facs="#L0013_009" />侍へなき商力ならはいつれても損徳なしに商内禁制<lb n="10" facs="#L0013_010" />大法が秋冬五月はた禁制春六七月はかいはきむぜい<lb n="11" facs="#L0013_011" />豊早は万人気弱く我よわしあきにまりてうりは禁制<lb n="12" facs="#L0013_012" />鼻は子気強く亦強し多きにありて買は禁制<lb n="13" facs="#L0013_013" />一弱気理世に現れおれは皆弱気安きによつて場は禁制<lb n="14" facs="#L0013_014" />強変が現れ出れ婆皆強気咲きにまへてかひは葉刺<lb n="15" facs="#L0013_015" />あがりあし見ばかく見ゆる米ならは年は強みも四は禁制<lb n="16" facs="#L0013_016" />さげる理と手にとるやうに思ふるも秋植のうへの湊して禁制<lb n="17" facs="#L0013_017" />五月米人気弱くて直は上る早々強けまで売は禁制<lb n="18" facs="#L0013_018" />さが理とたりしく思に米にても四五月頃のはこる葉刻<lb n="19" facs="#L0013_019" />天性の説は水無月に出るとしれ米に随ひ平来禁制<lb n="20" facs="#L0013_020" />洪水を大風ふきの飛等なりはいつのとしでも買は禁制<lb n="21" facs="#L0013_021" />米はづれ買落紙の土みせげは気そまつくとも端は禁制<pb n="page_00008.jpg" facs="#page_00008.jpg" />
+        <lb n="0" facs="#L0014_000" />弱気理世にあらはれなれは皆弱気何時にても買の難符<lb n="1" facs="#L0014_001" />荻の泰子郎殿上りまはうけて二割あがらはこりの種まけ<lb n="2" facs="#L0014_002" />秋の米から腹下り火ちかけて一刻半から二割さげかへ<lb n="3" facs="#L0014_003" />秋やすく人気も弱く我もまた売ときときときときときと<lb n="4" facs="#L0014_004" />秋こかく人気も強くなもまた買たきときと米の売じゆひ<lb n="5" facs="#L0014_005" />強変の出るとしはなり撰出して二百十日にかひの種まけ<lb n="6" facs="#L0014_006" />口僧日万歳運気豊立録等を考へて強貴森と<lb n="7" facs="#L0014_007" />して二百十日に買の種をまけといふ歌の意なり<lb n="8" facs="#L0014_008" />上りあし見はかく見ゆる米ならはとむと強気を止て売べし<lb n="9" facs="#L0014_009" />一常弱気損とくしらぬ大こはけ貧乏神の氏子なるらむ<lb n="10" facs="#L0014_010" />一桁灯と鐘と見まこりとよひ背徳おほし売損おほし<lb n="11" facs="#L0014_011" />の□金づまりはいつにても米に随ひ売の種まけ<lb n="12" facs="#L0014_012" />□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□<lb n="13" facs="#L0014_013" />一大法が五月下旬が売の約み秋名月が買のしゆむなり<lb n="14" facs="#L0014_014" />万人が心に構ふ来ならとつれなき道へおもむくがまし<lb n="15" facs="#L0014_015" />一四季ともに鞘がはりに土気をさむ立安ともに米に三たがへ<lb n="16" facs="#L0014_016" />買米を一度にかには無分別二度に買べし二度に売べし<lb n="17" facs="#L0014_017" />一売買に徳の桑たる商内は半数商力のすくい場とみれ<lb n="18" facs="#L0014_018" />百坪に九十九年のたかやすすは三刻こゑぬ物と思るべし<lb n="19" facs="#L0014_019" />い一にても刻あげては九万一分千天元ノうり旬としれ<pb n="page_00020.jpg" facs="#page_00020.jpg" />
+        <lb n="0" facs="#L0015_000" />玉ふ理は多きを売て安をかふ米商内の大秘密なり<lb n="1" facs="#L0015_001" />一三刻の音下にむかふ商内はかねの王主でるいづみとはしと<lb n="2" facs="#L0015_002" />一三割高下驚やらずむかふべし<lb n="3" facs="#L0015_003" />天明本<lb n="4" facs="#L0015_004" />二刻から三刻当下のある時はいつでも米にむかふ理としれ<lb n="5" facs="#L0015_005" />損商内不応ならすべし<lb n="6" facs="#L0015_006" />一桶商力も平商ゆもみな釣のゑを喰せておいて釣等ぐるなり<lb n="7" facs="#L0015_007" />三割の音了に徳は転変し損はならすが秘密なりけり<lb n="8" facs="#L0015_008" />万人が万ながら強気ならたわけになりて米を売べし<lb n="9" facs="#L0015_009" />米大崩大変不可驚可買天明本<lb n="10" facs="#L0015_010" />野も山も皆いてめんに弱気ならあほうになりて米を買べし<lb n="11" facs="#L0015_011" />分別にも思案もいらぬ子ひ有は人捨こる米くつれなり<lb n="12" facs="#L0015_012" />◯五日通半ヨメス<lb n="13" facs="#L0015_013" />いつとても買落城の弱とらげこはことこうを買みごらいこゝ<lb n="14" facs="#L0015_014" />いつとても売落城の音とうげこはいとこらを売がごくいて<lb n="15" facs="#L0015_015" />豊卑のくずるゝ米は買みよし尚き<lb n="16" facs="#L0015_016" />をまはて立耳はられ<lb n="17" facs="#L0015_017" />どころをまはてうるべし<lb n="18" facs="#L0015_018" />米やすく人気の弱き日は買て人気の強き書き日そこる<lb n="19" facs="#L0015_019" />一只こめは人気の弱気日は買て人気の強気るにとうるべし<lb n="20" facs="#L0015_020" />一腰は春二刻音下にむかふべし夏は三刻に花にむかにむかに<lb n="21" facs="#L0015_021" />千人が千人ながら弱けるはかへ万人強き日にそうるべし<lb n="22" facs="#L0015_022" />三俵鞘直照可レ逆<lb n="23" facs="#L0015_023" />天明本<lb n="24" facs="#L0015_024" />二十一日夜十者曰夜生者曰此事<lb n="25" facs="#L0015_025" />一世後を法とする故三倍は一刻半<lb n="26" facs="#L0015_026" />上流理とな人ごとに随て医士さやにものにはこの種まひ申<pb n="page_00011.jpg" facs="#page_00011.jpg" />
+        <lb n="0" facs="#L0016_000" />一売桶二平来安楽商内<lb n="1" facs="#L0016_001" />六百両北黒北等南内徳米百六拾俵内三拾俵桶米引残て<lb n="2" facs="#L0016_002" />百三拾俵徳<lb n="3" facs="#L0016_003" />八斗四升<lb n="4" facs="#L0016_004" />一七十六本一ト<lb n="5" facs="#L0016_005" />廿一俵<lb n="6" facs="#L0016_006" />一出染商内六百両<lb n="7" facs="#L0016_007" />百両売天元商内廿俵弐十九斗九斗九斗九升<lb n="8" facs="#L0016_008" />七斗六升<lb n="9" facs="#L0016_009" />一バ十四匁一分<lb n="10" facs="#L0016_010" />百両売一平十九俵七斗六升一合一升一米二百両売<lb n="11" facs="#L0016_011" />○二百両売二平十八俵七斗二升<lb n="12" facs="#L0016_012" />合せて四百両売損米三拾俵代金およそそ拾五両敷金<lb n="13" facs="#L0016_013" />越十両水無月下り商内に此肉を定木とすべし<lb n="14" facs="#L0016_014" />西宮恵日順太神宮五月下旬商内<lb n="15" facs="#L0016_015" />売桶順徳二乗転変商内<lb n="16" facs="#L0016_016" />一安東商内四百両買<lb n="17" facs="#L0016_017" />九斗六升<lb n="18" facs="#L0016_018" />六十九匁五分<lb n="19" facs="#L0016_019" />○廿三俵<lb n="20" facs="#L0016_020" />転変<lb n="21" facs="#L0016_021" />八百両買の内四百両買次徳米<lb n="22" facs="#L0016_022" />七十俵残り四百両買持<lb n="23" facs="#L0016_023" />八斗八升<lb n="24" facs="#L0016_024" />二来廿二俵<lb n="25" facs="#L0016_025" />二百両売二来廿二俵<lb n="26" facs="#L0016_026" />七十二匁七分<lb n="27" facs="#L0016_027" />一書案内四百商売次<lb n="28" facs="#L0016_028" />一徳米四十俵〆百十俵<lb n="29" facs="#L0016_029" />八斗四升<lb n="30" facs="#L0016_030" />七十六匁一分<lb n="31" facs="#L0016_031" />七十六匁一分<lb n="32" facs="#L0016_032" />百両売一来廿一俵<lb n="33" facs="#L0016_033" />百両売天元商内廿俵<lb n="34" facs="#L0016_034" />同七十九分<lb n="35" facs="#L0016_035" />義無月下り商内にても此図を定木とすべし<lb n="36" facs="#L0016_036" />〇半板五架転変の仕法目<lb n="37" facs="#L0016_037" />半板南内之図<pb n="page_00005.jpg" facs="#page_00005.jpg" />
+        <lb n="0" facs="#L0017_000" />米すくなくじて高き直段を新米へうつしたる歳は<lb n="1" facs="#L0017_001" />空腹下のあるとしなり六七八月に強変いつれどまさしく<lb n="2" facs="#L0017_002" />一空復下の歳なり是を変来の歳といふ売買の定<lb n="3" facs="#L0017_003" />式は逆平順来のふ姓つなり逆平にて平買にこれを<lb n="4" facs="#L0017_004" />買順乗とは上る道理をたゞしく見つけ来買に買を順<lb n="5" facs="#L0017_005" />来といふなり順来変来十二平商内家伝高安鑑三十<lb n="6" facs="#L0017_006" />八来商内十五禁制万歳運気豊凶録等これを考<lb n="7" facs="#L0017_007" />ふる時は千度に千度まけざる妙の術なり誠に家伝<lb n="8" facs="#L0017_008" />秘蔵の宝なり秘すべし〳〵<lb n="9" facs="#L0017_009" />宝暦五年秋九月下旬<lb n="10" facs="#L0017_010" />慈雲斎牛田權三郎<lb n="11" facs="#L0017_011" />同同三猿金泉秘録<lb n="12" facs="#L0017_012" />○順来変来十二平商内天門天明本<lb n="13" facs="#L0017_013" />一古米おほき豊年の高安順来六句<lb n="14" facs="#L0017_014" />一秋やすくから腹上り一刻半霜月さがり暮上るなり<lb n="15" facs="#L0017_015" />一春時わり四五月下り水無月と文月の米下るものなり<lb n="16" facs="#L0017_016" />順乗六句商内<lb n="17" facs="#L0017_017" />秋は買かし腹上りに売転変吉月転変暮は安楽<lb n="18" facs="#L0017_018" />春転変四五月は買五月寸ゑはこの種土け六七八の掌<lb n="19" facs="#L0017_019" />古米すくなき五年の高安変衰大句<lb n="20" facs="#L0017_020" />秋たかく廻ら腹下り一刻半不た月やすく暮にもあがらず<pb n="page_00004.jpg" facs="#page_00004.jpg" />
+        <lb n="0" facs="#L0018_000" />の寄昼夜工夫をめぐらし六十年来月日をおくりて<lb n="1" facs="#L0018_001" />漸々米強弱の悟を開きて米商の定法をこて一巻<lb n="2" facs="#L0018_002" />の秘書を作り号けて三猿金泉録といふ米穀の形<lb n="3" facs="#L0018_003" />の象は中まるく上下尖るまるは陽尖りと陰なり<lb n="4" facs="#L0018_004" />天地陰陽の気をうけ<lb n="5" facs="#L0018_005" />士略<lb n="6" facs="#L0018_006" />四民工商<lb n="7" facs="#L0018_007" />を申しなふ天下才<lb n="8" facs="#L0018_008" />一の宝なり三猿とは見猿聞猿言猿の三なり眼に<lb n="9" facs="#L0018_009" />一強変を見て心に強変を測に沈むことなかれ只心<lb n="10" facs="#L0018_010" />に可含売耳に弱変を聞て心に弱変の渕に沈むこと<lb n="11" facs="#L0018_011" />となかれ只心に可含買強変を見聞とも人にかたること<lb n="12" facs="#L0018_012" />となかれ言は人の心と迷はす是三猿の秘密なり金<lb n="13" facs="#L0018_013" />泉録とは此書の号なり<lb n="14" facs="#L0018_014" />一高安の理は空理にて眼に見えずかげも形も無物が躰<lb n="15" facs="#L0018_015" />上の句の心を考ふなに法をもて上るともいつさがることも<lb n="16" facs="#L0018_016" />一定までざるが空理なり空理と見れば千年に一度もらり<lb n="17" facs="#L0018_017" />買する時節となしまた下の句の心を差ふるにかげも形<lb n="18" facs="#L0018_018" />も無物が体とあり鯡あれは定式あり定式あさる売買あ<lb n="19" facs="#L0018_019" />り仏道の定式は五戒儒道の定式も五常神道の定<lb n="20" facs="#L0018_020" />式は智仁勇の三徳みなされ〳〵定式あり●こか申す<lb n="21" facs="#L0018_021" />の定式古米おほく安き直段を新米へうつしさる<lb n="22" facs="#L0018_022" />の歳は加よ腹上り有年なり是を順来のとしといふ古<pb n="page_00010.jpg" facs="#page_00010.jpg" />
+        <lb n="0" facs="#L0019_000" />米がれにはた落紙の藪あげは筆はつまともかいは禁制<lb n="1" facs="#L0019_001" />居りには三平二夜半棚商内賞安ともに平乗禁制<lb n="2" facs="#L0019_002" />○順逆平乗商内用<lb n="3" facs="#L0019_003" />大黒天神秋名月商内并二百十日商<lb n="4" facs="#L0019_004" />買桶三平二来半板安楽商内<lb n="5" facs="#L0019_005" />口伝曰<lb n="6" facs="#L0019_006" />伝曰秋名月の商内には此図を定木として売買すべし<lb n="7" facs="#L0019_007" />一合せて八百両買積米七十俵代金おこそ三十両敷金四十両<lb n="8" facs="#L0019_008" />合せて七十両不楽<lb n="9" facs="#L0019_009" />〇四百両売三平廿三俵<lb n="10" facs="#L0019_010" />一荏漉九斗四升<lb n="11" facs="#L0019_011" />大坂山伝九郎九分<lb n="12" facs="#L0019_012" />一大阪書樽廿匁九分<lb n="13" facs="#L0019_013" />二百両売二平廿二俵<lb n="14" facs="#L0019_014" />同ハキハキ<lb n="15" facs="#L0019_015" />一乗四百両売<lb n="16" facs="#L0019_016" />同七拾二匁七分<lb n="17" facs="#L0019_017" />廿一俵<lb n="18" facs="#L0019_018" />百両売〆一平<lb n="19" facs="#L0019_019" />同八斗四升<lb n="20" facs="#L0019_020" />同七十六匁五分<lb n="21" facs="#L0019_021" />二来四百両売<lb n="22" facs="#L0019_022" />百両売天元商内二十俵以大麦料<lb n="23" facs="#L0019_023" />十九俵<lb n="24" facs="#L0019_024" />一荏土七千六升<lb n="25" facs="#L0019_025" />一大阪八十四匁一分<lb n="26" facs="#L0019_026" />半板八百両買<lb n="27" facs="#L0019_027" />十八俵<lb n="28" facs="#L0019_028" />同<lb n="29" facs="#L0019_029" />同七斗二升<lb n="30" facs="#L0019_030" />ハ十八匁八分<lb n="31" facs="#L0019_031" />安楽商内八百両売<lb n="32" facs="#L0019_032" />荘土<lb n="33" facs="#L0019_033" />大坂<lb n="34" facs="#L0019_034" />廿三俵<lb n="35" facs="#L0019_035" />大阪<lb n="36" facs="#L0019_036" />九斗四升<lb n="37" facs="#L0019_037" />六十七匁五分<lb n="38" facs="#L0019_038" />一等きなひ尚は金八百両半板徳米三百<lb n="39" facs="#L0019_039" />荘土<lb n="40" facs="#L0019_040" />大阪<lb n="41" facs="#L0019_041" />廿俵なり十八俵<lb n="42" facs="#L0019_042" />七斗六升<lb n="43" facs="#L0019_043" />一乗商内徳米二百八拾俵〆<lb n="44" facs="#L0019_044" />一ハ十八分<lb n="45" facs="#L0019_045" />一百両俵桶米七拾俵引徳米五百三拾俵十八俵<lb n="46" facs="#L0019_046" />七斗六升<lb n="47" facs="#L0019_047" />一ハナツ手ハト<lb n="48" facs="#L0019_048" />にて<lb n="49" facs="#L0019_049" />転発すれば八百両売になる二百十日まへも此図を定木<lb n="50" facs="#L0019_050" />として商ゆすべし<lb n="51" facs="#L0019_051" />●五月下旬ハ酉至五月中二候三保ナリ<lb n="52" facs="#L0019_052" />家傳五月廿一旬商内<pb n="page_00006.jpg" facs="#page_00006.jpg" />
+        <lb n="0" facs="#L0020_000" />春にわき順気の歳は五月さげ水無月文月上るものなり<lb n="1" facs="#L0020_001" />変来六句商内<lb n="2" facs="#L0020_002" />一秋ははたがら腹下しに買半板霜月折祭暮休むべし<lb n="3" facs="#L0020_003" />○春にけた四月にのせて五月すゑ買の種まけ六七八の暮<lb n="4" facs="#L0020_004" />○家伝四季高安鑑第二天明本<lb n="5" facs="#L0020_005" />順来秋冬の高下を考へ歌<lb n="6" facs="#L0020_006" />一古米おほく豊年と見る安米はから腹の上り年と知るべし<lb n="7" facs="#L0020_007" />変来秋冬の高下を考ふる歌<lb n="8" facs="#L0020_008" />一古米すくなく強変分出て高米は加ら腹下りの耳と知るべし<lb n="9" facs="#L0020_009" />一順来変来春の高下の考へ歌<lb n="10" facs="#L0020_010" />一青あげと見て買上屋畳の米はなか〳〵音くなるまじ<lb n="11" facs="#L0020_011" />春さげと見て直の安き冬の米春はなか〳〵安くな留まじ<lb n="12" facs="#L0020_012" />一春三月大音下なはすまり句高き日は売十すき日とかへ<lb n="13" facs="#L0020_013" />すわりには三平二乗半板商内たかやすともに平乗禁制<lb n="14" facs="#L0020_014" />須わりには売転変に買転変徳をにがする半数少条<lb n="15" facs="#L0020_015" />順来変来五月高下の考へ歌<lb n="16" facs="#L0020_016" />一順乗のとしはきわめて五月あげ五月さがるは変来の年<lb n="17" facs="#L0020_017" />大法が秋名月かやす峠五月下旬がこかとらげなり<lb n="18" facs="#L0020_018" />五月米人気弱くて直と上は子々孫々まで売は禁剃<lb n="19" facs="#L0020_019" />順来夏の亭下を考ふる歌<pb n="page_00012.jpg" facs="#page_00012.jpg" />
+        <lb n="0" facs="#L0021_000" />五百両売<lb n="1" facs="#L0021_001" />五百両売<lb n="2" facs="#L0021_002" />四<lb n="3" facs="#L0021_003" />千両買<lb n="4" facs="#L0021_004" />千両買<lb n="5" facs="#L0021_005" />一あき日子雨買五分子一割飛等ぶりこるはんぶん仕舞<lb n="6" facs="#L0021_006" />是半板なり半々五分う一刻さがるとき五百両買々灰<lb n="7" facs="#L0021_007" />此商力の仕方を買翰半板商ゆといふなり<lb n="8" facs="#L0021_008" />半板商力も右周意なり高下に利徳あり来の<lb n="9" facs="#L0021_009" />本体をうしなはずして天下一のめづらし其徳等きにこと<lb n="10" facs="#L0021_010" />しるべきなり<lb n="11" facs="#L0021_011" />亥更に金のや源らかる半板商拝ても起ても徳これるなり<lb n="12" facs="#L0021_012" />安楽商内之図<lb n="13" facs="#L0021_013" />百両買<lb n="14" facs="#L0021_014" />百両売<lb n="15" facs="#L0021_015" />三<lb n="16" facs="#L0021_016" />百両買<lb n="17" facs="#L0021_017" />百両売四<lb n="18" facs="#L0021_018" />取図の如く米等がり足なれは買桶の出業とはだめ<lb n="19" facs="#L0021_019" />一あきる里婦五分一刻とかき日商内のこらずうり<lb n="20" facs="#L0021_020" />ぱらひ徳をとりまた五分か一刻さがるときもとの如く<lb n="21" facs="#L0021_021" />買取早た高きる売払ふ此商内の仕方を買桶の<pb n="page_00013.jpg" facs="#page_00013.jpg" />
+        <lb n="0" facs="#L0022_000" />一出等商内にいふ売桶案商内に付同壱匁引事扱<lb n="1" facs="#L0022_001" />商内より別徳おほし<lb n="2" facs="#L0022_002" />別徳おほく常に一心やすからな福徳円万の世楽商とみれ<lb n="3" facs="#L0022_003" />転変商内之図<lb n="4" facs="#L0022_004" />一千両買<lb n="5" facs="#L0022_005" />二千両売一<lb n="6" facs="#L0022_006" />二千両売四<lb n="7" facs="#L0022_007" />三<lb n="8" facs="#L0022_008" />千両買<lb n="9" facs="#L0022_009" />右図の如く売買するを転変といふなり米の本解に<lb n="10" facs="#L0022_010" />きのゝはらずめにもの強弱に順に転変商内の秘密なり<lb n="11" facs="#L0022_011" />口時日買桶転変売椅転変のふく商つなり買翰転<lb n="12" facs="#L0022_012" />変の商内の仕方は木ぶり足の米と見さごめたらぞ買を<lb n="13" facs="#L0022_013" />一おほく売をすくなく商内すべし先の仕方は安きる千両<lb n="14" facs="#L0022_014" />買五分か一刻たかきり子三百両売て三百両売になるまた<lb n="15" facs="#L0022_015" />一五分の一刻ある千三百両買もとの如く千石買持になる<lb n="16" facs="#L0022_016" />是を買捨転変といふなり売橋転変商のも右用意の<lb n="17" facs="#L0022_017" />此方なけ伝口伝曰売方橋商内了簡ちがひと思ふとき<lb n="18" facs="#L0022_018" />早く見切転発して強変となり買べし一心たさまて<lb n="19" facs="#L0022_019" />此案にして徳商力となるべし買者損商内も<lb n="20" facs="#L0022_020" />同意千架<pb n="page_00007.jpg" facs="#page_00007.jpg" />
+        <lb n="0" facs="#L0023_000" />一平あげて翌から五月高米は水無月文月さがる年なり<lb n="1" facs="#L0023_001" />変来夏の音下を巻ふる歌<lb n="2" facs="#L0023_002" />一坪あけて春から五月出来は水無月文月あがる年なり<lb n="3" facs="#L0023_003" />三十八首<lb n="4" facs="#L0023_004" />三十八来商内<lb n="5" facs="#L0023_005" />一順乗の早はから後木がりなり秋名月に買のこねまけ<lb n="6" facs="#L0023_006" />一変来の耳はから後さがりなり秋名月に売のたねまけ<lb n="7" facs="#L0023_007" />下鞘が上さやになる鞘がはりから後あがり徳のりにかへ<lb n="8" facs="#L0023_008" />上ざやがしたげまになる鞘がはり加ら後比ぼり徳のりにくれ<lb n="9" facs="#L0023_009" />天明岑十リ<lb n="10" facs="#L0023_010" />□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□<lb n="11" facs="#L0023_011" />来所之者<lb n="12" facs="#L0023_012" />上さやがしたげ申になるへ<lb n="13" facs="#L0023_013" />五月すゑから売こねをまけ<lb n="14" facs="#L0023_014" />一天性の利は水無月に出るとしれ尚安ともに米にしたがへ<lb n="15" facs="#L0023_015" />下るべき米煮からあがるなら徳のこるほど徳のりにかへ<lb n="16" facs="#L0023_016" />五月下旬高くははこの種をせけ六七月は徳のりにうれ<lb n="17" facs="#L0023_017" />一五月下旬あくは早山の種をまけ六七月は徳のりにかへ<lb n="18" facs="#L0023_018" />一米はずめ買落城の飛さげして眼を小さぎ買の種蒔<lb n="19" facs="#L0023_019" />米がれに売落城の飛さげはたわけになりてはこの種まけ<lb n="20" facs="#L0023_020" />一洪水と大風ふその飛上りはあほうになりてはこの種まけ<lb n="21" facs="#L0023_021" />一五月米人気弱くて直は上る四月下旬に子山の種々第<lb n="22" facs="#L0023_022" />強変声にあらはるゝ耳は米下るべき種なり<lb n="23" facs="#L0023_023" />難変があらはれ出れは皆強気了簡なしに売の種まけ<lb n="24" facs="#L0023_024" />弱気蝟世にあらはなゝ年は米上るべき理なり<pb n="page_00003.jpg" facs="#page_00003.jpg" />
+        <lb n="0" facs="#L0024_000" />嘉<lb n="1" facs="#L0024_001" />水沢<lb n="2" facs="#L0024_002" />牛田権三郎遺稿<lb n="3" facs="#L0024_003" />一<lb n="4" facs="#L0024_004" />鳴川猛之助校正<lb n="5" facs="#L0024_005" />温故知新治法窮理<lb n="6" facs="#L0024_006" />辛<lb n="7" facs="#L0024_007" />亥<lb n="8" facs="#L0024_008" />年<lb n="9" facs="#L0024_009" />○十一月廿九俵金泉秘録金泉秘録全<lb n="10" facs="#L0024_010" />五<lb n="11" facs="#L0024_011" />天周秋佐見積之図一補附<lb n="12" facs="#L0024_012" />月<lb n="13" facs="#L0024_013" />新<lb n="14" facs="#L0024_014" />五十瀬津<lb n="15" facs="#L0024_015" />五十瀬津好問宜蔵版<lb n="16" facs="#L0024_016" />鑢<lb n="17" facs="#L0024_017" />二米三<lb n="18" facs="#L0024_018" />三猿金泉録序<lb n="19" facs="#L0024_019" />太極動きて陽を生じ動くこと極りて静なり<lb n="20" facs="#L0024_020" />静に為て陰を生ず静なること極りてまたらごく<lb n="21" facs="#L0024_021" />太極陰陽と天<lb n="22" facs="#L0024_022" />地万物の始ほり<lb n="23" facs="#L0024_023" />一動一静あるに其根となる時<lb n="24" facs="#L0024_024" />米の高下<lb n="25" facs="#L0024_025" />も天地陰陽の廻るがごとく強気の功あらはにて<lb n="26" facs="#L0024_026" />はなはだ高くなり上る理極れば其中に弱気の理<lb n="27" facs="#L0024_027" />を含む弱気の功あらはれてはなはだ安らなれば其中<lb n="28" facs="#L0024_028" />に強気の理を含む万人気弱き時は米上るべきの<lb n="29" facs="#L0024_029" />理なり諸人気強き時は米下はべきの種なり是み<lb n="30" facs="#L0024_030" />な天性理外の理なり予荘年の頃より米商に心を<pb n="page_00017.jpg" facs="#page_00017.jpg" />
+        <lb n="0" facs="#L0025_000" />○入梅三十日同<lb n="1" facs="#L0025_001" />の梅は五月始の書にいり六月其にあくとしるべし<lb n="2" facs="#L0025_002" />○虹図<lb n="3" facs="#L0025_003" />朝にじる朝にじりと兼てしれ夕日の虹は日和なりけり<lb n="4" facs="#L0025_004" />○八専十二日壬子に万癸亥にあく同十一日<lb n="5" facs="#L0025_005" />八専のいるるに小雨なりいたせばあくまで降と兼て知るべし<lb n="6" facs="#L0025_006" />あいたるにまた降いたせば十二日は鳥がへりふるといふ舟に<lb n="7" facs="#L0025_007" />○玄雲目<lb n="8" facs="#L0025_008" />立雲に赤之まじりは風としれ白き黒きは雨としるべし<lb n="9" facs="#L0025_009" />○一部極意九躰ノ歎<lb n="10" facs="#L0025_010" />無<lb n="11" facs="#L0025_011" />極<lb n="12" facs="#L0025_012" />高安の理は空理にて眼に見えずかげも加厄者もなき物が体<lb n="13" facs="#L0025_013" />太<lb n="14" facs="#L0025_014" />太極<lb n="15" facs="#L0025_015" />鯉と非とのなかにこも無る理州の理米の窓のみなりとゝ<lb n="16" facs="#L0025_016" />陰食陽<lb n="17" facs="#L0025_017" />万人が万人ながら弱気ならのほるべき理をふくむ米なり<lb n="18" facs="#L0025_018" />陽舎陰<lb n="19" facs="#L0025_019" />千人が千人ながら強気ならくぐるべき理をふらむ米なり<lb n="20" facs="#L0025_020" />高安大法<lb n="21" facs="#L0025_021" />大洪が秋在月前半生峠五月下旬がたかとらげなり<pb n="page_00016.jpg" facs="#page_00016.jpg" />
+        <lb n="0" facs="#L0026_000" />戊申乙卯丙辰丁己巳未庚申癸亥<lb n="1" facs="#L0026_001" />一右にあたるとしは勝負鬱発の変気もならは翌年<lb n="2" facs="#L0026_002" />なり然れども六七月に風もふかず火熱はなはごしけ<lb n="3" facs="#L0026_003" />温化画<lb n="4" facs="#L0026_004" />れは稲くさりうんかつくとしなり吉ふべし<lb n="5" facs="#L0026_005" />中豊作二箇年<lb n="6" facs="#L0026_006" />豊作と同断<lb n="7" facs="#L0026_007" />戊午壬辰●摂正者日以上大周六十年也<lb n="8" facs="#L0026_008" />右にあたるとしは豊平といへども中分の耳なり<lb n="9" facs="#L0026_009" />○大潮小汐の考周<lb n="10" facs="#L0026_010" />小しほとは六七八と九と十と二十一二と三四五としれ<lb n="11" facs="#L0026_011" />一右の外皆大潮なり小汐の三日間大谷の日なり大風ふき<lb n="12" facs="#L0026_012" />いだすなり風の吹出しはさししほに吹出し満汐にやむ<lb n="13" facs="#L0026_013" />ものなり<lb n="14" facs="#L0026_014" />十五日晦日の三ほは六ツに満夜ひるともに九ツにひく<lb n="15" facs="#L0026_015" />〽さししほは日々に四分づとおほく湯いくも四分づとおそくいく也<lb n="16" facs="#L0026_016" />○風吹ふかざるを考用丸<lb n="17" facs="#L0026_017" />庚申より十一日の庚午より去間獄丁丑の日間日なり<lb n="18" facs="#L0026_018" />なり以上十五日の間は風吹ぬものな<lb n="19" facs="#L0026_019" />戌寅の日より七日の間猶なり以上十五日の間は風吹ぬにものな<lb n="20" facs="#L0026_020" />り故に推にいると海上に船を乗り出し申なり万一にけ<lb n="21" facs="#L0026_021" />は間になり、それも百年のうちの一年と考へしるべし<pb n="page_00002.jpg" facs="#page_00002.jpg" />
+        <lb n="0" facs="#L0027_000" />活法秘論首巻<lb n="1" facs="#L0027_001" />全<lb n="2" facs="#L0027_002" />校正三猿金泉秘録<lb n="3" facs="#L0027_003" />91006836<lb n="4" facs="#L0027_004" />嶋田君寄贈<lb n="5" facs="#L0027_005" />アーサ<lb n="6" facs="#L0027_006" />香村攻庫<lb n="7" facs="#L0027_007" />一一<lb n="8" facs="#L0027_008" />第一著著著著著著著著著著著著著著著著著著著著著<pb n="page_00014.jpg" facs="#page_00014.jpg" />
+        <lb n="0" facs="#L0028_000" />鋸りの拍子はづする転等の商内からす踏となほと身ひゆ<lb n="1" facs="#L0028_001" />万歳運気豊凶録同廿七日<lb n="2" facs="#L0028_002" />暴風十二箇年<lb n="3" facs="#L0028_003" />○二十六日雨名地暴風史記云暴風雷雨<lb n="4" facs="#L0028_004" />□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□<lb n="5" facs="#L0028_005" />二百十日三平二乗半板出染転変商内<lb n="6" facs="#L0028_006" />しかける卑なり<lb n="7" facs="#L0028_007" />甲子丁卯丁丑辛巳甲申辛卯甲午<lb n="8" facs="#L0028_008" />丁酉丁未辛亥甲寅辛酉<lb n="9" facs="#L0028_009" />右にあたるとしは中分の平なり然れども木気鬱発門<lb n="10" facs="#L0028_010" />唐陰飛木<lb n="11" facs="#L0028_011" />の変気ありて七八月の間に火風ふけは大凶年となる<lb n="12" facs="#L0028_012" />変市手なけねは豊卑不楽<lb n="13" facs="#L0028_013" />洪水五箇年<lb n="14" facs="#L0028_014" />大風と同断<lb n="15" facs="#L0028_015" />己巳己卯己亥己酉壬戌<lb n="16" facs="#L0028_016" />右にあたるとしき中分の早なり然れども土気鬱発<lb n="17" facs="#L0028_017" />太陰濕土<lb n="18" facs="#L0028_018" />の変気ありて七八月の間に大洪水田畑を申ぶり損ず<lb n="19" facs="#L0028_019" />れは大凶年なり<lb n="20" facs="#L0028_020" />寒冷三箇年<lb n="21" facs="#L0028_021" />一断断日此処に商内<lb n="22" facs="#L0028_022" />仕方の許なし老小べし<lb n="23" facs="#L0028_023" />乙丑乙未乙巳<lb n="24" facs="#L0028_024" />一土に打さるとしは寒冷はなはだしと肝なり然れ<pb n="page_00028.jpg" facs="#page_00028.jpg" />
+        <lb n="0" facs="#L0029_000" />七分方もあがるその木がる船を売せて五分七分七分さがり<lb n="1" facs="#L0029_001" />ける処を買べし是を隠色といふなりしかし百両か<lb n="2" facs="#L0029_002" />二百両為かくべし慥なることもなきにおほく楽すぐるは<lb n="3" facs="#L0029_003" />手荷の強気なるべし其外追よひ追々りなども随分の<lb n="4" facs="#L0029_004" />商内なり此商内を添子すくこといふなり随意の文字に<lb n="5" facs="#L0029_005" />可見達と見立第一なるべし<lb n="6" facs="#L0029_006" />○度端極意の巻同十二<lb n="7" facs="#L0029_007" />一夫庭端といふきなひは欲をきりて放つを極意とす<lb n="8" facs="#L0029_008" />寸こしきよりおほいなるを順とは米商力のもとなり故<lb n="9" facs="#L0029_009" />一散せざれは子座に千度等こるべからず<lb n="10" facs="#L0029_010" />・下の三割高下の割は狭正補<lb n="11" facs="#L0029_011" />国<lb n="12" facs="#L0029_012" />第三上割三<lb n="13" facs="#L0029_013" />割<lb n="14" facs="#L0029_014" />之下割三上割三<lb n="15" facs="#L0029_015" />図之事<lb n="16" facs="#L0029_016" />十一丁<lb n="17" facs="#L0029_017" />弐斤<lb n="18" facs="#L0029_018" />新聞法<lb n="19" facs="#L0029_019" />十五匁<lb n="20" facs="#L0029_020" />一十一日<lb n="21" facs="#L0029_021" />同村<lb n="22" facs="#L0029_022" />□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□<lb n="23" facs="#L0029_023" />□□□□□□□□<lb n="24" facs="#L0029_024" />新今井<lb n="25" facs="#L0029_025" />□□□□□□□□<lb n="26" facs="#L0029_026" />森川中<lb n="27" facs="#L0029_027" />大名<lb n="28" facs="#L0029_028" />中墨廿俵<lb n="29" facs="#L0029_029" />廿一俵<lb n="30" facs="#L0029_030" />十九俵<lb n="31" facs="#L0029_031" />女女<lb n="32" facs="#L0029_032" />十五俵<lb n="33" facs="#L0029_033" />十六俵<lb n="34" facs="#L0029_034" />ウリ<lb n="35" facs="#L0029_035" />(十七俵<lb n="36" facs="#L0029_036" />□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□<lb n="37" facs="#L0029_037" />十七俵<lb n="38" facs="#L0029_038" />●此図は天明古写本によるなり<lb n="39" facs="#L0029_039" />陽一<lb n="40" facs="#L0029_040" />四俵<lb n="41" facs="#L0029_041" />十五俵二割半<lb n="42" facs="#L0029_042" />千六俵<lb n="43" facs="#L0029_043" />十七俵<lb n="44" facs="#L0029_044" />十八俵一<lb n="45" facs="#L0029_045" />千九俵<lb n="46" facs="#L0029_046" />十八俵一割半<lb n="47" facs="#L0029_047" />同太極廿俵天九ノ一<lb n="48" facs="#L0029_048" />廿二日<lb n="49" facs="#L0029_049" />廿二俵一割半<lb n="50" facs="#L0029_050" />中中中<lb n="51" facs="#L0029_051" />廿三俵<lb n="52" facs="#L0029_052" />陰話<lb n="53" facs="#L0029_053" />廿四俵<lb n="54" facs="#L0029_054" />廿四錢<lb n="55" facs="#L0029_055" />「中守<lb n="56" facs="#L0029_056" />世之俵<lb n="57" facs="#L0029_057" />廿五俵割半<pb n="page_00029.jpg" facs="#page_00029.jpg" />
+        <lb n="0" facs="#L0030_000" />此図を歴端の極意として中央方円を形象天地めで<lb n="1" facs="#L0030_001" />東西<lb n="2" facs="#L0030_002" />一明十方には四方に<lb n="3" facs="#L0030_003" />南北<lb n="4" facs="#L0030_004" />乾坤<lb n="5" facs="#L0030_005" />四十六日<lb n="6" facs="#L0030_006" />と四つの隅<lb n="7" facs="#L0030_007" />発見<lb n="8" facs="#L0030_008" />を合せて表次十分<lb n="9" facs="#L0030_009" />買方には旱魃風雨天災買しめの理春夏秋冬に<lb n="10" facs="#L0030_010" />一土きて強気ある人の理おほし売方には買しめの<lb n="11" facs="#L0030_011" />崩をまつより外に一理もなし故に此図をあらは御<lb n="12" facs="#L0030_012" />に一割の強みある理也<lb n="13" facs="#L0030_013" />強気の功<lb n="14" facs="#L0030_014" />風雨はげしき時は四季ともに船の破損荏土大阪と<lb n="15" facs="#L0030_015" />もに船間あるべし人こゝろえ第一なり<lb n="16" facs="#L0030_016" />風烈之時は四季ともに大事と心得へし<lb n="17" facs="#L0030_017" />一三四月より八九月までの内風雨はげしき時は淡水田畑村様<lb n="18" facs="#L0030_018" />のことなり<lb n="19" facs="#L0030_019" />一四五月の早魃うゑつけなし<lb n="20" facs="#L0030_020" />一四五月頃の長雨麦にくはり入塩きりいつば青木し<lb n="21" facs="#L0030_021" />四五月の大風は麦にあたるべし<lb n="22" facs="#L0030_022" />六七月の大風は惣じて雑穀にあこるなり<lb n="23" facs="#L0030_023" />六七月は旱魃は惣じて畑物にあたる<lb n="24" facs="#L0030_024" />九月の風は稲にあこる秋の季にいりてきすことも油断<lb n="25" facs="#L0030_025" />五ヶ秋ナリ<lb n="26" facs="#L0030_026" />ならず<lb n="27" facs="#L0030_027" />八九月の夏雨糯くさり五六月の長雨ふり冷気半年々秋<pb n="page_00001.jpg" facs="#page_00001.jpg" />
+        <lb n="0" facs="#L0031_000" />Ar23456Me slofirt2isitisBrris19<lb n="1" facs="#L0031_001" />Yellow<lb n="2" facs="#L0031_002" />百廿九日<lb n="3" facs="#L0031_003" />つゆ<lb n="4" facs="#L0031_004" />谷村文<lb n="5" facs="#L0031_005" />廿九日<lb n="6" facs="#L0031_006" />一正三猿金泉秘録金泉秘録全<lb n="7" facs="#L0031_007" />Allap.<pb n="page_00015.jpg" facs="#page_00015.jpg" />
+        <lb n="0" facs="#L0032_000" />金気<lb n="1" facs="#L0032_001" />水<lb n="2" facs="#L0032_002" />とも中分の坪なり六七月間に金気鬱驚水気<lb n="3" facs="#L0032_003" />陽明輝金<lb n="4" facs="#L0032_004" />太陽寒水<lb n="5" facs="#L0032_005" />往復あれは豊卑となる<lb n="6" facs="#L0032_006" />霖雨二箇年<lb n="7" facs="#L0032_007" />○<lb n="8" facs="#L0032_008" />一夜正者日此外に商内<lb n="9" facs="#L0032_009" />仕方の注にし春小べし<lb n="10" facs="#L0032_010" />癸未癸丑<lb n="11" facs="#L0032_011" />一校正者曰○西林和名奈加阿女<lb n="12" facs="#L0032_012" />一今按又連爾又名二苦両一同例<lb n="13" facs="#L0032_013" />云両三日是往以雨ノ麓<lb n="14" facs="#L0032_014" />右にあたるとして寒冷つよく万物さかえかたき大凶<lb n="15" facs="#L0032_015" />年なり然れども六七月の間に火気欝発の変気あ<lb n="16" facs="#L0032_016" />れは豊早楽楽<lb n="17" facs="#L0032_017" />極凶八箇年<lb n="18" facs="#L0032_018" />仕方の説なし考ふべし<lb n="19" facs="#L0032_019" />一従正者日此処に商内<lb n="20" facs="#L0032_020" />丙寅丙寅丙寅丙寅丙寅丙午庚戌<lb n="21" facs="#L0032_021" />女子<lb n="22" facs="#L0032_022" />一大にあたるとしめ壬年壬子は格凶の卑なり其餘は<lb n="23" facs="#L0032_023" />六七月の間に火気薄発の変気あれは豊卑なり<lb n="24" facs="#L0032_024" />豊作廿八箇年<lb n="25" facs="#L0032_025" />一秋名月に三平二乗半板あ薬転変声<lb n="26" facs="#L0032_026" />しかける年なり<lb n="27" facs="#L0032_027" />戊辰庚午辛来壬申癸酉甲戌乙亥<lb n="28" facs="#L0032_028" />戊寅乙酉丙戌丁亥戊子巳丑庚寅<lb n="29" facs="#L0032_029" />癸巳戊戌庚寅辛丑壬寅癸卯甲辰</p>
+    </body>
+  </text>
+</TEI>

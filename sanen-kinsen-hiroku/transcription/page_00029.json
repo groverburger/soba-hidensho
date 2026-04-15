@@ -1,0 +1,712 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1276,
+            122
+          ],
+          [
+            1276,
+            906
+          ],
+          [
+            1320,
+            122
+          ],
+          [
+            1320,
+            906
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "此図を歴端の極意として中央方円を形象天地めで",
+        "isTextline": "true",
+        "confidence": 0.81
+      },
+      {
+        "boundingBox": [
+          [
+            1244,
+            337
+          ],
+          [
+            1244,
+            381
+          ],
+          [
+            1264,
+            337
+          ],
+          [
+            1264,
+            381
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "東西",
+        "isTextline": "true",
+        "confidence": 0.667
+      },
+      {
+        "boundingBox": [
+          [
+            1225,
+            118
+          ],
+          [
+            1225,
+            341
+          ],
+          [
+            1258,
+            118
+          ],
+          [
+            1258,
+            341
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一明十方には四方に",
+        "isTextline": "true",
+        "confidence": 0.763
+      },
+      {
+        "boundingBox": [
+          [
+            1225,
+            338
+          ],
+          [
+            1225,
+            383
+          ],
+          [
+            1244,
+            338
+          ],
+          [
+            1244,
+            383
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "南北",
+        "isTextline": "true",
+        "confidence": 0.656
+      },
+      {
+        "boundingBox": [
+          [
+            1244,
+            515
+          ],
+          [
+            1244,
+            566
+          ],
+          [
+            1264,
+            515
+          ],
+          [
+            1264,
+            566
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "乾坤",
+        "isTextline": "true",
+        "confidence": 0.729
+      },
+      {
+        "boundingBox": [
+          [
+            1234,
+            500
+          ],
+          [
+            1234,
+            586
+          ],
+          [
+            1254,
+            500
+          ],
+          [
+            1254,
+            586
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "四十六日",
+        "isTextline": "true",
+        "confidence": 0.301
+      },
+      {
+        "boundingBox": [
+          [
+            1228,
+            383
+          ],
+          [
+            1228,
+            516
+          ],
+          [
+            1260,
+            383
+          ],
+          [
+            1260,
+            516
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "と四つの隅",
+        "isTextline": "true",
+        "confidence": 0.764
+      },
+      {
+        "boundingBox": [
+          [
+            1227,
+            514
+          ],
+          [
+            1227,
+            566
+          ],
+          [
+            1245,
+            514
+          ],
+          [
+            1245,
+            566
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "発見",
+        "isTextline": "true",
+        "confidence": 0.679
+      },
+      {
+        "boundingBox": [
+          [
+            1227,
+            563
+          ],
+          [
+            1227,
+            907
+          ],
+          [
+            1261,
+            563
+          ],
+          [
+            1261,
+            907
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "を合せて表次十分",
+        "isTextline": "true",
+        "confidence": 0.758
+      },
+      {
+        "boundingBox": [
+          [
+            1166,
+            120
+          ],
+          [
+            1166,
+            912
+          ],
+          [
+            1210,
+            120
+          ],
+          [
+            1210,
+            912
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "買方には旱魃風雨天災買しめの理春夏秋冬に",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            1114,
+            120
+          ],
+          [
+            1114,
+            912
+          ],
+          [
+            1156,
+            120
+          ],
+          [
+            1156,
+            912
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一土きて強気ある人の理おほし売方には買しめの",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            1058,
+            119
+          ],
+          [
+            1058,
+            906
+          ],
+          [
+            1099,
+            119
+          ],
+          [
+            1099,
+            906
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "崩をまつより外に一理もなし故に此図をあらは御",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            1001,
+            115
+          ],
+          [
+            1001,
+            473
+          ],
+          [
+            1040,
+            115
+          ],
+          [
+            1040,
+            473
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "に一割の強みある理也",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            945,
+            292
+          ],
+          [
+            945,
+            504
+          ],
+          [
+            988,
+            292
+          ],
+          [
+            988,
+            504
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "強気の功",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            891,
+            114
+          ],
+          [
+            891,
+            909
+          ],
+          [
+            933,
+            114
+          ],
+          [
+            933,
+            909
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "風雨はげしき時は四季ともに船の破損荏土大阪と",
+        "isTextline": "true",
+        "confidence": 0.891
+      },
+      {
+        "boundingBox": [
+          [
+            844,
+            114
+          ],
+          [
+            844,
+            669
+          ],
+          [
+            881,
+            114
+          ],
+          [
+            881,
+            669
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "もに船間あるべし人こゝろえ第一なり",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            786,
+            114
+          ],
+          [
+            786,
+            719
+          ],
+          [
+            825,
+            114
+          ],
+          [
+            825,
+            719
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "風烈之時は四季ともに大事と心得へし",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            671,
+            107
+          ],
+          [
+            671,
+            914
+          ],
+          [
+            730,
+            107
+          ],
+          [
+            730,
+            914
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一三四月より八九月までの内風雨はげしき時は淡水田畑村様",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            120
+          ],
+          [
+            628,
+            272
+          ],
+          [
+            656,
+            120
+          ],
+          [
+            656,
+            272
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "のことなり",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            571,
+            113
+          ],
+          [
+            571,
+            546
+          ],
+          [
+            609,
+            113
+          ],
+          [
+            609,
+            546
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "一四五月の早魃うゑつけなし",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            514,
+            115
+          ],
+          [
+            514,
+            838
+          ],
+          [
+            561,
+            115
+          ],
+          [
+            561,
+            838
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "一四五月頃の長雨麦にくはり入塩きりいつば青木し",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            450,
+            115
+          ],
+          [
+            450,
+            577
+          ],
+          [
+            494,
+            115
+          ],
+          [
+            494,
+            577
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "四五月の大風は麦にあたるべし",
+        "isTextline": "true",
+        "confidence": 0.842
+      },
+      {
+        "boundingBox": [
+          [
+            402,
+            116
+          ],
+          [
+            402,
+            705
+          ],
+          [
+            443,
+            116
+          ],
+          [
+            443,
+            705
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "六七月の大風は惣じて雑穀にあこるなり",
+        "isTextline": "true",
+        "confidence": 0.85
+      },
+      {
+        "boundingBox": [
+          [
+            344,
+            120
+          ],
+          [
+            344,
+            649
+          ],
+          [
+            388,
+            120
+          ],
+          [
+            388,
+            649
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "六七月は旱魃は惣じて畑物にあたる",
+        "isTextline": "true",
+        "confidence": 0.833
+      },
+      {
+        "boundingBox": [
+          [
+            283,
+            114
+          ],
+          [
+            283,
+            918
+          ],
+          [
+            341,
+            114
+          ],
+          [
+            341,
+            918
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "九月の風は稲にあこる秋の季にいりてきすことも油断",
+        "isTextline": "true",
+        "confidence": 0.83
+      },
+      {
+        "boundingBox": [
+          [
+            281,
+            456
+          ],
+          [
+            281,
+            542
+          ],
+          [
+            298,
+            456
+          ],
+          [
+            298,
+            542
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "五ヶ秋ナリ",
+        "isTextline": "true",
+        "confidence": 0.339
+      },
+      {
+        "boundingBox": [
+          [
+            239,
+            125
+          ],
+          [
+            239,
+            208
+          ],
+          [
+            270,
+            125
+          ],
+          [
+            270,
+            208
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ならず",
+        "isTextline": "true",
+        "confidence": 0.857
+      },
+      {
+        "boundingBox": [
+          [
+            182,
+            117
+          ],
+          [
+            182,
+            917
+          ],
+          [
+            234,
+            117
+          ],
+          [
+            234,
+            917
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "八九月の夏雨糯くさり五六月の長雨ふり冷気半年々秋",
+        "isTextline": "true",
+        "confidence": 0.84
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1525,
+    "img_height": 1024,
+    "img_path": "/Users/grob/Documents/projects/japanese/original-manuscript/page_00029.jpg",
+    "img_name": "page_00029.jpg"
+  }
+}

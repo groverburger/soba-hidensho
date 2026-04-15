@@ -1,0 +1,72 @@
+/* Sanen Kinsen Hiroku EPUB stylesheet */
+
+body {
+  font-family: "Noto Serif", Georgia, serif;
+  line-height: 1.5;
+  margin: 1em;
+}
+
+h1 {
+  color: #8B0000;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h2, h3 {
+  color: #333333;
+}
+
+.lettrine {
+  font-size: 2.5em;
+  float: left;
+  line-height: 0.8;
+  margin-right: 0.05em;
+  color: #8B0000;
+}
+
+.smallcaps {
+  font-variant: small-caps;
+}
+
+.center {
+  text-align: center;
+}
+
+blockquote {
+  border-left: 2px solid #BBBBBB;
+  background-color: #F5F2EB;
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  font-size: 0.95em;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 1em auto;
+  font-size: 0.9em;
+}
+
+th, td {
+  padding: 0.3em 0.6em;
+  border-bottom: 1px solid #ccc;
+}
+
+th {
+  border-bottom: 2px solid #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+aside[epub|type="footnote"], .footnote {
+  font-size: 0.85em;
+  line-height: 1.4;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #8B0000;
+  margin: 1.5em 2em;
+}
