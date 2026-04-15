@@ -25,15 +25,33 @@
 ]{geometry}
 
 \usepackage{fontspec}
-\setmainfont{Noto Serif}[
-  BoldFont={Noto Serif Bold},
-  ItalicFont={Noto Serif Italic},
-  BoldItalicFont={Noto Serif Bold Italic},
+% Load Noto Serif and Noto Sans from their TeX-installed TTF files, so the
+% build works on any TinyTeX install that has the `noto` package
+% (tlmgr install noto) regardless of whether the fonts are registered with
+% the OS font system.
+\setmainfont{NotoSerif}[
+  Path={/Users/grob/Library/TinyTeX/texmf-dist/fonts/truetype/google/noto/},
+  Extension=.ttf,
+  UprightFont=*-Regular,
+  BoldFont=*-Bold,
+  ItalicFont=*-Italic,
+  BoldItalicFont=*-BoldItalic,
 ]
-\setsansfont{Noto Sans}
-\newfontfamily\japanesefont{Noto Serif JP}[
-  AutoFakeBold=2.5,
+\setsansfont{NotoSans}[
+  Path={/Users/grob/Library/TinyTeX/texmf-dist/fonts/truetype/google/noto/},
+  Extension=.ttf,
+  UprightFont=*-Regular,
+  BoldFont=*-Bold,
+  ItalicFont=*-Italic,
+  BoldItalicFont=*-BoldItalic,
 ]
+% Japanese font: prefer Noto Serif CJK JP if installed, fall back to Hiragino
+% Mincho ProN (macOS default).
+\IfFontExistsTF{Noto Serif CJK JP}{%
+  \newfontfamily\japanesefont{Noto Serif CJK JP}[AutoFakeBold=2.5]%
+}{%
+  \newfontfamily\japanesefont{Hiragino Mincho ProN}[AutoFakeBold=2.5]%
+}
 \newcommand{\jp}[1]{{\japanesefont #1}}
 
 \usepackage{graphicx}
@@ -209,47 +227,55 @@ ISBN 979-8-254-10079-9\\[1em]
 \noindent\textbf{About This Edition}\\[0.3em]
 \noindent This is the first English translation of the \textit{Sanen Kinsen
 Hiroku}. The manuscript was sourced and the translation project directed
-by Zach Booth. The translation from classical Japanese was produced with
-AI assistance (Claude Opus 4.6, Anthropic), which read the original
-manuscript page images directly using multimodal capabilities. The
-original text is written in \textit{kobun} (classical Japanese) with
-\textit{kanbun kundoku} reading marks in cursive script
-(\textit{kuzushiji}) on aged paper.\\[0.5em]
-\noindent\textbf{On Confidence.} The translation was produced in two
-stages: first a character-by-character transcription of the Japanese
-with confidence levels, then an English translation from that
-transcription. Section headers, diagram labels, numerical tables, and
-structured lists (such as the sexagenary year cycles) are generally
-legible and reliably translated. Connecting prose between these anchors
-varies widely in legibility: some passages are clearly readable, while
-others---particularly in dense cursive sections---are partially or
-largely illegible at the available scan resolution. Where the
-manuscript is difficult to read, the translation is marked as
-interpretive. Passages flagged ``\textit{interpretive}'' represent our
-best reconstruction of the text's meaning from partial readings and
-contextual clues; they should not be cited as the author's exact
-words.\\[1em]
+by Zach Booth. The original text is in \textit{kobun} (classical Japanese)
+with \textit{kanbun kundoku} reading marks in cursive script
+(\textit{kuzushiji}) on aged paper. The translation was produced in two
+mechanically-separated stages:\\[0.4em]
+\noindent\textit{1. Transcription.} The manuscript images were passed
+through \mbox{NDL~\jp{古典籍OCR-Lite}} --- a specialist OCR toolchain
+released by Japan's National Diet Library for Edo-period and earlier
+classical texts (RTMDet text-region detection + PARSeq character
+recognition, ONNX, CPU-only). This step is purely mechanical: the
+model reads pixels, not meaning, and cannot silently interpolate from
+context it does not have.\\[0.3em]
+\noindent\textit{2. Translation.} The OCR output was then rendered
+into English with AI assistance (Claude Opus~4.6, Anthropic), working
+from the mechanical transcription and consulting the manuscript images
+only to sanity-check OCR artifacts.\\[0.5em]
+\noindent\textbf{On Confidence.} Section headers, diagram labels,
+boxed tables, and structured lists (such as the sexagenary year
+cycles, the Three-Virtue verse-counts, and the four-stage method-
+diagrams) are legible in the OCR and reliably translated. The dense
+prose between these anchors varies: most is readable, but some
+stretches --- particularly the afterword on page~32 and several
+long interval rows in the body --- are fragmentary even to the
+OCR. Where the underlying transcription is difficult, the
+translation is marked \textit{\mbox{[Interpretive]}}. Passages so
+flagged represent the reconstructed sense of the passage; they are
+not the author's exact words.\\[1em]
 
 \noindent\textbf{How to Read This Translation}\\[0.3em]
-\noindent The body text of this book is a direct translation of the source
-manuscript. The chapter and section headings are editorial, added for
-navigation. Footnotes marked ``\textit{Translator's note}'' provide
-historical context, definitions, and comparative observations. Rare
-indented passages marked ``\textit{Editor's note}'' provide brief
-editorial bridges where the manuscript's structure requires explanation. Chapter lengths vary because
-the translation follows the manuscript's own proportions---some topics
-receive extensive treatment in the source, others only a line or two.
-Passages marked ``\textit{Interpretive}'' are
-reconstructions from partially legible manuscript sections; all other
-body text is a direct translation of the source.\\[0.5em]
+\noindent The body text of this book is a direct translation of the
+source manuscript. The chapter and section headings are editorial,
+added for navigation. Footnotes marked ``\textit{Translator's note}''
+provide historical context, definitions, and comparative observations.
+Indented passages marked ``\textit{Editor's note}'' provide brief
+editorial bridges where the manuscript's structure requires
+explanation. Chapter lengths vary because the translation follows the
+manuscript's own proportions --- some topics receive extensive
+treatment in the source, others only a line or two.\\[0.5em]
 \noindent\textbf{Structure of the Text.}
-Chapters 1--2 establish the cosmological framework and seasonal trading
-rules. Chapters 3--4 present the mechanics of staged entry and the
-sixty-year weather cycle. Chapters 5--8 build the decision
-framework: market forces, the four virtues, the Middle Star
-mean-reversion system, and the Seven Fortunes. Chapter~9 synthesizes
-everything in the Grand Diagram. Chapters 10--11 close with
-sentiment-reading and final teachings.
+Chapter~1 is the preface, grounding the book in Neo-Confucian
+cosmology and naming the Three Monkeys as a contrarian discipline.
+Chapters 2--3 establish the favorable/adverse year cycle and the
+enumerated maxims that act on it. Chapter~4 presents the four-stage
+method-diagrams (half-plank, at-ease, reversal). Chapter~5 is the
+sixty-year weather almanac. Chapters 6--7 build the decision
+framework: the Nine-Body Song and the forty-eight verses of the
+Three Virtues. Chapters 8--11 are the quantitative core: the
+World-Levels Diagram, the Strong-Qi / Weak-Qi five-stage secrets, the
+compound trades, the Grand Diagram, and the three first-tier family
+secrets. Chapter~12 is the editor's afterword.
 \end{small}
 \newpage
 
@@ -351,13 +377,46 @@ What follows is, to my knowledge, the first English translation of the
 actual \textit{Sanen Kinsen Hiroku}, made directly from the 1851
 manuscript held at Kyoto University.
 
+\section*{A Note on Method}
+
+The translation proceeds in two mechanically-separated stages. The
+cursive manuscript pages are first read by a specialist optical-
+character-recognition toolchain, NDL~\jp{古典籍OCR-Lite}, released
+by Japan's National Diet Library for Edo-period and earlier
+classical texts. The OCR is mechanical: it reads pixels and emits
+characters, with no interpretive access to the text's meaning. An
+LLM (Claude Opus~4.6, Anthropic) then works from the mechanical
+transcription to produce the English, consulting the manuscript
+images only to sanity-check OCR artifacts.
+
+The separation is deliberate. A single model asked to read cursive
+script and produce English in one pass has no way to distinguish
+between characters it has read and characters it has guessed,
+because both are generated by the same mechanism. Splitting the
+two stages makes the distinction visible: where the OCR failed,
+the book says so; where the OCR returned a plausibly-wrong
+character, the correction is flagged inline. Every English
+sentence is traceable back to a specific line of mechanical
+transcription, which is traceable back to a specific pixel-region
+of the manuscript scan.
+
+The full audit trail --- the manuscript scans, the mechanical
+transcription at the character level, and the translation files
+--- is published alongside this book at the URL given in the back
+matter.
+
 \vspace{1em}
 \begin{flushright}
 \textit{---Zach Booth}
 \end{flushright}
 
 % =============================================================================
-\chapter{Preface: The Cosmology\\ of the Market}
+% =============================================================================
+%  BODY — V2 (Phase 3 / NDL-OCR-based) translation
+%  Twelve chapters, mapping 1-to-1 onto the twelve manuscript page-ranges
+% =============================================================================
+
+\chapter{The Preface: Cosmology of the Market}
 
 \begin{center}
 \jp{三猿金泉録序}\\[0.3em]
@@ -366,1019 +425,1679 @@ manuscript held at Kyoto University.
 
 \vspace{1em}
 
-\lettrine[lines=2]{T}{he Supreme Ultimate}\tn{\jp{太極} (\textit{taikyoku}).
-The foundational concept of Neo-Confucian cosmology. The opening echoes
-Zhou Dunyi's \textit{Taijitu shuo} (Explanation of the Diagram of the
-Supreme Ultimate, mid-11th century), grounding market theory in the highest
-philosophical authority.}
-moves and gives birth to Yang; when still, it gives birth to Yin.
-The principle of one stillness and one movement---Heaven and Earth rise and
-fall according to this logic. Movement reaches its extreme and becomes
-stillness; stillness reaches its extreme and becomes movement again.
-Movement and stillness are the root of one another.
+The preface of the \textit{Sanen Kinsen Hiroku} is written in Chinese-
+derived prose with Japanese \textit{kundoku} reading marks, in a hand
+more formal than the body of the text. Its opening places the rice
+market inside the Neo-Confucian cosmology of the Supreme Ultimate and
+the alternation of yin and yang, and proceeds through a sequence of
+definitions that establish the book's working vocabulary: the strong
+and weak forces (\jt{強気}{ky\=oki} / \jt{弱気}{jakki}); the principle
+beyond ordinary nature (\jt{天性理外の理}{tensei rigai no ri}); the
+empty principle (\jt{空理}{k\=uri}); and the fixed form
+(\jt{定式}{j\=oshiki}) by which a method becomes practicable.
 
-This is the principle by which strong qi\tn{\jp{強気} (\textit{tsuyoki}),
-literally ``strong spirit''---bullish sentiment. Its opposite, \jp{弱気}
-(\textit{yowaki}), ``weak spirit,'' is bearish sentiment.} and weak qi
-alternate.
+\section{The Supreme Ultimate}
 
-When this principle is applied to all things, there is nothing it does not
-encompass. When applied to rice, the qi of people---whether strong or
-weak---is contained within this principle. Those who combine this
-understanding with close observation of the market will find it reasonable.
-In years of good harvests and times of fine weather, one should compare and
-examine the rice markets.
+\lettrine[lines=2]{T}{he Supreme Ultimate}\tn{\jp{太極}
+(\textit{taikyoku}) --- the foundational concept of Neo-Confucian
+cosmology. The opening echoes Zhou Dunyi's \textit{Taijitu shuo}
+(\textit{Explanation of the Diagram of the Supreme Ultimate},
+mid-11th c.), grounding market theory in the highest philosophical
+authority available to an Edo-period reader.} moves and begets Yang;
+its motion reaches its limit and becomes still. In stillness it
+begets Yin; stillness reaches its limit and moves again. Movement
+and stillness are the root of one another.
 
-This is the principle that transcends mere natural disposition.
+The rise and fall of rice --- like the circuit of Heaven and Earth,
+and of Yin and Yang --- alternates between strong-spirited force and
+weak-spirited force. Each contains the seed of its opposite: when
+the strong force has driven prices to their ceiling, the weak force
+is already present within it; when the weak force has driven them to
+their floor, the strong force is likewise already present.
 
-In recent years, new rice arriving in the ninth and tenth months has been
-declining in price. When rice falls, strong buying emerges---this is the
-buying pattern. Conversely, when rice has been rising for some months,
-selling pressure appears at the ceiling.\tn{The manuscript's cursive
-becomes significantly denser in this passage. The general sense---that
-buying follows price declines and selling follows rises---is clear from
-the legible characters, but individual phrases are uncertain.}
+\begin{quote}
+\textit{When the crowd's spirit is weak, it is the principle of
+rice's rising. When the crowd's spirit is strong, it is the seed of
+rice's falling. All of this is the principle beyond ordinary nature}
+(\jp{天性理外の理}, \textit{tensei rigai no ri}).
+\end{quote}
 
-Within a cycle of favorable and adverse conditions spanning twelve or
-thirteen years, the secret records of the house---the family tradition
-spanning thirty generations---are secretly stored. This is the family
-tradition of Ushida Gonzabur\=o.\tn{The numbers ``twelve or thirteen''
-and ``thirty'' are legible. The intervening text is heavily damaged
-cursive; the passage may reference a capital figure (possibly
-\jp{千五百}, 1,500) but the reading is too uncertain to render with
-confidence.}
+\section{Sixty Years of Study}
 
-% =============================================================================
-\chapter{Favorable and Adverse Conditions;\\ The Articles of Trading}
+The preface turns, at this point, to the autobiographical frame on
+which everything that follows rests:
 
-\section{Favorable and Adverse Conditions}
+\begin{quote}
+\textit{For sixty years I have cast my mind upon this craft,
+devising by day and by night, and have at length opened up the
+insight into rice's strong and weak forces. I have established the
+settled method of rice trading, and have compiled a single volume of
+secret writings, giving it the title}~\textbf{Three Monkeys Gold
+Spring Record.}
+\end{quote}
 
-\begin{center}
-\jp{順来・逢来} --- \textit{Junrai and Airai}
-\end{center}
+Six decades of study is a weighty claim. It positions this book as
+the summation of a working life's observation, not a younger
+trader's prospectus. Every maxim, every diagram, every calibrated
+drawdown ladder in the body of the text is offered as what such a
+sixty-year span yielded.
 
-\vspace{0.5em}
+\section{The Shape of the Rice Grain}
 
-\begin{editorialnote}
-Two units recur throughout the text that follows.
-\jt{両}{ry\=o}: the standard gold coin of the Edo period, used here as
-the unit of trading capital. \jt{俵}{tawara}: a bale of rice, the
-standard unit of measure for rice trading and price quotation. Gold and
-rice---ry\=o and tawara---are the two axes of every calculation in this
-text.
-\end{editorialnote}
+The preface now turns to the book's central emblem:
 
-The market moves in great cycles of favorable conditions
-(\jt{順来}{junrai}) and adverse conditions (\jt{逢来}{airai}). Within a
-period of roughly twelve to thirteen years, favorable conditions persist for
-approximately ten years, and adverse conditions for three.\tn{This roughly
-10:3 ratio of bull-to-bear years anticipates modern observations about
-market asymmetry---that markets spend more time rising than falling, but
-that the falls are sharper.}
+\begin{quote}
+\textit{The form of the rice grain: rounded in the middle, pointed
+at top and bottom. The round is Yang; the pointed is Yin.}
+\end{quote}
 
-During favorable years, rice is generally at high levels. When old rice
-(\jt{古米}{komai})\tn{Rice from previous harvests, as opposed to
-\jp{新米} (\textit{shinmai}), newly harvested rice. Old rice was traded as
-a distinct commodity.} is in a year of abundance, it will be cheap. Buy in
-the fourth month. By mid-sixth month, prices will be high---this is where
-one sells. In autumn, buy again around the seventh month. Toward year-end,
-the price of old rice will rise, and one should sell again.\tn{The month
-references (fourth, sixth, seventh) are partially legible in the
-manuscript. The surrounding trading instructions are interpretive,
-reconstructed from these anchor points and the section's overall theme.}
+This single sentence is the seed of the entire diagrammatic tradition
+that follows. The grain itself becomes the emblem for the candle-and-
+spike pattern of a market print. The same figure will recur in the
+\jt{穂足の録}{Hosoku no Roku} (``Record of Spike Patterns'') and in
+the four-stage cycle diagrams of Chapter~4.
 
-This is the fundamental pattern of favorable years.
+\section{The Four Classes and the Three Monkeys}
 
-In adverse years, the cheap period for old rice falls around the fourth
-through sixth months. In autumn, one should buy, and by year-end the rice
-price climbs.
+The preface now names the book's broader audience and its guiding
+emblem of discipline:
 
-\needspace{14\baselineskip}
-A song (\jp{歌}, \textit{uta}) on favorable conditions for the four
-seasons, and the estimation of highs and lows:\tn{The source text
-identifies this passage as an \textit{uta}---a verse or mnemonic poem,
-a common device in Edo-period instructional texts for making key
-principles memorable. The \jp{歌} label and the four-seasons/high-low
-theme are legible; the specific verse text below is an interpretive
-reconstruction from partially readable cursive.}
+\begin{quote}
+\textit{Receiving the breath of Heaven, Earth, Yin and Yang,
+\mbox{[rice]} nourishes the four classes --- warrior, farmer,
+artisan, merchant --- and is the first treasure of all under
+Heaven.}\tn{\jp{士農工商} (\textit{shi-n\=o-k\=o-sh\=o}), the
+classical Japanese social stratification. The OCR stream has a
+small fragment (\jp{士略}) at this point consistent with the
+\jp{士農} opening of the standard list.}
+\end{quote}
 
-\begin{verse}
-\textit{[Interpretive.]}\\
-In a year of favorable conditions,\\
-the autumn harvest is plentiful;\\
-the highs and lows can be estimated\\
-across four seasons.\\[0.5em]
-In spring, from around the fourth month onward,\\
-buy at the fifth-month level;\\
-by the end of the year,\\
-the high price will come.
-\end{verse}
+\begin{quote}
+\textit{The Three Monkeys are: the See-Monkey, the Hear-Monkey, and
+the Speak-Monkey.}
+\end{quote}
 
-In favorable periods, the rice market's sentiment (\jt{人気}{jinki})\tn{%
-Literally ``people-qi''---the collective mood of market participants.} for
-each month can be read directly. The fifth-month and year-end levels become
-the reference points. In a year of great flood, the rice market reacts
-through the twelfth month.
+And then, built on that triad, the book's foundational rule:
 
-\section{The Fifteen Articles of Trading}
+\begin{quote}
+\textit{When the eye perceives strong-spiritedness, do not let the
+heart sink into the abyss of that strength. Hold it only within
+the heart, and}~sell.
 
-\begin{center}
-\jp{十五ヶ条 禁物場} --- \textit{J\=ugo Kaj\=o, Kinmotsu-ba}\\
-\textit{Fifteen Articles: Forbidden Things of the Marketplace}
-\end{center}
+\textit{When the ear hears weak-spiritedness, do not let the heart
+sink into the abyss of that weakness. Hold it only within the
+heart, and}~buy.
 
-\vspace{0.5em}
+\textit{Whether you see or hear the strong or the weak, do not
+speak of it to others. Words lead hearts astray. This is the secret
+of the three monkeys.}
+\end{quote}
 
-\tn{The section heading names fifteen articles, but the manuscript presents
-them as flowing prose punctuated by cautionary markers (\jp{禁判},
-\textit{kinban}, literally ``forbidden judgment'') rather than as a numbered
-list. Approximately six to eight distinct \jp{禁判} markers are legible in
-the cursive script. Whether the remaining articles were lost in
-transmission, are embedded in the prose without explicit markers, or whether
-``fifteen'' is a conventional number for such collections is unclear from
-this manuscript. What follows is a faithful translation of the legible
-text.}
+This is the contrarian discipline that gives the book its title. The
+monkeys are not a moralizing ornament but a working rule for trading
+against the crowd.
 
-\begin{editorialnote}
-The manuscript contains six to eight \jp{禁判} (cautionary) markers with
-surrounding prose in dense cursive. The markers themselves are legible;
-the text between them is only partially readable. What follows is an
-interpretive reconstruction: the general themes are consistent with the
-legible fragments (terms like \jp{世の人}, \jp{売買}, \jp{強弱の気},
-\jp{新米}, \jp{秋} are identifiable), but the specific phrasing should
-not be taken as the author's exact words.
-\end{editorialnote}
+\section{The Empty Principle and the Fixed Form}
 
-\textit{[Interpretive.]}
-Within the market, one must read the sentiment of the crowd---whether people
-are inclined to buy or sell---and not act rashly.
+The preface closes with a philosophical move that justifies the
+enterprise of the whole book: the market's motion is ultimately
+empty, but it has a discernible form, and from the form one can
+derive a method.
 
-\jp{禁判}: The large trader may think that because he has capital, he can
-afford to hold a losing position. This is a grave error. Even with great
-capital, if one buys recklessly and the market moves against him, the losses
-compound. Conversely, a trader of modest means who reads the market well
-and trades with discipline can accumulate wealth steadily.
+\begin{quote}
+\textit{The principle of highs and lows is an} empty principle
+(\jp{空理}, \textit{k\=uri}) --- \textit{not visible to the eye; a
+thing whose very body is without shade or form.}
+\end{quote}
 
-\jp{禁判}: The decision to buy or sell should not be made lightly. One
-should observe for several days.
+Two readings of ``empty'' are then distinguished. The first: if we
+take it only as empty, we will find no hour in a thousand years to
+buy or sell. The second: even the formless has a body; where there
+is a body, there is a fixed form (\jt{定式}{j\=oshiki}); where there
+is a fixed form, there is a trade.
 
-\jp{禁判}: Do not follow the crowd blindly. When all are buying, consider
-selling; when all are selling, consider buying. The profit lies in going
-against common sentiment, yet one must have sound reason for doing
-so.\tn{The contrarian principle (\jp{世の人}---``the people of the
-world''---and \jp{売}/\jp{買} are among the legible characters in this
-passage) predates the Western maxim ``buy when there is blood in the
-streets'' (apocryphally attributed to Baron Rothschild).}
+The preface then places the trader's discipline alongside the three
+great teachings of its culture:
 
-\jp{禁判}: Those who deal in large quantities and those with small capital
-must both observe these rules equally.
+\begin{quote}
+\textit{The fixed form of Buddhism is the Five Precepts. The fixed
+form of Confucianism is the Five Constants. The fixed form of Shinto
+is the Three Virtues of Wisdom, Benevolence and Courage. Each has
+its own fixed form.}
+\end{quote}
 
-\jp{禁判}: In the autumn months, when new rice enters the market and the
-old rice price adjusts, one must read the market carefully.
-
-\jp{禁判}: When the people of the world (\jp{世の人}) are of one mind
-regarding the market, the strong and weak sentiments must be weighed.
-
-\begin{editorialnote}
-Several further \jp{禁判} markers are present in the manuscript but the
-surrounding cursive text is too damaged or faded to translate with
-confidence.
-\end{editorialnote}
-
-\section{The Thirty-Eight Provisions for Seasonal Trading}
-
-\begin{center}
-\jp{三十八ヶ条 商内} --- \textit{Sanj\=uhachi Kaj\=o, Sh\=onai}\\
-\textit{Thirty-Eight Provisions for Trading}
-\end{center}
-
-\vspace{0.5em}
-
-\tn{As with the Fifteen Articles, the heading names thirty-eight provisions,
-but the manuscript presents them as continuous prose about seasonal trading
-rather than a numbered enumeration. The provisions are woven into the
-narrative of monthly and seasonal patterns. Whether a fully enumerated
-version existed in another recension of the text is unknown.}
-
-In a year of adverse conditions (\jp{逢来}), from around the fifth month
-onward, summer rice drops and autumn months see further decline. Autumn
-months are for buying; favorable months are for the pattern of waiting.
-
-In a year of good harvest (\jt{上作}{j\=osaku}), rice is abundant and
-prices are depressed.\tn{\jp{上作}/\jp{中作}/\jp{下作} refer to harvest
-quality grades---good, average, and poor.
-\jp{上作} (literally ``upper crop'') is an abundant harvest; \jp{下作}
-(``lower crop'') is a poor one.} In an average harvest
-(\jt{中作}{ch\=usaku}), prices fall between the extremes. In a poor
-harvest (\jt{下作}{gesaku}), rice is scarce and prices rise.
-
-In a year of favorable conditions, from spring onward: if the harvest is
-expected to be plentiful, summer rice will be cheap. Buy in the third or
-fourth month at the low, and sell by the middle of the sixth month when the
-price has risen.
-
-In autumn, buy again at the harvest-month low. By year-end, old rice prices
-climb, and this is where one takes profit.
-
-In an adverse year, the pattern reverses. From the fifth month, prices
-decline through summer. The autumn months are the buying months. By the
-year-end, prices recover.
-
-For the months from the tenth onward, consider the first ten days of each
-month. The market's movement can be read within each four-to-five month
-period.
-
-In the fifth month, in a year of poor harvest, the rice situation becomes
-tight; one should buy at the lower level. But in a strong-yield period of
-four years, the rice pattern reverses.
-
-The sentiment of the rice market (\jp{米來人気筋}) can be read directly from
-the monthly price action. The favorable-condition months and the
-adverse-condition months each have their own character. The trader who reads
-them alongside the harvest forecast can establish the full year's plan.
-
-When weak qi pervades the world and things seem to continue weakening, yet
-the rice price is at a level that appears flat---this is the year of rice
-buying.\tn{The last two sentences of this section in previous editions
-(``The flat price amid universal pessimism\ldots'') were editorial
-additions without manuscript support and have been removed.}
+By naming a ``fixed form'' for rice-trading and then enumerating it
+alongside the forms of the three teachings, the preface concludes
+with the claim the book will then spend thirty pages demonstrating:
+the trader's discipline is not a craft beside the philosophies --- it
+is a philosophy in its own right, and its book is the record of its
+form.
 
 % =============================================================================
-\chapter{The Record of Patterns\\ and Staged Entry}
+\chapter{Favorable and Adverse Years}
 
-\section{Record of Spike Patterns}
+The preface closes with the reciprocal definition that opens the
+body of the text. Of years in which old rice is abundant and its low
+price transfers to the new harvest, the book says: \textit{this is
+called a} \jt{順来}{junrai} --- \textit{a favorable year}. Of years
+in which rice is scarce and the high price transfers onward, even if
+a summer rally appears: \textit{this is a year of downward force,
+and we call it a} \jt{逢来}{airai} --- \textit{an adverse year}.
 
-\begin{center}
-\jp{穂足の録}\tn{Literally ``grain-spike form''---\jp{穂}
-(ear of rice) plus \jp{足} (form/trace). In modern Japanese trading,
-\jp{足} is the standard suffix for price-chart types:
-\jp{ローソク足} (candlestick), \jp{日足} (daily bar), \jp{棒足}
-(bar chart), etc. Whether \jp{穂足} is an early instance of this
-convention is uncertain, but the shared suffix and agricultural
-metaphor are suggestive.} --- \textit{Hosoku no Roku}
-\end{center}
+\section{The Twelve-to-Thirteen Year Cycle}
 
-\textit{[Interpretive.]}
-When buying and holding, one must consider the fortune (\jt{運}{un}) and the
-momentum (\jt{気}{ki}). The seasonal movements and patterns across two
-hundred days must be compared.\tn{The terms \jp{運} and \jp{気} and the
-figure \jp{二百日} are tentatively legible. The remainder of this section
-is in dense cursive rated LOW confidence; the prose below is
-reconstructed from fragmentary readings and the section's context.}
+The book's opening structural claim is a cycle of twelve to thirteen
+years, within which the favorable years typically outnumber the
+adverse by roughly ten to three:
 
-One should not be impatient: observe for two or three days, then when the
-rice begins to move, buy. Those who buy impulsively and hold stubbornly will
-fail.
+\begin{quote}
+\textit{The way of following favorable conditions and adverse
+conditions --- within a period of twelve or thirteen years, the
+favorable years run to roughly ten and the adverse to three.}
+\end{quote}
 
-\section{The Scaling Diagrams}
+The author presents his method as a table-of-contents in miniature,
+naming the eight structural sections that together comprise what he
+calls the ``settled form'' (\jt{定式}{j\=oshiki}) of rice trading:
+the Twelve-Cycle Trading of favorable and adverse years; the Family-
+Tradition Mirror of Highs and Lows; the Thirty-Eight Articles of
+Trading; the Fifteen Prohibitions; and the Annual Record of
+Fortune-Qi and Plenty-and-Want, among others.
 
-\begin{center}
-\jp{萬光商内之圖}\\
-\textit{Bank\=o Sh\=onai no Zu --- Diagram of Ten-Thousand-Light Trading}
-\end{center}
+\begin{quote}
+\textit{Studied through, this is the wondrous art that does not lose
+once in a thousand attempts. Truly, the secret treasure of the
+family. Keep it secret, keep it secret.}
+\end{quote}
+
+\section{The Attribution}
+
+Immediately following that injunction, the manuscript records a
+date and a signature that situates the text in time and lineage:
+
+\begin{quote}
+\textbf{\jp{宝暦五年秋九月下旬}} --- \textit{Late ninth month,
+autumn of H\=oreki 5} (\textbf{1755}).\\[0.4em]
+\textbf{\jp{慈雲斎　牛田権三郎}} --- \textit{Jiunsai, Ushida
+Gonzabur\=o}.
+\end{quote}
+
+The pen name \jt{慈雲斎}{Jiunsai} appears here, directly above
+Ushida's given name. This is the only place in the book where the
+pen name is recorded. The date --- \textit{H\=oreki}~5, \textbf{1755}
+--- places the text's original composition nearly a century before
+the 1851 revised printing recorded in the colophon on the opening
+leaf, indicating that Narukawa's edition is the print recension of a
+much older family manuscript tradition.
+
+\section{The Twelve-Cycle Trading of Favorable and Adverse Years}
+
+The section header that opens the main body reads:
+
+\begin{quote}
+\jp{○順来逢来十二平商内　〔天明本〕}\\[0.3em]
+\textit{The Twelve-Cycle Trading of Favorable and Adverse Years ---
+Tenmei recension}
+\end{quote}
+
+The annotation \jt{天明本}{Tenmei-bon} --- ``the Tenmei-era recension''
+--- is one of several running textual-parallel markers that recur
+throughout the book, indicating this section descends from a Tenmei-
+era (1781--1789) version of the manuscript.
+
+The section is set in verse. Each sub-group contains six verse-lines
+per year-type. A representative pair:
+
+\begin{quote}
+\textit{Favorable year, autumn-and-winter highs and lows:}
+
+\textit{Autumn cheap; an upward force; one and a half steps; the
+eleventh month falls; the year-end rises.}\\[0.3em]
+\textit{Spring breaks; the fourth and fifth months go down; the
+rice of the sixth and seventh months goes down.}
+\end{quote}
+
+\begin{quote}
+\textit{Favorable year, six verses on the trading method:}
+
+\textit{In autumn, buy; on the upward thrust, sell out and reverse;
+turn again on the auspicious month; the year-end is at ease.}\\[0.3em]
+\textit{In spring, reverse; in the fourth and fifth months, buy; at
+the end of the fifth month, sow this seed; settle by the end of the
+sixth, seventh, and eighth months.}
+\end{quote}
+
+Each year-type --- favorable and adverse --- receives twelve
+verse-lines: six on the expected highs and lows, and six on the
+trading method that responds to them.
+
+\section{The Family Tradition: Mirror of the Four Seasons}
+
+A second verse-cycle, more elaborate, is then introduced under the
+header:
+
+\begin{quote}
+\jp{○家伝四季高安鑑　第二天明本}\\[0.3em]
+\textit{Family Tradition: Mirror of the Four Seasons' Highs and
+Lows --- Tenmei Recension, Second Section}
+\end{quote}
+
+Where the preceding verses addressed the year-type directly, the
+\textit{Mirror of the Four Seasons} re-presents the same material
+organized by season. The trader is given a paired read for each
+season-within-each-year-type --- what to expect in autumn and winter
+under a favorable year, what to expect in spring under an adverse
+year, and so on --- before the text moves into its first enumerated
+maxim-treatise, the Thirty-Eight Articles.
+
+% =============================================================================
+\chapter{The Thirty-Eight Articles\\ and the Fifteen Prohibitions}
+
+The two enumerated sections treated in this chapter form the
+backbone of the book's first half. Each is a series of short
+maxim-verses (\jt{歌}{uta}), each opening with the enumerative
+particle \jp{一} --- ``one.''
+
+\section{The Thirty-Eight Articles of Trading}
+
+The section header reads simply \jt{三十八ヶ条商内}{sanj\=uhachi-kaj\=o
+sh\=onai} --- ``Thirty-Eight Articles of Trading'' --- with a small
+preliminary ``three articles'' (\jt{三ヶ条}{san-kaj\=o}) grouping at
+the head. The furigana gloss \jt{あきない}{akinai} is visible
+alongside \jp{商内}, confirming the native (\textit{wakan}) reading
+rather than the Sino-Japanese \textit{sh\=onai}.
+
+What follows is a selection of articles grouped thematically. The
+full enumeration is preserved in the transcription file.
+
+\subsection{Year-Reads and the Spread Signal}
+
+\begin{quote}
+\textit{A favorable year: a downward force followed by a rise. At the
+harvest moon of autumn, sow the seed of buying.}\\[0.3em]
+\textit{An adverse year: a downward force followed by a further
+fall. At the harvest moon of autumn, sow the seed of selling.}
+\end{quote}
+
+\begin{quote}
+\textit{When the spread (\jp{鞘}, \textit{sayagahari}) flips from
+below-spread to above-spread, after the downward thrust comes the
+rise --- close out your position on the gain.}\\[0.3em]
+\textit{When the spread flips from above to below, after the
+downward thrust comes the further decline --- close out your
+position on the gain.}
+\end{quote}
+
+\subsection{The Two-Hundred-Tenth Day}
+
+\begin{quote}
+\textit{The year when strong-spiritedness emerges is set: select it,
+and on the} two-hundred-tenth day \textbf{(\jp{二百十日},
+\textit{nihyaku-t\=oka})} \textit{sow the seed of buying.}
+
+\textit{A monk says: studying the} Annual Record of Fortune-Qi and
+Plenty-and-Want \textit{(the almanac presented in Chapter~5), one
+cultivates the strong-spirited stance and, on the two-hundred-tenth
+day, sows the seed of buying --- this is the sense of the verse.}
+\end{quote}
+
+The two-hundred-tenth day from the start of the lunar year falls in
+early September --- the seasonal pivot that recurs throughout the
+book as a buying signal.
+
+\subsection{On Public Sentiment}
+
+\begin{quote}
+\textit{The ear catching strong-spiritedness in the public voice is
+itself the seed of rice's coming fall.}
+
+\textit{When weak-spiritedness has emerged into the open, everyone
+turns strong-spirited without judgment --- sow the seed of selling.}
+
+\textit{The year in which weak-spiritedness fails to emerge into the
+world is one in which rice ought to rise.}
+\end{quote}
+
+\subsection{The Contrarian Maxims}
+
+\begin{quote}
+\textit{If a rice whose climbing pace is plainly visible is in
+front of you, halt --- stay your strong spirit and sell.}
+
+\textit{The man who is forever weak-spirited, knowing nothing of
+loss or gain --- call him a great timid one, a parishioner of the
+poverty god.}
+\end{quote}
+
+\subsection{The Rhythm of the Year}
+
+\begin{quote}
+\textit{The great rule: late in the fifth month is the appointed
+time of selling; the harvest moon of autumn is the ripening of
+buying.}
+
+\textit{If the year accords with what the multitude expects, better
+to set out for an unfrequented path.}
+
+\textit{To buy your rice in a single stroke is rashness. Buy in two;
+sell in two.}
+\end{quote}
+
+The Thirty-Eight Articles close with two maxims that introduce a
+reference-concept carrying forward into the diagrams of Chapter~4:
+
+\begin{quote}
+\textit{Across a hundred} tsubo \textit{of land, ninety-nine years
+of highs and lows do not exceed three steps --- take this for
+fact.}
+
+\textit{Even by a single move, when the step has risen, it is nine-
+myriad one} bu\textit{; know it as the selling season at the}
+celestial origin \textit{of a thousand.}
+\end{quote}
+
+The term \jt{天元}{tengen} --- ``celestial origin'' --- will reappear
+as the top stage-marker of every position ladder in the book.
+
+\section{The Fifteen Prohibitions}
+
+The section that follows is the paired negative half of the
+Thirty-Eight Articles: fifteen short \textit{don't-do-this}
+injunctions, each opening from a market condition and ending with
+the phrase \jt{禁制}{kinsei} --- ``trading is forbidden.''
+
+The section header is ambiguous in the manuscript --- \jp{○十五禁言}
+at one point, \jp{十五首} at another --- but the received reading is
+\jt{十五ヶ条禁制}{j\=ugo-kaj\=o kinsei}, ``the Fifteen Articles of
+Prohibition.'' A running red-ink numeral \jp{十四} at the head binds
+the section into the larger enumerated count of the book.
+
+\subsection{Representative Prohibitions}
+
+\begin{quote}
+\textit{When a trade is without its proper attendant, then whether
+or not any gain or loss may be, trading is} forbidden.
+
+\textit{An abundant harvest: the multitude grows weak-spirited; I
+too grow weak. Coming into autumn, selling is forbidden.}
+
+\textit{A lean harvest: the minor-spirit is strong, and stronger
+again; when rice is plentiful, buying is forbidden.}
+
+\textit{When the rising step is so visible that even the rice
+itself seems to say so, though the year is strong, selling in the
+fourth month is forbidden.}
+
+\textit{Fifth-month rice --- sentiment weak, yet the price rises.
+Until the strength is clearly in, selling is forbidden.}
+
+\textit{On great floods or great winds sending rice spiking upward
+--- in any year, buying is forbidden.}
+\end{quote}
+
+The structural pattern is consistent across the fifteen: identify a
+market condition; identify the direction the crowd will take; name
+the direction the trader must \textit{not} take. The prohibitions
+are the contrarian discipline of the Three Monkeys worked out in
+fifteen specific cases.
+
+% =============================================================================
+\chapter{The Method Diagrams:\\ Half-Plank, At-Ease, Reversal}
+
+The book now shifts from verse and maxim to diagram. The method-
+diagrams treated in this chapter are the book's signature
+contribution: four-stage sequential cycles in which the trader
+executes a specific sequence of buys and sells as the market moves
+up and down through a single cycle. Each diagram in the manuscript
+is drawn as a four-cell figure with a red-circled numeral ---
+\jp{①②③④} --- at each cell marking the order of operations.
+
+\begin{editorialnote}
+These are not branching decision trees. Each diagram specifies the
+\textit{fixed sequence} of four actions that constitute one complete
+cycle. The differences between the three diagrams lie in the
+size-relationship between the buy and sell legs --- which in turn
+determines whether the cycle leaves the trader net long, net flat,
+or net short at its close.
+\end{editorialnote}
+
+\section{The Autumn-Moon Eight-Hundred-Ry\=o Ladder}
+
+Before the four-stage diagrams proper, the manuscript presents a
+worked scaling ladder on page~10, keyed to the autumn harvest moon
+and to the two-hundred-tenth day. The header reads:
+
+\begin{quote}
+\jp{大黒天神秋名月商内并二百十日商}\\[0.3em]
+\textit{The Daikoku-deity's autumn-harvest-moon trade, together
+with the two-hundred-tenth-day trade.}\\[0.4em]
+\jp{買桶三平二来半板安楽商内}\\[0.3em]
+\textit{Using the buy-bucket, three-flats-two-comings-half-plank-
+at-ease method.}
+\end{quote}
+
+The ladder builds an 800-\textit{ry\=o} position across six named
+stages: \jt{天元}{tengen} (the celestial-origin base reference),
+\jt{一乗}{ichij\=o}, \jt{二来}{nirai}, \jt{三平}{sanpei},
+\jt{半板}{hanban}, and \jt{安楽}{anraku} (at ease). The three
+totals given in plain prose at the head of the ladder are
+unambiguous:
+
+\begin{quote}
+\textit{Summed: an 800-\textit{ry\=o} buy, seventy}~tawara
+\textit{of accumulated rice, approximately thirty}~ry\=o
+\textit{in payment, forty}~ry\=o \textit{in deposit --- altogether
+seventy}~ry\=o.
+\end{quote}
+
+The oral tradition --- \jt{口伝}{kuden} --- declares its governing
+use: \textit{``In the harvest-moon trade, one ought to use this
+diagram as the square-rule and trade by it.''}
+
+A mirror instruction at the foot of the ladder establishes its
+reversibility: \textit{``When reversed, it becomes an 800-\textit{ry\=o}
+sell. In the trade before the two-hundred-tenth day, likewise, one
+ought to trade by this diagram as the square-rule.''}
+
+A sister ladder on page~11, keyed to the shrines of Nishinomiya
+Ebisu and Sumiyoshi Daimy\=oj\=o, runs a 600-\textit{ry\=o} variant
+with a 30-\textit{tawara} bucket subtraction, and another runs a
+400-\textit{ry\=o} trade with a \jt{転変}{tenpen} reversal at the
+pivot. The same stage-names (\textit{tengen}, \textit{ichij\=o},
+\textit{nirai}, \textit{sanpei}, \textit{hanban}, \textit{anraku})
+recur throughout.
+
+\section{The Half-Plank Diagram}
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=\textwidth]{diagrams/fig1_tree_positions.png}
-\caption[Position-scaling diagrams]{Position-scaling diagrams from the original manuscript.
-Right page: building from a base purchase (\jp{千十両買})\tn{The
-cartouche reads \jp{千十両買}, which could be parsed as ``1,000+ ry\=o
-buy'' or ``1,010 ry\=o buy.'' The transcription flags this as
-ambiguous; we follow the more natural reading of ``1,000-ry\=o base
-purchase.''}
-through four stages to a 500-ry\=o position (\jp{五百両買}). Left page:
-the 100-ry\=o sell diagram (\jp{百両売}) and a second scaling diagram
-under the boxed label \jp{萬光商内之圖}.
-\textit{Image: Kyoto University Main Library.}}
-\label{fig:tree1}
+\caption*{\small Manuscript page~12: the \textit{half-plank}
+(\jp{半板商内之図}, right) and the \textit{at-ease}
+(\jp{安楽商内之図}, left) figures, each shown as a four-stage
+sequential cycle with red-circled stage-numerals \jp{①②③④}.}
 \end{figure}
 
-The diagrams show a method of building and unwinding positions through
-numbered stages. Starting from a base purchase, the position is built
-through four stages marked \jp{壱}, \jp{弐}, \jp{参}, \jp{四}.\tn{The
-stage markers (\jp{壱}--\jp{四}) are clearly legible in red ink in the
-diagrams. The prose describing what each stage represents is interpretive;
-the manuscript text surrounding the diagrams is in dense cursive that
-resists character-level reading.}
+\begin{center}
+\jp{半板商内之図}\\[0.2em]
+\textit{Half-Plank Trade Diagram}
+\end{center}
 
-\section{The Turnover Method}
+Four stages, alternating 1000-\textit{ry\=o} buy and 500-\textit{ry\=o}
+sell:
+
+\begin{center}
+\begin{tabular}{@{}r l l@{}}
+\toprule
+\textbf{Stage} & \textbf{Action} & \textbf{Intent}\\
+\midrule
+\jp{①}~one   & \jp{千両買} \ \ (1000-\textit{ry\=o} BUY)   & initial position\\
+\jp{②}~two   & \jp{五百両売} \ (500-\textit{ry\=o} SELL)   & partial unwind on a rise\\
+\jp{③}~three & \jp{千両買} \ \ (1000-\textit{ry\=o} BUY)   & re-enter on pull-back\\
+\jp{④}~four  & \jp{五百両売} \ (500-\textit{ry\=o} SELL)   & partial unwind on a rise\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Net across the full four stages: \textbf{2000 bought, 1000 sold ---
+1000 held long} at a reduced average cost. The name
+\textit{half-plank} (\jp{半板}, \textit{hanban}) refers to the
+half-unwind at each up-move: the trader is always running with half
+his plank still underfoot.
+
+The explanatory prose continues:
+
+\begin{quote}
+\textit{On an autumn day, in a light rain, buy --- and as the spike
+runs five-}bu \textit{to one-}koku, \textit{settle out the half.
+This is the} half-plank.
+
+\textit{When the next five-}bu \textit{decline arrives, roll back
+into a 500-}ry\=o \textit{buy.}
+\end{quote}
+
+The method-summary that follows is one of the book's most direct
+ethical claims:
+
+\begin{quote}
+\textit{There is gain in both rise and fall, without losing the
+essence of the rice --- it is the rarest method under Heaven, and
+its profit is far beyond the ordinary. Know this.}
+\end{quote}
+
+\section{The At-Ease Diagram}
+
+\begin{center}
+\jp{安楽商内之図}\\[0.2em]
+\textit{At-Ease Trade Diagram}
+\end{center}
+
+The at-ease figure is the half-plank's scaled-down, net-flat
+analogue. Same four-stage sequential cycle, all legs at the
+100-\textit{ry\=o} scale and alternating buy/sell at the same size
+so the net position is flat at the end of each complete cycle:
+
+\begin{center}
+\begin{tabular}{@{}r l l@{}}
+\toprule
+\textbf{Stage} & \textbf{Action} & \textbf{Intent}\\
+\midrule
+\jp{①}~one   & \jp{百両買} \ (100-\textit{ry\=o} BUY)  & entry\\
+\jp{②}~two   & \jp{百両売} \ (100-\textit{ry\=o} SELL) & exit on up-move\\
+\jp{③}~three & \jp{百両買} \ (100-\textit{ry\=o} BUY)  & re-enter on pull-back\\
+\jp{④}~four  & \jp{百両売} \ (100-\textit{ry\=o} SELL) & exit on up-move\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Net across the cycle: 200 bought, 200 sold --- flat. The method
+captures the oscillation between the 5\%-to-one-step bands on
+either side of a reference price without carrying any overnight
+directional exposure. Hence \textit{at ease} (\jt{安楽}{anraku}).
+
+\begin{quote}
+\textit{On a fall-off day of five-}bu\textit{-to-one-}koku,
+\textit{sell out without remainder, take the profit, and when the
+price declines by another five-}bu\textit{-to-one-}koku, \textit{buy
+again as at first; when it rises swiftly, sell out.}
+\end{quote}
+
+\section{The Reversal Diagram}
+
+\begin{center}
+\jp{転変商内之図}\\[0.2em]
+\textit{Reversal Trade Diagram}
+\end{center}
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.45\textwidth]{diagrams/fig2_tree_scaling.png}
-\caption[The turnover diagram]{Detail from the scaling diagrams showing the
-turnover method. The diagram labels \jp{百両買} (100-ry\=o buy, bottom)
-and \jp{百両賣} (100-ry\=o sell, top) are legible, with four stage
-markers (\jp{壱}--\jp{四}) in red ink. \textit{Image: Kyoto University
-Main Library.}}
-\label{fig:tree2}
-\end{figure}
-\textit{[Interpretive.]}
-When buying positions reach their target, begin to build selling positions
-simultaneously---this is the turnover method (\jt{転換の法}{tenkan no
-h\=o}). For every 1,000 ry\=o in buying positions, prepare to sell 2,000
-ry\=o worth.\tn{The term \jp{転換の法} and the 1,000/2,000 ratio are
-supported by partially legible text on the left page of page~13. The
-extended prose that follows is interpretive, reconstructed from
-fragments and the diagram's structure.}
-
-When traders see profits growing, they become greedy and wish to hold
-longer. When they see losses, they become fearful and wish to sell at once.
-Both impulses are the enemy of profit.
-
-% =============================================================================
-\chapter{The Sixty-Year Cycle: Weather, Tides, and Harvest}
-
-\begin{center}
-\jp{暴風 運気豊凶之録}\\
-\textit{Record of Storms, Fortune-Qi, and Abundance or Famine}
-\end{center}
-
-\vspace{0.5em}
-
-A twelve-year sub-cycle governs the alternation of fortune and misfortune in
-harvests. Two hundred and thirty years of records were consulted, tracking
-patterns of weather and their correlation with the sexagenary cycle
-(\jt{干支}{kanshi}).
-
-\begin{editorialnote}
-The years in this chapter are named using the sexagenary cycle, which
-pairs one of ten Heavenly Stems
-(\jp{甲乙丙丁戊己庚辛壬癸}) with one of twelve Earthly Branches
-(\jp{子丑寅卯辰巳午未申酉戌亥}). The
-combinations produce a sixty-year cycle before repeating. Each year has
-a unique two-character name: \jp{甲子} (\textit{kinoe-ne}) is year~1,
-\jp{乙丑} (\textit{kinoto-ushi}) is year~2, and so on through all
-sixty. As a rough guide to Western dates: \jp{甲子} corresponds to
-1744, 1804, and 1864; each designation recurs every sixty years.
-\end{editorialnote}
-
-\section{Violent Storms}
-
-In certain years, violent storms and market surges are more frequent:
-\jp{甲子}~(1), \jp{丁卯}~(4), \jp{丁未}~(44), \jp{甲戌}~(11),
-\jp{甲申}~(21), \jp{辛卯}~(28), \jp{甲午}~(31).\tn{The numbers in
-parentheses indicate the year's position within the sixty-year cycle.}
-In these years, rice markets experience extreme volatility; prices may
-surge two or three times within a single season.
-
-\section{Floods}
-
-Years containing \jp{己} (\textit{tsuchinoto}) in their stem are associated
-with water disasters: \jp{己巳}~(6), \jp{己卯}~(16), \jp{己丑}~(26),
-\jp{己亥}~(36),
-\jp{己酉}~(46), \jp{己未}~(56). These bring three-year periods of
-disruption.
-
-\section{Frost and Cold}
-
-Unusual cold damages crops: \jp{己巳}~(6), \jp{己亥}~(36),
-\jp{己未}~(56). These trigger three-year adverse periods. Rice prices
-rise sharply.
-
-\section{Bountiful Harvest Years}
-
-Years of bountiful harvest (\jt{豊作}{h\=osaku}) were tracked across
-twenty-eight years of records and correlated with the sexagenary cycle. In
-autumn months, yields were logged, producing a predictive framework
-spanning the full sixty-year cycle.
-
-\section{The Plum Rains}
-
-The onset of the plum rain season (\jt{梅立}{tsuyudachi})\tn{%
-The manuscript uses \jp{梅立} (\textit{tsuyudachi}, ``plum rains onset'')
-rather than the more common modern term \jp{梅雨} (\textit{tsuyu}).} follows an
-approximately eight-year sub-cycle. Early plum rains generally indicate good
-harvests. Late plum rains may indicate drought followed by flooding.
-
-Associated years: \jp{丙寅}~(3), \jp{丙子}~(13), \jp{庚辰}~(17),
-\jp{庚寅}~(27), \jp{壬午}~(19), \jp{壬辰}~(29), \jp{丙申}~(33),
-\jp{丙午}~(43).
-
-\section{Tides}
-
-\begin{center}
-\jp{大潮小潮之差} --- \textit{The Difference Between Spring and Neap Tides}
-\end{center}
-
-\vspace{0.5em}
-
-\textit{[Interpretive.]}
-The patterns of spring tides (\jp{大潮}) and neap tides (\jp{小潮})
-bear on weather prediction.\tn{The section header \jp{大潮小潮之差} is
-clearly legible. The prose beneath it is in dense cursive and largely
-illegible at the available scan resolution; claimed furigana readings
-for these terms cannot be confirmed. The interpretive text here
-reflects the section's apparent theme.} In years of great tidal
-difference, storms are more likely.
-
-\section{Wind}
-
-Wind direction and timing follow their own cycles: \jp{戊申}~(45),
-\jp{己卯}~(16), \jp{丙辰}~(53), \jp{丁巳}~(54), \jp{庚申}~(57). In
-years of strong autumn wind, harvest
-damage increases. The period between the seventh and ninth months is
-critical.
-
-A ten-year or fifteen-year span governs the wind's major directional shifts.
-Across one hundred years of observation, these cycles hold with reasonable
-reliability---roughly one year of error in every ten.
-
-% =============================================================================
-\chapter{The Eight Poles, Celestial Signs, and the Six Observations}
-
-\section{The Eight Poles}
-
-\begin{center}
-\jp{八極 三千目} --- \textit{Eight Poles, Three Thousand Points}
-\end{center}
-
-\vspace{0.5em}
-
-The categories of market force: Yang (\jp{陽})---the bullish, rising force.
-Yin (\jp{陰})---the bearish, falling force. The Supreme Ultimate
-(\jp{太極})---equilibrium. Yin convergence (\jp{陰合})---multiple bearish
-factors aligning at once.
-
-\subsection{The Force of One-Nine (\jp{一旅将壱九之勢})}
-
-\textit{[Interpretive.]}
-When ten thousand people are all of one mind---all buying or all
-selling---the reversal is near. A thousand people of the same opinion is a
-strong signal. Ten thousand unanimous is an extreme.\tn{The header
-\jp{一旅将壱九之勢} is legible. The terms \jp{万人} and \jp{千人} are
-tentatively identifiable in the surrounding cursive; the connecting prose
-is interpretive.}
-
-\section{Celestial Anomalies}
-
-\begin{center}
-\jp{天怪} --- \textit{Tenkai}
-\end{center}
-
-\vspace{0.5em}
-
-\textit{[Interpretive.]}
-When extraordinary signs appear---unusual weather, disruptions to the normal
-seasonal flow---first determine whether these are temporary or lasting in
-their effect.\tn{The header \jp{天怪} is clearly legible. The prose
-beneath it is in dense cursive; this rendering reflects the section's
-apparent theme but cannot be confirmed character by character.}
-
-\section{The Six Observations}
-
-\begin{center}
-\jp{六初覚} --- \textit{Roku Shokaku}
-\end{center}
-
-\vspace{0.5em}
-
-When watching the rice market, first observe these six
-things:\tn{These six observations form a structured checklist---essentially
-a pre-trade evaluation framework.}
-
-\begin{enumerate}[leftmargin=2em]
-\item The 20\% level (\jt{二割}{ni-wari}).
-\item The 30\% level (\jt{三割}{san-wari}).
-\item Within the high range (\jt{高の内}{taka no uchi}).
-\item Sideways movement (\jt{横の平}{yoko no hira}).
-\item People's sentiment (\jt{人の気}{hito no ki}).
-\item The grand trend (\jt{大勢}{taisei}).
-\end{enumerate}
-
-\tn{All six Japanese terms are clearly legible with furigana in the
-manuscript. The prose that follows is interpretive, reconstructed from
-partially legible cursive that includes the characters \jp{山} (mountain)
-and \jp{千人} (a thousand people).}
-
-\textit{[Interpretive.]}
-These six observations determine all trading. When wishing to buy, first
-check whether the price has already risen 20--30\% from its base.
-
-All buying and selling should be done proportionally. When buying, think of
-mountains---rice is like mountains and water. The great mountain does not
-rise in a day.
-
-When a thousand people are of one mind regarding the market, and a single
-trader perceives something different, he must weigh his own observation
-against the crowd's.
-
-% =============================================================================
-\chapter{The Four Virtues of the Trader}
-
-\section{Benevolence (\jp{仁}, \textit{Jin})}
-
-Buy once, and it returns to its original level.
-Wait.\tn{The source text names four virtues: Benevolence (\jp{仁}),
-Wisdom (\jp{智}), Courage (\jp{勇}), and Discipline (\jp{節}). The
-traditional Confucian system names five constant virtues (\jp{五常}),
-the fifth being Trustworthiness (\jp{信}, \textit{shin}). Whether the
-fifth was omitted deliberately or lost in transmission is unknown from
-this manuscript.}\tn{The manuscript heading for this section reads
-\jp{仁 — 壱首・壱百五拾目} (\textit{Jin --- Isshu, hyaku goj\=u me}),
-meaning ``Benevolence---First article; the 150th item.'' This reference
-to 150 is unexplained and may indicate the text draws from a larger
-collection of trading rules.}
-
-\textit{[Interpretive.]}
-When one buys and the price returns to the purchase level, do not panic
-and sell at cost.\tn{The opening line \jp{壱買段せ、其まゝ本へもどる} is
-legible; the prose that follows is in denser cursive with the figure
-\jp{三年} (three years) partially legible. The remaining phrasing is
-interpretive.}
-
-If after buying, the price falls and then recovers, this pattern---repeated
-over three years---teaches the trader to endure.
-
-\subsection{On Upper, Middle, and Lower Positions}
-
-At the upper level (\jt{上位}{j\=oi}), rice has risen strongly and is at
-the top of its range. One should be selling, not buying. At the middle
-level (\jt{中位}{ch\=ui}), rice is at its ordinary seasonal level; wait
-and observe. At the lower level (\jt{下位}{gei}), rice has fallen to the
-bottom of its range. This is where buying begins.
-
-When the price has been at a low level for three hundred days or more, and a
-rise begins, and then the price returns and falls again to a new low---this
-is the final bottom. Buy here.
-
-\section{Wisdom (\jp{智}, \textit{Chi})}
-
-The manuscript heading reads \jp{智 十首} (``Wisdom---Ten Principles'').
-The body text beneath this heading is in dense cursive that resists
-character-level reading; its specific content cannot be reliably
-translated.\tn{The header \jp{智 十首} is clearly legible. The
-surrounding prose is rated LOW confidence in the transcription.}
-
-\subsection{The Standard of Calm Profit (\jp{平楽定式})}
-
-\textit{[Interpretive.]}
-Buying is done at a set price level; one then holds until the target
-selling month.\tn{The header \jp{平楽定式} is legible. The body text is
-in dense cursive rated LOW confidence; this rendering is interpretive.}
-
-\subsection{Regional Market Timing}
-
-\textit{[Interpretive.]}
-The relationship between different regional markets---D\=ojima, Bakan, and
-others---creates timing advantages. Information flows between them with
-delay.\tn{References to \jp{大坂堂島} and \jp{馬関} are tentatively
-identifiable in the cursive. The connecting prose is reconstructed from
-these anchor terms.}
-
-\section{Courage (\jp{勇}, \textit{Y\=u})}
-
-The manuscript's treatment of this virtue is very brief and in dense
-cursive. The heading \jp{勇} is legible; the body text cannot be reliably
-translated.
-
-\section{Discipline (\jp{節}, \textit{Setsu})}
-
-\textit{[Interpretive.]}
-The cautious man holds \jt{陸金}{rikukin}\tn{\jp{陸金} literally ``land
-gold''---stable reserves kept out of the market. This passage appears in
-the manuscript within the ``Following Gold'' (\jp{随金}) section
-(page~27); it is placed here under ``Discipline'' for thematic coherence.
-The heading \jp{節} is legible; the body text is partially legible, with
-\jp{陸金}, \jp{二十俵}, and \jp{五} tentatively identifiable.}
-of twenty tawara and trades with five.
-
-% =============================================================================
-\chapter{The Three Levels and the Middle Star}
-
-The total yields (\jp{諸高}) of all rice-producing domains, combined:
-28,548 \textit{ch\=o},\tn{\jp{町} (\textit{ch\=o}), a unit of
-land area approximately equal to 2.45 acres or 1 hectare. The figure
-represents the total productive rice land across all domains, used to
-calculate the autumn harvest estimate.} comprising 9,484,815
-\textit{tawara} in autumn harvest estimates.
-
-\begin{center}
-\jp{世の中 三段之圖}\\
-\textit{Diagram of the Three Levels of the World}
-\end{center}
-
-\begin{figure}[p]
-\centering
-\vspace*{\fill}
-\includegraphics[width=0.75\textwidth]{diagrams/diagram_three_levels.png}
-\caption[The Three Levels Diagram]{The Three Levels Diagram (\jp{世の中三段之圖}). The circle is
-divided into Upper (\jp{上}, 35 tawara supply), Middle (\jp{中}, 30
-tawara), and Lower (\jp{下}, 25 tawara supply). Below: the Ceiling
-(\jp{天井}, price peak at lowest supply), Floor (\jp{底直}, price
-trough at highest supply), and Middle Star (\jp{中星}, equilibrium)
-reference points with their associated calculation tables.
-\textit{Image: Kyoto University Main Library.}}
-\label{fig:threelevels}
-\vspace*{\fill}
+\includegraphics[width=0.48\textwidth]{diagrams/fig2_tree_scaling.png}
+\caption*{\small Manuscript page~13: the \textit{reversal}
+(\jp{転変商内之図}) figure --- four stages, with the sell-legs
+(\jp{②}, \jp{④}) each double the size of the buy-legs.}
 \end{figure}
 
-\section{The Three Levels}
-
-The rice market at any moment exists within one of three supply
-ranges.\tn{The tawara figures here measure rice \textit{supply}, not
-price. The relationship to price is inverse: when supply is high (35
-tawara), rice is abundant and prices are low; when supply is low (25
-tawara), rice is scarce and prices are high. Thus \jp{天井}
-(\textit{tenj\=o}, price ceiling---the highest price point) corresponds
-to the \textit{lowest} supply level (25 tawara), and \jp{底直}
-(\textit{soko-ne}, price floor---the lowest price point) corresponds to
-the \textit{highest} supply level (35 tawara).} The upper supply level
-(\jp{上}): approximately 35 tawara---rice is abundant, prices are at
-their floor (\jp{底直}); this is where buying is indicated. The middle
-level (\jp{中}): approximately 30 tawara, 1 bu---equilibrium, where one
-observes and waits. The lower supply level (\jp{下}): approximately 25
-tawara---rice is scarce, prices are at their ceiling (\jp{天井}); this is
-where selling is indicated.
-
-\section{The Middle Star}
-
-The \jt{中星}{ch\=uboshi}, or ``Middle Star,'' is the central concept.
-Across thirty years of observation, the average rice price establishes a
-central equilibrium.\tn{This is essentially a moving average concept. The
-principle---trading deviations from a long-term mean---is the foundation of
-modern mean-reversion strategies.}
-
-When price is at the middle star: observe and wait. When price falls to
-twenty percent below the middle star: begin buying. When price rises to
-twenty percent above the middle star: begin selling.
-
-\subsection{Secret Tradition of Bullish Positioning
-(\jp{強氣立の秘傳})}
-
-\textit{[Interpretive.]}
-The secret method for establishing bullish positions: at 400--800 ry\=o,
-begin with staged entries. At 20\% below the middle star: the first
-entry. At 30\% below: the second entry, larger.\tn{The header
-\jp{強氣立の秘傳} is legible. The figures 400--800 and the percentage
-references (\jp{二割}, \jp{三割}) are partially legible; the connecting
-prose is interpretive.}
-
-When new rice arrives cheaply but the middle star indicates the underlying
-trend is upward, the new rice represents a buying opportunity.
-
-In a year of abundant harvest, the direct price falls to the middle star or
-below. Buy at this point and hold, as in subsequent years the price will
-revert.
-
-\section{Position Calculations at the Middle Star}
-
-The source text devotes approximately six pages to detailed numerical
-tables showing staged position-building at the middle star
-level.\tn{In these tables, capital is measured in \jp{両} (\textit{ry\=o},
-gold coins) and rice positions in \jp{俵} (\textit{tawara}, bales). The
-method at each capital level follows the same structure: an initial entry
-at 10\% (\jp{一割}) of capital, then successive additions at 20\%
-(\jp{二割}) as the market confirms direction, with profits reinvested
-at each stage to compound the position. The ``middle star level''
-(\jp{中星世俵}) is the reference price at which all entries are made.
-Some of the specific figures in the manuscript are difficult to read
-with certainty due to the cursive script; uncertain readings are
-bracketed.}
-The method is demonstrated at multiple capital levels, always following
-the same proportional discipline: never commit the full position at once,
-and reinvest profits at each stage to compound returns.
-
-An important distinction for reading these tables: the percentage figures
-(\jp{一割}, \jp{二割}, \jp{三割}---10\%, 20\%, 30\%) refer to the
-\textit{market's price movement} from the middle star level, not to
-returns on capital. That is, ``at 10\%'' means ``when the price has
-moved 10\% from the middle star, enter the position.'' These are
-entry triggers, not profit targets.
-
-\subsection{The Way of Favorable Conditions (\jp{順道})}
-
-Within the market (\jp{天之商内}): old rice is bought beginning in the
-third or fourth month, at a level of 130 [units]. Buying at 20 tawara
-positions, adjusting at each stage.\tn{The label \jp{天之商内} (``within
-heaven's trading'') is legible. Previous editions misread this as a
-reference to the Tenmei (\jp{天明}) era.} The buying and selling compounds
-across four months. Positions are built across 17--18 stages, with the
-running total reaching 200+ ry\=o through methodical trading of 500--800
-bale positions. This is the family tradition (\jp{家傅}), twelfth month,
-100 ry\=o within the market.
-
-\needspace{8\baselineskip}
-\subsection{Trading with 100 Ry\=o}
+The third of the four-stage cycle figures. Same geometric layout as
+the half-plank and at-ease, but with a different size-relationship
+between the buy and sell legs: each sell is now \textbf{twice} the
+size of each buy.
 
 \begin{center}
-\jp{百両売 天之商内} --- \textit{100 Ry\=o Sell, Within Heaven's Trading}
-\end{center}
-
-\vspace{0.5em}
-
-Starting from a base of 100 ry\=o at the middle star (\jp{中星世俵})
-level, using Osaka market rates (\jp{大坂数位}):\tn{The large tawara
-figures (\jp{三万余世俵}, 30,000+; \jp{八万余}, 80,000+) likely
-represent cumulative trading volume across the full market cycle rather
-than a single position's size. The manuscript's accounting method is
-not fully transparent, and some figures in the cursive script are
-difficult to read with certainty. What follows presents the
-manuscript's figures as legible, without attempting to force them into
-a coherent modern accounting framework.}
-
-\jp{壱}: 100 ry\=o committed, 20 tawara at the middle star level.
-Osaka rate: 18 tawara.
-
-\jp{弐}: 100 ry\=o committed. 20 tawara held at the middle star.
-At \jp{一割} (10\%). The manuscript notes \jp{三万余世俵} (30,000+
-tawara). Capital noted as 400 ry\=o.
-
-\jp{参}: At the middle star level. \jp{弐割} (20\%). 14 tawara per
-100 ry\=o. Accumulated volume: \jp{八万余} (80,000+).
-
-\jp{四}: At the middle star level. \jp{弐割} (20\%). Capital reaches
-approximately 800 ry\=o.
-
-\subsection{Scaling the Method: 200 to 1,000 Ry\=o}
-
-The manuscript repeats this same staged structure at four further capital
-levels (200, 300, 500, and 1,000 ry\=o). The pattern is constant:
-enter at \jp{一割} (10\%), add at \jp{二割} (20\%) confirmations,
-compound through the middle star level. The 1,000-ry\=o example
-introduces a fifth stage at \jp{三割} (30\%).
-
-The following table summarizes the key figures at each level.
-``Initial'' is the tawara position at the first stage entry; ``Range''
-shows the tawara positions across all stages; ``Target'' is the
-effective capital exposure the method converges toward. Full
-stage-by-stage detail is in Appendix~A (p.\,\pageref{app:calctables}).
-
-\begin{center}
-\begin{small}
-\begin{tabular}{@{}lcccl@{}}
+\begin{tabular}{@{}r l l@{}}
 \toprule
-\textbf{Capital} & \textbf{Stages} & \textbf{Initial tw.} &
-  \textbf{Target} & \textbf{Notes} \\
+\textbf{Stage} & \textbf{Action} & \textbf{Intent}\\
 \midrule
-100 ry\=o & 4 & 20 &
-  {$\sim$}800 ry\=o & Detail in \S 7.3.2 \\
-200 ry\=o & 4 & 14 &
-  {$\sim$}800 ry\=o & Yield: 633 tw. \\
-300 ry\=o & 4 & 25 &
-  {$\sim$}800 ry\=o & \jp{強氣} entry \\
-500 ry\=o & 4 & 15 &
-  {$\sim$}800 ry\=o & \\
-1,000 ry\=o & 5 & 14 &
-  {$\sim$}800 ry\=o & 5-stage \jp{顧氣} \\
+\jp{①}~one   & \jp{千両買}   \ (1000-\textit{ry\=o} BUY)   & entry\\
+\jp{②}~two   & \jp{二千両売} \ (2000-\textit{ry\=o} SELL)  & double-size sell on rise\\
+\jp{③}~three & \jp{千両買}   \ (1000-\textit{ry\=o} BUY)   & re-cover on pull-back\\
+\jp{④}~four  & \jp{二千両売} \ (2000-\textit{ry\=o} SELL)  & double-size sell on rise\\
 \bottomrule
 \end{tabular}
-\end{small}
 \end{center}
 
-\vspace{0.5em}
+Net across the cycle: 2000 bought, 4000 sold --- \textbf{2000 held
+short} at the end. Where the half-plank keeps the trader long-biased
+and the at-ease keeps him flat, the reversal figure flips him from
+long to short within a single market cycle. The \jp{②} and \jp{④}
+legs each unwind the prior buy and simultaneously open a short of
+equal size.
 
-\tn{The summary table above is an editorial synthesis across multiple
-manuscript pages. Individual figures carry varying degrees of uncertainty.
-The convergence toward $\sim$800 ry\=o is an analytical observation, not
-a claim made in the manuscript text.}
+The explanatory prose distinguishes two mirror forms of the method
+--- the \jt{買桶転変}{kai-oke tenpen} (buy-bucket reversal) and the
+\jt{売桶転変}{uri-oke tenpen} (sell-bucket reversal) --- and frames
+both as responses to the market's own tempo:
 
-\subsection{The Method of Calculating Half-Board Rice Sales}
+\begin{quote}
+\textit{Without straining against the fundamental nature of the
+rice, following the strong-and-weak force of the thing in sequence
+--- this is the secret of reversal-trading.}
 
-\begin{center}
-\jp{半板売米諸勘定之仕法}\\
-\textit{Han'ita Urimai Shokanjo no Shih\=o}
-\end{center}
-
-\vspace{0.5em}
-
-The half-board (\jt{半板}{han'ita}) method applies to selling positions.
-Within heaven's trading (\jp{天之商内}), at the middle star level:
-
-\jp{百両売 天之商内} --- 100 ry\=o sell, within heaven's trading.
-Positions are calculated at 20 tawara entries. One sells at the middle
-star level, at 18 tawara initially. Then at 17 tawara---adjusting
-through stages. Selling at intervals of 500 to 800 bale positions, with
-the running total reaching the target through methodical staged exits.
-
-\tn{The boxed label \jp{半板売米諸勘定之仕法} is clearly legible. The
-numerical details (20 tawara, 18, 17) are partially legible. The
-connecting prose is interpretive.}
+\textit{The reversal-trade, timed to the rhythm of the saw's teeth
+--- step into it and you cool the whole body.}
+\end{quote}
 
 % =============================================================================
-\chapter{The Seven Fortunes Secret; Following Gold}
+\chapter{The Sixty-Year Fortune-Qi Almanac}
 
-\section{The Seven Conditions}
+The manuscript now opens its empirical core: a year-by-year
+categorization of the sixty-year sexagenary (\jt{干支}{kanshi})
+cycle by expected weather and harvest conditions. The full section
+is called:
 
-\begin{center}
-\jp{七福即宝秘密}\\
-\textit{Shichifuku Sokuh\=o Himitsu --- Seven Fortunes, Instant Treasure Secret}
-\end{center}
+\begin{quote}
+\jp{万歳運気豊凶録}\\[0.3em]
+\textit{The Ten-Thousand-Year Record of Fortune-Qi: Plenty and Want}
+\end{quote}
 
-\vspace{0.5em}
+The section's opening line gives the empirical base on which the
+whole categorization rests:
 
-The manuscript heading names seven conditions that together indicate a
-high-probability trade.\tn{The header \jp{七福即宝秘密} is legible. The
-body text beneath it is continuous prose in dense cursive; the
-transcription marks nearly every character with uncertainty. Previous
-editions presented a numbered seven-item list, but the specific content
-of those seven items could not be confirmed from the manuscript and has
-been removed. The general theme---that multiple conditions must align
-before committing capital---is consistent with the text's broader
-teachings.}
+\begin{quote}
+\jp{二百十三年、二来半板出染転変商内}\\[0.3em]
+\textit{Compiled from two hundred thirteen years. The two-stage,
+half-plank, carry-over-and-reverse trade.}
+\end{quote}
 
-\section{On Patience and Money}
-
-\textit{[Interpretive.]}
-The money that was thought lost returns after three years.\tn{The
-transcription tentatively identifies \jp{三年} and a character
-resembling \jp{帰る} (to return). The aphoristic form of this passage
-is interpretive.}
-
-\section{Following Gold}
+What follows is an enumeration of every year in the sixty-year
+sexagenary cycle, grouped into seven weather categories. The counts
+sum exactly to sixty --- the editor's red-ink annotation at the
+section's close declares this plainly: \textit{\jp{以上、大周六十年
+なり} --- ``The above completes the great cycle of sixty years.''}
 
 \begin{center}
-\jp{随金 商内} --- \textit{Zuikin Sh\=onai --- Following Gold in Trading}
+\begin{tabular}{@{}r l r@{}}
+\toprule
+ & \textbf{Category} & \textbf{Years}\\
+\midrule
+1 & \jp{暴風} \ Violent winds       & 12\\
+2 & \jp{洪水} \ Great floods        &  5\\
+3 & \jp{寒冷} \ Cold and chill      &  3\\
+4 & \jp{霖雨} \ Continuous rains    &  2\\
+5 & \jp{極凶} \ Extreme misfortune  &  8\\
+6 & \jp{豊作} \ Abundant harvest    & 28\\
+7 & \jp{中豊作} \ Middling abundance &  2\\
+\midrule
+  & \textbf{Total}                  & \textbf{60}\\
+\bottomrule
+\end{tabular}
 \end{center}
 
-\vspace{0.5em}
+Each category carries a red-ink margin annotation glossing its
+five-element correlation: \jp{暴風} is paired with \textit{wood-qi
+in concentrated eruption} (\jp{木気鬱発}); \jp{洪水} with
+\textit{greater-yin damp earth} (\jp{太陰濕土}); \jp{霖雨} with
+\textit{bright-yang shining metal} and \textit{greater-yang cold
+water} (\jp{陽明輝金 / 太陽寒水}); \jp{豊作} with \textit{warm-
+transformation} (\jp{温化画}).
 
-\textit{[Interpretive.]}
-One's trading should follow where capital naturally flows.\tn{The boxed
-header \jp{随金 商内} is clearly legible. The transcription tentatively
-identifies fragments about gold (\jp{金}) and goods moving in opposite
-directions. The connecting prose is interpretive.}
+\section{Violent Winds --- Twelve Years}
 
-Gold and goods move in opposite directions. When gold is plentiful and goods
-scarce, prices rise. When goods are plentiful and gold scarce, prices fall.
+The twelve sexagenary years of violent wind-disaster:
+
+\begin{quote}
+\jp{甲子} (\textit{Kinoe-Ne}), \jp{丁卯} (\textit{Hinoto-U}),
+\jp{丁丑} (\textit{Hinoto-Ushi}), \jp{辛巳} (\textit{Kanoto-Mi}),
+\jp{甲申} (\textit{Kinoe-Saru}), \jp{辛卯} (\textit{Kanoto-U}),
+\jp{甲午} (\textit{Kinoe-Uma}), \jp{丁酉} (\textit{Hinoto-Tori}),
+\jp{丁未} (\textit{Hinoto-Hitsuji}), \jp{辛亥} (\textit{Kanoto-I}),
+\jp{甲寅} (\textit{Kinoe-Tora}), \jp{辛酉} (\textit{Kanoto-Tori}).
+\end{quote}
+
+\begin{quote}
+\textit{The years listed above are in themselves middling-ordinary
+years. However, when wood-qi erupts as an aberrant force and fire-
+winds blow through the seventh and eighth months, they become years
+of great disaster.}
+\end{quote}
+
+\section{Great Floods --- Five Years}
+
+\begin{quote}
+\jp{己巳}, \jp{己卯}, \jp{己亥}, \jp{己酉}, \jp{壬戌}.
+\end{quote}
+
+\begin{quote}
+\textit{The listed years are in themselves middling-early years.
+But when earth-qi erupts aberrantly and great floods sweep the
+fields through the seventh and eighth months, they become years of
+great disaster.}
+\end{quote}
+
+\section{Cold and Chill --- Three Years}
+
+\begin{quote}
+\jp{乙丑}, \jp{乙未}, \jp{乙巳}.
+\end{quote}
+
+\begin{quote}
+\textit{For this category, there is no settled method for trading.
+Reflect and consider.}
+\end{quote}
+
+\section{Continuous Rains --- Two Years}
+
+\begin{quote}
+\jp{癸未}, \jp{癸丑}.
+\end{quote}
+
+\begin{quote}
+\textit{The years above are years of strong cold in which the ten
+thousand things cannot easily flourish --- great disaster years.
+However, if the aberrant force of fire-qi erupts in the sixth and
+seventh months, they become years of easy abundance.}
+\end{quote}
+
+\section{Extreme Misfortune --- Eight Years}
+
+This category carries the frankest editorial gloss in the book:
+\textit{No prescribed method. Reflect.} --- and with reason: the
+OCR for the list of eight years at this point in the manuscript
+returns a duplicated block, and only three readings can be
+individually confirmed without reference to the manuscript image.
+
+\begin{quote}
+\jp{丙寅}, \jp{丙午}, \jp{庚戌}, \ldots\ \textit{(five further
+sexagenary readings; the complete list should be checked against
+the manuscript image before citation).}
+\end{quote}
+
+\section{Abundant Harvest --- Twenty-Eight Years}
+
+The largest category in the calendar, and the one in which the
+book's method applies in its fullest form:
+
+\begin{quote}
+\textit{These are the years in which one trades by the method of
+three-flats, two-stage, half-plank, at-ease, and reversal, at the
+autumn harvest moon.}
+\end{quote}
+
+Twenty-eight sexagenary years, running in order:
+
+\begin{quote}
+\jp{戊辰}, \jp{庚午}, \jp{辛未}, \jp{壬申}, \jp{癸酉}, \jp{甲戌},
+\jp{乙亥}, \jp{戊寅}, \jp{乙酉}, \jp{丙戌}, \jp{丁亥}, \jp{戊子},
+\jp{己丑}, \jp{庚寅}, \jp{癸巳}, \jp{戊戌}, \jp{庚寅}, \jp{辛丑},
+\jp{壬寅}, \jp{癸卯}, \jp{甲辰}, \jp{戊申}, \jp{乙卯}, \jp{丙辰},
+\jp{丁巳}, \jp{己未}, \jp{庚申}, \jp{癸亥}.
+\end{quote}
+
+\section{Middling Abundance --- Two Years}
+
+\begin{quote}
+\jp{戊午}, \jp{壬辰}.
+\end{quote}
+
+\begin{quote}
+\textit{Although these are abundant-even years, they are only the
+middling harbinger.}
+\end{quote}
+
+\section{The Tide and Wind-Free Almanacs}
+
+The chapter closes with two short practical almanacs that served
+the pre-industrial rice trader's single largest external risk ---
+shipping interruption.
+
+\subsection{On Great and Small Tides (\jp{大潮小汐の考})}
+
+\begin{quote}
+\textit{Know the} small-tide \textit{days to be: the 6th, 7th, 8th;
+the 9th; the 10th; the 21st, 22nd; and the 3rd, 4th, 5th.}
+
+\textit{All days other than those listed are great-tide. Three days
+of small-tide are the ``great-valley'' days --- this is when the
+great winds begin to blow. The wind sets off on the flood tide and
+dies at the full tide.}
+
+\textit{The flood-tide each day runs four}~bu \textit{more, and the
+ebb runs four}~bu \textit{later.}
+\end{quote}
+
+\subsection{The Wind-Free Interval}
+
+\begin{quote}
+\textit{From} Kanoe-Saru \textit{for eleven days, and from}
+Kanoe-Uma \textit{onward --- in the intervening range --- with}
+Hinoto-Ushi \textit{as the central day: over the fifteen days above,
+the wind does not blow.}
+
+\textit{From the} Kinoe-Tora \textit{day, for seven days further,
+still no wind. Over these fifteen days of no wind, this is when
+one puts ships to sea. If by some chance the calm fails, it is an
+exception --- know that even such an exception is only one year in
+a hundred.}
+\end{quote}
+
+% =============================================================================
+\chapter{Weather Signs and the Nine-Body Song}
+
+Page~17 of the manuscript carries an interlude between the year-
+almanac of the preceding chapter and the Three-Virtues section of
+the next. It begins with a short set of folk-almanac weather-signs
+--- the kind of practical knowledge that a trader who depended on
+shipping and harvest-reports would have carried in his head --- and
+closes with the book's most concentrated piece of theoretical
+poetry: the Nine-Body Song.
+
+\section{Weather Signs}
+
+\subsection{On the Entry of the Rainy Season (\jp{入梅三十日})}
+
+\begin{quote}
+\textit{Know that the rainy season (\jt{梅}{tsuyu}) enters at the
+horse-day beginning the fifth month and opens out at the middle of
+the sixth.}
+\end{quote}
+
+\subsection{On Rainbows (\jp{虹図})}
+
+\begin{quote}
+\textit{A morning rainbow --- know in advance as a morning-rain
+sign. The rainbow at sunset, on the other hand, is fair weather.}
+\end{quote}
+
+\subsection{The Hassen Twelve Days (\jp{八専十二日})}
+
+The \textit{hassen} is a traditional twelve-day interval of the
+sexagenary calendar, running from the \jt{壬子}{Mizunoe-Ne} day
+through the \jt{癸亥}{Mizunoto-I} day. The almanac assigns it a
+specific rain sign:
+
+\begin{quote}
+\textit{If light rain sets in at the beginning of the}~hassen,
+\textit{know in advance that it will keep raining until the end.}
+
+\textit{If it begins again after a pause, the twelve days --- in
+the saying --- pass in an unceasing return-rain that follows the
+boats.}
+\end{quote}
+
+\subsection{On the Standing Cloud (\jp{玄雲})}
+
+\begin{quote}
+\textit{A standing cloud mingled with red --- know it for wind.
+White or black --- know it for rain.}
+\end{quote}
+
+\section{The Nine-Body Song (\jp{九躰ノ歌})}
+
+The weather-signs give way to the book's most theoretically
+concentrated passage: a verse-cycle in which the rice market is
+set against each of the nested Neo-Confucian cosmological bodies in
+turn. The section opens under the header:
+
+\begin{quote}
+\jp{○一部極意　九躰ノ歌}\\[0.3em]
+\textit{Part One: The Secret --- Song of Nine Bodies}
+\end{quote}
+
+Each body gets a short verse-lemma.
+
+\subsection{\jp{無極} --- The Limitless (\textit{Muky\=oku})}
+
+\begin{quote}
+\textit{The principle of highs and lows is an empty principle ---
+invisible to the eye. A thing whose very body is without shadow
+and without form.}
+\end{quote}
+
+\subsection{\jp{太極} --- The Supreme Ultimate (\textit{Taikyoku})}
+
+\begin{quote}
+\textit{The principle-without-principle that dwells even in the
+midst of right and wrong --- only the rice-market's window.}
+\end{quote}
+
+\subsection{\jp{陰含陽} --- Yin Contains Yang (\textit{Ingan'y\=o})}
+
+\begin{quote}
+\textit{When ten-thousand of ten-thousand are all weak-spirited ---
+rice contains, within itself, the very principle by which it ought
+to rise.}
+\end{quote}
+
+\subsection{\jp{陽含陰} --- Yang Contains Yin (\textit{Y\=ogan'in})}
+
+\begin{quote}
+\textit{When a thousand of a thousand are all strong-spirited ---
+rice contains, within itself, the very principle by which it ought
+to plunge.}
+\end{quote}
+
+\subsection{\jp{高安大法} --- The Great Law of Highs and Lows}
+
+\begin{quote}
+\textit{The great flood falls upon the autumn harvest moon; the
+peak at mid-month; the end of the fifth month --- these are the
+swayings of high and low.}
+\end{quote}
+
+The five rungs together name a single thought: the market is
+cosmologically empty (\textit{muky\=oku}), yet unified
+(\textit{taikyoku}); each of its two motions contains the seed of
+its opposite (\textit{ingan'y\=o} and \textit{y\=ogan'in}); and
+the law by which the two manifest in time is keyed to the year's
+three seasonal pivots (\textit{h\=on-daih\=o}).
+
+% =============================================================================
+\chapter{The Three Virtues --- Forty-Eight Verses}
+
+The book's largest enumerated section. It opens on page~18 with
+four short ``fixed-form'' rules, then proceeds through
+\textbf{forty-eight verse-maxims} organized into three ranks after
+the classical Confucian virtues:
+
+\begin{center}
+\begin{tabular}{@{}c l r l@{}}
+\toprule
+\multicolumn{2}{c}{\textbf{Virtue}} & \textbf{Verses} & \textbf{Theme}\\
+\midrule
+\jp{智} & \textit{Chi} --- Wisdom        & 10 & seeing the pattern, knowing the season\\
+\jp{仁} & \textit{Jin} --- Benevolence   & 28 & patience, waiting, not rushing\\
+\jp{勇} & \textit{Y\=u} --- Courage      & 10 & acting with the crowd reversed\\
+\midrule
+        & \textbf{Total}                 & \textbf{48} & \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\begin{editorialnote}
+The manuscript's own self-count makes this explicit: the section-
+header on page~18 reads \jp{四十八首} --- \textit{forty-eight
+verses} --- and the sub-headers for \textit{Wisdom}, \textit{Jin}
+and \textit{Y\=u} give their sub-counts (\jp{十首}, \jp{廿八首},
+\jp{十首}).
+\end{editorialnote}
+
+\section{The Four Fixed-Form Rules}
+
+Before the virtues begin, the page presents four short headed
+definitions --- each a ``fixed form'' (\jt{定式}{j\=oshiki}) of a
+specific relation --- that bridge the Nine-Body Song of the
+previous chapter into the enumerated maxims that follow.
+
+\subsection{\jp{天ノ性} --- The Nature of Heaven}
+
+\begin{quote}
+\textit{By imperial edict or otherwise --- know in advance that
+the division of the fifth month is the time at which natural
+profit arises.}
+\end{quote}
+
+\subsection{\jp{商定式} --- The Fixed Form of Trading}
+
+\begin{quote}
+\textit{By edict or otherwise --- follow the five-}bu \textit{one-
+step, and forget the twenty-percent three-step as only silver-
+string.}
+\end{quote}
+
+\subsection{\jp{平来定式} --- The Fixed Form of the Ordinary Run}
+
+\begin{quote}
+\textit{Buying and selling should be balanced at a five-}bu
+\textit{swing. Another version reads the same way.}
+\end{quote}
+
+\subsection{\jp{売買定式} --- The Fixed Form of Buying and Selling}
+
+\begin{quote}
+\textit{Know the buying times as the Dragon-Boat Festival and the
+harvest moon, with the seasonal anchor at Minazuki (sixth month)
+and Fumizuki (seventh).}
+\end{quote}
+
+\section{Wisdom (\jp{智}, \textit{Chi}) --- Ten Verses}
+
+A selection of representative verses. The full ten are preserved
+in the transcription file.
+
+\begin{quote}
+\textit{Once you have become a favorable-trader, you know --- in a
+single stroke, even over ten-thousand}~ry\=o --- \textit{the
+secret of the one who lays matters to rest.}
+
+\textit{To wait is benevolence. To face the market is to know the
+target of the sell-principle --- know it as the wondrous art of
+the half-bridge trade.}
+
+\textit{The celestial-origin trading-force may play out even over
+three years. Know this as the prime-trade epigraph of the flag-
+master.}
+
+\textit{The echo of the cut-edge of Minazuki rice --- at spring-
+field time, or in the evening, is a plunge downward.}
+
+\textit{Fifth-month rice, when sentiment is weak and its station
+honored even as it climbs --- know this as the season of spike-
+upward trading.}
+\end{quote}
+
+\section{Benevolence (\jp{仁}, \textit{Jin}) --- Twenty-Eight Verses}
+
+The largest verse-rank in the book. Its editorial gloss gives the
+key: \textit{``Benevolence is the awaiting of the horse-hour; it is
+inaka-su --- the pulling-back-to-the-country.''} A selection of the
+twenty-eight:
+
+\begin{quote}
+\textit{Neither rushing the trade nor answering to impatience ---
+to wait until the riding-together of waiting and gaining --- this
+too is benevolence.}
+
+\textit{Simply: in the urging-urgent trading-force there is no
+profit. Buy the five-}bu \textit{cheap; sell the five-}bu
+\textit{high.}
+
+\textit{The more you hurry a trade, the more you lose. Simply
+stop; change hands and take another look.}
+
+\textit{Not-rushing-the-buy is the secret of the strong-spirited.
+Buy on hearing the pattern emerge.}
+
+\textit{Not-rushing-the-sell is the secret of the weak-spirited. In
+all seasons, wait for the ripening and sell.}
+
+\textit{The cheap prices that are not needed in three years or two
+--- the big-weight hand is the one that waits without rushing.}
+
+\textit{Even in the principle of decline, if the time has come, it
+will not go lower. To rush the buy is a great foolishness.}
+
+\textit{When the force that ought to rise is spent, the place where
+it descends of itself --- know that as the nature of heaven.}
+
+\textit{The cheap price of the windless two-hundred-twentieth day
+--- take it as the fixed form, receive it with the half-plank, and
+go.}
+
+\textit{When a price exists such that the ten-thousand to a man
+have given up in weariness --- that is the distant edge of the
+previous high-run.}
+
+\textit{Wait for a day of rain and wind and sell rice; gain clear
+weather and buy rice.}
+\end{quote}
+
+The root maxim of the section closes the twenty-eight:
+
+\begin{quote}
+\textit{The root source of the favorable-virtue wisdom, in the end,
+is the small progression --- and at that source, too, benevolence
+stands in first place.}
+\end{quote}
+
+\section{Courage (\jp{勇}, \textit{Y\=u}) --- Ten Verses}
+
+The closing rank of the Three-Virtues sequence.
+
+\begin{quote}
+\textit{The principle of the jewel: sell into plenty, buy into
+cheapness --- this is the great secret of rice trading.}
+
+\textit{If there is a thirty-percent high-low, do not be startled
+--- face it.}\tn{Annotated in the manuscript with the Tenmei-
+recension marker \jt{天明本}{Tenmei-bon}.}
+
+\textit{Know it as principle: whenever there is a two-step-to-
+three-step high-low, face the rice.}
+
+\textit{At the thirty-percent high-low, profit reverses; to accept
+the loss without resistance --- that is the secret.}
+
+\textit{When ten-thousand of ten-thousand are strong-spirited,
+become the fool and sell the rice.}\tn{The margin here carries a
+second Tenmei-recension gloss in classical Chinese:
+\jp{米大崩大変不可驚可買} --- ``Great rice-collapse, great change
+--- do not be startled; buy.''}
+
+\textit{When field and mountain alike are all turned out and
+weak-spirited, become the dolt and buy the rice.}
+\end{quote}
+
+And the final courage verse, which the manuscript pairs with a
+\textit{kundoku} return-mark \jp{〈レ〉} inverting its last clause:
+
+\begin{quote}
+\jp{三俵鞘直照可〈レ〉逆}\\[0.3em]
+\textit{Three-}tawara \textit{spread-price: the reversal rule ---
+read and reflect in reverse.}
+\end{quote}
+
+% =============================================================================
+\chapter{The World-Levels Diagram\\ and the Five-Stage Secrets}
+
+Page~21 opens the manuscript's most concentrated quantitative
+section. Three structures dominate: the \textbf{World-Levels
+Diagram}, a ceremonial three-tier figure mapping the full range of
+the market; the \textbf{Strong-Qi Five-Stage Secret}, a schedule
+for scaling a long into declines; and its mirror, the
+\textbf{Weak-Qi Five-Stage Secret}, for scaling a short into
+rallies.
+
+\section{The World-Levels Diagram (\jp{世の中三段之図})}
+
+The page opens with two national agricultural reference-figures
+that frame the scale at which the whole method operates:
+
+\begin{quote}
+\textit{Total rice yield: \textbf{28{,}085{,}482}}~koku.\\[0.3em]
+\textit{Total field area: \textbf{947{,}801}}~ch\=o.
+\end{quote}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.78\textwidth]{diagrams/diagram_three_levels.png}
+\caption*{\small Manuscript page~21: the \textit{World-Levels
+Diagram} (\jp{世の中三段之図}). The three tiers of the figure ---
+\jp{上} (upper), \jp{中墨} (middle-ink), \jp{下} (lower) --- frame
+the full operating range of the market around a central reference
+price.}
+\end{figure}
+
+\noindent The glosses for each tier, with the manuscript's weight-
+and-price annotations:
+
+\begin{center}
+\begin{tabular}{@{}l r r r@{}}
+\toprule
+\textbf{Level} & \textbf{Tawara} & \textbf{Weight / }tawara & \textbf{Price / }tawara\\
+\midrule
+\jp{●}\ \jp{天井}\ Ceiling & 25 & --- & --- \\
+\jp{◯}\ \jp{上}\ Upper     & 35 & \jp{一石四斗}  & \jp{四十五匁七分}\\
+\jp{◉}\ \jp{中墨}\ Middle-ink (three-star) & 30 + 1\,bu & \jp{一石二斗}  & \jp{五十三匁一分}\\
+\jp{◯}\ \jp{下}\ Lower      & 25 & \jp{一石}      & \jp{五十三匁九分}\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The \jt{中墨}{nakasumi} --- ``middle-ink,'' three-starred in the
+original --- is the figure's fulcrum: the reference price against
+which all further range-reading is done. A linear ten-tenths
+(\jt{十分}{jippun}) scale keyed to this level runs down the page:
+each \textit{bu} (tenth) of the year's harvest estimate corresponds
+to three additional \textit{tawara} on the price axis, building to
+thirty at ten-tenths. The manuscript then annotates a column of
+past historical years (\jt{寛永甲子}{Kan'ei Kinoe-Ne} = 1624;
+\jt{元禄九丙子}{Genroku 9 Hinoe-Ne} = 1696; \jt{享保}{Ky\=oh\=o}
+1716--36; \jt{元文丙辰}{Genbun Hinoe-Tatsu} = 1736) with their
+actual out-turns, keyed to this scale as an empirical calibration.
+
+\subsection{Applying the Method}
+
+The rule for using the diagram, in plain prose:
+
+\begin{quote}
+\textit{Using the three-level method above, one accumulates the
+good-and-bad of each year's world. A year of the upper division
+may run on for thirty years; a year of the lower division can run
+on for eight or nine.}
+
+\textit{Consider the out-turn of the low ranking. In a middle-
+division world, if the year's estimate is seven-tenths, multiply
+three times seven --- twenty-one tawara. Take this as the middle-
+ink price.}
+
+\textit{For such a price: add six tawara of the thirty-percent
+drawdown buffer to get twenty-six tawara as the middle law. At
+year-end, this holds without variance; not even one hundredth-of-
+a-}monme \textit{off.}
+\end{quote}
+
+\section{The Strong-Qi Five-Stage Secret (\jp{強気五ツの秘伝})}
+
+A compact five-stage buy-on-dips schedule --- the heart of the
+book's accumulation method. It is read against a base established
+at the year's new-rice opening price taken as the middle-ink, and
+builds a long position into successive drawdowns:
+
+\begin{center}
+\begin{tabular}{@{}l l r@{}}
+\toprule
+\textbf{Stage} & \textbf{Drawdown from middle-ink} & \textbf{Ry\=o}\\
+\midrule
+\jp{第一}\ First   & \jp{一割半さげ}  \ 15\,\% down      & 100\\
+\jp{第二}\ Second  & \jp{二割さげ}    \ 20\,\% down      & 200\\
+\jp{第三}\ Third   & \jp{二割半さげ}  \ 25\,\% down      & 400\\
+\jp{第四}\ Fourth  & \jp{三割さげ}    \ 30\,\% down      & 800\\
+\jp{第五}\ Fifth   & \jp{三割余}      \ over 30\,\%      & 1{,}000 --- 2{,}000\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\begin{quote}
+\textit{Editor's note: These five stages are each a} tengen \textit{trade-
+maxim. Whether a thousand or two thousand}~ry\=o, \textit{buy accordingly.}
+\end{quote}
+
+The working rule at the first stage establishes the discipline:
+
+\begin{quote}
+\textit{First, reckon the year's world at ten-tenths. Even in a
+year where the new-rice price is exceptionally high and you are
+certain it ought to fall thirty percent --- by no means sell.}
+
+\textit{To buy at the one-and-a-half-tenths drawdown is the great
+secret. In any year, to take the new-rice opening price as the
+middle-ink --- this is the family secret.}
+\end{quote}
+
+The fifth-stage disposition is the book's most aggressive single
+instruction:
+
+\begin{quote}
+\textit{From a middle-ink of 20 tawara, once the drawdown runs to
+three-step-plus and you see 27 or 28 tawara --- buy a thousand or
+even two thousand}~ry\=o. \textit{Take it as the one-man's proof-of-
+concept. At such a level, the decline is a ``six-and-stream'' event
+--- one in a thousand.}
+\end{quote}
+
+\section{The Weak-Qi Five-Stage Secret (\jp{弱気五ツの秘伝})}
+
+The mirror schedule: building a short into successive rallies.
+
+\begin{center}
+\begin{tabular}{@{}l l r@{}}
+\toprule
+\textbf{Stage} & \textbf{Rally from middle-ink} & \textbf{Ry\=o}\\
+\midrule
+\jp{第一}\ First   & \jp{一刻半あげ}  \ 1.5-step up        & 100\\
+\jp{第二}\ Second  & \jp{二刻あげ}    \ 2-step up          & 200\\
+\jp{第三}\ Third   & \jp{二刻半あげ}  \ 2.5-step up        & 400\\
+\jp{第四}\ Fourth  & \jp{三刻あげ}    \ 3-step up          & 800\\
+\jp{第五}\ Fifth   & \jp{三割余}      \ over 30\,\%        & 1{,}000 --- 2{,}000\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The editorial gloss underneath the header reads: \textit{``Same
+schedule as above, one and the same person.''} The two five-stage
+schedules are meant to be run in tandem by a single trader --- long
+into the downside, short into the upside --- with the size-doublings
+(100 $\rightarrow$ 200 $\rightarrow$ 400 $\rightarrow$ 800 $\rightarrow$
+1{,}000+) meaning that the aggregate stake is concentrated at the
+market's extremities, exactly where the trader is most alone against
+the crowd.
+
+% =============================================================================
+\chapter{The Compound Trades\\ and the Seven Fortunes}
+
+Pages 25--27 of the manuscript present the book's remaining
+composite trading schedules --- the strong-qi / weak-qi reverse-
+weight (\jp{逆権}), the favorable-virtue reverse-loss (\jp{順徳
+逆損}), the random-edge (\jp{度端}), the stake-use (\jp{立用}), and
+the follow-the-color (\jp{随色}) --- grouped under the
+chapter-heading:
+
+\begin{quote}
+\jp{○七福即生秘密巻目}\\[0.3em]
+\textit{The Secret of the Immediate Arising of the Seven Fortunes}
+\end{quote}
+
+\begin{editorialnote}
+The chapter's name invokes the Seven Fortunes --- the seven deities
+of good fortune in Japanese popular religion --- as an emblem of
+the multiplicity of the compound methods collected beneath it. What
+follows is a small family of trade-schedules, not a numbered list
+of seven conditions.
+\end{editorialnote}
+
+\section{The Strong-Qi Reverse-Weight Trade (\jp{強気逆権商内})}
+
+\begin{quote}
+\textit{The reverse-weight trading force has its middle-ink.
+Up through two steps there is no one-step; beyond two steps there
+is no five-}bu.
+\end{quote}
+
+The trader builds a long across five scaled entries, reaching a
+\textbf{1{,}600-\textit{ry\=o}} total at the extreme:
+
+\begin{quote}
+\textit{Cumulative: 1{,}600-}ry\=o \textit{long held; 180}~tawara
+\textit{drawdown. A ten-percent rally yields 320}~tawara \textit{gain ---
+the voice of favorable virtue.}
+\end{quote}
+
+\section{Favorable-Virtue Reverse-Loss Variants}
+
+Three further methods, all in the same idiom, keyed to successively
+larger rally thresholds:
+
+\begin{description}
+\item[\jp{強気一割あげ順徳逆損商内}] Strong-qi ten-percent-up
+favorable-virtue reverse-loss. Five-way graduated scale-out
+(\jp{五方ならし}) across a rally.
+
+\item[\jp{強気一割半あげ順徳逆損商内}] Same schedule keyed to a
+15\,\% rally threshold, in a tighter \textit{tawara} band. Net:
+\textbf{800-\textit{ry\=o} sell}, 70-\textit{tawara} drawdown at
+the turn, 160-\textit{tawara} profit per one-step decline.
+
+\item[\jp{強気二刻あげ順徳丞様商内}] Same idiom keyed to a two-step
+rally. At the \textit{tengen}-mark on the second pass, the position
+reverses and a further 200-\textit{ry\=o} sell is initiated.
+\end{description}
+
+\section{The Random-Edge Trade (\jp{度端一六の商内})}
+
+\begin{quote}
+\textit{From a 20-tawara middle-ink, whenever the market slumps
+beyond three steps --- or, alternately, rallies beyond three steps
+--- always trade the one-hundred-}ry\=o\textit{-sized lot at the
+low level.}
+
+\textit{Even if thinking in terms of one thousand or two thousand}~ry\=o,
+\textit{pack it in lightly. Even a thirty-percent-plus drawdown is
+only one case in a thousand; even a thirty-percent-plus rally is
+only a mountain-of-one in a thousand.}
+\end{quote}
+
+\section{The Stake-Use Trade (\jp{立用商内})}
+
+\begin{quote}
+\textit{In the stake-use trade, you do not speak of the gap ---
+rather, from having heard the future ups and downs of rice, you
+reflect carefully and stake accordingly.}
+
+\textit{The stake-use is not much of a wrapping-in for those who
+trade in large size --- the reason being that when you hold a long
+of 50{,}000 or 100{,}000}~ry\=o, \textit{even if you wish to sell,
+as soon as you do, the side-market chases you down six or seven}~bu
+\textit{and can pursue you for up to a month.}
+\end{quote}
+
+This is the book's most candid acknowledgement of market-impact.
+The trader who is large relative to the market's depth cannot
+execute at the marginal price --- his own selling moves the market
+against him.
+
+\section{The Follow-the-Color Trade (\jp{随色商内})}
+
+The editor marks this method with a warning: \textit{``this
+trading-force is the same as the essential trading-equipment''} ---
+that is, it is the method a trader must already know how to handle
+before attempting. The method itself:
+
+\begin{quote}
+\textit{The law of the follow-the-color trade: at those moments
+when the genuine awareness is dulled --- when nothing exceptional
+has occurred, and one is inclined to say no imperial edict will
+come --- rice suddenly rallies five-}bu \textit{or seven-}bu.
+\textit{Have that ship sold, and buy at the place where it retraces
+five-}bu, \textit{seven-}bu, \textit{seven-}bu. \textit{This is
+called} follow-the-color.
+
+\textit{Still, stake only a hundred or two hundred}~ry\=o.
+\textit{Without certainty, to overdo the ease is the bold overhand
+of luggage.}
+\end{quote}
 
 % =============================================================================
 \chapter{The Grand Diagram}
 
 \begin{center}
-\jp{上割三下割之圖}\\
-\textit{Diagram of the Upper Three-Part and Lower Division}
+\jp{第三　上割三下割三之圖}\\[0.3em]
+\textit{Third: The Upper-Three, Lower-Three Figure}
 \end{center}
 
-\begin{figure}[p]
+The manuscript's most elaborate single figure. It is the third ---
+and final --- of the major named diagrams in the book, following the
+four-stage method-figures of Chapter~4 and the World-Levels Diagram
+of Chapter~8. An editorial annotation at the foot of the page reads:
+\textit{``This diagram is from the Tenmei-era old manuscript''}
+(\jp{此図は天明古写本によるなり}).
+
+\section{The Secret of the Random Edge (\jp{度端極意の巻})}
+
+Before the diagram proper, the manuscript gives a one-sentence
+summary of the whole approach:
+
+\begin{quote}
+\textit{The trade called} random-edge \textit{--- cutting desire and
+releasing it is its secret. That the greater-than-a-small-gap is
+the favorable --- this is the root of rice-trading force.
+Therefore, without dispersing once, one cannot hope to rally a
+thousand times at the child's seat.}
+\end{quote}
+
+\section{The Figure}
+
+\begin{figure}[H]
 \centering
-\vspace*{\fill}
 \includegraphics[width=0.85\textwidth]{diagrams/diagram_grand_chart.png}
-\caption[The Grand Diagram]{The Grand Diagram (\jp{上割三下割之圖}).
-Center: \jp{天明古米} (Tenmei-era old rice) with \jp{中豊横}
-(middle-abundance horizontal) as the baseline. Twelve positions radiate
-outward representing the months. Bottom left: \jp{陰} (Yin) with
-\jp{八極} (Eight Poles)---selling positions at 25, [24], 22, 21 tawara
-levels. Bottom right: \jp{陽三} (Yang)---buying positions at 14, [17],
-18, 19 tawara levels.\protect\footnotemark{} Bottom annotation:
-\jp{平の三割高下の割＝校正補} (``Three-part division of prices, high and
-low---revised supplement'').
-\textit{Image: Kyoto University Main Library.}}
-\label{fig:grandchart}
-\vspace*{\fill}
+\caption*{\small Manuscript page~28: the \textit{Grand Diagram}
+(\jp{第三　上割三下割三之圖}). At the center, a labeled box gives
+the \jp{中墨} (middle-ink) reference price at 20~\textit{tawara}.
+Four cardinal spokes --- \jp{上 / 下 / 東 / 西} --- mark the normal
+bounds of the market's range, while four diagonal corners
+(\jp{乾}~and~\jp{坤}, and the two ``discovery'' points) fill out
+the eight-point orientation scheme of the classical \textit{hakke}
+(eight-trigram) figure. Below the compass, four tablet-cells carry
+additional named \textit{tawara} readings that elaborate the main
+figure's bands.}
 \end{figure}
-\footnotetext{Bracketed values [24] and [17] are read directly from
-the diagram image but do not appear in the character-by-character
-transcription, which records only three values per side (25, 22, 21
-and 14, 18, 19). The additional values are legible in the manuscript
-but were not captured in the transcription pass.}
 
-\section{How to Read the Diagram}
+Running through all eight points are subsidiary annotations ---
+\jp{陽一}, \jp{陰一}, \jp{二割半}, \jp{一割半}, \jp{太極} --- that
+mark the intermediate steps within each spoke.
 
-This diagram, which the source text calls the \jp{中星圓珠秘象}
-(``Middle Star Round Jewel Secret Image''), is the visual synthesis of the
-entire trading system.\tn{The explanatory text for the diagram spans
-manuscript pages 28--29. The diagram's center annotation reads \jp{天明古米}
-(\textit{Tenmei-era old rice}), indicating the price data references
-the Tenmei period.}
+\section{Reading the Diagram}
 
-\subsection{Comprehensive Measurement (\jp{度諸})}
+The manuscript's own prose gives the rule for interpreting the
+figure:
 
-\textit{[Interpretive.]}
-For 700 ry\=o of capital at various configurations: the positions are
-mapped through buying and selling levels, with 300 ry\=o held in
-reserve.\tn{The figure \jp{七百両} is tentatively legible. The
-surrounding prose is in dense cursive; the rendering here is
-interpretive.}
+\begin{quote}
+\textit{This diagram --- take it as the secret of the random-edge.
+The center, in square-and-circle, figures heaven and earth.}
 
-\subsection{The Structure}
+\textit{East-west and north-south are the four directions; adding
+the four corners of}~ken \textit{and}~kon \textit{brings the total
+to ten points of discovery.}
+\end{quote}
 
-The upper half represents the Yang months---spring and summer, the period of
-growth and rising. The lower half represents the Yin months---autumn and
-winter, harvest and falling. The diagram is oriented like a compass, with
-Heaven (\jp{天}) and Earth (\jp{地}) at the poles.
-
-At each month's position: the expected tawara level, the indicated trading
-action, and the relationship to the middle star.
-
-The subsidiary charts at the bottom divide the trading range into Yin and
-Yang zones. The Yin section (\jp{陰 八極}) maps selling positions at
-supply levels of 25, 24, 22, and 21 tawara---representing conditions of
-scarcity where prices are high. The Yang section (\jp{陽三}) maps buying
-positions at 14, 17, 18, and 19 tawara---representing conditions of
-abundance where prices are low.
-
-\subsection{Applying the Diagram}
-
-In the four directions---representing the four seasons---combine the
-seasonal tendency with the harvest forecast. When buying in spring, confirm
-the middle star, then enter at the ten-percent level.
-
-The rationale for buying and selling at each position is embedded in the
-diagram's structure: the monthly tawara level, read against the middle star
-and the Yin-Yang subsidiary tables, produces a specific trading action for
-any combination of season, supply level, and market momentum.
+Four points cardinal, four diagonal, plus the center ``heaven-
+earth'' box and its ambient field: together these make the
+\jt{十分}{jippun} --- ``ten-tenths'' --- scale referenced
+throughout the book's range calibrations.
 
 % =============================================================================
-\chapter{Reading Strong and Weak Qi}
+\chapter{Strong Qi, Weak Qi,\\ and the Three First-Tier Secrets}
 
-\section{The Beginning of Strong Qi}
+The manuscript closes its doctrinal chapter with an interpretation
+of the Grand Diagram that carries the book's most consequential
+empirical claim: the market's normal range is \textbf{not
+symmetric}.
 
-\textit{[Interpretive.]}
-When strong qi first emerges, the signs are these: a rise from the
-bottom. People are still bearish. Yet the price has stopped falling and
-begins to creep upward.\tn{The header \jp{強氣の初} is legible. The
-transcription tentatively identifies \jp{一割} (10\%) and fragments about
-sentiment; the connecting prose is interpretive.}
+\section{The Bullish Bias}
 
-\section{The Beginning of Weak Qi}
+\begin{quote}
+\textit{On the buying side: the principles of drought, wind-and-
+rain, heavenly disaster, and buying-enclosure --- across spring,
+summer, autumn, and winter. Many are the reasons for strong spirit
+among those who take these as their ground.}
 
-\textit{[Interpretive.]}
-A small decline from a sustained high. People are still bullish. Yet the
-price stops rising and begins to soften.\tn{The header \jp{弱氣の初} is
-legible. The prose mirrors the strong qi pattern; both sections are
-interpretive reconstructions from partially legible cursive.}
+\textit{On the selling side: there is not one principle other than
+waiting for the buying-enclosure to collapse. It is for this reason
+that, when the diagram is laid out, there is a one-tenth strength
+bias on the buying side.}
+\end{quote}
 
-\section{The Great First Decline}
+This is the book's load-bearing empirical assertion: the bullish
+case has multiple independent triggers, the bearish case has only
+one. The structural drift of the rice market is therefore weakly
+upward.
 
-\textit{[Interpretive.]}
-The first drop is sharp. But the first major drop is rarely the final
-bottom.\tn{The header \jp{大壱落修の事} is legible. The transcription
-tentatively identifies fragments about ``the first fall'' being ``sharp''
-and ``not the bottom''; the three-phase pattern described here is an
-interpretive reconstruction. The pattern---sharp drop, bounce, slow
-grind---resembles Dow Theory's description of bear market stages,
-formulated roughly fifty years later.}
+\section{The Effect of Strong Qi (\jp{強気の功})}
 
-\section{Wind and Rain}
+A monthly weather almanac specifies exactly which bullish triggers
+apply in which season:
 
-\textit{[Interpretive.]}
-The manuscript discusses \jp{風雨} (wind and rain) and their effect on
-the market. A reference to ships (\jp{船}) and storm damage
-(\jp{破損}) is legible.\tn{The header \jp{風雨} is legible. The
-manuscript mentions months (三月, 四月, 五月, 六月 are legible as
-section markers on the left page) with descriptions of seasonal
-weather, but the prose between month markers is in dense cursive rated
-LOW confidence. The specific agricultural details in previous editions
-(frost, plum rains, typhoon timing) were interpretive gap-filling and
-have been removed. The characters \jp{油} (oil) and \jp{絹} (silk)
-are legible near the bottom of the page.}
-The four seasons each bring their own storms, and the trader must
-observe them. Oil and silk prices follow similar patterns.
+\begin{quote}
+\textit{When wind and rain are violent, there are ship-wrecks in
+every season; Edo and Osaka alike have gaps in shipping. The first
+principle is that each person takes heed.}
+\end{quote}
+
+\begin{description}
+\item[3rd--4th month $\rightarrow$ 8th--9th month:] When wind-and-
+rain are violent, the effect is flood damage to fields.
+\item[4th--5th month:] Drought means no planting. Long rains rot
+the barley.
+\item[4th--5th month:] A great wind strikes the barley.
+\item[6th--7th month:] A great wind strikes the miscellaneous
+grains. Drought strikes field crops.
+\item[9th month:] A wind strikes the rice directly.
+\item[8th--9th month:] Summer rain rots the glutinous rice.
+\item[5th--6th month:] Long rains bring cold that can extend half
+the year into a damaging autumn.
+\end{description}
+
+\section{The Effect of Weak Qi (\jp{弱気の功})}
+
+The mirror case. Where strong-qi triggers rise from agricultural
+failure, weak-qi triggers rise from political and social shocks:
+
+\begin{quote}
+\textit{At the very ear of a great-high price, there will be
+proclamations on sake and the like --- imperial notices. Besides
+these, there will also be proclamations of town-inspections and
+the like.}
+
+\textit{Or --- a wind that did not blow is said to have blown; a
+minor damage is spoken of as though it were the full ten-tenths;
+and there are years when feigned buy-ins are performed.}
+
+\textit{Japan is the country of the gods; it is a country that
+takes uprightness as its root, and so the natural heaven is present
+above it.}
+\end{quote}
+
+\section{The Rarity of the Perfect Year}
+
+\begin{quote}
+\textit{Without damage at the planting, without the heavenly
+disaster of drought or wind-and-rain --- what one may call a world
+at the full ten-tenths cannot come to be more than three years in
+a hundred.}
+\end{quote}
+
+Even in an abundant year, the trader is reminded that Japan is not
+one market: \textit{``Even if our own country is abundant, there
+may be countries to east, west, south, or north that have been
+blown over. Do not, do not, assume from one view of a single
+abundant-peace-year that the whole of Japan will be likewise.''}
+
+\section{The Three First-Tier Secrets}
+
+The chapter closes with the three numbered principles that the
+manuscript itself names as the first-tier family secrets --- the
+method's most condensed opening rules:
+
+\begin{quote}
+\textbf{1.} \textit{Every year, read the opening trading-day level
+as the} middle-ink --- \textit{this is the first secret.}
+
+\textbf{2.} \textit{Buy the middle-ink at once --- this is the
+second.}
+
+\textbf{3.} \textit{At the outset, stake the hundred-}ry\=o
+\textit{trade-seal in true gold of one hundred}~ry\=o --- \textit{this
+is the third secret.}
+\end{quote}
+
+\section{Yin-Rice and Yang-Rice (\jp{陰米陽米})}
+
+A short closing appendix returns to the cosmological vocabulary of
+the preface:
+
+\begin{quote}
+\textit{There are such things as yin-rice and yang-rice. The rice
+that rises is yang; the rice that falls is yin. The reason: yin
+rolls into yang; yang climbs directly upward.}
+\end{quote}
 
 % =============================================================================
-\chapter{Regional Markets and Final Teachings}
+\chapter{Afterword}
 
-\section{The Geography of Information}
+\begin{center}
+\jp{嘉永四年五月三日　鳴川繁楽}\\[0.3em]
+\textit{Third day of the fifth month, Kaei 4 --- Narukawa
+Shigeraku}
+\end{center}
 
-Each year, the initial rice trading (\jt{初取引}{hatsu-akinai}) establishes
-a base price level.\tn{The term \jp{初取引} is legible. \jp{大坂} (Osaka)
-and \jp{東國西國} (Eastern and Western Provinces) appear as section
-markers. The connecting prose is interpretive, reconstructed from these
-anchors and the section's overall theme.}
-
-\textit{[Interpretive.]}
-Osaka's D\=ojima exchange is the central rice market; all other regional
-prices reference it. Information from Osaka flows outward to the provinces.
-
-Eastern provinces (\jp{東國}) and western provinces (\jp{西國}) have
-different harvest cycles.
-
-\section{The World's Accumulation (\jp{世の中積り之事})}
-
-When rice is expensive, all things become dear.\tn{The header
-\jp{世の中積り之事} is legible. The phrase \jp{米高きときは万物高し}
-(``when rice is high, all things are high'') is tentatively identified
-in the transcription. The connecting prose is interpretive.}
-
-\textit{[Interpretive.]}
-In all the world's markets, the rice market is the foundation. What has
-been written in this record is the accumulated observation of
-generations---the secret teachings of the house.
+The afterword is set apart from the body of the text: on its own
+leaf, in dense flowing cursive, on paper that has taken heavy
+water- and insect-damage. It is signed \jt{鳴川繁楽}{Narukawa
+Shigeraku} --- a pen-name likely referring to the same editor whose
+formal name, \jt{鳴川猛之助}{Narukawa Takenosuke}, appears on the
+printed colophon of the opening leaf.
 
 \begin{editorialnote}
-The closing pages of the manuscript (pages 31--32) are written in dense
-flowing cursive with water damage at the edges. The transcription rates
-this section MEDIUM confidence and explicitly warns that it ``cannot
-confirm character-by-character'' whether the English corresponds to
-specific Japanese sentences. What follows is an interpretive
-reconstruction of the afterword's apparent themes. The attribution and
-date at the end are clearly legible.
+The afterword is the hardest page in the manuscript. Even the
+NDL's specialist OCR returns significant stretches as fragmentary.
+What follows is the reconstruction of its \textit{apparent sense}
+rather than a character-by-character translation; readers who
+wish to cite from the afterword should consult the manuscript
+image directly.
 \end{editorialnote}
 
-\textit{[Interpretive.]}
-This record should not be shared carelessly. It represents the
-accumulated observation of generations.
+\section{The Opening Invocation}
 
-\begin{flushright}
-\jp{鳴川猛之助}\\
-\textit{Narukawa Takenosuke}\\
-\textit{Editor and Corrector}\\[0.5em]
-\jp{嘉永四年五月廿日}\\
-\textit{20th day, 5th month, Kaei 4 (1851)}
-\end{flushright}
+\begin{quote}
+\textit{In the present age, faced with the needs before me, the
+lateness of the work --- I have seen much that is lamented before
+it has even been seen --- letters on fine papers, matters now
+reduced to paper-scraps.}
+\end{quote}
 
-% =============================================================================
+\section{The Central Worry: One Step, a Thousand }Ri
+
+The editor's governing anxiety is stated plainly in the middle
+of the text, through a classical proverb:
+
+\begin{quote}
+\textit{When the early-spring buying is applied \mbox{[wrongly]}, it
+becomes, as the saying has it, a ``one-step error, thousand-}ri
+\textit{deviation'' --- and, without helping, reversed, it turns
+instead into a great tree-land mistake.}
+\end{quote}
+
+The proverb \jp{一歩千里のちがい} --- \textit{a single misplaced
+step, a thousand-\textit{ri} deviation} --- is the editorial concern
+of the whole project: the book is a secret-transmission text in
+which a small error in reading propagates catastrophically into
+trading practice.
+
+\section{Why Publish Now}
+
+\begin{quote}
+\textit{Over these four or five years \mbox{[of study]}, with the
+limited daughter-of-time, the \mbox{[corrected]} manuscripts that
+people have been copying and passing on --- many have grown too old
+and would be the opposite of right; wishing to pull one out,
+compare, and set things right, I have put my hand aside, but the
+present-life-edition cannot yet be called settled.}
+
+\textit{And yet, as I say --- ever since I entered upon this path,
+the wood-bark years of my own life have gathered, and I still fear
+whether I may have, in selecting Ushida Daisuke as the groundwork,
+introduced some deviation from his intent.}
+\end{quote}
+
+\begin{editorialnote}
+The name \jt{牛田大介}{Ushida Daisuke} appears here. Whether
+\textit{Daisuke} is a variant or \textit{hon}-name of
+\jt{牛田権三郎}{Gonzabur\=o} --- the named author of the printed
+colophon --- or a separate figure in the Ushida transmission line,
+is not made explicit in the surviving text. The uncertainty is
+preserved rather than smoothed: if the two are the same man, this
+is the afterword's clearest evidence of that fact; if they are
+different, the editor's worry is about his choice of source among
+multiple Ushida transmissions.
+\end{editorialnote}
+
+\section{The Appeal to the Discerning Reader}
+
+\begin{quote}
+\textit{It is for those with seeing eyes \mbox{(\jp{具眼の人},
+\textit{gugan no hito})} to take the matter up: if any public court
+or six \mbox{[witnesses]} can be found, run the path to the heights
+and put it to the test.}
+\end{quote}
+
+The afterword closes with its date and signature:
+
+\begin{quote}
+\textbf{\jp{嘉永四年五月三日}}\\[0.3em]
+\textit{Third day of the fifth month, Kaei~4 --- the Gregorian
+date approximately}~\textbf{May~2, 1851}.\\[0.7em]
+\textbf{\jp{鳴川繁楽}}\\[0.3em]
+\textit{Narukawa Shigeraku.}
+\end{quote}
+
 \chapter*{Select Bibliography}
 \addcontentsline{toc}{chapter}{Select Bibliography}
 \markboth{Select Bibliography}{}
@@ -1446,102 +2165,141 @@ accumulated observation of generations.
 \begin{description}[style=nextline, leftmargin=2em, font=\normalfont\bfseries]
 
 \item[\jp{逢来} (\textit{airai})]
-Adverse conditions; a period of generally falling prices, typically lasting
-roughly three years within a twelve-to-thirteen-year cycle.
+Adverse conditions; a period of generally falling prices, typically
+lasting roughly three years within a twelve-to-thirteen-year cycle.
 
-\item[\jp{中星} (\textit{ch\=uboshi})]
-Middle Star; the long-term average price level serving as the central
-reference for all trading decisions.
+\item[\jp{安楽} (\textit{anraku})]
+``At ease''; the second of the four-stage method diagrams
+(Chapter~4). A net-flat cycle of four alternating
+100-\textit{ry\=o} buys and sells --- so called because the trader
+carries no overnight directional exposure.
 
 \item[\jp{智} (\textit{chi})]
-Wisdom; the second of the four trading virtues. Study and observation
-before action.
+Wisdom; the first of the \textit{three} trading virtues
+(智仁勇). Seeing the pattern, knowing the season.
 
 \item[\jp{帳合米} (\textit{ch\=oaimai})]
-``Book rice''; forward contracts or futures on rice, as opposed to physical
+``Book rice''; forward contracts on rice, as opposed to physical
 rice.
 
-\item[\jp{堂島} (\textit{D\=ojima})]
-The D\=ojima Rice Exchange in Osaka; the central marketplace for rice
-futures trading during the Edo period.
+\item[\jp{中墨} (\textit{nakasumi} / \textit{ch\=uboku})]
+``Middle-ink''; the three-starred center-cell of the World-Levels
+Diagram (Chapter~8); the reference price against which the
+five-stage strong-qi and weak-qi schedules are read. Taken each
+year as the new-rice opening price.
 
-\item[\jp{半板} (\textit{hanita})]
-``Half-board''; a method of calculating rice selling positions, as
-distinct from the buying-position method.
+\item[\jp{度端} (\textit{dohan})]
+``Random-edge''; the family of discretionary scaling trades
+presented on page~28 under the heading \jp{度端極意の巻} (``The
+Secret of the Random-Edge'').
+
+\item[\jp{堂島} (\textit{D\=ojima})]
+The D\=ojima Rice Exchange in Osaka; the central marketplace for
+rice futures trading during the Edo period.
+
+\item[\jp{半板} (\textit{hanban})]
+``Half-plank''; the first of the four-stage method diagrams
+(Chapter~4). A net-long cycle of 1000-\textit{ry\=o} buys
+alternating with 500-\textit{ry\=o} sells --- the trader is always
+running with half his plank still underfoot.
 
 \item[\jp{穂足} (\textit{hosoku})]
-``Spike-foot'' or ``ear of grain''; refers to the visual shape of
-price movements---an early form of pattern recognition.
+``Spike-foot,'' or the ear-of-grain figure; the foundational
+candle-pattern metaphor introduced in the preface, from the shape
+of the rice grain itself (round in the middle, pointed at top and
+bottom).
 
 \item[\jp{仁} (\textit{jin})]
-Benevolence; the first of the four trading virtues. Patience and
-compassion for one's own position and errors.
+Benevolence; the second of the three trading virtues, and the
+largest of the three verse-ranks (twenty-eight of the forty-eight
+verses). Patience, waiting, not rushing.
 
 \item[\jp{人気} (\textit{jinki})]
 ``People-qi''; market sentiment; the collective mood of traders.
 
-\item[\jp{禁判} (\textit{kinban})]
-``Forbidden judgment''; a cautionary ruling or prohibited trading
-practice, used as a marker in the Fifteen Articles section.
+\item[\jp{慈雲斎} (\textit{Jiunsai})]
+Ushida Gonzabur\=o's pen name; appears once in the manuscript
+immediately above his given name (page~5), attached to the text's
+original composition in H\=oreki~5 (1755).
 
 \item[\jp{順来} (\textit{junrai})]
-Favorable conditions; a period of generally rising prices, typically
-lasting roughly ten years.
+Favorable conditions; a period of generally rising prices,
+typically lasting roughly ten years in a twelve-to-thirteen-year
+cycle.
+
+\item[\jp{順徳} (\textit{juntoku})]
+``Favorable virtue''; the positive-expectancy direction of the
+compound reverse-loss trades of Chapter~9.
+
+\item[\jp{禁制} (\textit{kinsei})]
+``Prohibition''; the closing clause-word of each of the Fifteen
+Prohibitions (Chapter~3).
 
 \item[\jp{古米} (\textit{komai})]
 Old rice; rice from previous harvests.
+
+\item[\jp{空理} (\textit{k\=uri})]
+``Empty principle''; the preface's term for the inherent
+formlessness of market motion. Paired with \jp{定式}
+(\textit{j\=oshiki}, ``fixed form'') in the philosophical move that
+justifies the whole project: the motion is empty, yet has a form,
+and from the form a method can be derived.
 
 \item[\jp{両} (\textit{ry\=o})]
 The gold coin unit of the Edo period; the standard unit of capital.
 
 \item[\jp{新米} (\textit{shinmai})]
-New rice; freshly harvested rice.
-
-\item[\jp{節} (\textit{setsu})]
-Discipline; the fourth of the four trading virtues. Following the method
-even when emotions urge otherwise.
+New rice; freshly harvested rice. The opening trading-day price of
+new rice is taken as the \textit{nakasumi} each year.
 
 \item[\jp{底} (\textit{soko})]
 Bottom or floor; the lowest point of the price range.
 
-\item[\jp{底直} (\textit{soko-ne})]
-Floor price; the actual price at the lowest point of the range, as
-distinct from the abstract concept of ``bottom.''
-
 \item[\jp{太極} (\textit{taikyoku})]
-Supreme Ultimate; the Neo-Confucian concept representing undifferentiated
-unity, here used for market equilibrium.
-
-\item[\jp{大勢} (\textit{taisei})]
-The grand trend; the overarching market direction.
+Supreme Ultimate; the Neo-Confucian concept representing
+undifferentiated unity. Opens the preface; named in the Nine-Body
+Song (Chapter~6).
 
 \item[\jp{俵} (\textit{tawara} / \textit{hy\=o})]
 A bale of rice; the standard unit of measure and price quotation.
 
+\item[\jp{天元} (\textit{tengen})]
+``Celestial origin''; the top stage-marker of every position
+ladder in the book --- the baseline price around which
+accumulation and distribution ladders are calibrated.
+
 \item[\jp{天井} (\textit{tenj\=o})]
-Ceiling; the top of the price range.
+Ceiling; the top of the price range on the World-Levels Diagram.
 
-\item[\jp{転換の法} (\textit{tenkan no h\=o})]
-``Turnover method''; the technique of building selling positions as
-buying positions reach their target, revolving from one side of the
-market to the other.
+\item[\jp{転変} (\textit{tenpen})]
+``Reversal''; the third of the four-stage method diagrams
+(Chapter~4). A net-short cycle of 1000-\textit{ry\=o} buys
+alternating with 2000-\textit{ry\=o} sells --- each sell
+simultaneously unwinds the prior buy and opens an equal-size short.
 
-\item[\jp{強気} (\textit{tsuyoki})]
-Strong qi; bullish sentiment or upward momentum.
+\item[\jp{天明本} (\textit{Tenmei-bon})]
+``Tenmei recension''; the margin-annotation marker that recurs
+throughout the book indicating a parallel reading from a Tenmei-
+era (1781--1789) version of the text.
+
+\item[\jp{強気} (\textit{ky\=oki})]
+Strong qi; bullish sentiment or upward force. One of the two
+central force-concepts of the book.
 
 \item[\jp{運気} (\textit{unki})]
-Fortune-qi; the prevailing momentum of a given period.
+Fortune-qi; the prevailing momentum of a given period. Compiled as
+an almanac in Chapter~5, the \jp{万歳運気豊凶録}.
 
-\item[\jp{弱気} (\textit{yowaki})]
-Weak qi; bearish sentiment or downward momentum.
+\item[\jp{弱気} (\textit{jakki} / \textit{yowaki})]
+Weak qi; bearish sentiment or downward force.
 
 \item[\jp{勇} (\textit{y\=u})]
-Courage; the third of the four trading virtues. Acting decisively when
-the signs align.
+Courage; the third of the three trading virtues. Acting against
+the crowd when the signs align.
 
-
-\item[\jp{随金} (\textit{zuikin})]
-``Following gold''; tracking actual capital flows rather than opinion.
+\item[\jp{随色} (\textit{zuishoku})]
+``Follow-the-color''; the discretionary short-rally-fade trade of
+Chapter~9.
 
 \end{description}
 
@@ -1558,9 +2316,14 @@ the Kyoto University Rare Materials Digital Archive and recognized that
 no accurate English translation existed.
 
 He directed the translation using the same AI tools he works with
-professionally, separating transcription from translation, grading each
-iteration with an independent reviewer, and publishing the complete
-audit trail so that every editorial decision can be checked.
+professionally, but with a hard separation between the two stages:
+the cursive-to-Japanese reading was handled by NDL~\jp{古典籍OCR-Lite},
+a specialist character-recognition model from Japan's National Diet
+Library, while the Japanese-to-English rendering was handled by an
+LLM working only from the mechanical OCR output. Every editorial
+decision can be checked end-to-end: every English sentence traces
+to a specific line of NDL-OCR transcription, which traces to a
+specific region of the manuscript scan.
 
 This is his first published translation. The complete source
 materials---original manuscript scans, character-by-character
@@ -1570,75 +2333,132 @@ transcription with confidence levels, working translation files, and
 
 % =============================================================================
 \appendix
-\chapter{Position Calculation Tables}
+\chapter{Position Calculation Ladders}
 \label{app:calctables}
 
-The following sections reproduce the full stage-by-stage position
-calculations from the manuscript at each capital level. The source text
-presents these as flowing prose with embedded figures, not as formatted
-tables---the summary table in \S 7.3.3 is an editorial convenience for
-the reader, while this appendix preserves the manuscript's own format.
-These are presented as they appear in the source, without editorial
-interpolation. See the translator's note in \S 7.3 for an explanation
-of the units and methodology.
+This appendix collects the manuscript's explicit position-building
+ladders --- the quantitative apparatus behind the method-diagrams of
+Chapter~4 and the five-stage secrets of Chapter~8. The manuscript
+presents these as tight vertical columns of tawara-count, weight and
+price annotations around a central diagram. The tables below
+preserve the three explicit capital totals that the manuscript
+itself states in plain prose, together with the stage-names in
+their native sequence.
 
-\section{Trading with 200 Ry\=o (\jp{二百両買})}
+\section{The Autumn-Moon 800-Ry\=o Ladder (\jp{秋名月商内})}
 
-\jp{壱}: 200 ry\=o committed. 14 tawara at the middle star.
-\jp{一割} (10\%). Position reaches 19 tawara.
+From page~10 of the manuscript. Six named stages building an
+\textbf{800-\textit{ry\=o}} long position from a 20-\textit{tawara}
+middle-ink base.
 
-\jp{弐}: 100 ry\=o added. 14 tawara per 100 ry\=o. Accumulated
-position: 25 tawara at the middle star.
+\begin{center}
+\begin{tabular}{@{}l l r l@{}}
+\toprule
+\textbf{Stage} & \textbf{Japanese} & \textbf{Ry\=o} & \textbf{Action}\\
+\midrule
+Celestial origin  & \jp{天元}        & 100   & sell / reference\\
+First step        & \jp{一乗}        & 100   & (100-\textit{ry\=o} sell)\\
+Second coming     & \jp{二来}        & 400   & sell\\
+Three flats       & \jp{三平}        & 200   & sell\\
+Half-plank        & \jp{半板}        & 800   & buy (reversal anchor)\\
+At ease           & \jp{安楽}        & 800   & final position\\
+\midrule
+\multicolumn{2}{l}{\textbf{Summed totals (manuscript):}} & & \\
+\multicolumn{4}{l}{\quad 800-\textit{ry\=o} buy; 70 \textit{tawara} accumulated;}\\
+\multicolumn{4}{l}{\quad ${\sim}$30 \textit{ry\=o} payment; 40 \textit{ry\=o} deposit; 70 \textit{ry\=o} total.}\\
+\bottomrule
+\end{tabular}
+\end{center}
 
-\jp{参}: 100 ry\=o added. Running total: 19 tawara at the middle star.
+\begin{editorialnote}
+The oral tradition pinned to this ladder declares its use plainly:
+\textit{``In the harvest-moon trade, one ought to use this diagram
+as the square-rule and trade by it.''} A mirror instruction at the
+foot of the page establishes reversibility: \textit{``When
+reversed, it becomes an 800-\textit{ry\=o} sell.''} The same ladder
+is the square-rule for the two-hundred-tenth-day trade as well.
+\end{editorialnote}
 
-\jp{四}: Effective exposure: 800 ry\=o. Position squared at a profit,
-yielding approximately \jp{六百三拾三俵} (633 tawara) in accumulated
-returns.
+\section{The Ebisu 600-Ry\=o Sell-Ladder}
 
-\section{Trading with 300 Ry\=o (\jp{三百両買})}
+From page~11. The 600-\textit{ry\=o} distributional variant,
+dedicated to Nishinomiya Ebisu and Sumiyoshi Daimy\=oj\=o,
+keyed to the late-fifth-month pivot.
 
-\jp{壱}: 300 ry\=o committed. 25 tawara at the middle star.
-Strong position (\jp{強氣}). \jp{一割} (10\%).
+\begin{center}
+\begin{tabular}{@{}l l r l@{}}
+\toprule
+\textbf{Stage} & \textbf{Japanese} & \textbf{Ry\=o} & \textbf{Action}\\
+\midrule
+Celestial origin  & \jp{天元}        & 100   & sell / reference\\
+One flat          & \jp{一平}        & 100   & sell\\
+Two flats         & \jp{二平}        & 200   & sell\\
+Distribution      & \jp{出染}        & 100   & sell\\
+\midrule
+\multicolumn{2}{l}{\textbf{Summed:}} &     & \\
+\multicolumn{4}{l}{\quad 400-\textit{ry\=o} sell; 30 \textit{tawara} loss;}\\
+\multicolumn{4}{l}{\quad ${\sim}$15 \textit{ry\=o} payment; 10+ \textit{ry\=o} deposit.}\\
+\multicolumn{4}{l}{\quad Profit-rice 160 \textit{tawara}, less 30 bucket = \textbf{130}.}\\
+\bottomrule
+\end{tabular}
+\end{center}
 
-\jp{弐}: 100 ry\=o added. 18 tawara per entry. Position builds through
-the middle star.
+\section{The Strong-Qi Five-Stage Secret}
 
-\jp{参}: Position compounds. \jp{弐割} (20\%). 17 tawara.
+From page~22. The five-stage buy-on-dips schedule of Chapter~8,
+reproduced here in tabular form for reference.
 
-\jp{四}: Capital reaches approximately 800 ry\=o through the staged
-method. Middle star level maintained throughout.
+\begin{center}
+\begin{tabular}{@{}l l r@{}}
+\toprule
+\textbf{Stage} & \textbf{Drawdown from middle-ink} & \textbf{Ry\=o}\\
+\midrule
+\jp{第一}\ First   & 15\,\% down  (\jp{一割半さげ})   & 100\\
+\jp{第二}\ Second  & 20\,\% down  (\jp{二割さげ})      & 200\\
+\jp{第三}\ Third   & 25\,\% down  (\jp{二割半さげ})    & 400\\
+\jp{第四}\ Fourth  & 30\,\% down  (\jp{三割さげ})      & 800\\
+\jp{第五}\ Fifth   & over 30\,\%  (\jp{三割余})        & 1{,}000\,--\,2{,}000\\
+\midrule
+\multicolumn{3}{l}{\textbf{At each stage, from a 20-\textit{tawara} middle-ink base:}}\\
+\multicolumn{3}{l}{\quad 800-\textit{ry\=o} long cumulative; ${\sim}$70 \textit{tawara} drawdown at entry;}\\
+\multicolumn{3}{l}{\quad 160 \textit{tawara} profit per one-step (\jp{一刻}) rally.}\\
+\bottomrule
+\end{tabular}
+\end{center}
 
-\section{Trading with 500 Ry\=o (\jp{五百両買})}
+\section{The Weak-Qi Five-Stage Secret}
 
-\jp{壱}: 100 ry\=o of the 500 committed initially. 15 tawara.
+The mirror schedule, from page~24 of the manuscript. Build a short
+into successive rallies:
 
-\jp{弐}: 100 ry\=o added. 14 tawara at the middle star.
+\begin{center}
+\begin{tabular}{@{}l l r@{}}
+\toprule
+\textbf{Stage} & \textbf{Rally from middle-ink} & \textbf{Ry\=o}\\
+\midrule
+\jp{第一}\ First   & 1.5-step up   (\jp{一刻半あげ})   & 100\\
+\jp{第二}\ Second  & 2-step up     (\jp{二刻あげ})     & 200\\
+\jp{第三}\ Third   & 2.5-step up   (\jp{二刻半あげ})   & 400\\
+\jp{第四}\ Fourth  & 3-step up     (\jp{三刻あげ})     & 800\\
+\jp{第五}\ Fifth   & over 30\,\%   (\jp{三割余})        & 1{,}000\,--\,2{,}000\\
+\midrule
+\multicolumn{3}{l}{\textbf{At each stage:}}\\
+\multicolumn{3}{l}{\quad 800-\textit{ry\=o} short cumulative; ${\sim}$60--70 \textit{tawara} loss at the turn;}\\
+\multicolumn{3}{l}{\quad 160 \textit{tawara} profit per one-step decline.}\\
+\bottomrule
+\end{tabular}
+\end{center}
 
-\jp{参}: 100 ry\=o added. \jp{弐割} (20\%).
-
-\jp{四}: 14 tawara per stage at the middle star. Position reaches 800+
-ry\=o, with positions of approximately 25 tawara.
-
-\section{Scaling to 1,000 Ry\=o (\jp{千両})}
-
-At the 1,000-ry\=o level, the text introduces a five-stage system with
-escalating price-movement triggers (\jp{顧氣}---``reflecting on
-momentum''):
-
-\jp{壱}: \jp{一割} (10\%). \jp{半年千両} (1,000 ry\=o over half a
-year). First entry: 100 ry\=o committed.
-
-\jp{弐}: \jp{二割} (20\%). 100 ry\=o added. Middle star maintained.
-14 tawara.
-
-\jp{参}: \jp{二割} (20\%). 300 ry\=o committed. Position accumulates at
-the middle star.
-
-\jp{四}: \jp{二割} (20\%). Accumulated position: 14 tawara at full
-commitment. Capital noted at approximately 800 ry\=o.
-
-\jp{五}: \jp{三割} (30\%). The final stage---the full cycle is complete.
+\begin{editorialnote}
+The editor's gloss under the header of this schedule reads:
+\textit{``Same schedule as above, one and the same person.''} The
+two five-stage ladders --- strong-qi accumulation and weak-qi
+distribution --- are meant to be run in tandem by a single trader.
+The position-size doublings (100 $\rightarrow$ 200 $\rightarrow$
+400 $\rightarrow$ 800 $\rightarrow$ 1{,}000+) concentrate the
+aggregate stake at the market's extremities, where the trader is
+most alone against the crowd.
+\end{editorialnote}
 
 \vfill
 
