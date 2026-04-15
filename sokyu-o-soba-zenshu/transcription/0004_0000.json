@@ -1,0 +1,337 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            854,
+            509
+          ],
+          [
+            854,
+            895
+          ],
+          [
+            901,
+            509
+          ],
+          [
+            901,
+            895
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "本間宗久翁小傳",
+        "isTextline": "true",
+        "confidence": 0.842
+      },
+      {
+        "boundingBox": [
+          [
+            730,
+            284
+          ],
+          [
+            730,
+            303
+          ],
+          [
+            747,
+            284
+          ],
+          [
+            747,
+            303
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "本",
+        "isTextline": "true",
+        "confidence": 0.302
+      },
+      {
+        "boundingBox": [
+          [
+            778,
+            325
+          ],
+          [
+            778,
+            1333
+          ],
+          [
+            824,
+            325
+          ],
+          [
+            824,
+            1333
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "翁通稱古作、出羽富豪本間氏之族也、本間氏者以大農鳴於海内者也、翁後年",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            729,
+            330
+          ],
+          [
+            729,
+            1330
+          ],
+          [
+            774,
+            330
+          ],
+          [
+            774,
+            1330
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "卜居江戸根岸、以故世人稱之根岸本間氏云、翁資性敏活、着眼奇警、巧察商界",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            680,
+            334
+          ],
+          [
+            680,
+            1333
+          ],
+          [
+            725,
+            334
+          ],
+          [
+            725,
+            1333
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "機徴、進退馳驅未曾誤毫厘以故賣買米穀、獲得巨萬利盆、今日本間家得以富",
+        "isTextline": "true",
+        "confidence": 0.911
+      },
+      {
+        "boundingBox": [
+          [
+            630,
+            324
+          ],
+          [
+            630,
+            1337
+          ],
+          [
+            677,
+            324
+          ],
+          [
+            677,
+            1337
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "冠于全国者。雖因其中興之祖四郎三郎大努増殖、抑亦不翁之輔弼之功不居一",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            581,
+            330
+          ],
+          [
+            581,
+            1218
+          ],
+          [
+            626,
+            330
+          ],
+          [
+            626,
+            1218
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "多焉、今欲叙翁之畧歴、則先不可不溯宗家本間氏致富之所由來也。",
+        "isTextline": "true",
+        "confidence": 0.854
+      },
+      {
+        "boundingBox": [
+          [
+            532,
+            321
+          ],
+          [
+            532,
+            1339
+          ],
+          [
+            578,
+            321
+          ],
+          [
+            578,
+            1339
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "本間氏本姓佐藤、其先久四郎君、佐渡人也、距今二百五十餘年前落魂來于酒田、",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            484,
+            340
+          ],
+          [
+            484,
+            1333
+          ],
+          [
+            528,
+            340
+          ],
+          [
+            528,
+            1333
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "爲本間某家僕、某世々住酒田、以海船問屋爲業、稱爲酒田名家、久四郎君資性",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            435,
+            339
+          ],
+          [
+            435,
+            1336
+          ],
+          [
+            478,
+            339
+          ],
+          [
+            478,
+            1336
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "敏活、忠実盡于其職、大爲主所信用、無幾登用主管、會本間某以事見繋獄、託",
+        "isTextline": "true",
+        "confidence": 0.901
+      },
+      {
+        "boundingBox": [
+          [
+            386,
+            341
+          ],
+          [
+            386,
+            1339
+          ],
+          [
+            430,
+            341
+          ],
+          [
+            430,
+            1339
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "後事于君、君恐背其委託。勞思勵精、自全舗之監督、至顧客之應接、一以身任。",
+        "isTextline": "true",
+        "confidence": 0.891
+      },
+      {
+        "boundingBox": [
+          [
+            337,
+            340
+          ],
+          [
+            337,
+            1341
+          ],
+          [
+            380,
+            340
+          ],
+          [
+            380,
+            1341
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "之、遂不墜家聲也。已本間氏之寃解歸家、見其資産不減而内外信用如舊也、大",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            287,
+            340
+          ],
+          [
+            287,
+            1343
+          ],
+          [
+            332,
+            340
+          ],
+          [
+            332,
+            1343
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "喜、謝其勞、與本間氏之稱、設支店而令主之、即今之富豪本間家之始祖也、此歳",
+        "isTextline": "true",
+        "confidence": 0.819
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0004_0000.jpg",
+    "img_name": "0004_0000.jpg"
+  }
+}

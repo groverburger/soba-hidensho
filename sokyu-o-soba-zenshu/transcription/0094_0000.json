@@ -1,0 +1,1437 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1862,
+            158
+          ],
+          [
+            1862,
+            1452
+          ],
+          [
+            1894,
+            158
+          ],
+          [
+            1894,
+            1452
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.323
+      },
+      {
+        "boundingBox": [
+          [
+            1824,
+            1115
+          ],
+          [
+            1824,
+            1167
+          ],
+          [
+            1843,
+            1115
+          ],
+          [
+            1843,
+            1167
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一七〇",
+        "isTextline": "true",
+        "confidence": 0.403
+      },
+      {
+        "boundingBox": [
+          [
+            1621,
+            267
+          ],
+          [
+            1621,
+            289
+          ],
+          [
+            1638,
+            267
+          ],
+          [
+            1638,
+            289
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.393
+      },
+      {
+        "boundingBox": [
+          [
+            1589,
+            266
+          ],
+          [
+            1589,
+            287
+          ],
+          [
+            1605,
+            266
+          ],
+          [
+            1605,
+            287
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.364
+      },
+      {
+        "boundingBox": [
+          [
+            1556,
+            268
+          ],
+          [
+            1556,
+            287
+          ],
+          [
+            1573,
+            268
+          ],
+          [
+            1573,
+            287
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "飛舸",
+        "isTextline": "true",
+        "confidence": 0.372
+      },
+      {
+        "boundingBox": [
+          [
+            1781,
+            759
+          ],
+          [
+            1781,
+            987
+          ],
+          [
+            1805,
+            759
+          ],
+          [
+            1805,
+            987
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "一分(三十六俵下げ",
+        "isTextline": "true",
+        "confidence": 0.3
+      },
+      {
+        "boundingBox": [
+          [
+            1781,
+            844
+          ],
+          [
+            1781,
+            1003
+          ],
+          [
+            1805,
+            844
+          ],
+          [
+            1805,
+            1003
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "(三十六俵下げ)",
+        "isTextline": "true",
+        "confidence": 0.515
+      },
+      {
+        "boundingBox": [
+          [
+            1777,
+            365
+          ],
+          [
+            1777,
+            480
+          ],
+          [
+            1800,
+            365
+          ],
+          [
+            1800,
+            480
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "四月廿九日",
+        "isTextline": "true",
+        "confidence": 0.493
+      },
+      {
+        "boundingBox": [
+          [
+            1737,
+            650
+          ],
+          [
+            1737,
+            790
+          ],
+          [
+            1762,
+            650
+          ],
+          [
+            1762,
+            790
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "二十二俵七分",
+        "isTextline": "true",
+        "confidence": 0.544
+      },
+      {
+        "boundingBox": [
+          [
+            1736,
+            366
+          ],
+          [
+            1736,
+            480
+          ],
+          [
+            1760,
+            366
+          ],
+          [
+            1760,
+            480
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "七月十九日",
+        "isTextline": "true",
+        "confidence": 0.543
+      },
+      {
+        "boundingBox": [
+          [
+            1696,
+            653
+          ],
+          [
+            1696,
+            1003
+          ],
+          [
+            1721,
+            653
+          ],
+          [
+            1721,
+            1003
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "二十二俵四分(丑の日己上げ)",
+        "isTextline": "true",
+        "confidence": 0.525
+      },
+      {
+        "boundingBox": [
+          [
+            1691,
+            364
+          ],
+          [
+            1691,
+            436
+          ],
+          [
+            1714,
+            364
+          ],
+          [
+            1714,
+            436
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "閏七月",
+        "isTextline": "true",
+        "confidence": 0.484
+      },
+      {
+        "boundingBox": [
+          [
+            1651,
+            327
+          ],
+          [
+            1651,
+            1351
+          ],
+          [
+            1680,
+            327
+          ],
+          [
+            1680,
+            1351
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "(釋)右は酒田米會所の相塲の運行に付て驗した者で下段に甲天井丙天井抔とあるは甲月或は丙月",
+        "isTextline": "true",
+        "confidence": 0.793
+      },
+      {
+        "boundingBox": [
+          [
+            1609,
+            331
+          ],
+          [
+            1609,
+            1208
+          ],
+          [
+            1638,
+            331
+          ],
+          [
+            1638,
+            1208
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "に天井を出したと云ふ意味で其次に百何十俵上杯とあるは百兩分に付て云ふのである。",
+        "isTextline": "true",
+        "confidence": 0.832
+      },
+      {
+        "boundingBox": [
+          [
+            1444,
+            270
+          ],
+          [
+            1444,
+            285
+          ],
+          [
+            1459,
+            270
+          ],
+          [
+            1459,
+            285
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.363
+      },
+      {
+        "boundingBox": [
+          [
+            1480,
+            269
+          ],
+          [
+            1480,
+            287
+          ],
+          [
+            1499,
+            269
+          ],
+          [
+            1499,
+            287
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "場",
+        "isTextline": "true",
+        "confidence": 0.366
+      },
+      {
+        "boundingBox": [
+          [
+            1516,
+            269
+          ],
+          [
+            1516,
+            288
+          ],
+          [
+            1535,
+            269
+          ],
+          [
+            1535,
+            288
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.346
+      },
+      {
+        "boundingBox": [
+          [
+            1405,
+            269
+          ],
+          [
+            1405,
+            288
+          ],
+          [
+            1422,
+            269
+          ],
+          [
+            1422,
+            288
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.385
+      },
+      {
+        "boundingBox": [
+          [
+            1369,
+            267
+          ],
+          [
+            1369,
+            287
+          ],
+          [
+            1384,
+            267
+          ],
+          [
+            1384,
+            287
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.407
+      },
+      {
+        "boundingBox": [
+          [
+            1330,
+            269
+          ],
+          [
+            1330,
+            290
+          ],
+          [
+            1347,
+            269
+          ],
+          [
+            1347,
+            290
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.375
+      },
+      {
+        "boundingBox": [
+          [
+            1183,
+            310
+          ],
+          [
+            1183,
+            738
+          ],
+          [
+            1230,
+            310
+          ],
+          [
+            1230,
+            738
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "宗久翁相塲全集終",
+        "isTextline": "true",
+        "confidence": 0.775
+      },
+      {
+        "boundingBox": [
+          [
+            983,
+            913
+          ],
+          [
+            983,
+            1013
+          ],
+          [
+            1003,
+            913
+          ],
+          [
+            1003,
+            1013
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "宗久奥附",
+        "isTextline": "true",
+        "confidence": 0.588
+      },
+      {
+        "boundingBox": [
+          [
+            966,
+            297
+          ],
+          [
+            966,
+            783
+          ],
+          [
+            998,
+            297
+          ],
+          [
+            998,
+            783
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "明治四十三年四月十日印刷",
+        "isTextline": "true",
+        "confidence": 0.603
+      },
+      {
+        "boundingBox": [
+          [
+            909,
+            297
+          ],
+          [
+            909,
+            784
+          ],
+          [
+            942,
+            297
+          ],
+          [
+            942,
+            784
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "明治四十三年四月十五日發兌",
+        "isTextline": "true",
+        "confidence": 0.81
+      },
+      {
+        "boundingBox": [
+          [
+            942,
+            954
+          ],
+          [
+            942,
+            1143
+          ],
+          [
+            965,
+            954
+          ],
+          [
+            965,
+            1143
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "正價金貳圓貳拾錢",
+        "isTextline": "true",
+        "confidence": 0.655
+      },
+      {
+        "boundingBox": [
+          [
+            806,
+            736
+          ],
+          [
+            806,
+            1285
+          ],
+          [
+            836,
+            736
+          ],
+          [
+            836,
+            1285
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "著者早阪豊藏",
+        "isTextline": "true",
+        "confidence": 0.518
+      },
+      {
+        "boundingBox": [
+          [
+            423,
+            133
+          ],
+          [
+            423,
+            262
+          ],
+          [
+            439,
+            133
+          ],
+          [
+            439,
+            262
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "此地御門内やける",
+        "isTextline": "true",
+        "confidence": 0.493
+      },
+      {
+        "boundingBox": [
+          [
+            717,
+            446
+          ],
+          [
+            717,
+            566
+          ],
+          [
+            749,
+            446
+          ],
+          [
+            749,
+            566
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "不許",
+        "isTextline": "true",
+        "confidence": 0.531
+      },
+      {
+        "boundingBox": [
+          [
+            640,
+            447
+          ],
+          [
+            640,
+            565
+          ],
+          [
+            673,
+            447
+          ],
+          [
+            673,
+            565
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "複製",
+        "isTextline": "true",
+        "confidence": 0.733
+      },
+      {
+        "boundingBox": [
+          [
+            700,
+            734
+          ],
+          [
+            700,
+            1290
+          ],
+          [
+            733,
+            734
+          ],
+          [
+            733,
+            1290
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "発行者武井豊",
+        "isTextline": "true",
+        "confidence": 0.491
+      },
+      {
+        "boundingBox": [
+          [
+            697,
+            750
+          ],
+          [
+            697,
+            872
+          ],
+          [
+            726,
+            750
+          ],
+          [
+            726,
+            872
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "発行者",
+        "isTextline": "true",
+        "confidence": 0.452
+      },
+      {
+        "boundingBox": [
+          [
+            675,
+            988
+          ],
+          [
+            675,
+            1268
+          ],
+          [
+            695,
+            988
+          ],
+          [
+            695,
+            1268
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "東京市日本橋區蠣殼町一丁目三番地",
+        "isTextline": "true",
+        "confidence": 0.54
+      },
+      {
+        "boundingBox": [
+          [
+            592,
+            967
+          ],
+          [
+            592,
+            1269
+          ],
+          [
+            621,
+            967
+          ],
+          [
+            621,
+            1269
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "石川金太郎",
+        "isTextline": "true",
+        "confidence": 0.48
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            751
+          ],
+          [
+            585,
+            872
+          ],
+          [
+            615,
+            751
+          ],
+          [
+            615,
+            872
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "印刷者",
+        "isTextline": "true",
+        "confidence": 0.483
+      },
+      {
+        "boundingBox": [
+          [
+            563,
+            985
+          ],
+          [
+            563,
+            1269
+          ],
+          [
+            585,
+            985
+          ],
+          [
+            585,
+            1269
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "東京市京橋區西紺屋町二十六七番地",
+        "isTextline": "true",
+        "confidence": 0.629
+      },
+      {
+        "boundingBox": [
+          [
+            471,
+            316
+          ],
+          [
+            471,
+            432
+          ],
+          [
+            504,
+            316
+          ],
+          [
+            504,
+            432
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "発行所",
+        "isTextline": "true",
+        "confidence": 0.698
+      },
+      {
+        "boundingBox": [
+          [
+            408,
+            316
+          ],
+          [
+            408,
+            434
+          ],
+          [
+            439,
+            316
+          ],
+          [
+            439,
+            434
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "宍大売捌",
+        "isTextline": "true",
+        "confidence": 0.647
+      },
+      {
+        "boundingBox": [
+          [
+            492,
+            605
+          ],
+          [
+            492,
+            782
+          ],
+          [
+            509,
+            605
+          ],
+          [
+            509,
+            782
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "東京市日本橋區",
+        "isTextline": "true",
+        "confidence": 0.514
+      },
+      {
+        "boundingBox": [
+          [
+            487,
+            620
+          ],
+          [
+            487,
+            839
+          ],
+          [
+            507,
+            620
+          ],
+          [
+            507,
+            839
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "東京市日本橋區",
+        "isTextline": "true",
+        "confidence": 0.303
+      },
+      {
+        "boundingBox": [
+          [
+            500,
+            831
+          ],
+          [
+            500,
+            982
+          ],
+          [
+            518,
+            831
+          ],
+          [
+            518,
+            982
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "一郵便振替口座",
+        "isTextline": "true",
+        "confidence": 0.589
+      },
+      {
+        "boundingBox": [
+          [
+            473,
+            834
+          ],
+          [
+            473,
+            982
+          ],
+          [
+            490,
+            834
+          ],
+          [
+            490,
+            982
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "東京壹九四五八番",
+        "isTextline": "true",
+        "confidence": 0.575
+      },
+      {
+        "boundingBox": [
+          [
+            484,
+            1029
+          ],
+          [
+            484,
+            1273
+          ],
+          [
+            517,
+            1029
+          ],
+          [
+            517,
+            1273
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "信義堂書店",
+        "isTextline": "true",
+        "confidence": 0.639
+      },
+      {
+        "boundingBox": [
+          [
+            473,
+            611
+          ],
+          [
+            473,
+            779
+          ],
+          [
+            490,
+            611
+          ],
+          [
+            490,
+            779
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "蠣殻町一丁目三",
+        "isTextline": "true",
+        "confidence": 0.513
+      },
+      {
+        "boundingBox": [
+          [
+            442,
+            551
+          ],
+          [
+            442,
+            708
+          ],
+          [
+            459,
+            551
+          ],
+          [
+            459,
+            708
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "東京神田表神保町",
+        "isTextline": "true",
+        "confidence": 0.768
+      },
+      {
+        "boundingBox": [
+          [
+            426,
+            552
+          ],
+          [
+            426,
+            713
+          ],
+          [
+            442,
+            552
+          ],
+          [
+            442,
+            713
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "撮替東京二七〇番",
+        "isTextline": "true",
+        "confidence": 0.764
+      },
+      {
+        "boundingBox": [
+          [
+            409,
+            550
+          ],
+          [
+            409,
+            715
+          ],
+          [
+            426,
+            550
+          ],
+          [
+            426,
+            715
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "大阪北渡邊町",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            392,
+            551
+          ],
+          [
+            392,
+            713
+          ],
+          [
+            411,
+            551
+          ],
+          [
+            411,
+            713
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "撮替東京二八二三番",
+        "isTextline": "true",
+        "confidence": 0.818
+      },
+      {
+        "boundingBox": [
+          [
+            434,
+            723
+          ],
+          [
+            434,
+            888
+          ],
+          [
+            456,
+            723
+          ],
+          [
+            456,
+            888
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "東京堂書店",
+        "isTextline": "true",
+        "confidence": 0.658
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            722
+          ],
+          [
+            400,
+            891
+          ],
+          [
+            424,
+            722
+          ],
+          [
+            424,
+            891
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "杉本梁江堂",
+        "isTextline": "true",
+        "confidence": 0.662
+      },
+      {
+        "boundingBox": [
+          [
+            449,
+            914
+          ],
+          [
+            449,
+            1094
+          ],
+          [
+            466,
+            914
+          ],
+          [
+            466,
+            1094
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "東京日本橋區通一丁目",
+        "isTextline": "true",
+        "confidence": 0.706
+      },
+      {
+        "boundingBox": [
+          [
+            432,
+            914
+          ],
+          [
+            432,
+            1090
+          ],
+          [
+            449,
+            914
+          ],
+          [
+            449,
+            1090
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "撮影撮影撮影撮影撮影撮影",
+        "isTextline": "true",
+        "confidence": 0.656
+      },
+      {
+        "boundingBox": [
+          [
+            417,
+            915
+          ],
+          [
+            417,
+            1088
+          ],
+          [
+            433,
+            915
+          ],
+          [
+            433,
+            1088
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "東京日本橋本石町",
+        "isTextline": "true",
+        "confidence": 0.741
+      },
+      {
+        "boundingBox": [
+          [
+            399,
+            914
+          ],
+          [
+            399,
+            1091
+          ],
+          [
+            417,
+            914
+          ],
+          [
+            417,
+            1091
+          ]
+        ],
+        "id": 52,
+        "isVertical": "true",
+        "text": "撮影。春。東京一七四四番",
+        "isTextline": "true",
+        "confidence": 0.686
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            1107
+          ],
+          [
+            439,
+            1275
+          ],
+          [
+            464,
+            1107
+          ],
+          [
+            464,
+            1275
+          ]
+        ],
+        "id": 53,
+        "isVertical": "true",
+        "text": "大倉書店",
+        "isTextline": "true",
+        "confidence": 0.645
+      },
+      {
+        "boundingBox": [
+          [
+            408,
+            1109
+          ],
+          [
+            408,
+            1275
+          ],
+          [
+            432,
+            1109
+          ],
+          [
+            432,
+            1275
+          ]
+        ],
+        "id": 54,
+        "isVertical": "true",
+        "text": "至誠堂書店",
+        "isTextline": "true",
+        "confidence": 0.729
+      },
+      {
+        "boundingBox": [
+          [
+            327,
+            135
+          ],
+          [
+            327,
+            263
+          ],
+          [
+            343,
+            135
+          ],
+          [
+            343,
+            263
+          ]
+        ],
+        "id": 55,
+        "isVertical": "true",
+        "text": "東名東村後藤右衛門",
+        "isTextline": "true",
+        "confidence": 0.319
+      },
+      {
+        "boundingBox": [
+          [
+            282,
+            67
+          ],
+          [
+            282,
+            1451
+          ],
+          [
+            313,
+            67
+          ],
+          [
+            313,
+            1451
+          ]
+        ],
+        "id": 56,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.409
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0094_0000.jpg",
+    "img_name": "0094_0000.jpg"
+  }
+}

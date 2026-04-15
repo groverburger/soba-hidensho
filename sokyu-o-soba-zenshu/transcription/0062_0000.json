@@ -1,0 +1,937 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1802,
+            327
+          ],
+          [
+            1802,
+            1432
+          ],
+          [
+            1828,
+            327
+          ],
+          [
+            1828,
+            1432
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "一",
+        "isTextline": "true",
+        "confidence": 0.352
+      },
+      {
+        "boundingBox": [
+          [
+            1751,
+            1097
+          ],
+          [
+            1751,
+            1141
+          ],
+          [
+            1773,
+            1097
+          ],
+          [
+            1773,
+            1141
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "第九四",
+        "isTextline": "true",
+        "confidence": 0.377
+      },
+      {
+        "boundingBox": [
+          [
+            1708,
+            326
+          ],
+          [
+            1708,
+            1327
+          ],
+          [
+            1740,
+            326
+          ],
+          [
+            1740,
+            1327
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "ふたならば、賣らふと云心を忘れてはならぬ。又相塲が底間際になつてると思ふたなら。押目を買",
+        "isTextline": "true",
+        "confidence": 0.702
+      },
+      {
+        "boundingBox": [
+          [
+            1668,
+            325
+          ],
+          [
+            1668,
+            1031
+          ],
+          [
+            1696,
+            325
+          ],
+          [
+            1696,
+            1031
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "はふ〳〵と云心を忘れてはならぬ。是は、相塲第一の奧儀秘傳である。",
+        "isTextline": "true",
+        "confidence": 0.675
+      },
+      {
+        "boundingBox": [
+          [
+            1545,
+            256
+          ],
+          [
+            1545,
+            277
+          ],
+          [
+            1563,
+            256
+          ],
+          [
+            1563,
+            277
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.401
+      },
+      {
+        "boundingBox": [
+          [
+            1513,
+            256
+          ],
+          [
+            1513,
+            276
+          ],
+          [
+            1530,
+            256
+          ],
+          [
+            1530,
+            276
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.335
+      },
+      {
+        "boundingBox": [
+          [
+            1109,
+            295
+          ],
+          [
+            1109,
+            833
+          ],
+          [
+            1155,
+            295
+          ],
+          [
+            1155,
+            833
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "宗久翁相塲全集上卷了",
+        "isTextline": "true",
+        "confidence": 0.809
+      },
+      {
+        "boundingBox": [
+          [
+            891,
+            302
+          ],
+          [
+            891,
+            847
+          ],
+          [
+            940,
+            302
+          ],
+          [
+            940,
+            847
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "宗久翁相場全集(下卷)",
+        "isTextline": "true",
+        "confidence": 0.785
+      },
+      {
+        "boundingBox": [
+          [
+            741,
+            254
+          ],
+          [
+            741,
+            276
+          ],
+          [
+            761,
+            254
+          ],
+          [
+            761,
+            276
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "第",
+        "isTextline": "true",
+        "confidence": 0.351
+      },
+      {
+        "boundingBox": [
+          [
+            824,
+            738
+          ],
+          [
+            824,
+            1245
+          ],
+          [
+            857,
+            738
+          ],
+          [
+            857,
+            1245
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "出羽酒田本間古作遺著",
+        "isTextline": "true",
+        "confidence": 0.726
+      },
+      {
+        "boundingBox": [
+          [
+            763,
+            935
+          ],
+          [
+            763,
+            1239
+          ],
+          [
+            796,
+            935
+          ],
+          [
+            796,
+            1239
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "早阪豊藏校註",
+        "isTextline": "true",
+        "confidence": 0.634
+      },
+      {
+        "boundingBox": [
+          [
+            661,
+            255
+          ],
+          [
+            661,
+            276
+          ],
+          [
+            680,
+            255
+          ],
+          [
+            680,
+            276
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "松",
+        "isTextline": "true",
+        "confidence": 0.329
+      },
+      {
+        "boundingBox": [
+          [
+            674,
+            477
+          ],
+          [
+            674,
+            748
+          ],
+          [
+            706,
+            477
+          ],
+          [
+            706,
+            748
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "第一章落掛りの事",
+        "isTextline": "true",
+        "confidence": 0.847
+      },
+      {
+        "boundingBox": [
+          [
+            630,
+            255
+          ],
+          [
+            630,
+            278
+          ],
+          [
+            648,
+            255
+          ],
+          [
+            648,
+            278
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "落",
+        "isTextline": "true",
+        "confidence": 0.433
+      },
+      {
+        "boundingBox": [
+          [
+            597,
+            254
+          ],
+          [
+            597,
+            278
+          ],
+          [
+            615,
+            254
+          ],
+          [
+            615,
+            278
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "掛",
+        "isTextline": "true",
+        "confidence": 0.475
+      },
+      {
+        "boundingBox": [
+          [
+            558,
+            256
+          ],
+          [
+            558,
+            276
+          ],
+          [
+            573,
+            256
+          ],
+          [
+            573,
+            276
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "り",
+        "isTextline": "true",
+        "confidence": 0.305
+      },
+      {
+        "boundingBox": [
+          [
+            612,
+            309
+          ],
+          [
+            612,
+            658
+          ],
+          [
+            639,
+            309
+          ],
+          [
+            639,
+            658
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一何十俵買上何俵にて落る也。",
+        "isTextline": "true",
+        "confidence": 0.749
+      },
+      {
+        "boundingBox": [
+          [
+            568,
+            312
+          ],
+          [
+            568,
+            660
+          ],
+          [
+            595,
+            312
+          ],
+          [
+            595,
+            660
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一何十俵賣下何俵にて落る也。",
+        "isTextline": "true",
+        "confidence": 0.653
+      },
+      {
+        "boundingBox": [
+          [
+            519,
+            256
+          ],
+          [
+            519,
+            275
+          ],
+          [
+            536,
+            256
+          ],
+          [
+            536,
+            275
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.357
+      },
+      {
+        "boundingBox": [
+          [
+            528,
+            296
+          ],
+          [
+            528,
+            1088
+          ],
+          [
+            557,
+            296
+          ],
+          [
+            557,
+            1088
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "右賣買致す時は、相塲高下の節、油斷なく、左の通此書を以て掛引可申事。",
+        "isTextline": "true",
+        "confidence": 0.788
+      },
+      {
+        "boundingBox": [
+          [
+            507,
+            884
+          ],
+          [
+            507,
+            1295
+          ],
+          [
+            526,
+            884
+          ],
+          [
+            526,
+            1295
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "落切に相成候節は、早速同直段にて買入可申筈、尤",
+        "isTextline": "true",
+        "confidence": 0.661
+      },
+      {
+        "boundingBox": [
+          [
+            501,
+            348
+          ],
+          [
+            501,
+            819
+          ],
+          [
+            520,
+            348
+          ],
+          [
+            520,
+            819
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "第2号第2号(第1号",
+        "isTextline": "true",
+        "confidence": 0.526
+      },
+      {
+        "boundingBox": [
+          [
+            490,
+            888
+          ],
+          [
+            490,
+            1196
+          ],
+          [
+            509,
+            888
+          ],
+          [
+            509,
+            1196
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "も繋ぎに成候節は、買入るゝに及ばず候。",
+        "isTextline": "true",
+        "confidence": 0.807
+      },
+      {
+        "boundingBox": [
+          [
+            481,
+            256
+          ],
+          [
+            481,
+            278
+          ],
+          [
+            500,
+            256
+          ],
+          [
+            500,
+            278
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "事",
+        "isTextline": "true",
+        "confidence": 0.359
+      },
+      {
+        "boundingBox": [
+          [
+            482,
+            349
+          ],
+          [
+            482,
+            803
+          ],
+          [
+            502,
+            349
+          ],
+          [
+            502,
+            803
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "第2項第2項条第2項第2項第2項第2項第2項第2項第2項第1",
+        "isTextline": "true",
+        "confidence": 0.722
+      },
+      {
+        "boundingBox": [
+          [
+            447,
+            742
+          ],
+          [
+            447,
+            777
+          ],
+          [
+            470,
+            742
+          ],
+          [
+            470,
+            777
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "タ落",
+        "isTextline": "true",
+        "confidence": 0.432
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            817
+          ],
+          [
+            451,
+            840
+          ],
+          [
+            469,
+            817
+          ],
+          [
+            469,
+            840
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "落",
+        "isTextline": "true",
+        "confidence": 0.418
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            962
+          ],
+          [
+            451,
+            989
+          ],
+          [
+            474,
+            962
+          ],
+          [
+            474,
+            989
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "四〇",
+        "isTextline": "true",
+        "confidence": 0.349
+      },
+      {
+        "boundingBox": [
+          [
+            414,
+            640
+          ],
+          [
+            414,
+            986
+          ],
+          [
+            435,
+            640
+          ],
+          [
+            435,
+            986
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "一二三四五六七八九十",
+        "isTextline": "true",
+        "confidence": 0.532
+      },
+      {
+        "boundingBox": [
+          [
+            375,
+            636
+          ],
+          [
+            375,
+            733
+          ],
+          [
+            399,
+            636
+          ],
+          [
+            399,
+            733
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "反蓄落",
+        "isTextline": "true",
+        "confidence": 0.473
+      },
+      {
+        "boundingBox": [
+          [
+            380,
+            856
+          ],
+          [
+            380,
+            876
+          ],
+          [
+            398,
+            856
+          ],
+          [
+            398,
+            876
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "寶",
+        "isTextline": "true",
+        "confidence": 0.431
+      },
+      {
+        "boundingBox": [
+          [
+            336,
+            715
+          ],
+          [
+            336,
+            801
+          ],
+          [
+            358,
+            715
+          ],
+          [
+            358,
+            801
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "遣り方",
+        "isTextline": "true",
+        "confidence": 0.315
+      },
+      {
+        "boundingBox": [
+          [
+            344,
+            754
+          ],
+          [
+            344,
+            1286
+          ],
+          [
+            363,
+            754
+          ],
+          [
+            363,
+            1286
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "り方是は仕廻ひ候賣返し故、落斷り有之候ても急ぐべからず。翌日",
+        "isTextline": "true",
+        "confidence": 0.629
+      },
+      {
+        "boundingBox": [
+          [
+            332,
+            786
+          ],
+          [
+            332,
+            1195
+          ],
+          [
+            350,
+            786
+          ],
+          [
+            350,
+            1195
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "〆街莫豪尋と見合、丁々位に候はゞ繋ぐべし。一俵古",
+        "isTextline": "true",
+        "confidence": 0.341
+      },
+      {
+        "boundingBox": [
+          [
+            328,
+            789
+          ],
+          [
+            328,
+            1185
+          ],
+          [
+            346,
+            789
+          ],
+          [
+            346,
+            1185
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "商模樣得と見合、丁々位に候はゞ繋ぐべし。一俵",
+        "isTextline": "true",
+        "confidence": 0.523
+      },
+      {
+        "boundingBox": [
+          [
+            310,
+            800
+          ],
+          [
+            310,
+            1162
+          ],
+          [
+            329,
+            800
+          ],
+          [
+            329,
+            1162
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "切に致し候へば、高直段の處にて賣附可申事。",
+        "isTextline": "true",
+        "confidence": 0.749
+      },
+      {
+        "boundingBox": [
+          [
+            280,
+            1108
+          ],
+          [
+            280,
+            1143
+          ],
+          [
+            296,
+            1108
+          ],
+          [
+            296,
+            1143
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "廿五",
+        "isTextline": "true",
+        "confidence": 0.487
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0062_0000.jpg",
+    "img_name": "0062_0000.jpg"
+  }
+}

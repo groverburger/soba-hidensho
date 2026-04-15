@@ -1,0 +1,1087 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1814,
+            46
+          ],
+          [
+            1814,
+            1411
+          ],
+          [
+            1858,
+            46
+          ],
+          [
+            1858,
+            1411
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "同一二一一一一二二、一、二一一一二二二",
+        "isTextline": "true",
+        "confidence": 0.325
+      },
+      {
+        "boundingBox": [
+          [
+            1796,
+            66
+          ],
+          [
+            1796,
+            1315
+          ],
+          [
+            1840,
+            66
+          ],
+          [
+            1840,
+            1315
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一同九一、、、、、、、、、、、九、、、九、、、一、、、、一",
+        "isTextline": "true",
+        "confidence": 0.355
+      },
+      {
+        "boundingBox": [
+          [
+            1741,
+            47
+          ],
+          [
+            1741,
+            1393
+          ],
+          [
+            1793,
+            47
+          ],
+          [
+            1793,
+            1393
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一同二十一日",
+        "isTextline": "true",
+        "confidence": 0.431
+      },
+      {
+        "boundingBox": [
+          [
+            1701,
+            85
+          ],
+          [
+            1701,
+            1373
+          ],
+          [
+            1748,
+            85
+          ],
+          [
+            1748,
+            1373
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "一、、、、、、、、、、、、、、、、、、〇",
+        "isTextline": "true",
+        "confidence": 0.302
+      },
+      {
+        "boundingBox": [
+          [
+            1163,
+            90
+          ],
+          [
+            1163,
+            1385
+          ],
+          [
+            1214,
+            90
+          ],
+          [
+            1214,
+            1385
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一〇一、〇、、、、、、、、、、、、、、、、、、、、、、、、、、、、、〇〇、〇〇、、、、、、、、、、、、、、、、、〇〇、〇〇、〇〇、、、〇〇、〇〇、〇〇、〇〇〇、〇〇、〇〇、、、、〇〇、〇〇、、、〇",
+        "isTextline": "true",
+        "confidence": 0.352
+      },
+      {
+        "boundingBox": [
+          [
+            1123,
+            104
+          ],
+          [
+            1123,
+            1377
+          ],
+          [
+            1173,
+            104
+          ],
+          [
+            1173,
+            1377
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "一同二十一日",
+        "isTextline": "true",
+        "confidence": 0.38
+      },
+      {
+        "boundingBox": [
+          [
+            1102,
+            102
+          ],
+          [
+            1102,
+            1374
+          ],
+          [
+            1139,
+            102
+          ],
+          [
+            1139,
+            1374
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一、、、、、、、、、、、、、〇〇、〇〇〇〇、〇〇〇〇、〇〇〇、〇〇〇、〇〇、〇〇、〇〇",
+        "isTextline": "true",
+        "confidence": 0.521
+      },
+      {
+        "boundingBox": [
+          [
+            1000,
+            87
+          ],
+          [
+            1000,
+            1393
+          ],
+          [
+            1040,
+            87
+          ],
+          [
+            1040,
+            1393
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+        "isTextline": "true",
+        "confidence": 0.492
+      },
+      {
+        "boundingBox": [
+          [
+            984,
+            90
+          ],
+          [
+            984,
+            1398
+          ],
+          [
+            1035,
+            90
+          ],
+          [
+            1035,
+            1398
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "しきものを以て、",
+        "isTextline": "true",
+        "confidence": 0.408
+      },
+      {
+        "boundingBox": [
+          [
+            969,
+            100
+          ],
+          [
+            969,
+            1404
+          ],
+          [
+            1018,
+            100
+          ],
+          [
+            1018,
+            1404
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "十二月十一日",
+        "isTextline": "true",
+        "confidence": 0.338
+      },
+      {
+        "boundingBox": [
+          [
+            935,
+            98
+          ],
+          [
+            935,
+            1391
+          ],
+          [
+            988,
+            98
+          ],
+          [
+            988,
+            1391
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "同断廿十日",
+        "isTextline": "true",
+        "confidence": 0.413
+      },
+      {
+        "boundingBox": [
+          [
+            920,
+            98
+          ],
+          [
+            920,
+            1391
+          ],
+          [
+            975,
+            98
+          ],
+          [
+            975,
+            1391
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一日月日一日本社会社会社会社会社会社会社会社会社会社会社会",
+        "isTextline": "true",
+        "confidence": 0.386
+      },
+      {
+        "boundingBox": [
+          [
+            913,
+            105
+          ],
+          [
+            913,
+            1389
+          ],
+          [
+            959,
+            105
+          ],
+          [
+            959,
+            1389
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "一人一人の人の人の人の人の",
+        "isTextline": "true",
+        "confidence": 0.315
+      },
+      {
+        "boundingBox": [
+          [
+            868,
+            98
+          ],
+          [
+            868,
+            1393
+          ],
+          [
+            921,
+            98
+          ],
+          [
+            921,
+            1393
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "同一二六、、、、六、、、、六、一",
+        "isTextline": "true",
+        "confidence": 0.437
+      },
+      {
+        "boundingBox": [
+          [
+            818,
+            97
+          ],
+          [
+            818,
+            1394
+          ],
+          [
+            869,
+            97
+          ],
+          [
+            869,
+            1394
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "十四日本所の事務所",
+        "isTextline": "true",
+        "confidence": 0.356
+      },
+      {
+        "boundingBox": [
+          [
+            804,
+            100
+          ],
+          [
+            804,
+            1398
+          ],
+          [
+            857,
+            100
+          ],
+          [
+            857,
+            1398
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "同断同所にてものは、一人の",
+        "isTextline": "true",
+        "confidence": 0.538
+      },
+      {
+        "boundingBox": [
+          [
+            759,
+            92
+          ],
+          [
+            759,
+            1416
+          ],
+          [
+            807,
+            92
+          ],
+          [
+            807,
+            1416
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "同一一、一",
+        "isTextline": "true",
+        "confidence": 0.444
+      },
+      {
+        "boundingBox": [
+          [
+            743,
+            91
+          ],
+          [
+            743,
+            1424
+          ],
+          [
+            788,
+            91
+          ],
+          [
+            788,
+            1424
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "同一一一、、、、、、、、、、、一、二",
+        "isTextline": "true",
+        "confidence": 0.399
+      },
+      {
+        "boundingBox": [
+          [
+            702,
+            92
+          ],
+          [
+            702,
+            1418
+          ],
+          [
+            747,
+            92
+          ],
+          [
+            747,
+            1418
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "同十月二十一日",
+        "isTextline": "true",
+        "confidence": 0.544
+      },
+      {
+        "boundingBox": [
+          [
+            673,
+            79
+          ],
+          [
+            673,
+            1439
+          ],
+          [
+            715,
+            79
+          ],
+          [
+            715,
+            1439
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.306
+      },
+      {
+        "boundingBox": [
+          [
+            657,
+            91
+          ],
+          [
+            657,
+            1423
+          ],
+          [
+            707,
+            91
+          ],
+          [
+            707,
+            1423
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "一一一、、、一、、、、、、、一一一二",
+        "isTextline": "true",
+        "confidence": 0.389
+      },
+      {
+        "boundingBox": [
+          [
+            642,
+            95
+          ],
+          [
+            642,
+            1413
+          ],
+          [
+            692,
+            95
+          ],
+          [
+            692,
+            1413
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "十九月十一日",
+        "isTextline": "true",
+        "confidence": 0.507
+      },
+      {
+        "boundingBox": [
+          [
+            590,
+            94
+          ],
+          [
+            590,
+            1426
+          ],
+          [
+            635,
+            94
+          ],
+          [
+            635,
+            1426
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "るものである。その他の方法は、その他の人には、その他の人の",
+        "isTextline": "true",
+        "confidence": 0.385
+      },
+      {
+        "boundingBox": [
+          [
+            562,
+            93
+          ],
+          [
+            562,
+            1444
+          ],
+          [
+            605,
+            93
+          ],
+          [
+            605,
+            1444
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "同一二一一、一、、、、、、、、一、、二",
+        "isTextline": "true",
+        "confidence": 0.398
+      },
+      {
+        "boundingBox": [
+          [
+            546,
+            87
+          ],
+          [
+            546,
+            1453
+          ],
+          [
+            596,
+            87
+          ],
+          [
+            596,
+            1453
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "一、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、〇〇、〇〇、、〇〇",
+        "isTextline": "true",
+        "confidence": 0.39
+      },
+      {
+        "boundingBox": [
+          [
+            537,
+            96
+          ],
+          [
+            537,
+            1442
+          ],
+          [
+            580,
+            96
+          ],
+          [
+            580,
+            1442
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.476
+      },
+      {
+        "boundingBox": [
+          [
+            508,
+            98
+          ],
+          [
+            508,
+            1428
+          ],
+          [
+            548,
+            98
+          ],
+          [
+            548,
+            1428
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "十九月照日一日一日の日午年一月二日",
+        "isTextline": "true",
+        "confidence": 0.443
+      },
+      {
+        "boundingBox": [
+          [
+            474,
+            100
+          ],
+          [
+            474,
+            1421
+          ],
+          [
+            517,
+            100
+          ],
+          [
+            517,
+            1421
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "一一〇、、、、、、、、、、、、、、、、〇〇、〇〇、〇〇〇、〇〇、〇〇、〇〇、〇〇、〇〇、〇〇、、、、、、〇〇",
+        "isTextline": "true",
+        "confidence": 0.565
+      },
+      {
+        "boundingBox": [
+          [
+            440,
+            100
+          ],
+          [
+            440,
+            1426
+          ],
+          [
+            482,
+            100
+          ],
+          [
+            482,
+            1426
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "十二月十一日",
+        "isTextline": "true",
+        "confidence": 0.367
+      },
+      {
+        "boundingBox": [
+          [
+            426,
+            100
+          ],
+          [
+            426,
+            1440
+          ],
+          [
+            465,
+            100
+          ],
+          [
+            465,
+            1440
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "のものとなるといふ。それは、それをして、その人のものである。それは、",
+        "isTextline": "true",
+        "confidence": 0.335
+      },
+      {
+        "boundingBox": [
+          [
+            405,
+            105
+          ],
+          [
+            405,
+            1434
+          ],
+          [
+            445,
+            105
+          ],
+          [
+            445,
+            1434
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.431
+      },
+      {
+        "boundingBox": [
+          [
+            376,
+            103
+          ],
+          [
+            376,
+            1419
+          ],
+          [
+            420,
+            103
+          ],
+          [
+            420,
+            1419
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.47
+      },
+      {
+        "boundingBox": [
+          [
+            368,
+            107
+          ],
+          [
+            368,
+            1412
+          ],
+          [
+            407,
+            107
+          ],
+          [
+            407,
+            1412
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "}下",
+        "isTextline": "true",
+        "confidence": 0.304
+      },
+      {
+        "boundingBox": [
+          [
+            342,
+            109
+          ],
+          [
+            342,
+            1415
+          ],
+          [
+            388,
+            109
+          ],
+          [
+            388,
+            1415
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "一一〇一",
+        "isTextline": "true",
+        "confidence": 0.383
+      },
+      {
+        "boundingBox": [
+          [
+            327,
+            108
+          ],
+          [
+            327,
+            1417
+          ],
+          [
+            377,
+            108
+          ],
+          [
+            377,
+            1417
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "名乙",
+        "isTextline": "true",
+        "confidence": 0.39
+      },
+      {
+        "boundingBox": [
+          [
+            314,
+            122
+          ],
+          [
+            314,
+            1049
+          ],
+          [
+            351,
+            122
+          ],
+          [
+            351,
+            1049
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "三口三",
+        "isTextline": "true",
+        "confidence": 0.372
+      },
+      {
+        "boundingBox": [
+          [
+            300,
+            107
+          ],
+          [
+            300,
+            1434
+          ],
+          [
+            339,
+            107
+          ],
+          [
+            339,
+            1434
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "〃〃",
+        "isTextline": "true",
+        "confidence": 0.356
+      },
+      {
+        "boundingBox": [
+          [
+            281,
+            127
+          ],
+          [
+            281,
+            1050
+          ],
+          [
+            315,
+            127
+          ],
+          [
+            315,
+            1050
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "〆四百五",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            248,
+            96
+          ],
+          [
+            248,
+            1424
+          ],
+          [
+            286,
+            96
+          ],
+          [
+            286,
+            1424
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "してようといふことをもしている。そのことを",
+        "isTextline": "true",
+        "confidence": 0.504
+      },
+      {
+        "boundingBox": [
+          [
+            217,
+            109
+          ],
+          [
+            217,
+            1400
+          ],
+          [
+            253,
+            109
+          ],
+          [
+            253,
+            1400
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "一九一、、、、",
+        "isTextline": "true",
+        "confidence": 0.371
+      },
+      {
+        "boundingBox": [
+          [
+            209,
+            91
+          ],
+          [
+            209,
+            1419
+          ],
+          [
+            245,
+            91
+          ],
+          [
+            245,
+            1419
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "同一二六一、一、、一、、、六一、、九六一",
+        "isTextline": "true",
+        "confidence": 0.423
+      },
+      {
+        "boundingBox": [
+          [
+            190,
+            89
+          ],
+          [
+            190,
+            1430
+          ],
+          [
+            232,
+            89
+          ],
+          [
+            232,
+            1430
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "一、〇〇、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、〇〇、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、〇、、、、〇〇、",
+        "isTextline": "true",
+        "confidence": 0.495
+      },
+      {
+        "boundingBox": [
+          [
+            181,
+            113
+          ],
+          [
+            181,
+            1421
+          ],
+          [
+            221,
+            113
+          ],
+          [
+            221,
+            1421
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "十月月一日夜十五日十五日十五日には",
+        "isTextline": "true",
+        "confidence": 0.65
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0097_0000.jpg",
+    "img_name": "0097_0000.jpg"
+  }
+}

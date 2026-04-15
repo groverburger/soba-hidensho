@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1742,
+            314
+          ],
+          [
+            1742,
+            1309
+          ],
+          [
+            1766,
+            314
+          ],
+          [
+            1766,
+            1309
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "判し殊に顧論を應用して相塲未來高低を自然に我心裡に感得せしむる方法を確設し最新の知識を網羅して遺憾なし之を活用せば一攫",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            1724,
+            315
+          ],
+          [
+            1724,
+            793
+          ],
+          [
+            1744,
+            315
+          ],
+          [
+            1744,
+            793
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "千金を得るに難からざる良書にして相塲師の指南車と云ふべし",
+        "isTextline": "true",
+        "confidence": 0.636
+      },
+      {
+        "boundingBox": [
+          [
+            1707,
+            403
+          ],
+          [
+            1707,
+            601
+          ],
+          [
+            1728,
+            403
+          ],
+          [
+            1728,
+            601
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "〔他は之を格す〕",
+        "isTextline": "true",
+        "confidence": 0.313
+      },
+      {
+        "boundingBox": [
+          [
+            1700,
+            434
+          ],
+          [
+            1700,
+            594
+          ],
+          [
+            1721,
+            434
+          ],
+          [
+            1721,
+            594
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "〔他は之を略す〕",
+        "isTextline": "true",
+        "confidence": 0.697
+      },
+      {
+        "boundingBox": [
+          [
+            1672,
+            699
+          ],
+          [
+            1672,
+            807
+          ],
+          [
+            1692,
+            699
+          ],
+          [
+            1692,
+            807
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "取近四年間。",
+        "isTextline": "true",
+        "confidence": 0.791
+      },
+      {
+        "boundingBox": [
+          [
+            1653,
+            297
+          ],
+          [
+            1653,
+            711
+          ],
+          [
+            1691,
+            297
+          ],
+          [
+            1691,
+            711
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "早阪二菊著附録撮影",
+        "isTextline": "true",
+        "confidence": 0.573
+      },
+      {
+        "boundingBox": [
+          [
+            1649,
+            706
+          ],
+          [
+            1649,
+            806
+          ],
+          [
+            1669,
+            706
+          ],
+          [
+            1669,
+            806
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "式期米。",
+        "isTextline": "true",
+        "confidence": 0.764
+      },
+      {
+        "boundingBox": [
+          [
+            1649,
+            805
+          ],
+          [
+            1649,
+            1028
+          ],
+          [
+            1690,
+            805
+          ],
+          [
+            1690,
+            1028
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "高低足取表",
+        "isTextline": "true",
+        "confidence": 0.778
+      },
+      {
+        "boundingBox": [
+          [
+            1610,
+            1009
+          ],
+          [
+            1610,
+            1282
+          ],
+          [
+            1632,
+            1009
+          ],
+          [
+            1632,
+            1282
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "洋裝菊判美製本",
+        "isTextline": "true",
+        "confidence": 0.692
+      },
+      {
+        "boundingBox": [
+          [
+            1544,
+            320
+          ],
+          [
+            1544,
+            417
+          ],
+          [
+            1586,
+            320
+          ],
+          [
+            1586,
+            417
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "株式",
+        "isTextline": "true",
+        "confidence": 0.665
+      },
+      {
+        "boundingBox": [
+          [
+            1589,
+            322
+          ],
+          [
+            1589,
+            415
+          ],
+          [
+            1630,
+            322
+          ],
+          [
+            1630,
+            415
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "期米",
+        "isTextline": "true",
+        "confidence": 0.594
+      },
+      {
+        "boundingBox": [
+          [
+            1584,
+            1008
+          ],
+          [
+            1584,
+            1285
+          ],
+          [
+            1605,
+            1008
+          ],
+          [
+            1605,
+            1285
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "紙數二百四十頁",
+        "isTextline": "true",
+        "confidence": 0.715
+      },
+      {
+        "boundingBox": [
+          [
+            1556,
+            1007
+          ],
+          [
+            1556,
+            1287
+          ],
+          [
+            1579,
+            1007
+          ],
+          [
+            1579,
+            1287
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "正價金二圓",
+        "isTextline": "true",
+        "confidence": 0.711
+      },
+      {
+        "boundingBox": [
+          [
+            1542,
+            318
+          ],
+          [
+            1542,
+            991
+          ],
+          [
+            1625,
+            318
+          ],
+          [
+            1625,
+            991
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "樹米相塲認識學",
+        "isTextline": "true",
+        "confidence": 0.6
+      },
+      {
+        "boundingBox": [
+          [
+            1528,
+            1004
+          ],
+          [
+            1528,
+            1286
+          ],
+          [
+            1552,
+            1004
+          ],
+          [
+            1552,
+            1286
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "(郵税不要)",
+        "isTextline": "true",
+        "confidence": 0.696
+      },
+      {
+        "boundingBox": [
+          [
+            1478,
+            430
+          ],
+          [
+            1478,
+            782
+          ],
+          [
+            1522,
+            430
+          ],
+          [
+            1522,
+            782
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "(本書世評の一班)",
+        "isTextline": "true",
+        "confidence": 0.67
+      },
+      {
+        "boundingBox": [
+          [
+            1451,
+            300
+          ],
+          [
+            1451,
+            499
+          ],
+          [
+            1474,
+            300
+          ],
+          [
+            1474,
+            499
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "◎東京経済雑誌曰く",
+        "isTextline": "true",
+        "confidence": 0.344
+      },
+      {
+        "boundingBox": [
+          [
+            1445,
+            312
+          ],
+          [
+            1445,
+            1312
+          ],
+          [
+            1470,
+            312
+          ],
+          [
+            1470,
+            1312
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "○東京經濟雜誌曰く書物を讀むと迷ふとは或相塲師の言であるが本書に説ける如く迷ふて迷ふて迷ひ拔ひたでなければ實際",
+        "isTextline": "true",
+        "confidence": 0.778
+      },
+      {
+        "boundingBox": [
+          [
+            1424,
+            306
+          ],
+          [
+            1424,
+            1305
+          ],
+          [
+            1447,
+            306
+          ],
+          [
+            1447,
+            1305
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "成功し得る相鐡師には成れない北迷ひ拔くには先輩の著書を研究するとが必要である本書は荘内の富豪本間宗久翁が禪學的見地より",
+        "isTextline": "true",
+        "confidence": 0.756
+      },
+      {
+        "boundingBox": [
+          [
+            1402,
+            313
+          ],
+          [
+            1402,
+            1317
+          ],
+          [
+            1426,
+            313
+          ],
+          [
+            1426,
+            1317
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "相塲の高下を論したる相塲三昧傳の眞義を詳述し且古來有名なる人の米種處觀を説き著者獨傳の相塲變遷の略史と理世兩面より販茶",
+        "isTextline": "true",
+        "confidence": 0.676
+      },
+      {
+        "boundingBox": [
+          [
+            1386,
+            312
+          ],
+          [
+            1386,
+            1302
+          ],
+          [
+            1434,
+            312
+          ],
+          [
+            1434,
+            1302
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "一相場の差を論したる利越三條件の直義を詳導し且古來有名なる人の米相塲類を設さ表省商作の相塲整運の隆長と融食用關より競送",
+        "isTextline": "true",
+        "confidence": 0.516
+      },
+      {
+        "boundingBox": [
+          [
+            1380,
+            305
+          ],
+          [
+            1380,
+            1305
+          ],
+          [
+            1405,
+            305
+          ],
+          [
+            1405,
+            1305
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "した相場認識理論とを掲げた者であるから一綴名士の相牴觸を精細に知ることが出来る場則は勿論之に趣味を持つて居る者は必ず一",
+        "isTextline": "true",
+        "confidence": 0.683
+      },
+      {
+        "boundingBox": [
+          [
+            1364,
+            313
+          ],
+          [
+            1364,
+            555
+          ],
+          [
+            1383,
+            313
+          ],
+          [
+            1383,
+            555
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "本を坐右に備ふ可きである云々",
+        "isTextline": "true",
+        "confidence": 0.724
+      },
+      {
+        "boundingBox": [
+          [
+            1313,
+            301
+          ],
+          [
+            1313,
+            578
+          ],
+          [
+            1353,
+            301
+          ],
+          [
+            1353,
+            578
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "早阪二菊著",
+        "isTextline": "true",
+        "confidence": 0.731
+      },
+      {
+        "boundingBox": [
+          [
+            1206,
+            314
+          ],
+          [
+            1206,
+            1246
+          ],
+          [
+            1282,
+            314
+          ],
+          [
+            1282,
+            1246
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "相場新罫線學近刊",
+        "isTextline": "true",
+        "confidence": 0.47
+      },
+      {
+        "boundingBox": [
+          [
+            1199,
+            310
+          ],
+          [
+            1199,
+            990
+          ],
+          [
+            1289,
+            310
+          ],
+          [
+            1289,
+            990
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "株式新罫線學",
+        "isTextline": "true",
+        "confidence": 0.506
+      },
+      {
+        "boundingBox": [
+          [
+            1143,
+            630
+          ],
+          [
+            1143,
+            771
+          ],
+          [
+            1163,
+            630
+          ],
+          [
+            1163,
+            771
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "東京日本橋區",
+        "isTextline": "true",
+        "confidence": 0.624
+      },
+      {
+        "boundingBox": [
+          [
+            1139,
+            1115
+          ],
+          [
+            1139,
+            1304
+          ],
+          [
+            1161,
+            1115
+          ],
+          [
+            1161,
+            1304
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "振替口座",
+        "isTextline": "true",
+        "confidence": 0.623
+      },
+      {
+        "boundingBox": [
+          [
+            1120,
+            339
+          ],
+          [
+            1120,
+            531
+          ],
+          [
+            1166,
+            339
+          ],
+          [
+            1166,
+            531
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "発行所",
+        "isTextline": "true",
+        "confidence": 0.558
+      },
+      {
+        "boundingBox": [
+          [
+            1119,
+            630
+          ],
+          [
+            1119,
+            769
+          ],
+          [
+            1138,
+            630
+          ],
+          [
+            1138,
+            769
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "蠣売町一ノ三",
+        "isTextline": "true",
+        "confidence": 0.592
+      },
+      {
+        "boundingBox": [
+          [
+            1120,
+            773
+          ],
+          [
+            1120,
+            1113
+          ],
+          [
+            1162,
+            773
+          ],
+          [
+            1162,
+            1113
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "信義堂書店",
+        "isTextline": "true",
+        "confidence": 0.54
+      },
+      {
+        "boundingBox": [
+          [
+            1116,
+            1114
+          ],
+          [
+            1116,
+            1305
+          ],
+          [
+            1138,
+            1114
+          ],
+          [
+            1138,
+            1305
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "東京壹九四五八番",
+        "isTextline": "true",
+        "confidence": 0.73
+      },
+      {
+        "boundingBox": [
+          [
+            894,
+            100
+          ],
+          [
+            894,
+            1318
+          ],
+          [
+            937,
+            100
+          ],
+          [
+            937,
+            1318
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "あらんといふにおいたり",
+        "isTextline": "true",
+        "confidence": 0.374
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0096_0000.jpg",
+    "img_name": "0096_0000.jpg"
+  }
+}

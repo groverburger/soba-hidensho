@@ -1,0 +1,1062 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1705,
+            366
+          ],
+          [
+            1705,
+            1003
+          ],
+          [
+            1732,
+            366
+          ],
+          [
+            1732,
+            1003
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "つて、我胸に合つた時、始めて商内を仕掛けよと云ふのである。",
+        "isTextline": "true",
+        "confidence": 0.801
+      },
+      {
+        "boundingBox": [
+          [
+            1745,
+            1107
+          ],
+          [
+            1745,
+            1160
+          ],
+          [
+            1766,
+            1107
+          ],
+          [
+            1766,
+            1160
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一〇四",
+        "isTextline": "true",
+        "confidence": 0.415
+      },
+      {
+        "boundingBox": [
+          [
+            1633,
+            478
+          ],
+          [
+            1633,
+            928
+          ],
+          [
+            1666,
+            478
+          ],
+          [
+            1666,
+            928
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "第九章大阪相塲を以て掛引の事",
+        "isTextline": "true",
+        "confidence": 0.803
+      },
+      {
+        "boundingBox": [
+          [
+            1537,
+            255
+          ],
+          [
+            1537,
+            278
+          ],
+          [
+            1555,
+            255
+          ],
+          [
+            1555,
+            278
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.445
+      },
+      {
+        "boundingBox": [
+          [
+            1504,
+            256
+          ],
+          [
+            1504,
+            278
+          ],
+          [
+            1521,
+            256
+          ],
+          [
+            1521,
+            278
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.487
+      },
+      {
+        "boundingBox": [
+          [
+            1472,
+            255
+          ],
+          [
+            1472,
+            278
+          ],
+          [
+            1490,
+            255
+          ],
+          [
+            1490,
+            278
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "同",
+        "isTextline": "true",
+        "confidence": 0.496
+      },
+      {
+        "boundingBox": [
+          [
+            1440,
+            254
+          ],
+          [
+            1440,
+            278
+          ],
+          [
+            1457,
+            254
+          ],
+          [
+            1457,
+            278
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.482
+      },
+      {
+        "boundingBox": [
+          [
+            1405,
+            255
+          ],
+          [
+            1405,
+            277
+          ],
+          [
+            1424,
+            255
+          ],
+          [
+            1424,
+            277
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "場",
+        "isTextline": "true",
+        "confidence": 0.425
+      },
+      {
+        "boundingBox": [
+          [
+            1373,
+            256
+          ],
+          [
+            1373,
+            277
+          ],
+          [
+            1392,
+            256
+          ],
+          [
+            1392,
+            277
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.419
+      },
+      {
+        "boundingBox": [
+          [
+            1341,
+            254
+          ],
+          [
+            1341,
+            277
+          ],
+          [
+            1359,
+            254
+          ],
+          [
+            1359,
+            277
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.414
+      },
+      {
+        "boundingBox": [
+          [
+            1311,
+            253
+          ],
+          [
+            1311,
+            274
+          ],
+          [
+            1329,
+            253
+          ],
+          [
+            1329,
+            274
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.342
+      },
+      {
+        "boundingBox": [
+          [
+            1277,
+            254
+          ],
+          [
+            1277,
+            275
+          ],
+          [
+            1294,
+            254
+          ],
+          [
+            1294,
+            275
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "巷",
+        "isTextline": "true",
+        "confidence": 0.416
+      },
+      {
+        "boundingBox": [
+          [
+            1571,
+            307
+          ],
+          [
+            1571,
+            1316
+          ],
+          [
+            1601,
+            307
+          ],
+          [
+            1601,
+            1316
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "一大阪相塲は、秋は國々作に寄て上げ勝也。春夏七八月に到つては、古米かすり、又は麥作夏中違ひ",
+        "isTextline": "true",
+        "confidence": 0.838
+      },
+      {
+        "boundingBox": [
+          [
+            1526,
+            307
+          ],
+          [
+            1526,
+            1314
+          ],
+          [
+            1559,
+            307
+          ],
+          [
+            1559,
+            1314
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "無之時は、年々、四五六七八月迄下る者也。當地夏米に成ては、大阪相塲よりも、船足早く御蔵米も",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            1484,
+            307
+          ],
+          [
+            1484,
+            1314
+          ],
+          [
+            1516,
+            307
+          ],
+          [
+            1516,
+            1314
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "出透き、瀬戸内邊米かすりにて、船々買急ぐ時は、案外の高直出る事あり。此時、御蔵出方、内米透",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            1441,
+            305
+          ],
+          [
+            1441,
+            1313
+          ],
+          [
+            1472,
+            305
+          ],
+          [
+            1472,
+            1313
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "口、船數の考、第一也。大阪は、何時頃天井、何時頃底直段出ると、年々覺へ置くべし。其模様によ",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            1400,
+            309
+          ],
+          [
+            1400,
+            977
+          ],
+          [
+            1429,
+            309
+          ],
+          [
+            1429,
+            977
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "り、掛引あるべし。扨加賀米にて、四十八九匁五十一二匁は底也。",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            1356,
+            313
+          ],
+          [
+            1356,
+            1105
+          ],
+          [
+            1386,
+            313
+          ],
+          [
+            1386,
+            1105
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "本章は、大阪相塲を以て、当地の駈引をすることを、述べた者である。",
+        "isTextline": "true",
+        "confidence": 0.905
+      },
+      {
+        "boundingBox": [
+          [
+            1311,
+            323
+          ],
+          [
+            1311,
+            1310
+          ],
+          [
+            1344,
+            323
+          ],
+          [
+            1344,
+            1310
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "偖、大阪に於ける、米相塲年中の常態から云へば、秋は各國の作柄に因て上勝の者である。春夏か",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            1267,
+            319
+          ],
+          [
+            1267,
+            1311
+          ],
+          [
+            1299,
+            319
+          ],
+          [
+            1299,
+            1311
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "ら、七八月に掛けては、古米かすりの案じや、又麥作の違作等ない時には、年々、四月から八月頃",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            1232,
+            327
+          ],
+          [
+            1232,
+            520
+          ],
+          [
+            1255,
+            327
+          ],
+          [
+            1255,
+            520
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "迄も下る者である。",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            1180,
+            323
+          ],
+          [
+            1180,
+            1310
+          ],
+          [
+            1212,
+            323
+          ],
+          [
+            1212,
+            1310
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "當地相塲の常態は、夏米になると、大阪相塲の如何よりも、買船が例年より早く入込んで、在米も",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            1137,
+            325
+          ],
+          [
+            1137,
+            1311
+          ],
+          [
+            1170,
+            325
+          ],
+          [
+            1170,
+            1311
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "減じ。中国邊も米かすれて、船々爭ふて買進む様な年は、思の外の高直が出る事があるが、其時に",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            1094,
+            325
+          ],
+          [
+            1094,
+            1311
+          ],
+          [
+            1126,
+            325
+          ],
+          [
+            1126,
+            1311
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "は、當地倉庫の在米の多少と、農家団米の多少、輸出米の多少、買船の多少等を考へると第一の駈",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            912,
+            319
+          ],
+          [
+            912,
+            1311
+          ],
+          [
+            949,
+            319
+          ],
+          [
+            949,
+            1311
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "引てある。大阪は、年々何時頃天井底を打つと云ふ常勢を記憶して置いて、當地の駈引に應用すべ",
+        "isTextline": "true",
+        "confidence": 0.898
+      },
+      {
+        "boundingBox": [
+          [
+            869,
+            322
+          ],
+          [
+            869,
+            1306
+          ],
+          [
+            904,
+            322
+          ],
+          [
+            904,
+            1306
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "きである。年々の例を見ると、加賀米で四十八九匁五十匁と云ふ直段を出せば、大抵底となる者で",
+        "isTextline": "true",
+        "confidence": 0.875
+      },
+      {
+        "boundingBox": [
+          [
+            825,
+            328
+          ],
+          [
+            825,
+            385
+          ],
+          [
+            847,
+            328
+          ],
+          [
+            847,
+            385
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ある。",
+        "isTextline": "true",
+        "confidence": 0.731
+      },
+      {
+        "boundingBox": [
+          [
+            757,
+            472
+          ],
+          [
+            757,
+            1102
+          ],
+          [
+            792,
+            472
+          ],
+          [
+            792,
+            1102
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "第十章十餘二三丁一二三匁廿匁より其餘の事一",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            486,
+            256
+          ],
+          [
+            486,
+            279
+          ],
+          [
+            499,
+            256
+          ],
+          [
+            499,
+            279
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "餘",
+        "isTextline": "true",
+        "confidence": 0.336
+      },
+      {
+        "boundingBox": [
+          [
+            468,
+            257
+          ],
+          [
+            468,
+            278
+          ],
+          [
+            482,
+            257
+          ],
+          [
+            482,
+            278
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.332
+      },
+      {
+        "boundingBox": [
+          [
+            452,
+            257
+          ],
+          [
+            452,
+            277
+          ],
+          [
+            468,
+            257
+          ],
+          [
+            468,
+            277
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "事",
+        "isTextline": "true",
+        "confidence": 0.333
+      },
+      {
+        "boundingBox": [
+          [
+            693,
+            310
+          ],
+          [
+            693,
+            487
+          ],
+          [
+            719,
+            310
+          ],
+          [
+            719,
+            487
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "一十余上、可レ売。",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            650,
+            306
+          ],
+          [
+            650,
+            701
+          ],
+          [
+            678,
+            306
+          ],
+          [
+            678,
+            701
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "但し、其年不熟なる時は、見合すべし。",
+        "isTextline": "true",
+        "confidence": 0.885
+      },
+      {
+        "boundingBox": [
+          [
+            607,
+            318
+          ],
+          [
+            607,
+            1301
+          ],
+          [
+            643,
+            318
+          ],
+          [
+            643,
+            1301
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "(釋)底から(十兩に付)十俵以上上げた米は、逆ふて賣る者と心得てよい。併し。不作の時は、",
+        "isTextline": "true",
+        "confidence": 0.804
+      },
+      {
+        "boundingBox": [
+          [
+            564,
+            316
+          ],
+          [
+            564,
+            1103
+          ],
+          [
+            596,
+            316
+          ],
+          [
+            596,
+            1103
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "時により百八十俵迄も上げるとがあるから、克く見合せて跡に、賣るがよい。",
+        "isTextline": "true",
+        "confidence": 0.826
+      },
+      {
+        "boundingBox": [
+          [
+            521,
+            315
+          ],
+          [
+            521,
+            534
+          ],
+          [
+            545,
+            315
+          ],
+          [
+            545,
+            534
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "一二三丁の下、可レ買。",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            477,
+            310
+          ],
+          [
+            477,
+            833
+          ],
+          [
+            505,
+            310
+          ],
+          [
+            505,
+            833
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "但し、廿五俵より上げ詰る米は、買急ぎなり兼る也。",
+        "isTextline": "true",
+        "confidence": 0.778
+      },
+      {
+        "boundingBox": [
+          [
+            434,
+            310
+          ],
+          [
+            434,
+            1320
+          ],
+          [
+            467,
+            310
+          ],
+          [
+            467,
+            1320
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "暴落の米でも、一ト調子の大下を過ぎて、二タ呼吸三呼吸と下つた米は、一寸買て見てもよ",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            391,
+            328
+          ],
+          [
+            391,
+            1011
+          ],
+          [
+            420,
+            328
+          ],
+          [
+            420,
+            1011
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "い、併し、廿五俵位の高直の位置に居る相塲は、買急いではならぬ。",
+        "isTextline": "true",
+        "confidence": 0.853
+      },
+      {
+        "boundingBox": [
+          [
+            347,
+            315
+          ],
+          [
+            347,
+            684
+          ],
+          [
+            373,
+            315
+          ],
+          [
+            373,
+            684
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "一壹二匁三匁は天井なり、賣るべし。",
+        "isTextline": "true",
+        "confidence": 0.866
+      },
+      {
+        "boundingBox": [
+          [
+            302,
+            314
+          ],
+          [
+            302,
+            727
+          ],
+          [
+            330,
+            314
+          ],
+          [
+            330,
+            727
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "一二十匁より其餘は、底なり、買ふ可し。",
+        "isTextline": "true",
+        "confidence": 0.75
+      },
+      {
+        "boundingBox": [
+          [
+            273,
+            1103
+          ],
+          [
+            273,
+            1156
+          ],
+          [
+            293,
+            1103
+          ],
+          [
+            293,
+            1156
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "一〇五",
+        "isTextline": "true",
+        "confidence": 0.481
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0067_0000.jpg",
+    "img_name": "0067_0000.jpg"
+  }
+}

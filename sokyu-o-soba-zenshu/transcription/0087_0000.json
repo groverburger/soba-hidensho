@@ -1,0 +1,612 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1869,
+            66
+          ],
+          [
+            1869,
+            1342
+          ],
+          [
+            1904,
+            66
+          ],
+          [
+            1904,
+            1342
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+        "isTextline": "true",
+        "confidence": 0.322
+      },
+      {
+        "boundingBox": [
+          [
+            1824,
+            1132
+          ],
+          [
+            1824,
+            1185
+          ],
+          [
+            1846,
+            1132
+          ],
+          [
+            1846,
+            1185
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一四四",
+        "isTextline": "true",
+        "confidence": 0.379
+      },
+      {
+        "boundingBox": [
+          [
+            1749,
+            505
+          ],
+          [
+            1749,
+            952
+          ],
+          [
+            1781,
+            505
+          ],
+          [
+            1781,
+            952
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "第六十五章商急ぐ可からざる事",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            1687,
+            339
+          ],
+          [
+            1687,
+            1350
+          ],
+          [
+            1719,
+            339
+          ],
+          [
+            1719,
+            1350
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "一商進み急ぐ可からず、賣買共に思入進み候時は、今日より外、商塲なき樣に思ふ者なれども、是は",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            1645,
+            337
+          ],
+          [
+            1645,
+            1360
+          ],
+          [
+            1679,
+            337
+          ],
+          [
+            1679,
+            1360
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "功者なき故也。幾月も見合せ、通を考へ、慥なる處にて可仕掛也。無理に、天井直段底直段の考へ",
+        "isTextline": "true",
+        "confidence": 0.866
+      },
+      {
+        "boundingBox": [
+          [
+            1596,
+            284
+          ],
+          [
+            1596,
+            304
+          ],
+          [
+            1614,
+            284
+          ],
+          [
+            1614,
+            304
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.402
+      },
+      {
+        "boundingBox": [
+          [
+            1533,
+            285
+          ],
+          [
+            1533,
+            305
+          ],
+          [
+            1550,
+            285
+          ],
+          [
+            1550,
+            305
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "翁",
+        "isTextline": "true",
+        "confidence": 0.394
+      },
+      {
+        "boundingBox": [
+          [
+            1564,
+            285
+          ],
+          [
+            1564,
+            303
+          ],
+          [
+            1581,
+            285
+          ],
+          [
+            1581,
+            303
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.403
+      },
+      {
+        "boundingBox": [
+          [
+            1500,
+            285
+          ],
+          [
+            1500,
+            305
+          ],
+          [
+            1518,
+            285
+          ],
+          [
+            1518,
+            305
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.376
+      },
+      {
+        "boundingBox": [
+          [
+            1467,
+            285
+          ],
+          [
+            1467,
+            305
+          ],
+          [
+            1485,
+            285
+          ],
+          [
+            1485,
+            305
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "塲",
+        "isTextline": "true",
+        "confidence": 0.376
+      },
+      {
+        "boundingBox": [
+          [
+            1436,
+            286
+          ],
+          [
+            1436,
+            306
+          ],
+          [
+            1453,
+            286
+          ],
+          [
+            1453,
+            306
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.363
+      },
+      {
+        "boundingBox": [
+          [
+            1404,
+            286
+          ],
+          [
+            1404,
+            308
+          ],
+          [
+            1420,
+            286
+          ],
+          [
+            1420,
+            308
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.387
+      },
+      {
+        "boundingBox": [
+          [
+            1373,
+            286
+          ],
+          [
+            1373,
+            307
+          ],
+          [
+            1388,
+            286
+          ],
+          [
+            1388,
+            307
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.345
+      },
+      {
+        "boundingBox": [
+          [
+            1339,
+            287
+          ],
+          [
+            1339,
+            307
+          ],
+          [
+            1355,
+            287
+          ],
+          [
+            1355,
+            307
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.447
+      },
+      {
+        "boundingBox": [
+          [
+            1602,
+            333
+          ],
+          [
+            1602,
+            796
+          ],
+          [
+            1628,
+            333
+          ],
+          [
+            1628,
+            796
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "なく仕掛る故、手違になる也、是れ急ぐ故也、",
+        "isTextline": "true",
+        "confidence": 0.817
+      },
+      {
+        "boundingBox": [
+          [
+            1558,
+            341
+          ],
+          [
+            1558,
+            1205
+          ],
+          [
+            1588,
+            341
+          ],
+          [
+            1588,
+            1205
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "(釋)本章は、上卷第一章の異文である。意味は、已に説てあるから、茲に略する。",
+        "isTextline": "true",
+        "confidence": 0.845
+      },
+      {
+        "boundingBox": [
+          [
+            1487,
+            505
+          ],
+          [
+            1487,
+            1067
+          ],
+          [
+            1522,
+            505
+          ],
+          [
+            1522,
+            1067
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "第六十六章心易き人にも賣買進め間敷事",
+        "isTextline": "true",
+        "confidence": 0.807
+      },
+      {
+        "boundingBox": [
+          [
+            1426,
+            340
+          ],
+          [
+            1426,
+            1350
+          ],
+          [
+            1459,
+            340
+          ],
+          [
+            1459,
+            1350
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一何程心易き人にも、賣買進め申間敷也。若し了簡違ふ時は、恨みを得る也。總て、相塲高下の論致",
+        "isTextline": "true",
+        "confidence": 0.902
+      },
+      {
+        "boundingBox": [
+          [
+            1383,
+            338
+          ],
+          [
+            1383,
+            1347
+          ],
+          [
+            1415,
+            338
+          ],
+          [
+            1415,
+            1347
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "まじき也、此道を心得る人は、我了簡を立てず、人の了簡にて商する人はなき筈也。少々にても圖に",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            1340,
+            336
+          ],
+          [
+            1340,
+            1348
+          ],
+          [
+            1373,
+            336
+          ],
+          [
+            1373,
+            1348
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "当る時は、募り、了簡を立たがる者也。是第一可愼處也。勿論、慥なる高下を見定め打明け人に語り",
+        "isTextline": "true",
+        "confidence": 0.897
+      },
+      {
+        "boundingBox": [
+          [
+            1296,
+            325
+          ],
+          [
+            1296,
+            1359
+          ],
+          [
+            1330,
+            325
+          ],
+          [
+            1330,
+            1359
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "進むる時は、人も其気になる故、二三俵方も利を得る人は、一俵方ならで利運ならざる者也、慥なる",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            1253,
+            342
+          ],
+          [
+            1253,
+            1347
+          ],
+          [
+            1287,
+            342
+          ],
+          [
+            1287,
+            1347
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "處を見据へ候はゞ、人々に拘はらずして、賣買可致候。尤も世の中に隨ひ、諸國作合、豐作凶作、上",
+        "isTextline": "true",
+        "confidence": 0.872
+      },
+      {
+        "boundingBox": [
+          [
+            1209,
+            325
+          ],
+          [
+            1209,
+            1354
+          ],
+          [
+            1244,
+            325
+          ],
+          [
+            1244,
+            1354
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "方相場、九州様子、聞合せ随分宜しき也。存念は、決して人に語る可からず、是大極意也。常々専ら",
+        "isTextline": "true",
+        "confidence": 0.839
+      },
+      {
+        "boundingBox": [
+          [
+            1163,
+            340
+          ],
+          [
+            1163,
+            444
+          ],
+          [
+            1191,
+            340
+          ],
+          [
+            1191,
+            444
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "慎むべし。",
+        "isTextline": "true",
+        "confidence": 0.845
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0087_0000.jpg",
+    "img_name": "0087_0000.jpg"
+  }
+}

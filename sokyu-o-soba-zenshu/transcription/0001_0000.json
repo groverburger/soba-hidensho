@@ -1,0 +1,437 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1403,
+            124
+          ],
+          [
+            1403,
+            1430
+          ],
+          [
+            1454,
+            124
+          ],
+          [
+            1454,
+            1430
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "といふ。その間にある。それて",
+        "isTextline": "true",
+        "confidence": 0.388
+      },
+      {
+        "boundingBox": [
+          [
+            1285,
+            135
+          ],
+          [
+            1285,
+            1417
+          ],
+          [
+            1337,
+            135
+          ],
+          [
+            1337,
+            1417
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "十四日九昼朝より",
+        "isTextline": "true",
+        "confidence": 0.358
+      },
+      {
+        "boundingBox": [
+          [
+            1177,
+            145
+          ],
+          [
+            1177,
+            1392
+          ],
+          [
+            1222,
+            145
+          ],
+          [
+            1222,
+            1392
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "十六六",
+        "isTextline": "true",
+        "confidence": 0.354
+      },
+      {
+        "boundingBox": [
+          [
+            1124,
+            150
+          ],
+          [
+            1124,
+            1396
+          ],
+          [
+            1172,
+            150
+          ],
+          [
+            1172,
+            1396
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+        "isTextline": "true",
+        "confidence": 0.388
+      },
+      {
+        "boundingBox": [
+          [
+            967,
+            16
+          ],
+          [
+            967,
+            98
+          ],
+          [
+            983,
+            16
+          ],
+          [
+            983,
+            98
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+        "isTextline": "true",
+        "confidence": 0.318
+      },
+      {
+        "boundingBox": [
+          [
+            903,
+            237
+          ],
+          [
+            903,
+            1002
+          ],
+          [
+            975,
+            237
+          ],
+          [
+            975,
+            1002
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "出羽酒田本間宗久翁遺稿",
+        "isTextline": "true",
+        "confidence": 0.537
+      },
+      {
+        "boundingBox": [
+          [
+            894,
+            137
+          ],
+          [
+            894,
+            266
+          ],
+          [
+            913,
+            137
+          ],
+          [
+            913,
+            266
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "同同十二才",
+        "isTextline": "true",
+        "confidence": 0.408
+      },
+      {
+        "boundingBox": [
+          [
+            863,
+            141
+          ],
+          [
+            863,
+            252
+          ],
+          [
+            892,
+            141
+          ],
+          [
+            892,
+            252
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "□□□",
+        "isTextline": "true",
+        "confidence": 0.354
+      },
+      {
+        "boundingBox": [
+          [
+            834,
+            468
+          ],
+          [
+            834,
+            1009
+          ],
+          [
+            903,
+            468
+          ],
+          [
+            903,
+            1009
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "早阪二菊校註",
+        "isTextline": "true",
+        "confidence": 0.675
+      },
+      {
+        "boundingBox": [
+          [
+            823,
+            137
+          ],
+          [
+            823,
+            243
+          ],
+          [
+            862,
+            137
+          ],
+          [
+            862,
+            243
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.337
+      },
+      {
+        "boundingBox": [
+          [
+            821,
+            135
+          ],
+          [
+            821,
+            247
+          ],
+          [
+            850,
+            135
+          ],
+          [
+            850,
+            247
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.301
+      },
+      {
+        "boundingBox": [
+          [
+            800,
+            137
+          ],
+          [
+            800,
+            289
+          ],
+          [
+            819,
+            137
+          ],
+          [
+            819,
+            289
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一同村同村同村",
+        "isTextline": "true",
+        "confidence": 0.419
+      },
+      {
+        "boundingBox": [
+          [
+            516,
+            247
+          ],
+          [
+            516,
+            1350
+          ],
+          [
+            744,
+            247
+          ],
+          [
+            744,
+            1350
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "泉久翁相場全集",
+        "isTextline": "true",
+        "confidence": 0.652
+      },
+      {
+        "boundingBox": [
+          [
+            328,
+            679
+          ],
+          [
+            328,
+            1222
+          ],
+          [
+            410,
+            679
+          ],
+          [
+            410,
+            1222
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "信義堂藏版",
+        "isTextline": "true",
+        "confidence": 0.402
+      },
+      {
+        "boundingBox": [
+          [
+            321,
+            345
+          ],
+          [
+            321,
+            1260
+          ],
+          [
+            416,
+            345
+          ],
+          [
+            416,
+            1260
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "東京信義堂藏版",
+        "isTextline": "true",
+        "confidence": 0.508
+      },
+      {
+        "boundingBox": [
+          [
+            264,
+            176
+          ],
+          [
+            264,
+            1412
+          ],
+          [
+            306,
+            176
+          ],
+          [
+            306,
+            1412
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.392
+      },
+      {
+        "boundingBox": [
+          [
+            216,
+            131
+          ],
+          [
+            216,
+            1407
+          ],
+          [
+            259,
+            131
+          ],
+          [
+            259,
+            1407
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "〇〇〇〇、、、、、、、、、、、、、、、、、、、、、、、、、、、、、〇〇、〇〇、、、、、、、、、、、、、、、、、、〇〇、〇〇、、、、、、、、、〇〇、〇〇〇〇、〇〇〇〇、〇〇、、、、〇〇、〇〇、、〇〇〇",
+        "isTextline": "true",
+        "confidence": 0.524
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0001_0000.jpg",
+    "img_name": "0001_0000.jpg"
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1559,
+            472
+          ],
+          [
+            1559,
+            995
+          ],
+          [
+            1588,
+            472
+          ],
+          [
+            1588,
+            995
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.344
+      },
+      {
+        "boundingBox": [
+          [
+            1509,
+            478
+          ],
+          [
+            1509,
+            985
+          ],
+          [
+            1544,
+            478
+          ],
+          [
+            1544,
+            985
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "0233",
+        "isTextline": "true",
+        "confidence": 0.398
+      },
+      {
+        "boundingBox": [
+          [
+            1478,
+            477
+          ],
+          [
+            1478,
+            980
+          ],
+          [
+            1524,
+            477
+          ],
+          [
+            1524,
+            980
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "0集42",
+        "isTextline": "true",
+        "confidence": 0.457
+      },
+      {
+        "boundingBox": [
+          [
+            1464,
+            471
+          ],
+          [
+            1464,
+            996
+          ],
+          [
+            1519,
+            471
+          ],
+          [
+            1519,
+            996
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "100000",
+        "isTextline": "true",
+        "confidence": 0.32
+      },
+      {
+        "boundingBox": [
+          [
+            1435,
+            477
+          ],
+          [
+            1435,
+            980
+          ],
+          [
+            1484,
+            477
+          ],
+          [
+            1484,
+            980
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "○全い0",
+        "isTextline": "true",
+        "confidence": 0.455
+      },
+      {
+        "boundingBox": [
+          [
+            1403,
+            470
+          ],
+          [
+            1403,
+            988
+          ],
+          [
+            1458,
+            470
+          ],
+          [
+            1458,
+            988
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "L3場NC",
+        "isTextline": "true",
+        "confidence": 0.319
+      },
+      {
+        "boundingBox": [
+          [
+            1359,
+            484
+          ],
+          [
+            1359,
+            996
+          ],
+          [
+            1413,
+            484
+          ],
+          [
+            1413,
+            996
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "12相著120",
+        "isTextline": "true",
+        "confidence": 0.421
+      },
+      {
+        "boundingBox": [
+          [
+            1320,
+            474
+          ],
+          [
+            1320,
+            989
+          ],
+          [
+            1361,
+            474
+          ],
+          [
+            1361,
+            989
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "I",
+        "isTextline": "true",
+        "confidence": 0.508
+      },
+      {
+        "boundingBox": [
+          [
+            1282,
+            475
+          ],
+          [
+            1282,
+            986
+          ],
+          [
+            1325,
+            475
+          ],
+          [
+            1325,
+            986
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "4444447",
+        "isTextline": "true",
+        "confidence": 0.601
+      },
+      {
+        "boundingBox": [
+          [
+            1202,
+            584
+          ],
+          [
+            1202,
+            785
+          ],
+          [
+            1256,
+            584
+          ],
+          [
+            1256,
+            785
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "3本",
+        "isTextline": "true",
+        "confidence": 0.417
+      },
+      {
+        "boundingBox": [
+          [
+            1246,
+            589
+          ],
+          [
+            1246,
+            704
+          ],
+          [
+            1281,
+            589
+          ],
+          [
+            1281,
+            704
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "2宗",
+        "isTextline": "true",
+        "confidence": 0.328
+      },
+      {
+        "boundingBox": [
+          [
+            938,
+            132
+          ],
+          [
+            938,
+            303
+          ],
+          [
+            960,
+            132
+          ],
+          [
+            960,
+            303
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "二十一日",
+        "isTextline": "true",
+        "confidence": 0.429
+      },
+      {
+        "boundingBox": [
+          [
+            909,
+            135
+          ],
+          [
+            909,
+            299
+          ],
+          [
+            936,
+            135
+          ],
+          [
+            936,
+            299
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "73",
+        "isTextline": "true",
+        "confidence": 0.355
+      },
+      {
+        "boundingBox": [
+          [
+            868,
+            150
+          ],
+          [
+            868,
+            292
+          ],
+          [
+            910,
+            150
+          ],
+          [
+            910,
+            292
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.317
+      },
+      {
+        "boundingBox": [
+          [
+            850,
+            144
+          ],
+          [
+            850,
+            404
+          ],
+          [
+            918,
+            144
+          ],
+          [
+            918,
+            404
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "〃〃",
+        "isTextline": "true",
+        "confidence": 0.571
+      },
+      {
+        "boundingBox": [
+          [
+            832,
+            141
+          ],
+          [
+            832,
+            302
+          ],
+          [
+            849,
+            141
+          ],
+          [
+            849,
+            302
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "同断同様御座候以上",
+        "isTextline": "true",
+        "confidence": 0.323
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0099_0000.jpg",
+    "img_name": "0099_0000.jpg"
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1712,
+            303
+          ],
+          [
+            1712,
+            683
+          ],
+          [
+            1737,
+            303
+          ],
+          [
+            1737,
+            683
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "食ある年は、是迄大小となく不作也。",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            1749,
+            1108
+          ],
+          [
+            1749,
+            1159
+          ],
+          [
+            1769,
+            1108
+          ],
+          [
+            1769,
+            1159
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一三",
+        "isTextline": "true",
+        "confidence": 0.484
+      },
+      {
+        "boundingBox": [
+          [
+            1640,
+            476
+          ],
+          [
+            1640,
+            781
+          ],
+          [
+            1670,
+            476
+          ],
+          [
+            1670,
+            781
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "第三十三章厄日の事",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            1579,
+            310
+          ],
+          [
+            1579,
+            905
+          ],
+          [
+            1606,
+            310
+          ],
+          [
+            1606,
+            905
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "一厄日は、八十八夜無難なれば、二百十日無難なりと云ふ。",
+        "isTextline": "true",
+        "confidence": 0.866
+      },
+      {
+        "boundingBox": [
+          [
+            1542,
+            254
+          ],
+          [
+            1542,
+            277
+          ],
+          [
+            1560,
+            254
+          ],
+          [
+            1560,
+            277
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.382
+      },
+      {
+        "boundingBox": [
+          [
+            1511,
+            252
+          ],
+          [
+            1511,
+            273
+          ],
+          [
+            1528,
+            252
+          ],
+          [
+            1528,
+            273
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.349
+      },
+      {
+        "boundingBox": [
+          [
+            1477,
+            253
+          ],
+          [
+            1477,
+            273
+          ],
+          [
+            1494,
+            253
+          ],
+          [
+            1494,
+            273
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "病",
+        "isTextline": "true",
+        "confidence": 0.353
+      },
+      {
+        "boundingBox": [
+          [
+            1533,
+            292
+          ],
+          [
+            1533,
+            1324
+          ],
+          [
+            1562,
+            292
+          ],
+          [
+            1562,
+            1324
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "但し、二百十日無難にても、三日目酉の日有れば此日大風也、此事違なし。寛政九年、三日目酉の日",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            1496,
+            307
+          ],
+          [
+            1496,
+            385
+          ],
+          [
+            1520,
+            307
+          ],
+          [
+            1520,
+            385
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "大風也。",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            1412,
+            252
+          ],
+          [
+            1412,
+            272
+          ],
+          [
+            1430,
+            252
+          ],
+          [
+            1430,
+            272
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "塲",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            1444,
+            253
+          ],
+          [
+            1444,
+            275
+          ],
+          [
+            1462,
+            253
+          ],
+          [
+            1462,
+            275
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.365
+      },
+      {
+        "boundingBox": [
+          [
+            1381,
+            252
+          ],
+          [
+            1381,
+            271
+          ],
+          [
+            1397,
+            252
+          ],
+          [
+            1397,
+            271
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.447
+      },
+      {
+        "boundingBox": [
+          [
+            1348,
+            251
+          ],
+          [
+            1348,
+            271
+          ],
+          [
+            1363,
+            251
+          ],
+          [
+            1363,
+            271
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.493
+      },
+      {
+        "boundingBox": [
+          [
+            1317,
+            251
+          ],
+          [
+            1317,
+            270
+          ],
+          [
+            1332,
+            251
+          ],
+          [
+            1332,
+            270
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.506
+      },
+      {
+        "boundingBox": [
+          [
+            1422,
+            475
+          ],
+          [
+            1422,
+            777
+          ],
+          [
+            1453,
+            475
+          ],
+          [
+            1453,
+            777
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "第三十四章三木の事",
+        "isTextline": "true",
+        "confidence": 0.833
+      },
+      {
+        "boundingBox": [
+          [
+            1364,
+            304
+          ],
+          [
+            1364,
+            723
+          ],
+          [
+            1388,
+            304
+          ],
+          [
+            1388,
+            723
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一甲乙三ヶ月續く時は、大風吹くべし。",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            1319,
+            305
+          ],
+          [
+            1319,
+            677
+          ],
+          [
+            1344,
+            305
+          ],
+          [
+            1344,
+            677
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一丙丁三ヶ月續く時は、旱すべし。",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            1283,
+            250
+          ],
+          [
+            1283,
+            268
+          ],
+          [
+            1300,
+            250
+          ],
+          [
+            1300,
+            268
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.479
+      },
+      {
+        "boundingBox": [
+          [
+            1274,
+            299
+          ],
+          [
+            1274,
+            791
+          ],
+          [
+            1301,
+            299
+          ],
+          [
+            1301,
+            791
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一戊己三ヶ月續く時は、米穀高しと知るべし。",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            1232,
+            301
+          ],
+          [
+            1232,
+            746
+          ],
+          [
+            1257,
+            301
+          ],
+          [
+            1257,
+            746
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "一庚辛三ケ月續く時は、米穀不足論あり。",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            1189,
+            302
+          ],
+          [
+            1189,
+            768
+          ],
+          [
+            1214,
+            302
+          ],
+          [
+            1214,
+            768
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "一壬癸三ヶ月續く時は、米高ふして人死す。",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            1143,
+            296
+          ],
+          [
+            1143,
+            928
+          ],
+          [
+            1172,
+            296
+          ],
+          [
+            1172,
+            928
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "右、春夏秋冬時に寄て、大風、米穀、日旱等の義、考ふべし。",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            1094,
+            293
+          ],
+          [
+            1094,
+            1303
+          ],
+          [
+            1132,
+            293
+          ],
+          [
+            1132,
+            1303
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "天明六年、九月朔日より庚丑、十月朔日庚未、閏十月朔日辛未、三ケ月続く。此年、二十六俵八分、",
+        "isTextline": "true",
+        "confidence": 0.779
+      },
+      {
+        "boundingBox": [
+          [
+            918,
+            292
+          ],
+          [
+            918,
+            883
+          ],
+          [
+            947,
+            292
+          ],
+          [
+            947,
+            883
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "十月十六日十六俵四分天井也。此年、彼岸八月廿八日也。",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            876,
+            302
+          ],
+          [
+            876,
+            1318
+          ],
+          [
+            909,
+            302
+          ],
+          [
+            909,
+            1318
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "(釋)甲乙三ケ月續く時とあるのは、朔日に、甲乙三ケ月續く時はと云ふ意味で、丙丁云々も、之一",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            832,
+            319
+          ],
+          [
+            832,
+            583
+          ],
+          [
+            857,
+            319
+          ],
+          [
+            857,
+            583
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "に準じて知るべしである。",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            236
+          ],
+          [
+            400,
+            282
+          ],
+          [
+            804,
+            236
+          ],
+          [
+            804,
+            282
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "一章七十一年七十三年",
+        "isTextline": "true",
+        "confidence": 0.412
+      },
+      {
+        "boundingBox": [
+          [
+            763,
+            472
+          ],
+          [
+            763,
+            977
+          ],
+          [
+            795,
+            472
+          ],
+          [
+            795,
+            977
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "第三十五章朔日火木三つ四つ續く事",
+        "isTextline": "true",
+        "confidence": 0.858
+      },
+      {
+        "boundingBox": [
+          [
+            699,
+            303
+          ],
+          [
+            699,
+            681
+          ],
+          [
+            726,
+            303
+          ],
+          [
+            726,
+            681
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "一朔日火四つ續く時は、其年旱す。",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            655,
+            302
+          ],
+          [
+            655,
+            770
+          ],
+          [
+            683,
+            302
+          ],
+          [
+            683,
+            770
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "一同木三つ續く時は、其年度々大風あり。",
+        "isTextline": "true",
+        "confidence": 0.843
+      },
+      {
+        "boundingBox": [
+          [
+            613,
+            304
+          ],
+          [
+            613,
+            1079
+          ],
+          [
+            644,
+            304
+          ],
+          [
+            644,
+            1079
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "一何れの月にても、水五つ續く時は、五水種を失ふとて、度々洪水すとなり。",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            568,
+            302
+          ],
+          [
+            568,
+            635
+          ],
+          [
+            595,
+            302
+          ],
+          [
+            595,
+            635
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "但し、此事掟木ならず考ふべし。",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            679,
+            1174
+          ],
+          [
+            679,
+            1202
+          ],
+          [
+            705,
+            1174
+          ],
+          [
+            705,
+            1202
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "船",
+        "isTextline": "true",
+        "confidence": 0.409
+      },
+      {
+        "boundingBox": [
+          [
+            500,
+            474
+          ],
+          [
+            500,
+            899
+          ],
+          [
+            532,
+            474
+          ],
+          [
+            532,
+            899
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "第三十六章丑の日辰の日の事",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            438,
+            301
+          ],
+          [
+            438,
+            1308
+          ],
+          [
+            471,
+            301
+          ],
+          [
+            471,
+            1308
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "一丑の日、辰の日、米安き日也。但し、丑の日底直段天井直段出る日也。天井底の節、氣を付くべし。",
+        "isTextline": "true",
+        "confidence": 0.796
+      },
+      {
+        "boundingBox": [
+          [
+            369,
+            478
+          ],
+          [
+            369,
+            898
+          ],
+          [
+            401,
+            478
+          ],
+          [
+            401,
+            898
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "第三十七章一つ目二つと申事",
+        "isTextline": "true",
+        "confidence": 0.83
+      },
+      {
+        "boundingBox": [
+          [
+            312,
+            303
+          ],
+          [
+            312,
+            1025
+          ],
+          [
+            342,
+            303
+          ],
+          [
+            342,
+            1025
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "一一つ目、二つと高下なしと云事は、位付の書の目のと也、心得べし。",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            282,
+            1107
+          ],
+          [
+            282,
+            1157
+          ],
+          [
+            302,
+            1107
+          ],
+          [
+            302,
+            1157
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "一二三",
+        "isTextline": "true",
+        "confidence": 0.536
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0076_0000.jpg",
+    "img_name": "0076_0000.jpg"
+  }
+}

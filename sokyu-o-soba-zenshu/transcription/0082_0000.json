@@ -1,0 +1,1262 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1621,
+            250
+          ],
+          [
+            1621,
+            268
+          ],
+          [
+            1636,
+            250
+          ],
+          [
+            1636,
+            268
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.415
+      },
+      {
+        "boundingBox": [
+          [
+            1590,
+            251
+          ],
+          [
+            1590,
+            269
+          ],
+          [
+            1603,
+            251
+          ],
+          [
+            1603,
+            269
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.351
+      },
+      {
+        "boundingBox": [
+          [
+            1556,
+            249
+          ],
+          [
+            1556,
+            268
+          ],
+          [
+            1572,
+            249
+          ],
+          [
+            1572,
+            268
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "翁",
+        "isTextline": "true",
+        "confidence": 0.347
+      },
+      {
+        "boundingBox": [
+          [
+            1525,
+            250
+          ],
+          [
+            1525,
+            267
+          ],
+          [
+            1540,
+            250
+          ],
+          [
+            1540,
+            267
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.373
+      },
+      {
+        "boundingBox": [
+          [
+            1492,
+            249
+          ],
+          [
+            1492,
+            268
+          ],
+          [
+            1507,
+            249
+          ],
+          [
+            1507,
+            268
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "塲",
+        "isTextline": "true",
+        "confidence": 0.346
+      },
+      {
+        "boundingBox": [
+          [
+            1460,
+            249
+          ],
+          [
+            1460,
+            268
+          ],
+          [
+            1475,
+            249
+          ],
+          [
+            1475,
+            268
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.335
+      },
+      {
+        "boundingBox": [
+          [
+            1427,
+            248
+          ],
+          [
+            1427,
+            268
+          ],
+          [
+            1442,
+            248
+          ],
+          [
+            1442,
+            268
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.352
+      },
+      {
+        "boundingBox": [
+          [
+            1397,
+            249
+          ],
+          [
+            1397,
+            267
+          ],
+          [
+            1411,
+            249
+          ],
+          [
+            1411,
+            267
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.36
+      },
+      {
+        "boundingBox": [
+          [
+            1362,
+            249
+          ],
+          [
+            1362,
+            267
+          ],
+          [
+            1378,
+            249
+          ],
+          [
+            1378,
+            267
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.401
+      },
+      {
+        "boundingBox": [
+          [
+            1828,
+            1097
+          ],
+          [
+            1828,
+            1153
+          ],
+          [
+            1850,
+            1097
+          ],
+          [
+            1850,
+            1153
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一三四",
+        "isTextline": "true",
+        "confidence": 0.497
+      },
+      {
+        "boundingBox": [
+          [
+            1787,
+            303
+          ],
+          [
+            1787,
+            1296
+          ],
+          [
+            1817,
+            303
+          ],
+          [
+            1817,
+            1296
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "利運になるとあり、是愼むべき也。是を取留るには、千兩の買を先づ五百兩分賣返し、米の強弱を見",
+        "isTextline": "true",
+        "confidence": 0.84
+      },
+      {
+        "boundingBox": [
+          [
+            1744,
+            301
+          ],
+          [
+            1744,
+            1314
+          ],
+          [
+            1776,
+            301
+          ],
+          [
+            1776,
+            1314
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "るべし。天井行付知れざる故、残らず賣返すも宜しからず、資付にて利分取留るも、同じ心持也。引",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            1703,
+            296
+          ],
+          [
+            1703,
+            1068
+          ],
+          [
+            1732,
+            296
+          ],
+          [
+            1732,
+            1068
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "下る時は、何程下るも知れぬ樣になる者也。上の時に同じ、能々考ふ可し。",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            1658,
+            312
+          ],
+          [
+            1658,
+            1307
+          ],
+          [
+            1688,
+            312
+          ],
+          [
+            1688,
+            1307
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "(釋)本章は、利喰取留方の用心を述べた者で、凡そ人間の弱點として、買米て利の乘つた時は、",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            1614,
+            312
+          ],
+          [
+            1614,
+            1314
+          ],
+          [
+            1646,
+            312
+          ],
+          [
+            1646,
+            1314
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "圖に乘つて心が驕る者で、上留りの考もなく、何處迄も上る樣に心得て、天井間際を買重ね、反動",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            1570,
+            319
+          ],
+          [
+            1570,
+            1304
+          ],
+          [
+            1602,
+            319
+          ],
+          [
+            1602,
+            1304
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "の暴落に遇つて、不利盆になる者だが、此時利喰の心得方は、自分の仕かけ玉の半分を手仕廻つて、",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            1527,
+            311
+          ],
+          [
+            1527,
+            1312
+          ],
+          [
+            1559,
+            311
+          ],
+          [
+            1559,
+            1312
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "相場の成行を見るべきである。末だ天井の行付を見ないから、皆な手仕廻するのもよくない、賣付",
+        "isTextline": "true",
+        "confidence": 0.853
+      },
+      {
+        "boundingBox": [
+          [
+            1491,
+            319
+          ],
+          [
+            1491,
+            652
+          ],
+          [
+            1514,
+            319
+          ],
+          [
+            1514,
+            652
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "の利分取留方も、此心得でよい。",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            1416,
+            460
+          ],
+          [
+            1416,
+            1063
+          ],
+          [
+            1447,
+            460
+          ],
+          [
+            1447,
+            1063
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "第五十一章霜月限年々作合を以て駈引の事一",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            1352,
+            300
+          ],
+          [
+            1352,
+            1303
+          ],
+          [
+            1384,
+            300
+          ],
+          [
+            1384,
+            1303
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "一霜月限商、其年々、作合、古米高直安直の釣合を以て、五六十俵より百俵安に商初、二十八九俵よ",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            1309,
+            298
+          ],
+          [
+            1309,
+            1306
+          ],
+          [
+            1342,
+            298
+          ],
+          [
+            1342,
+            1306
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "り三十俵位始る年は、近年大概上作にしても、十俵二十俵位下る也。二十七八俵より始る米は、二三",
+        "isTextline": "true",
+        "confidence": 0.893
+      },
+      {
+        "boundingBox": [
+          [
+            1265,
+            299
+          ],
+          [
+            1265,
+            1305
+          ],
+          [
+            1298,
+            299
+          ],
+          [
+            1298,
+            1305
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "十俵下る者也。四十俵下げ底にて、極めて稀なり。二十五六俵より初る米は、五六十俵下げ底也。右",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            1221,
+            301
+          ],
+          [
+            1221,
+            1305
+          ],
+          [
+            1254,
+            301
+          ],
+          [
+            1254,
+            1305
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "七八月迄底直段出、八九十月より多少に依らず段々起き上り、十一十二正月迄に、天井直段出ると心",
+        "isTextline": "true",
+        "confidence": 0.891
+      },
+      {
+        "boundingBox": [
+          [
+            1177,
+            299
+          ],
+          [
+            1177,
+            1302
+          ],
+          [
+            1211,
+            299
+          ],
+          [
+            1211,
+            1302
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "得べし。上げかゝる米には、算盤を取らざる者也。百俵上げを的にして、七八十俵上迄片買と心得べ",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            790,
+            256
+          ],
+          [
+            790,
+            277
+          ],
+          [
+            806,
+            256
+          ],
+          [
+            806,
+            277
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "第",
+        "isTextline": "true",
+        "confidence": 0.456
+      },
+      {
+        "boundingBox": [
+          [
+            774,
+            256
+          ],
+          [
+            774,
+            278
+          ],
+          [
+            788,
+            256
+          ],
+          [
+            788,
+            278
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "五",
+        "isTextline": "true",
+        "confidence": 0.387
+      },
+      {
+        "boundingBox": [
+          [
+            758,
+            256
+          ],
+          [
+            758,
+            277
+          ],
+          [
+            771,
+            256
+          ],
+          [
+            771,
+            277
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "十",
+        "isTextline": "true",
+        "confidence": 0.363
+      },
+      {
+        "boundingBox": [
+          [
+            727,
+            257
+          ],
+          [
+            727,
+            277
+          ],
+          [
+            740,
+            257
+          ],
+          [
+            740,
+            277
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "章",
+        "isTextline": "true",
+        "confidence": 0.388
+      },
+      {
+        "boundingBox": [
+          [
+            708,
+            257
+          ],
+          [
+            708,
+            277
+          ],
+          [
+            722,
+            257
+          ],
+          [
+            722,
+            277
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "霜",
+        "isTextline": "true",
+        "confidence": 0.313
+      },
+      {
+        "boundingBox": [
+          [
+            678,
+            257
+          ],
+          [
+            678,
+            278
+          ],
+          [
+            691,
+            257
+          ],
+          [
+            691,
+            278
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "限",
+        "isTextline": "true",
+        "confidence": 0.366
+      },
+      {
+        "boundingBox": [
+          [
+            661,
+            257
+          ],
+          [
+            661,
+            277
+          ],
+          [
+            674,
+            257
+          ],
+          [
+            674,
+            277
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "年",
+        "isTextline": "true",
+        "confidence": 0.301
+      },
+      {
+        "boundingBox": [
+          [
+            547,
+            258
+          ],
+          [
+            547,
+            278
+          ],
+          [
+            562,
+            258
+          ],
+          [
+            562,
+            278
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "駈",
+        "isTextline": "true",
+        "confidence": 0.331
+      },
+      {
+        "boundingBox": [
+          [
+            497,
+            257
+          ],
+          [
+            497,
+            277
+          ],
+          [
+            516,
+            257
+          ],
+          [
+            516,
+            277
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "事",
+        "isTextline": "true",
+        "confidence": 0.4
+      },
+      {
+        "boundingBox": [
+          [
+            948,
+            307
+          ],
+          [
+            948,
+            1311
+          ],
+          [
+            979,
+            307
+          ],
+          [
+            979,
+            1311
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "し。但し、其年の作方に依り、百俵上げに限らず、百二三十俵より四五十俵、時に寄り、百七八十俵",
+        "isTextline": "true",
+        "confidence": 0.868
+      },
+      {
+        "boundingBox": [
+          [
+            904,
+            311
+          ],
+          [
+            904,
+            1308
+          ],
+          [
+            936,
+            311
+          ],
+          [
+            936,
+            1308
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "も上るとあり。其年の上方諸國、當地近國作合を以て考ふると、肝要也。先づは、百俵上げを通例と",
+        "isTextline": "true",
+        "confidence": 0.897
+      },
+      {
+        "boundingBox": [
+          [
+            861,
+            310
+          ],
+          [
+            861,
+            1311
+          ],
+          [
+            891,
+            310
+          ],
+          [
+            891,
+            1311
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "す。大體の年は、右百俵上げを出す時は、是年中の天井直段也。又年中の賣塲なり。火の中に飛入る",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            816,
+            309
+          ],
+          [
+            816,
+            1311
+          ],
+          [
+            848,
+            309
+          ],
+          [
+            848,
+            1311
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "心持にて賣る可し。三四ケ月四五ケ月見計らひ持替へ送る時は、大利疑なし。此外、常に賣方、致す時",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            773,
+            308
+          ],
+          [
+            773,
+            1303
+          ],
+          [
+            804,
+            308
+          ],
+          [
+            804,
+            1303
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "は、决定大損なるべし。又此天井出る後、何程惡作年、何程思入候共、翌夏迄決して持つ可からず。",
+        "isTextline": "true",
+        "confidence": 0.903
+      },
+      {
+        "boundingBox": [
+          [
+            730,
+            301
+          ],
+          [
+            730,
+            1314
+          ],
+          [
+            761,
+            301
+          ],
+          [
+            761,
+            1314
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "若し誤りて強気強る時は、身上釣替の損なるべし。堅く愼むべし。天井直段出る後は、サツパリと仕",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            688,
+            305
+          ],
+          [
+            688,
+            1323
+          ],
+          [
+            718,
+            305
+          ],
+          [
+            718,
+            1323
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "舞、三四十日休み、三位の傳を以て、米の強弱を考へ、商仕かく可し、此休むとを知らざれば、何程",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            645,
+            300
+          ],
+          [
+            645,
+            869
+          ],
+          [
+            672,
+            300
+          ],
+          [
+            672,
+            869
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "利運に向ふ共、極意は損出る也、返す〳〵心得肝要也。",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            601,
+            325
+          ],
+          [
+            601,
+            1316
+          ],
+          [
+            631,
+            325
+          ],
+          [
+            631,
+            1316
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "(釋)本章の文句は、第九章の一節と似て居るが、其説く所の主意は違つて居る。第九章は、不作",
+        "isTextline": "true",
+        "confidence": 0.897
+      },
+      {
+        "boundingBox": [
+          [
+            557,
+            331
+          ],
+          [
+            557,
+            1317
+          ],
+          [
+            588,
+            331
+          ],
+          [
+            588,
+            1317
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "年の駈引と云處に重きを置いたが、本章は、其年の作合を以て、天井底の位取を見るとを示した者",
+        "isTextline": "true",
+        "confidence": 0.883
+      },
+      {
+        "boundingBox": [
+          [
+            519,
+            330
+          ],
+          [
+            519,
+            376
+          ],
+          [
+            540,
+            330
+          ],
+          [
+            540,
+            376
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "だ。",
+        "isTextline": "true",
+        "confidence": 0.53
+      },
+      {
+        "boundingBox": [
+          [
+            517,
+            333
+          ],
+          [
+            517,
+            366
+          ],
+          [
+            536,
+            333
+          ],
+          [
+            536,
+            366
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "だ。",
+        "isTextline": "true",
+        "confidence": 0.703
+      },
+      {
+        "boundingBox": [
+          [
+            470,
+            328
+          ],
+          [
+            470,
+            1319
+          ],
+          [
+            501,
+            328
+          ],
+          [
+            501,
+            1319
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "霜月限の商は、大抵の年、古米に比し、十俵即ち百俵位の下鞘で始まる者であるが、併し天井直段",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            427,
+            332
+          ],
+          [
+            427,
+            1318
+          ],
+          [
+            457,
+            332
+          ],
+          [
+            457,
+            1318
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "底直段の位取は、其位置に因て違ふ者で、経験に依るに、四十五六俵五十俵は極底直で、三十四五",
+        "isTextline": "true",
+        "confidence": 0.909
+      },
+      {
+        "boundingBox": [
+          [
+            385,
+            331
+          ],
+          [
+            385,
+            1320
+          ],
+          [
+            417,
+            331
+          ],
+          [
+            417,
+            1320
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "俵は中底の位てある。そこで、二十八九俵三十俵位の位置に始まる米は、極上作でなく共、十俵廿",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            341,
+            331
+          ],
+          [
+            341,
+            1314
+          ],
+          [
+            372,
+            331
+          ],
+          [
+            372,
+            1314
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "俵位の下げて底となる者だ。亦、二十七八俵位から下げ出した相塲は、二三十俵方も下る者だ。四",
+        "isTextline": "true",
+        "confidence": 0.826
+      },
+      {
+        "boundingBox": [
+          [
+            308,
+            1107
+          ],
+          [
+            308,
+            1158
+          ],
+          [
+            328,
+            1107
+          ],
+          [
+            328,
+            1158
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "一三五",
+        "isTextline": "true",
+        "confidence": 0.498
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0082_0000.jpg",
+    "img_name": "0082_0000.jpg"
+  }
+}

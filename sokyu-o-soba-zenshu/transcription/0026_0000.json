@@ -1,0 +1,1362 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1794,
+            131
+          ],
+          [
+            1794,
+            1270
+          ],
+          [
+            1816,
+            131
+          ],
+          [
+            1816,
+            1270
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+        "isTextline": "true",
+        "confidence": 0.308
+      },
+      {
+        "boundingBox": [
+          [
+            1782,
+            70
+          ],
+          [
+            1782,
+            1466
+          ],
+          [
+            1817,
+            70
+          ],
+          [
+            1817,
+            1466
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.45
+      },
+      {
+        "boundingBox": [
+          [
+            1720,
+            1098
+          ],
+          [
+            1720,
+            1135
+          ],
+          [
+            1741,
+            1098
+          ],
+          [
+            1741,
+            1135
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "二二",
+        "isTextline": "true",
+        "confidence": 0.39
+      },
+      {
+        "boundingBox": [
+          [
+            1672,
+            326
+          ],
+          [
+            1672,
+            1309
+          ],
+          [
+            1704,
+            326
+          ],
+          [
+            1704,
+            1309
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "ば、自分と相對する賣方の商内が、如何なつて居るかと見るのが肝要である、落引となる分は、直",
+        "isTextline": "true",
+        "confidence": 0.841
+      },
+      {
+        "boundingBox": [
+          [
+            1629,
+            323
+          ],
+          [
+            1629,
+            1309
+          ],
+          [
+            1660,
+            323
+          ],
+          [
+            1660,
+            1309
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "に利喰となる勘定であるから、別に考ふるに及ばないが、若し相手方で、追敷を入れて商内を繋ひ",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            1586,
+            319
+          ],
+          [
+            1586,
+            1312
+          ],
+          [
+            1617,
+            319
+          ],
+          [
+            1617,
+            1312
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "だならば、其分の見替に、賣附けて置かねばならぬ。但し、右の駈引は、四分か半作位の不作年の",
+        "isTextline": "true",
+        "confidence": 0.847
+      },
+      {
+        "boundingBox": [
+          [
+            1544,
+            326
+          ],
+          [
+            1544,
+            563
+          ],
+          [
+            1567,
+            326
+          ],
+          [
+            1567,
+            563
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "駈引を述べた者である。",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            1498,
+            255
+          ],
+          [
+            1498,
+            282
+          ],
+          [
+            1516,
+            255
+          ],
+          [
+            1516,
+            282
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "宗一",
+        "isTextline": "true",
+        "confidence": 0.327
+      },
+      {
+        "boundingBox": [
+          [
+            1466,
+            257
+          ],
+          [
+            1466,
+            279
+          ],
+          [
+            1482,
+            257
+          ],
+          [
+            1482,
+            279
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.303
+      },
+      {
+        "boundingBox": [
+          [
+            1433,
+            256
+          ],
+          [
+            1433,
+            278
+          ],
+          [
+            1451,
+            256
+          ],
+          [
+            1451,
+            278
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "翁",
+        "isTextline": "true",
+        "confidence": 0.306
+      },
+      {
+        "boundingBox": [
+          [
+            1401,
+            257
+          ],
+          [
+            1401,
+            279
+          ],
+          [
+            1419,
+            257
+          ],
+          [
+            1419,
+            279
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.35
+      },
+      {
+        "boundingBox": [
+          [
+            1368,
+            257
+          ],
+          [
+            1368,
+            279
+          ],
+          [
+            1387,
+            257
+          ],
+          [
+            1387,
+            279
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "場",
+        "isTextline": "true",
+        "confidence": 0.408
+      },
+      {
+        "boundingBox": [
+          [
+            1336,
+            259
+          ],
+          [
+            1336,
+            279
+          ],
+          [
+            1354,
+            259
+          ],
+          [
+            1354,
+            279
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.43
+      },
+      {
+        "boundingBox": [
+          [
+            1303,
+            259
+          ],
+          [
+            1303,
+            279
+          ],
+          [
+            1321,
+            259
+          ],
+          [
+            1321,
+            279
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.438
+      },
+      {
+        "boundingBox": [
+          [
+            1272,
+            262
+          ],
+          [
+            1272,
+            280
+          ],
+          [
+            1288,
+            262
+          ],
+          [
+            1288,
+            280
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "上",
+        "isTextline": "true",
+        "confidence": 0.434
+      },
+      {
+        "boundingBox": [
+          [
+            1239,
+            260
+          ],
+          [
+            1239,
+            280
+          ],
+          [
+            1256,
+            260
+          ],
+          [
+            1256,
+            280
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "巻",
+        "isTextline": "true",
+        "confidence": 0.435
+      },
+      {
+        "boundingBox": [
+          [
+            1474,
+            479
+          ],
+          [
+            1474,
+            893
+          ],
+          [
+            1505,
+            479
+          ],
+          [
+            1505,
+            893
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "第十章相塲引上げ大騒考の事",
+        "isTextline": "true",
+        "confidence": 0.791
+      },
+      {
+        "boundingBox": [
+          [
+            1412,
+            311
+          ],
+          [
+            1412,
+            1309
+          ],
+          [
+            1442,
+            311
+          ],
+          [
+            1442,
+            1309
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一新商初てより、段々引上け、大騒ぎ出て、天井直段に成り、其日二俵三分迄出て行當り、其日の内",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            1368,
+            313
+          ],
+          [
+            1368,
+            1309
+          ],
+          [
+            1400,
+            313
+          ],
+          [
+            1400,
+            1309
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "に狂ひ、三俵二三分迄返す、此日の二俵三分に、心を付け考ふ可し。此米、又一兩日の内に、二俵半",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            1325,
+            305
+          ],
+          [
+            1325,
+            1322
+          ],
+          [
+            1357,
+            305
+          ],
+          [
+            1357,
+            1322
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "六分迄通ふ者なれども、二俵三分迄引立勢なく、クラリ三俵臺へ返す者也。此處にて賣込也。急に二一",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            1282,
+            311
+          ],
+          [
+            1282,
+            1316
+          ],
+          [
+            1314,
+            311
+          ],
+          [
+            1314,
+            1316
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "俵三分迄引上げ候米故、三四俵の内は、人気張詰め居る故、四俵臺へ下る時は、又々三俵へ買戻す者",
+        "isTextline": "true",
+        "confidence": 0.868
+      },
+      {
+        "boundingBox": [
+          [
+            1238,
+            315
+          ],
+          [
+            1238,
+            1308
+          ],
+          [
+            1271,
+            315
+          ],
+          [
+            1271,
+            1308
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "なれども、自然と買人なく、五六俵迄下る也。此時、乘米を考へ買入るゝ奢也。極めて三俵臺へ上る",
+        "isTextline": "true",
+        "confidence": 0.891
+      },
+      {
+        "boundingBox": [
+          [
+            1195,
+            315
+          ],
+          [
+            1195,
+            1302
+          ],
+          [
+            1228,
+            315
+          ],
+          [
+            1228,
+            1302
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "者也。是大通ひ也。次の月二俵三分を打越し一二分共上らば、油斷なく買入るべきなり、又次の月、",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            1152,
+            314
+          ],
+          [
+            1152,
+            1048
+          ],
+          [
+            1182,
+            314
+          ],
+          [
+            1182,
+            1048
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "三俵位二俵六七分に上留り候はゞ、思入に賣込むべし、是三位の秘傳也。",
+        "isTextline": "true",
+        "confidence": 0.804
+      },
+      {
+        "boundingBox": [
+          [
+            1106,
+            324
+          ],
+          [
+            1106,
+            1311
+          ],
+          [
+            1141,
+            324
+          ],
+          [
+            1141,
+            1311
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "今一ト天井直段後、大通ひの例を示さんに、十一月期の發會後、段々引上げて來て來て來て、假令ば、",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            1064,
+            330
+          ],
+          [
+            1064,
+            1313
+          ],
+          [
+            1101,
+            330
+          ],
+          [
+            1101,
+            1313
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "前場に九十五銭の高直を出して、其日の内に七十五銭迄下げたとするに、此日の九十五銭に能々心",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            899,
+            149
+          ],
+          [
+            899,
+            215
+          ],
+          [
+            924,
+            149
+          ],
+          [
+            924,
+            215
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "十一",
+        "isTextline": "true",
+        "confidence": 0.326
+      },
+      {
+        "boundingBox": [
+          [
+            880,
+            153
+          ],
+          [
+            880,
+            224
+          ],
+          [
+            898,
+            153
+          ],
+          [
+            898,
+            224
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "一□",
+        "isTextline": "true",
+        "confidence": 0.304
+      },
+      {
+        "boundingBox": [
+          [
+            724,
+            270
+          ],
+          [
+            724,
+            291
+          ],
+          [
+            740,
+            270
+          ],
+          [
+            740,
+            291
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "第一",
+        "isTextline": "true",
+        "confidence": 0.398
+      },
+      {
+        "boundingBox": [
+          [
+            700,
+            272
+          ],
+          [
+            700,
+            291
+          ],
+          [
+            714,
+            272
+          ],
+          [
+            714,
+            291
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "十",
+        "isTextline": "true",
+        "confidence": 0.371
+      },
+      {
+        "boundingBox": [
+          [
+            652,
+            272
+          ],
+          [
+            652,
+            293
+          ],
+          [
+            667,
+            272
+          ],
+          [
+            667,
+            293
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "章",
+        "isTextline": "true",
+        "confidence": 0.431
+      },
+      {
+        "boundingBox": [
+          [
+            627,
+            272
+          ],
+          [
+            627,
+            294
+          ],
+          [
+            643,
+            272
+          ],
+          [
+            643,
+            294
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "行",
+        "isTextline": "true",
+        "confidence": 0.412
+      },
+      {
+        "boundingBox": [
+          [
+            602,
+            272
+          ],
+          [
+            602,
+            294
+          ],
+          [
+            617,
+            272
+          ],
+          [
+            617,
+            294
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "附",
+        "isTextline": "true",
+        "confidence": 0.45
+      },
+      {
+        "boundingBox": [
+          [
+            578,
+            272
+          ],
+          [
+            578,
+            294
+          ],
+          [
+            594,
+            272
+          ],
+          [
+            594,
+            294
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "天",
+        "isTextline": "true",
+        "confidence": 0.412
+      },
+      {
+        "boundingBox": [
+          [
+            554,
+            273
+          ],
+          [
+            554,
+            294
+          ],
+          [
+            569,
+            273
+          ],
+          [
+            569,
+            294
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "井",
+        "isTextline": "true",
+        "confidence": 0.473
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            274
+          ],
+          [
+            530,
+            294
+          ],
+          [
+            546,
+            274
+          ],
+          [
+            546,
+            294
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "直",
+        "isTextline": "true",
+        "confidence": 0.425
+      },
+      {
+        "boundingBox": [
+          [
+            508,
+            275
+          ],
+          [
+            508,
+            294
+          ],
+          [
+            522,
+            275
+          ],
+          [
+            522,
+            294
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "段",
+        "isTextline": "true",
+        "confidence": 0.5
+      },
+      {
+        "boundingBox": [
+          [
+            487,
+            275
+          ],
+          [
+            487,
+            293
+          ],
+          [
+            501,
+            275
+          ],
+          [
+            501,
+            293
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.485
+      },
+      {
+        "boundingBox": [
+          [
+            465,
+            274
+          ],
+          [
+            465,
+            294
+          ],
+          [
+            482,
+            274
+          ],
+          [
+            482,
+            294
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "事",
+        "isTextline": "true",
+        "confidence": 0.454
+      },
+      {
+        "boundingBox": [
+          [
+            901,
+            342
+          ],
+          [
+            901,
+            1318
+          ],
+          [
+            935,
+            342
+          ],
+          [
+            935,
+            1318
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "を付けて考へて見るがまい。此相塲、又々一兩日の内に、八十五六錢から九十錢一二錢位迄通ふ者",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            858,
+            341
+          ],
+          [
+            858,
+            1316
+          ],
+          [
+            893,
+            341
+          ],
+          [
+            893,
+            1316
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "であるけれども、九十五錢とは引立勢ひなく、クラリと、又七十錢臺に下るものであるから、此處",
+        "isTextline": "true",
+        "confidence": 0.899
+      },
+      {
+        "boundingBox": [
+          [
+            814,
+            328
+          ],
+          [
+            814,
+            1334
+          ],
+          [
+            850,
+            328
+          ],
+          [
+            850,
+            1334
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "を賣るがよい、急に九十五銭の高直を九十一二錢迄見せた米であるから、七拾銭盤から六十銭五十",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            772,
+            340
+          ],
+          [
+            772,
+            1324
+          ],
+          [
+            806,
+            340
+          ],
+          [
+            806,
+            1324
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "錢臺となつても、人気が高直覺へて、買墓へが多いから、五十錢臺へ下る時には、又々七八十錢臺",
+        "isTextline": "true",
+        "confidence": 0.9
+      },
+      {
+        "boundingBox": [
+          [
+            729,
+            343
+          ],
+          [
+            729,
+            1314
+          ],
+          [
+            763,
+            343
+          ],
+          [
+            763,
+            1314
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "へ引上げる者であるけれども、自然と其買物が薄らひで、三四十錢二十錢迄も下げる者であるから、",
+        "isTextline": "true",
+        "confidence": 0.91
+      },
+      {
+        "boundingBox": [
+          [
+            685,
+            335
+          ],
+          [
+            685,
+            1332
+          ],
+          [
+            720,
+            335
+          ],
+          [
+            720,
+            1332
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "此時、宜しく各地との直鞘、正米との比較等を考へ合せて利喰すべきである。此相塲は、定めて又",
+        "isTextline": "true",
+        "confidence": 0.902
+      },
+      {
+        "boundingBox": [
+          [
+            641,
+            343
+          ],
+          [
+            641,
+            1329
+          ],
+          [
+            677,
+            343
+          ],
+          [
+            677,
+            1329
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "々七八十錢臺へ上るであらう、是を大通ひと稱へるのである。併し、是は一ト天井直段後の大通ひ",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            599,
+            344
+          ],
+          [
+            599,
+            1326
+          ],
+          [
+            633,
+            344
+          ],
+          [
+            633,
+            1326
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "と云ふ者であつて、眞正の天井でないから、其次の月に、此九十五錢の月節、即ち最高直段を拔ひ",
+        "isTextline": "true",
+        "confidence": 0.901
+      },
+      {
+        "boundingBox": [
+          [
+            554,
+            334
+          ],
+          [
+            554,
+            1338
+          ],
+          [
+            591,
+            334
+          ],
+          [
+            591,
+            1338
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "て圓臺に押上げたならば、油斷なく買入れるがよい。そして、又次の月ドダ内の七八十錢位で上げ",
+        "isTextline": "true",
+        "confidence": 0.902
+      },
+      {
+        "boundingBox": [
+          [
+            512,
+            343
+          ],
+          [
+            512,
+            1337
+          ],
+          [
+            548,
+            343
+          ],
+          [
+            548,
+            1337
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "留つたならば、ドシ〳〵賣込んで宜しい。是は、余の考へた三位傳の内であると。(右解釋の直段は、",
+        "isTextline": "true",
+        "confidence": 0.875
+      },
+      {
+        "boundingBox": [
+          [
+            467,
+            338
+          ],
+          [
+            467,
+            1030
+          ],
+          [
+            501,
+            338
+          ],
+          [
+            501,
+            1030
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "説明の便宜上、假りに設けたのであるから、拘泥してはならない。)",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            399,
+            500
+          ],
+          [
+            399,
+            885
+          ],
+          [
+            433,
+            500
+          ],
+          [
+            433,
+            885
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "第十一章行附天井直段の事",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            338,
+            329
+          ],
+          [
+            338,
+            1336
+          ],
+          [
+            373,
+            329
+          ],
+          [
+            373,
+            1336
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "一天井行附直段と云ふは、數月の内高下あり、段々五六拾俵も引上げ、其後可上とも可下とも知れ",
+        "isTextline": "true",
+        "confidence": 0.872
+      },
+      {
+        "boundingBox": [
+          [
+            293,
+            328
+          ],
+          [
+            293,
+            1332
+          ],
+          [
+            329,
+            328
+          ],
+          [
+            329,
+            1332
+          ]
+        ],
+        "id": 52,
+        "isVertical": "true",
+        "text": "ぬ樣になり、又毎日十俵宛も必至〳〵と引上げ、賣買共に連れ落になり、大騒出る節、上留り年中行",
+        "isTextline": "true",
+        "confidence": 0.813
+      },
+      {
+        "boundingBox": [
+          [
+            264,
+            1120
+          ],
+          [
+            264,
+            1157
+          ],
+          [
+            286,
+            1120
+          ],
+          [
+            286,
+            1157
+          ]
+        ],
+        "id": 53,
+        "isVertical": "true",
+        "text": "二三",
+        "isTextline": "true",
+        "confidence": 0.327
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0026_0000.jpg",
+    "img_name": "0026_0000.jpg"
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1736,
+            74
+          ],
+          [
+            1736,
+            1458
+          ],
+          [
+            1781,
+            74
+          ],
+          [
+            1781,
+            1458
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "一〇〇、〇〇、、、、、、、、、、、、、、、、、、、、、、〇〇",
+        "isTextline": "true",
+        "confidence": 0.352
+      },
+      {
+        "boundingBox": [
+          [
+            1024,
+            919
+          ],
+          [
+            1024,
+            1097
+          ],
+          [
+            1042,
+            919
+          ],
+          [
+            1042,
+            1097
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一五十一月十一日",
+        "isTextline": "true",
+        "confidence": 0.307
+      },
+      {
+        "boundingBox": [
+          [
+            872,
+            314
+          ],
+          [
+            872,
+            819
+          ],
+          [
+            922,
+            314
+          ],
+          [
+            922,
+            819
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "宗久翁相場全集緒言",
+        "isTextline": "true",
+        "confidence": 0.813
+      },
+      {
+        "boundingBox": [
+          [
+            759,
+            266
+          ],
+          [
+            759,
+            285
+          ],
+          [
+            776,
+            266
+          ],
+          [
+            776,
+            285
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "緒",
+        "isTextline": "true",
+        "confidence": 0.374
+      },
+      {
+        "boundingBox": [
+          [
+            810,
+            305
+          ],
+          [
+            810,
+            1330
+          ],
+          [
+            852,
+            305
+          ],
+          [
+            852,
+            1330
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一宗外翁遺稿士挙及位附の書、識見高邁着眼奇警、相塲の機微を洞察するの方",
+        "isTextline": "true",
+        "confidence": 0.798
+      },
+      {
+        "boundingBox": [
+          [
+            762,
+            309
+          ],
+          [
+            762,
+            1328
+          ],
+          [
+            801,
+            309
+          ],
+          [
+            801,
+            1328
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "法を網羅解説して亦遺憾なし、宜なる哉翁が多大の成功を收めたるや、唯翁、",
+        "isTextline": "true",
+        "confidence": 0.709
+      },
+      {
+        "boundingBox": [
+          [
+            709,
+            307
+          ],
+          [
+            709,
+            1327
+          ],
+          [
+            755,
+            307
+          ],
+          [
+            755,
+            1327
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一が手澤の原本は秘庫に襲藏せられて容易く見る可からず、又坊間の傳寫本は。",
+        "isTextline": "true",
+        "confidence": 0.826
+      },
+      {
+        "boundingBox": [
+          [
+            663,
+            304
+          ],
+          [
+            663,
+            1313
+          ],
+          [
+            701,
+            304
+          ],
+          [
+            701,
+            1313
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "一魯魚誤を傳へ轉訛百田す、是啻に翁が遣訓の眞意を害するのみならず恐らく",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            614,
+            306
+          ],
+          [
+            614,
+            1316
+          ],
+          [
+            653,
+            306
+          ],
+          [
+            653,
+            1316
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "は後進を誤る多汰ならんとを、吾人之を憂ひ同家に懇請して翁の手澤本を謄",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            562,
+            311
+          ],
+          [
+            562,
+            1312
+          ],
+          [
+            600,
+            311
+          ],
+          [
+            600,
+            1312
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "寫し尚坊間の諸傳寫本を參校し以て數十條を増補し且書中の商用語及難解の",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            514,
+            312
+          ],
+          [
+            514,
+            1309
+          ],
+          [
+            549,
+            312
+          ],
+          [
+            549,
+            1309
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "處には一々註解を加へ其意義を闡明して一書を述作し名づけて宗久翁相塲全",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            466,
+            306
+          ],
+          [
+            466,
+            1297
+          ],
+          [
+            500,
+            306
+          ],
+          [
+            500,
+            1297
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "集と云ふ、今や印刷方に成る、聊か一言を卷首に辯じて其由來を明かにす。",
+        "isTextline": "true",
+        "confidence": 0.843
+      },
+      {
+        "boundingBox": [
+          [
+            396,
+            363
+          ],
+          [
+            396,
+            609
+          ],
+          [
+            425,
+            363
+          ],
+          [
+            425,
+            609
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "明治四十三年四月",
+        "isTextline": "true",
+        "confidence": 0.532
+      },
+      {
+        "boundingBox": [
+          [
+            393,
+            330
+          ],
+          [
+            393,
+            1257
+          ],
+          [
+            429,
+            330
+          ],
+          [
+            429,
+            1257
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "明治四十三年四月二菊早阪豊識",
+        "isTextline": "true",
+        "confidence": 0.588
+      },
+      {
+        "boundingBox": [
+          [
+            916,
+            1386
+          ],
+          [
+            916,
+            1406
+          ],
+          [
+            930,
+            1386
+          ],
+          [
+            930,
+            1406
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": ")",
+        "isTextline": "true",
+        "confidence": 0.31
+      },
+      {
+        "boundingBox": [
+          [
+            212,
+            95
+          ],
+          [
+            212,
+            1461
+          ],
+          [
+            244,
+            95
+          ],
+          [
+            244,
+            1461
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.327
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0002_0000.jpg",
+    "img_name": "0002_0000.jpg"
+  }
+}

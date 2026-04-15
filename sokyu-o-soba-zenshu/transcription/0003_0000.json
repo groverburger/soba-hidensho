@@ -1,0 +1,362 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1790,
+            1398
+          ],
+          [
+            1790,
+            1432
+          ],
+          [
+            1816,
+            1398
+          ],
+          [
+            1816,
+            1432
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "同十二十一日",
+        "isTextline": "true",
+        "confidence": 0.372
+      },
+      {
+        "boundingBox": [
+          [
+            890,
+            495
+          ],
+          [
+            890,
+            637
+          ],
+          [
+            923,
+            495
+          ],
+          [
+            923,
+            637
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "凡例",
+        "isTextline": "true",
+        "confidence": 0.746
+      },
+      {
+        "boundingBox": [
+          [
+            834,
+            343
+          ],
+          [
+            834,
+            1341
+          ],
+          [
+            869,
+            343
+          ],
+          [
+            869,
+            1341
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一本書は翁家の秘襲なる自筆の稿本を原とし坊間の傳寫本を以て校正増補し、且註解を加へて其眞意",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            790,
+            348
+          ],
+          [
+            790,
+            1339
+          ],
+          [
+            825,
+            348
+          ],
+          [
+            825,
+            1339
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "を發揮せんとを勉めたり。然れ共註者の不敏なる、恐らくは、翁が眞意の十一を傳ふる能はざらむ",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            747,
+            337
+          ],
+          [
+            747,
+            1357
+          ],
+          [
+            784,
+            337
+          ],
+          [
+            784,
+            1357
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "とを。特に驅引の妙用賣買の調子等に至つては、筆舌の能く盡す所にあらず、讀者、宜しく意を言",
+        "isTextline": "true",
+        "confidence": 0.835
+      },
+      {
+        "boundingBox": [
+          [
+            704,
+            355
+          ],
+          [
+            704,
+            500
+          ],
+          [
+            729,
+            355
+          ],
+          [
+            729,
+            500
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "外に求むべし。",
+        "isTextline": "true",
+        "confidence": 0.846
+      },
+      {
+        "boundingBox": [
+          [
+            661,
+            323
+          ],
+          [
+            661,
+            1200
+          ],
+          [
+            694,
+            323
+          ],
+          [
+            694,
+            1200
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "一本書記する所の月日は、皆大陰暦なり、又當地とあるは、荘内地方のとゝ知るべし。",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            617,
+            321
+          ],
+          [
+            617,
+            1368
+          ],
+          [
+            654,
+            321
+          ],
+          [
+            654,
+            1368
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "一本書の原理は、何れの地に於ても應用するとを得れども、翁は、立論の基礎を莊内地方に置きたる",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            574,
+            343
+          ],
+          [
+            574,
+            1353
+          ],
+          [
+            611,
+            343
+          ],
+          [
+            611,
+            1353
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "が故に、讀者本書の意味を明瞭に解するには。先づ莊内地方米商の慣習を知了するの必要あり、是一",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            346
+          ],
+          [
+            530,
+            886
+          ],
+          [
+            561,
+            346
+          ],
+          [
+            561,
+            886
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "特に、卷頭に酒田舊米會所の慣習を掲録せる所以也。",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            485,
+            336
+          ],
+          [
+            485,
+            1376
+          ],
+          [
+            524,
+            336
+          ],
+          [
+            524,
+            1376
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一期米駈引の妙用を悟らむと欲せば、幾遍となく本書を繰返し精讀するとを要す。然らば、自然に相當",
+        "isTextline": "true",
+        "confidence": 0.872
+      },
+      {
+        "boundingBox": [
+          [
+            444,
+            342
+          ],
+          [
+            444,
+            1368
+          ],
+          [
+            480,
+            342
+          ],
+          [
+            480,
+            1368
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "塲の強弱を判別し、駈引の妙用に通することを得ん。特に賣買を仕掛け居る時に臨みては决して締み。",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            348
+          ],
+          [
+            400,
+            1003
+          ],
+          [
+            431,
+            348
+          ],
+          [
+            431,
+            1003
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "讀を怠る可からず、是れ相塲に對する注意を忽にせざる爲なり。",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            341,
+            941
+          ],
+          [
+            341,
+            1259
+          ],
+          [
+            371,
+            941
+          ],
+          [
+            371,
+            1259
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "校註者復識",
+        "isTextline": "true",
+        "confidence": 0.702
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0003_0000.jpg",
+    "img_name": "0003_0000.jpg"
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1703,
+            1111
+          ],
+          [
+            1703,
+            1131
+          ],
+          [
+            1723,
+            1111
+          ],
+          [
+            1723,
+            1131
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "四",
+        "isTextline": "true",
+        "confidence": 0.365
+      },
+      {
+        "boundingBox": [
+          [
+            1653,
+            312
+          ],
+          [
+            1653,
+            1297
+          ],
+          [
+            1687,
+            312
+          ],
+          [
+            1687,
+            1297
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "執乎、善兵曰奴尚欲買焉、翁曰善、我給汝資矣、唯速買焉、莫顧慮也、善兵衛踊",
+        "isTextline": "true",
+        "confidence": 0.833
+      },
+      {
+        "boundingBox": [
+          [
+            1603,
+            310
+          ],
+          [
+            1603,
+            1305
+          ],
+          [
+            1638,
+            310
+          ],
+          [
+            1638,
+            1305
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "躍、至市大買之、未幾、米價暴騰、遂得恢復資産也、善兵深徳宗久翁、歳次詣根",
+        "isTextline": "true",
+        "confidence": 0.875
+      },
+      {
+        "boundingBox": [
+          [
+            1554,
+            300
+          ],
+          [
+            1554,
+            1323
+          ],
+          [
+            1590,
+            300
+          ],
+          [
+            1590,
+            1323
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "岸謝其恩云、宗久翁曾語善兵衛曰、酒田米賈皆味于見機、我今授汝韜略、乃一",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            1506,
+            298
+          ],
+          [
+            1506,
+            1157
+          ],
+          [
+            1539,
+            298
+          ],
+          [
+            1539,
+            1157
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一出書一卷與之、乃此書也、然則此書之價値有不俟言而可知者焉。",
+        "isTextline": "true",
+        "confidence": 0.77
+      },
+      {
+        "boundingBox": [
+          [
+            1454,
+            301
+          ],
+          [
+            1454,
+            1317
+          ],
+          [
+            1489,
+            301
+          ],
+          [
+            1489,
+            1317
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "翁生于田川郡一農家、以天稟之敏才與多年之實驗、保其成功、且増殖宗家資",
+        "isTextline": "true",
+        "confidence": 0.812
+      },
+      {
+        "boundingBox": [
+          [
+            1406,
+            298
+          ],
+          [
+            1406,
+            1306
+          ],
+          [
+            1439,
+            298
+          ],
+          [
+            1439,
+            1306
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "産、而其身亦至爲素封家列格式於士流之上、可謂偉矣、翁死既百數十年、而今",
+        "isTextline": "true",
+        "confidence": 0.789
+      },
+      {
+        "boundingBox": [
+          [
+            1357,
+            306
+          ],
+          [
+            1357,
+            737
+          ],
+          [
+            1387,
+            306
+          ],
+          [
+            1387,
+            737
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "尚爲米賈所尊重者、豈偶然也乎。",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            1317,
+            264
+          ],
+          [
+            1317,
+            281
+          ],
+          [
+            1333,
+            264
+          ],
+          [
+            1333,
+            281
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "塲",
+        "isTextline": "true",
+        "confidence": 0.492
+      },
+      {
+        "boundingBox": [
+          [
+            1269,
+            265
+          ],
+          [
+            1269,
+            281
+          ],
+          [
+            1284,
+            265
+          ],
+          [
+            1284,
+            281
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          [
+            1220,
+            263
+          ],
+          [
+            1220,
+            282
+          ],
+          [
+            1235,
+            263
+          ],
+          [
+            1235,
+            282
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.44
+      },
+      {
+        "boundingBox": [
+          [
+            851,
+            450
+          ],
+          [
+            851,
+            782
+          ],
+          [
+            885,
+            450
+          ],
+          [
+            885,
+            782
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "酒田米会所の商習慣",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            721,
+            261
+          ],
+          [
+            721,
+            282
+          ],
+          [
+            738,
+            261
+          ],
+          [
+            738,
+            282
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "酒",
+        "isTextline": "true",
+        "confidence": 0.477
+      },
+      {
+        "boundingBox": [
+          [
+            684,
+            263
+          ],
+          [
+            684,
+            280
+          ],
+          [
+            700,
+            263
+          ],
+          [
+            700,
+            280
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "田",
+        "isTextline": "true",
+        "confidence": 0.449
+      },
+      {
+        "boundingBox": [
+          [
+            646,
+            264
+          ],
+          [
+            646,
+            281
+          ],
+          [
+            662,
+            264
+          ],
+          [
+            662,
+            281
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "米",
+        "isTextline": "true",
+        "confidence": 0.454
+      },
+      {
+        "boundingBox": [
+          [
+            571,
+            264
+          ],
+          [
+            571,
+            281
+          ],
+          [
+            587,
+            264
+          ],
+          [
+            587,
+            281
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "所",
+        "isTextline": "true",
+        "confidence": 0.404
+      },
+      {
+        "boundingBox": [
+          [
+            605,
+            263
+          ],
+          [
+            605,
+            282
+          ],
+          [
+            624,
+            263
+          ],
+          [
+            624,
+            282
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "會",
+        "isTextline": "true",
+        "confidence": 0.382
+      },
+      {
+        "boundingBox": [
+          [
+            499,
+            266
+          ],
+          [
+            499,
+            283
+          ],
+          [
+            514,
+            266
+          ],
+          [
+            514,
+            283
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "商",
+        "isTextline": "true",
+        "confidence": 0.404
+      },
+      {
+        "boundingBox": [
+          [
+            534,
+            266
+          ],
+          [
+            534,
+            281
+          ],
+          [
+            548,
+            266
+          ],
+          [
+            548,
+            281
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.351
+      },
+      {
+        "boundingBox": [
+          [
+            462,
+            265
+          ],
+          [
+            462,
+            283
+          ],
+          [
+            478,
+            265
+          ],
+          [
+            478,
+            283
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "習",
+        "isTextline": "true",
+        "confidence": 0.375
+      },
+      {
+        "boundingBox": [
+          [
+            428,
+            264
+          ],
+          [
+            428,
+            282
+          ],
+          [
+            444,
+            264
+          ],
+          [
+            444,
+            282
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "増",
+        "isTextline": "true",
+        "confidence": 0.424
+      },
+      {
+        "boundingBox": [
+          [
+            787,
+            302
+          ],
+          [
+            787,
+            1325
+          ],
+          [
+            828,
+            302
+          ],
+          [
+            828,
+            1325
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "酒田米會所の商習慣を述ぶるに當り、先づ酒田の地勢に就て一言せざるを得ず。蓋し、酒田の地たる一",
+        "isTextline": "true",
+        "confidence": 0.858
+      },
+      {
+        "boundingBox": [
+          [
+            744,
+            308
+          ],
+          [
+            744,
+            1323
+          ],
+          [
+            787,
+            308
+          ],
+          [
+            787,
+            1323
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "西方一帶は、日本海に面したる港灣にして、最上河の下流に當るを以て、運漕甚だ便宜あり、左れば",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            700,
+            308
+          ],
+          [
+            700,
+            1320
+          ],
+          [
+            743,
+            308
+          ],
+          [
+            743,
+            1320
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "最上河に副へる沿岸の諸侯は、皆其領内の納米及貢米は勿論、商人の持米に至る迄、大概此港に輸送",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            659,
+            311
+          ],
+          [
+            659,
+            1323
+          ],
+          [
+            701,
+            311
+          ],
+          [
+            701,
+            1323
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "し来り、米會所の相塲に據て賣買するの慣例にして、最上、米澤、荘内地方の米穀は、皆酒田に集中",
+        "isTextline": "true",
+        "confidence": 0.899
+      },
+      {
+        "boundingBox": [
+          [
+            615,
+            312
+          ],
+          [
+            615,
+            1329
+          ],
+          [
+            658,
+            312
+          ],
+          [
+            658,
+            1329
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "し来り、無虚数十萬石に上ることあり、又之を購入せんとして、長、雲、石、四、加、能、及松前地方",
+        "isTextline": "true",
+        "confidence": 0.89
+      },
+      {
+        "boundingBox": [
+          [
+            571,
+            311
+          ],
+          [
+            571,
+            1328
+          ],
+          [
+            614,
+            311
+          ],
+          [
+            614,
+            1328
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "の商買は、各其産物を和船に積載し來りて、商品を販賣して米穀を買取去るを例とす。左れど、北國",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            314
+          ],
+          [
+            530,
+            1326
+          ],
+          [
+            571,
+            314
+          ],
+          [
+            571,
+            1326
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "地方の常として、毎年冬十月頃より翌春二三月迄の期間は、北風烈しく巨浪怒號して、航海困難なる",
+        "isTextline": "true",
+        "confidence": 0.901
+      },
+      {
+        "boundingBox": [
+          [
+            487,
+            318
+          ],
+          [
+            487,
+            1323
+          ],
+          [
+            530,
+            318
+          ],
+          [
+            530,
+            1323
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "が爲め、入船少きに拘はらず、出穀多く、隨つて米價も低位に居るを以て、諸州の商賈、冬買と稱し",
+        "isTextline": "true",
+        "confidence": 0.898
+      },
+      {
+        "boundingBox": [
+          [
+            444,
+            313
+          ],
+          [
+            444,
+            1326
+          ],
+          [
+            485,
+            313
+          ],
+          [
+            485,
+            1326
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "て十一二月頃より此地に来りて正米を購入し置き、翌春一番船の上るを待て輸出し去るの常なるを以",
+        "isTextline": "true",
+        "confidence": 0.889
+      },
+      {
+        "boundingBox": [
+          [
+            402,
+            315
+          ],
+          [
+            402,
+            1324
+          ],
+          [
+            442,
+            315
+          ],
+          [
+            442,
+            1324
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "て、正米の取引甚だ繁昌にして、随つて米取引所の必要を生じ、其歩座方と稱する取引所の如きは、",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            359,
+            314
+          ],
+          [
+            359,
+            691
+          ],
+          [
+            385,
+            314
+          ],
+          [
+            385,
+            691
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "百四五十年以前の創立に係る者なり。",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            314,
+            311
+          ],
+          [
+            314,
+            1336
+          ],
+          [
+            358,
+            311
+          ],
+          [
+            358,
+            1336
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "▲荘内米札荘内藩の倉荷證書なり、今其由來を尋ぬるに、元和八年酒井忠勝の莊内に封ぜらるゝや、",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            271,
+            317
+          ],
+          [
+            271,
+            1337
+          ],
+          [
+            313,
+            317
+          ],
+          [
+            313,
+            1337
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "大に農業と開墾を獎勵せるを以て、米穀の産額年を追ふて遞加せり。時に非凡の才能を有せる柴谷武",
+        "isTextline": "true",
+        "confidence": 0.835
+      },
+      {
+        "boundingBox": [
+          [
+            249,
+            1114
+          ],
+          [
+            249,
+            1143
+          ],
+          [
+            273,
+            1114
+          ],
+          [
+            273,
+            1143
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "一、",
+        "isTextline": "true",
+        "confidence": 0.302
+      },
+      {
+        "boundingBox": [
+          [
+            183,
+            120
+          ],
+          [
+            183,
+            1453
+          ],
+          [
+            220,
+            120
+          ],
+          [
+            220,
+            1453
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "一月十一日には、日本の一日には、日本の",
+        "isTextline": "true",
+        "confidence": 0.377
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0006_0000.jpg",
+    "img_name": "0006_0000.jpg"
+  }
+}

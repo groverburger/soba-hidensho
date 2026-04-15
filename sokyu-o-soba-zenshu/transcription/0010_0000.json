@@ -1,0 +1,1112 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1747,
+            109
+          ],
+          [
+            1747,
+            1413
+          ],
+          [
+            1779,
+            109
+          ],
+          [
+            1779,
+            1413
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.472
+      },
+      {
+        "boundingBox": [
+          [
+            1666,
+            1119
+          ],
+          [
+            1666,
+            1140
+          ],
+          [
+            1686,
+            1119
+          ],
+          [
+            1686,
+            1140
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "四",
+        "isTextline": "true",
+        "confidence": 0.496
+      },
+      {
+        "boundingBox": [
+          [
+            1624,
+            875
+          ],
+          [
+            1624,
+            1308
+          ],
+          [
+            1643,
+            875
+          ],
+          [
+            1643,
+            1308
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "五〇",
+        "isTextline": "true",
+        "confidence": 0.514
+      },
+      {
+        "boundingBox": [
+          [
+            1623,
+            374
+          ],
+          [
+            1623,
+            858
+          ],
+          [
+            1655,
+            374
+          ],
+          [
+            1655,
+            858
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "第卅八章利運の節心得方の事。",
+        "isTextline": "true",
+        "confidence": 0.728
+      },
+      {
+        "boundingBox": [
+          [
+            1576,
+            895
+          ],
+          [
+            1576,
+            1311
+          ],
+          [
+            1594,
+            895
+          ],
+          [
+            1594,
+            1311
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "五一",
+        "isTextline": "true",
+        "confidence": 0.643
+      },
+      {
+        "boundingBox": [
+          [
+            1574,
+            374
+          ],
+          [
+            1574,
+            871
+          ],
+          [
+            1606,
+            374
+          ],
+          [
+            1606,
+            871
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "第卅九章勝に乘る可からざる事。",
+        "isTextline": "true",
+        "confidence": 0.775
+      },
+      {
+        "boundingBox": [
+          [
+            1524,
+            376
+          ],
+          [
+            1524,
+            920
+          ],
+          [
+            1555,
+            376
+          ],
+          [
+            1555,
+            920
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "第四十章底ねらひ、天井ねらひの事。",
+        "isTextline": "true",
+        "confidence": 0.733
+      },
+      {
+        "boundingBox": [
+          [
+            1524,
+            912
+          ],
+          [
+            1524,
+            1308
+          ],
+          [
+            1545,
+            912
+          ],
+          [
+            1545,
+            1308
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・",
+        "isTextline": "true",
+        "confidence": 0.484
+      },
+      {
+        "boundingBox": [
+          [
+            1476,
+            375
+          ],
+          [
+            1476,
+            779
+          ],
+          [
+            1506,
+            375
+          ],
+          [
+            1506,
+            779
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "第四十一章上げ留見様の事。",
+        "isTextline": "true",
+        "confidence": 0.657
+      },
+      {
+        "boundingBox": [
+          [
+            1424,
+            375
+          ],
+          [
+            1424,
+            1013
+          ],
+          [
+            1457,
+            375
+          ],
+          [
+            1457,
+            1013
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "第四十二章相塲無高下十人が十人退屈の事。",
+        "isTextline": "true",
+        "confidence": 0.678
+      },
+      {
+        "boundingBox": [
+          [
+            1377,
+            879
+          ],
+          [
+            1377,
+            1310
+          ],
+          [
+            1397,
+            879
+          ],
+          [
+            1397,
+            1310
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一",
+        "isTextline": "true",
+        "confidence": 0.374
+      },
+      {
+        "boundingBox": [
+          [
+            1375,
+            366
+          ],
+          [
+            1375,
+            927
+          ],
+          [
+            1407,
+            366
+          ],
+          [
+            1407,
+            927
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "第四十三章霜月限買入、心得方の事。",
+        "isTextline": "true",
+        "confidence": 0.655
+      },
+      {
+        "boundingBox": [
+          [
+            1328,
+            918
+          ],
+          [
+            1328,
+            1307
+          ],
+          [
+            1347,
+            918
+          ],
+          [
+            1347,
+            1307
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "一",
+        "isTextline": "true",
+        "confidence": 0.436
+      },
+      {
+        "boundingBox": [
+          [
+            1324,
+            381
+          ],
+          [
+            1324,
+            1324
+          ],
+          [
+            1356,
+            381
+          ],
+          [
+            1356,
+            1324
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "第四十四章上相塲にて利運心得方の事。",
+        "isTextline": "true",
+        "confidence": 0.607
+      },
+      {
+        "boundingBox": [
+          [
+            1272,
+            377
+          ],
+          [
+            1272,
+            1325
+          ],
+          [
+            1305,
+            377
+          ],
+          [
+            1305,
+            1325
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "第四十五章下相塲にて利運心得方の事六〇",
+        "isTextline": "true",
+        "confidence": 0.632
+      },
+      {
+        "boundingBox": [
+          [
+            1226,
+            373
+          ],
+          [
+            1226,
+            873
+          ],
+          [
+            1256,
+            373
+          ],
+          [
+            1256,
+            873
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "第四十六章新米は、買方に可付事。",
+        "isTextline": "true",
+        "confidence": 0.416
+      },
+      {
+        "boundingBox": [
+          [
+            1223,
+            372
+          ],
+          [
+            1223,
+            1316
+          ],
+          [
+            1256,
+            372
+          ],
+          [
+            1256,
+            1316
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "第四十六章新米は、買方に可付事。…………………………………………………………………………………………………………………………………",
+        "isTextline": "true",
+        "confidence": 0.595
+      },
+      {
+        "boundingBox": [
+          [
+            1173,
+            365
+          ],
+          [
+            1173,
+            1332
+          ],
+          [
+            1204,
+            365
+          ],
+          [
+            1204,
+            1332
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "第四十七章賣方駈引六ケ敷事。",
+        "isTextline": "true",
+        "confidence": 0.615
+      },
+      {
+        "boundingBox": [
+          [
+            1125,
+            371
+          ],
+          [
+            1125,
+            914
+          ],
+          [
+            1156,
+            371
+          ],
+          [
+            1156,
+            914
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "第四十八章三位の外の教、守る可き事。",
+        "isTextline": "true",
+        "confidence": 0.578
+      },
+      {
+        "boundingBox": [
+          [
+            1123,
+            377
+          ],
+          [
+            1123,
+            1325
+          ],
+          [
+            1156,
+            377
+          ],
+          [
+            1156,
+            1325
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "第四十八章三位の外の教、守る可き事。六四",
+        "isTextline": "true",
+        "confidence": 0.64
+      },
+      {
+        "boundingBox": [
+          [
+            1072,
+            370
+          ],
+          [
+            1072,
+            1336
+          ],
+          [
+            1108,
+            370
+          ],
+          [
+            1108,
+            1336
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "第四十九章夏中涼敷時は、油斷ならぬ事。",
+        "isTextline": "true",
+        "confidence": 0.707
+      },
+      {
+        "boundingBox": [
+          [
+            1028,
+            367
+          ],
+          [
+            1028,
+            826
+          ],
+          [
+            1060,
+            367
+          ],
+          [
+            1060,
+            826
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "第五十章諸方上作年心得の事。",
+        "isTextline": "true",
+        "confidence": 0.679
+      },
+      {
+        "boundingBox": [
+          [
+            1029,
+            559
+          ],
+          [
+            1029,
+            1318
+          ],
+          [
+            1054,
+            559
+          ],
+          [
+            1054,
+            1318
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "諸方上作年心得の事。六九",
+        "isTextline": "true",
+        "confidence": 0.308
+      },
+      {
+        "boundingBox": [
+          [
+            730,
+            275
+          ],
+          [
+            730,
+            296
+          ],
+          [
+            746,
+            275
+          ],
+          [
+            746,
+            296
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "、",
+        "isTextline": "true",
+        "confidence": 0.319
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            279
+          ],
+          [
+            439,
+            298
+          ],
+          [
+            455,
+            279
+          ],
+          [
+            455,
+            298
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "次",
+        "isTextline": "true",
+        "confidence": 0.383
+      },
+      {
+        "boundingBox": [
+          [
+            876,
+            381
+          ],
+          [
+            876,
+            807
+          ],
+          [
+            911,
+            381
+          ],
+          [
+            911,
+            807
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "第五十一章七月三位頭月の事。",
+        "isTextline": "true",
+        "confidence": 0.56
+      },
+      {
+        "boundingBox": [
+          [
+            830,
+            383
+          ],
+          [
+            830,
+            1359
+          ],
+          [
+            870,
+            383
+          ],
+          [
+            870,
+            1359
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "第五十二章冬より春迄金拂底、大崩の事。………………………七四",
+        "isTextline": "true",
+        "confidence": 0.496
+      },
+      {
+        "boundingBox": [
+          [
+            826,
+            384
+          ],
+          [
+            826,
+            943
+          ],
+          [
+            866,
+            384
+          ],
+          [
+            866,
+            943
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "第五十二章冬より春迄金拂底、大崩の事。",
+        "isTextline": "true",
+        "confidence": 0.611
+      },
+      {
+        "boundingBox": [
+          [
+            779,
+            372
+          ],
+          [
+            779,
+            1381
+          ],
+          [
+            818,
+            372
+          ],
+          [
+            818,
+            1381
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "第五十三章天井直段、底直段、三年續きの事。…………………七五一",
+        "isTextline": "true",
+        "confidence": 0.603
+      },
+      {
+        "boundingBox": [
+          [
+            728,
+            379
+          ],
+          [
+            728,
+            1345
+          ],
+          [
+            768,
+            379
+          ],
+          [
+            768,
+            1345
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "第五十四章天井の考、百俵上げ的の事。",
+        "isTextline": "true",
+        "confidence": 0.665
+      },
+      {
+        "boundingBox": [
+          [
+            677,
+            383
+          ],
+          [
+            677,
+            805
+          ],
+          [
+            711,
+            383
+          ],
+          [
+            711,
+            805
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "第五十五章六月崩し見様の事。",
+        "isTextline": "true",
+        "confidence": 0.729
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            378
+          ],
+          [
+            628,
+            1085
+          ],
+          [
+            667,
+            378
+          ],
+          [
+            667,
+            1085
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "第五十六章上れば扨こそ、下れば扨こそ、决心の事。",
+        "isTextline": "true",
+        "confidence": 0.643
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            383
+          ],
+          [
+            579,
+            892
+          ],
+          [
+            614,
+            383
+          ],
+          [
+            614,
+            892
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "第五十七章弱氣不利運、心得違の事。",
+        "isTextline": "true",
+        "confidence": 0.743
+      },
+      {
+        "boundingBox": [
+          [
+            534,
+            383
+          ],
+          [
+            534,
+            1340
+          ],
+          [
+            569,
+            383
+          ],
+          [
+            569,
+            1340
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "第五十八章豊年の米、不可賣事。",
+        "isTextline": "true",
+        "confidence": 0.61
+      },
+      {
+        "boundingBox": [
+          [
+            529,
+            383
+          ],
+          [
+            529,
+            860
+          ],
+          [
+            565,
+            383
+          ],
+          [
+            565,
+            860
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "第五十八章豊年の米、不可賣事。",
+        "isTextline": "true",
+        "confidence": 0.742
+      },
+      {
+        "boundingBox": [
+          [
+            485,
+            388
+          ],
+          [
+            485,
+            1354
+          ],
+          [
+            521,
+            388
+          ],
+          [
+            521,
+            1354
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "第五十九章後悔に二つある事。……………………………………………………………………八一",
+        "isTextline": "true",
+        "confidence": 0.553
+      },
+      {
+        "boundingBox": [
+          [
+            480,
+            385
+          ],
+          [
+            480,
+            811
+          ],
+          [
+            514,
+            385
+          ],
+          [
+            514,
+            811
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "第五十九章後悔に二つある事。",
+        "isTextline": "true",
+        "confidence": 0.796
+      },
+      {
+        "boundingBox": [
+          [
+            431,
+            385
+          ],
+          [
+            431,
+            941
+          ],
+          [
+            468,
+            385
+          ],
+          [
+            468,
+            941
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "第六十章毎日の相塲に氣を付可申事。",
+        "isTextline": "true",
+        "confidence": 0.705
+      },
+      {
+        "boundingBox": [
+          [
+            386,
+            397
+          ],
+          [
+            386,
+            1385
+          ],
+          [
+            425,
+            397
+          ],
+          [
+            425,
+            1385
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "第六十一章米、人、我、三つ揃ひ候時の事。…………………………八三",
+        "isTextline": "true",
+        "confidence": 0.425
+      },
+      {
+        "boundingBox": [
+          [
+            381,
+            385
+          ],
+          [
+            381,
+            948
+          ],
+          [
+            420,
+            385
+          ],
+          [
+            420,
+            948
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "第六十一章米、人、我、三つ揃ひ候時の事。",
+        "isTextline": "true",
+        "confidence": 0.723
+      },
+      {
+        "boundingBox": [
+          [
+            334,
+            380
+          ],
+          [
+            334,
+            1404
+          ],
+          [
+            372,
+            380
+          ],
+          [
+            372,
+            1404
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "第六十二章底直段買重ねの事。",
+        "isTextline": "true",
+        "confidence": 0.534
+      },
+      {
+        "boundingBox": [
+          [
+            286,
+            380
+          ],
+          [
+            286,
+            1386
+          ],
+          [
+            326,
+            380
+          ],
+          [
+            326,
+            1386
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "第六十三章下げ相塲は、上げ相塲と大違ひの事。……………………八週",
+        "isTextline": "true",
+        "confidence": 0.493
+      },
+      {
+        "boundingBox": [
+          [
+            280,
+            386
+          ],
+          [
+            280,
+            1039
+          ],
+          [
+            322,
+            386
+          ],
+          [
+            322,
+            1039
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "第六十三章下げ相塲は、上げ相塲と大違ひの事。",
+        "isTextline": "true",
+        "confidence": 0.612
+      },
+      {
+        "boundingBox": [
+          [
+            257,
+            1124
+          ],
+          [
+            257,
+            1147
+          ],
+          [
+            276,
+            1124
+          ],
+          [
+            276,
+            1147
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "五",
+        "isTextline": "true",
+        "confidence": 0.502
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0010_0000.jpg",
+    "img_name": "0010_0000.jpg"
+  }
+}

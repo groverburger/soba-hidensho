@@ -1,0 +1,962 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1720,
+            360
+          ],
+          [
+            1720,
+            385
+          ],
+          [
+            1745,
+            360
+          ],
+          [
+            1745,
+            385
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "十一日",
+        "isTextline": "true",
+        "confidence": 0.552
+      },
+      {
+        "boundingBox": [
+          [
+            1712,
+            1110
+          ],
+          [
+            1712,
+            1145
+          ],
+          [
+            1732,
+            1110
+          ],
+          [
+            1732,
+            1145
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "三八",
+        "isTextline": "true",
+        "confidence": 0.507
+      },
+      {
+        "boundingBox": [
+          [
+            1669,
+            338
+          ],
+          [
+            1669,
+            1316
+          ],
+          [
+            1701,
+            338
+          ],
+          [
+            1701,
+            1316
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "相塲を演ずる者である。暴風に於けるも亦然りて、要を云へば、天災時季の相塲と云ふ者は、急に",
+        "isTextline": "true",
+        "confidence": 0.801
+      },
+      {
+        "boundingBox": [
+          [
+            1624,
+            338
+          ],
+          [
+            1624,
+            1324
+          ],
+          [
+            1656,
+            338
+          ],
+          [
+            1656,
+            1324
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "上れば急に下げ、又急に下れば、又急に上る者と心得て宜い。併し是は、十中の八九の汎論であ",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            1592,
+            343
+          ],
+          [
+            1592,
+            375
+          ],
+          [
+            1611,
+            343
+          ],
+          [
+            1611,
+            375
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.588
+      },
+      {
+        "boundingBox": [
+          [
+            1504,
+            264
+          ],
+          [
+            1504,
+            285
+          ],
+          [
+            1522,
+            264
+          ],
+          [
+            1522,
+            285
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.377
+      },
+      {
+        "boundingBox": [
+          [
+            1440,
+            266
+          ],
+          [
+            1440,
+            285
+          ],
+          [
+            1457,
+            266
+          ],
+          [
+            1457,
+            285
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "箱",
+        "isTextline": "true",
+        "confidence": 0.402
+      },
+      {
+        "boundingBox": [
+          [
+            1468,
+            266
+          ],
+          [
+            1468,
+            285
+          ],
+          [
+            1488,
+            266
+          ],
+          [
+            1488,
+            285
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.403
+      },
+      {
+        "boundingBox": [
+          [
+            1375,
+            266
+          ],
+          [
+            1375,
+            285
+          ],
+          [
+            1393,
+            266
+          ],
+          [
+            1393,
+            285
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "傷",
+        "isTextline": "true",
+        "confidence": 0.371
+      },
+      {
+        "boundingBox": [
+          [
+            1407,
+            266
+          ],
+          [
+            1407,
+            285
+          ],
+          [
+            1425,
+            266
+          ],
+          [
+            1425,
+            285
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.391
+      },
+      {
+        "boundingBox": [
+          [
+            1341,
+            266
+          ],
+          [
+            1341,
+            285
+          ],
+          [
+            1359,
+            266
+          ],
+          [
+            1359,
+            285
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.366
+      },
+      {
+        "boundingBox": [
+          [
+            1309,
+            266
+          ],
+          [
+            1309,
+            284
+          ],
+          [
+            1325,
+            266
+          ],
+          [
+            1325,
+            284
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.408
+      },
+      {
+        "boundingBox": [
+          [
+            1278,
+            266
+          ],
+          [
+            1278,
+            284
+          ],
+          [
+            1293,
+            266
+          ],
+          [
+            1293,
+            284
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "上",
+        "isTextline": "true",
+        "confidence": 0.396
+      },
+      {
+        "boundingBox": [
+          [
+            1246,
+            266
+          ],
+          [
+            1246,
+            284
+          ],
+          [
+            1261,
+            266
+          ],
+          [
+            1261,
+            284
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.4
+      },
+      {
+        "boundingBox": [
+          [
+            1513,
+            487
+          ],
+          [
+            1513,
+            962
+          ],
+          [
+            1545,
+            487
+          ],
+          [
+            1545,
+            962
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "第二十四章上作年の米売崩しの事",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            1450,
+            319
+          ],
+          [
+            1450,
+            1315
+          ],
+          [
+            1480,
+            319
+          ],
+          [
+            1480,
+            1315
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一最上此方共上作の年、冬中より正月頃迄、釣合高直の米は、三月中の日より四月中の日の間にて、",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            1414,
+            314
+          ],
+          [
+            1414,
+            488
+          ],
+          [
+            1437,
+            314
+          ],
+          [
+            1437,
+            488
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "賣崩しあるべし。",
+        "isTextline": "true",
+        "confidence": 0.849
+      },
+      {
+        "boundingBox": [
+          [
+            1362,
+            333
+          ],
+          [
+            1362,
+            1320
+          ],
+          [
+            1394,
+            333
+          ],
+          [
+            1394,
+            1320
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "(釋)最上とは、莊内の隣國で、今の村山最上の兩郡地方を指すのであつて、云心は、近國及當地",
+        "isTextline": "true",
+        "confidence": 0.849
+      },
+      {
+        "boundingBox": [
+          [
+            1319,
+            337
+          ],
+          [
+            1319,
+            1317
+          ],
+          [
+            1351,
+            337
+          ],
+          [
+            1351,
+            1317
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "共上作の年でも、何等歟の事情があつて、他所相塲に比べ、釣合高直の位置に持合つて居る時は、",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            1276,
+            336
+          ],
+          [
+            1276,
+            1314
+          ],
+          [
+            1310,
+            336
+          ],
+          [
+            1310,
+            1314
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "其内に現物の輸入もあるであらうし、而して少し下ケ目になると、投米新賣抔が一時に顯はれるか",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            1239,
+            330
+          ],
+          [
+            1239,
+            825
+          ],
+          [
+            1265,
+            330
+          ],
+          [
+            1265,
+            825
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "ら、彼岸前後にかけて、大崩れとなる者である。",
+        "isTextline": "true",
+        "confidence": 0.91
+      },
+      {
+        "boundingBox": [
+          [
+            1165,
+            485
+          ],
+          [
+            1165,
+            992
+          ],
+          [
+            1198,
+            485
+          ],
+          [
+            1198,
+            992
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "第二十五章作合取沙汰前方掛引の事",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            1100,
+            317
+          ],
+          [
+            1100,
+            1305
+          ],
+          [
+            1135,
+            317
+          ],
+          [
+            1135,
+            1305
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "一作合、申分出る頃は、七月中の日の頃也。上作と申ならし候ても、何等の沙汰出來る者故、其前方、",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            1064,
+            313
+          ],
+          [
+            1064,
+            564
+          ],
+          [
+            1089,
+            313
+          ],
+          [
+            1089,
+            564
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "掛引致し可申事肝要也。",
+        "isTextline": "true",
+        "confidence": 0.84
+      },
+      {
+        "boundingBox": [
+          [
+            907,
+            329
+          ],
+          [
+            907,
+            750
+          ],
+          [
+            935,
+            329
+          ],
+          [
+            935,
+            750
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "申分と云ふのは、故障のとである。",
+        "isTextline": "true",
+        "confidence": 0.882
+      },
+      {
+        "boundingBox": [
+          [
+            866,
+            329
+          ],
+          [
+            866,
+            1322
+          ],
+          [
+            901,
+            329
+          ],
+          [
+            901,
+            1322
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "意は、初め好順を唱へて、作柄を譽めそやして居ても、七月中旬頃からは、何處に洪水があつたと",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            821,
+            321
+          ],
+          [
+            821,
+            1318
+          ],
+          [
+            859,
+            321
+          ],
+          [
+            859,
+            1318
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "か、又は何處に虫害があつたとか、乃至亦何處に低氣壓が起つたとか云ふて、動もすれば、上勝の",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            776,
+            321
+          ],
+          [
+            776,
+            1231
+          ],
+          [
+            813,
+            321
+          ],
+          [
+            813,
+            1231
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "者であるから、其前方に賣つた者は其覺悟て、手仕舞の駈引をして置くと、肝要である。",
+        "isTextline": "true",
+        "confidence": 0.872
+      },
+      {
+        "boundingBox": [
+          [
+            708,
+            483
+          ],
+          [
+            708,
+            933
+          ],
+          [
+            743,
+            483
+          ],
+          [
+            743,
+            933
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "第二十六章正月利運持越しの事",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            646,
+            320
+          ],
+          [
+            646,
+            1328
+          ],
+          [
+            682,
+            320
+          ],
+          [
+            682,
+            1328
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "一正月利運の米、二月へ持越すと、甚だ宜しからず。正月の内、サツパリと仕舞ふべき也。尤も、十",
+        "isTextline": "true",
+        "confidence": 0.877
+      },
+      {
+        "boundingBox": [
+          [
+            604,
+            318
+          ],
+          [
+            604,
+            778
+          ],
+          [
+            632,
+            318
+          ],
+          [
+            632,
+            778
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "二月の模樣にて、正月思入を立ることは格別也。",
+        "isTextline": "true",
+        "confidence": 0.887
+      },
+      {
+        "boundingBox": [
+          [
+            561,
+            325
+          ],
+          [
+            561,
+            1332
+          ],
+          [
+            596,
+            325
+          ],
+          [
+            596,
+            1332
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "次章に述ぶる如く、正二兩月の相塲は、一と目高下で、正月上れば二月下げ、又正月下げ、又正月下げ、又正月下れば",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            518,
+            338
+          ],
+          [
+            518,
+            1324
+          ],
+          [
+            553,
+            338
+          ],
+          [
+            553,
+            1324
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "二月上ることが多いから、正月に利運の付た米ならば、早速に手仕廻するがよい。併し、是は相塲毎",
+        "isTextline": "true",
+        "confidence": 0.888
+      },
+      {
+        "boundingBox": [
+          [
+            474,
+            334
+          ],
+          [
+            474,
+            1314
+          ],
+          [
+            510,
+            334
+          ],
+          [
+            510,
+            1314
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "月の常勢に就て云ふ者であつて、正月二月、引續ひて同じ様に高下せんとも限らないが、夫は、十",
+        "isTextline": "true",
+        "confidence": 0.859
+      },
+      {
+        "boundingBox": [
+          [
+            430,
+            323
+          ],
+          [
+            430,
+            1262
+          ],
+          [
+            465,
+            323
+          ],
+          [
+            465,
+            1262
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "二月の相場の動き工合で分るから、夫に因て思惑を立てた商内は、此限りにあらずである。",
+        "isTextline": "true",
+        "confidence": 0.829
+      },
+      {
+        "boundingBox": [
+          [
+            362,
+            492
+          ],
+          [
+            362,
+            1051
+          ],
+          [
+            397,
+            492
+          ],
+          [
+            397,
+            1051
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "第二十七章正二売買退屈四五六崩しの事",
+        "isTextline": "true",
+        "confidence": 0.777
+      },
+      {
+        "boundingBox": [
+          [
+            298,
+            298
+          ],
+          [
+            298,
+            1345
+          ],
+          [
+            336,
+            298
+          ],
+          [
+            336,
+            1345
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "一正二兩月の相塲は、大高下なき者也。但し、右兩月の相塲は、正月上れば二月下げ、正月下れば二",
+        "isTextline": "true",
+        "confidence": 0.817
+      },
+      {
+        "boundingBox": [
+          [
+            271,
+            1115
+          ],
+          [
+            271,
+            1151
+          ],
+          [
+            292,
+            1115
+          ],
+          [
+            292,
+            1151
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "三九",
+        "isTextline": "true",
+        "confidence": 0.419
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0034_0000.jpg",
+    "img_name": "0034_0000.jpg"
+  }
+}

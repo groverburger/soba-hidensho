@@ -1,0 +1,1487 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1760,
+            374
+          ],
+          [
+            1760,
+            401
+          ],
+          [
+            1783,
+            374
+          ],
+          [
+            1783,
+            401
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "新",
+        "isTextline": "true",
+        "confidence": 0.425
+      },
+      {
+        "boundingBox": [
+          [
+            1758,
+            664
+          ],
+          [
+            1758,
+            759
+          ],
+          [
+            1783,
+            664
+          ],
+          [
+            1783,
+            759
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "二十六俵",
+        "isTextline": "true",
+        "confidence": 0.428
+      },
+      {
+        "boundingBox": [
+          [
+            1717,
+            375
+          ],
+          [
+            1717,
+            498
+          ],
+          [
+            1740,
+            375
+          ],
+          [
+            1740,
+            498
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "十月八日迄",
+        "isTextline": "true",
+        "confidence": 0.582
+      },
+      {
+        "boundingBox": [
+          [
+            1715,
+            374
+          ],
+          [
+            1715,
+            775
+          ],
+          [
+            1742,
+            374
+          ],
+          [
+            1742,
+            775
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "十月八日迄三十八俵",
+        "isTextline": "true",
+        "confidence": 0.497
+      },
+      {
+        "boundingBox": [
+          [
+            1673,
+            376
+          ],
+          [
+            1673,
+            447
+          ],
+          [
+            1696,
+            376
+          ],
+          [
+            1696,
+            447
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "十一月",
+        "isTextline": "true",
+        "confidence": 0.422
+      },
+      {
+        "boundingBox": [
+          [
+            1671,
+            366
+          ],
+          [
+            1671,
+            771
+          ],
+          [
+            1698,
+            366
+          ],
+          [
+            1698,
+            771
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "十一月三十一俵",
+        "isTextline": "true",
+        "confidence": 0.524
+      },
+      {
+        "boundingBox": [
+          [
+            1632,
+            376
+          ],
+          [
+            1632,
+            447
+          ],
+          [
+            1654,
+            376
+          ],
+          [
+            1654,
+            447
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "十二月",
+        "isTextline": "true",
+        "confidence": 0.407
+      },
+      {
+        "boundingBox": [
+          [
+            1630,
+            368
+          ],
+          [
+            1630,
+            781
+          ],
+          [
+            1657,
+            368
+          ],
+          [
+            1657,
+            781
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "十二月三十俵二分",
+        "isTextline": "true",
+        "confidence": 0.52
+      },
+      {
+        "boundingBox": [
+          [
+            1802,
+            1125
+          ],
+          [
+            1802,
+            1175
+          ],
+          [
+            1823,
+            1125
+          ],
+          [
+            1823,
+            1175
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "一六八",
+        "isTextline": "true",
+        "confidence": 0.552
+      },
+      {
+        "boundingBox": [
+          [
+            1589,
+            353
+          ],
+          [
+            1589,
+            402
+          ],
+          [
+            1611,
+            353
+          ],
+          [
+            1611,
+            402
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "翌寅",
+        "isTextline": "true",
+        "confidence": 0.404
+      },
+      {
+        "boundingBox": [
+          [
+            1548,
+            659
+          ],
+          [
+            1548,
+            1140
+          ],
+          [
+            1571,
+            659
+          ],
+          [
+            1571,
+            1140
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "二十五俵五分(天一天上日丙天井百二十五俵上げ)",
+        "isTextline": "true",
+        "confidence": 0.564
+      },
+      {
+        "boundingBox": [
+          [
+            1545,
+            661
+          ],
+          [
+            1545,
+            802
+          ],
+          [
+            1570,
+            661
+          ],
+          [
+            1570,
+            802
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "同同同二十五俵五分",
+        "isTextline": "true",
+        "confidence": 0.366
+      },
+      {
+        "boundingBox": [
+          [
+            1545,
+            375
+          ],
+          [
+            1545,
+            425
+          ],
+          [
+            1568,
+            375
+          ],
+          [
+            1568,
+            425
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "正月",
+        "isTextline": "true",
+        "confidence": 0.379
+      },
+      {
+        "boundingBox": [
+          [
+            1502,
+            374
+          ],
+          [
+            1502,
+            424
+          ],
+          [
+            1525,
+            374
+          ],
+          [
+            1525,
+            424
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "六月",
+        "isTextline": "true",
+        "confidence": 0.398
+      },
+      {
+        "boundingBox": [
+          [
+            1501,
+            664
+          ],
+          [
+            1501,
+            758
+          ],
+          [
+            1527,
+            664
+          ],
+          [
+            1527,
+            758
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "二十九俵",
+        "isTextline": "true",
+        "confidence": 0.535
+      },
+      {
+        "boundingBox": [
+          [
+            1460,
+            374
+          ],
+          [
+            1460,
+            424
+          ],
+          [
+            1482,
+            374
+          ],
+          [
+            1482,
+            424
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "八月",
+        "isTextline": "true",
+        "confidence": 0.375
+      },
+      {
+        "boundingBox": [
+          [
+            1461,
+            663
+          ],
+          [
+            1461,
+            756
+          ],
+          [
+            1484,
+            663
+          ],
+          [
+            1484,
+            756
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "三十四俵",
+        "isTextline": "true",
+        "confidence": 0.382
+      },
+      {
+        "boundingBox": [
+          [
+            1460,
+            660
+          ],
+          [
+            1460,
+            993
+          ],
+          [
+            1486,
+            660
+          ],
+          [
+            1486,
+            993
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "三十四俵八十五俵下げ)",
+        "isTextline": "true",
+        "confidence": 0.487
+      },
+      {
+        "boundingBox": [
+          [
+            1418,
+            326
+          ],
+          [
+            1418,
+            466
+          ],
+          [
+            1442,
+            326
+          ],
+          [
+            1442,
+            466
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "寛政六寅年",
+        "isTextline": "true",
+        "confidence": 0.511
+      },
+      {
+        "boundingBox": [
+          [
+            1417,
+            544
+          ],
+          [
+            1417,
+            730
+          ],
+          [
+            1442,
+            544
+          ],
+          [
+            1442,
+            730
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "塞子九月甲",
+        "isTextline": "true",
+        "confidence": 0.436
+      },
+      {
+        "boundingBox": [
+          [
+            1375,
+            374
+          ],
+          [
+            1375,
+            401
+          ],
+          [
+            1398,
+            374
+          ],
+          [
+            1398,
+            401
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "新",
+        "isTextline": "true",
+        "confidence": 0.377
+      },
+      {
+        "boundingBox": [
+          [
+            1375,
+            662
+          ],
+          [
+            1375,
+            757
+          ],
+          [
+            1399,
+            662
+          ],
+          [
+            1399,
+            757
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "三十二俵",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            1373,
+            372
+          ],
+          [
+            1373,
+            410
+          ],
+          [
+            1398,
+            372
+          ],
+          [
+            1398,
+            410
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "新一",
+        "isTextline": "true",
+        "confidence": 0.328
+      },
+      {
+        "boundingBox": [
+          [
+            1371,
+            340
+          ],
+          [
+            1371,
+            784
+          ],
+          [
+            1400,
+            340
+          ],
+          [
+            1400,
+            784
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "新三十二俵",
+        "isTextline": "true",
+        "confidence": 0.405
+      },
+      {
+        "boundingBox": [
+          [
+            1333,
+            374
+          ],
+          [
+            1333,
+            423
+          ],
+          [
+            1356,
+            374
+          ],
+          [
+            1356,
+            423
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "八月",
+        "isTextline": "true",
+        "confidence": 0.383
+      },
+      {
+        "boundingBox": [
+          [
+            1332,
+            660
+          ],
+          [
+            1332,
+            804
+          ],
+          [
+            1356,
+            660
+          ],
+          [
+            1356,
+            804
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "同同同二十八俵三分",
+        "isTextline": "true",
+        "confidence": 0.447
+      },
+      {
+        "boundingBox": [
+          [
+            1289,
+            352
+          ],
+          [
+            1289,
+            402
+          ],
+          [
+            1314,
+            352
+          ],
+          [
+            1314,
+            402
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "翌卯",
+        "isTextline": "true",
+        "confidence": 0.594
+      },
+      {
+        "boundingBox": [
+          [
+            1246,
+            374
+          ],
+          [
+            1246,
+            445
+          ],
+          [
+            1270,
+            374
+          ],
+          [
+            1270,
+            445
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "三月迄",
+        "isTextline": "true",
+        "confidence": 0.496
+      },
+      {
+        "boundingBox": [
+          [
+            1243,
+            373
+          ],
+          [
+            1243,
+            736
+          ],
+          [
+            1272,
+            373
+          ],
+          [
+            1272,
+            736
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "三月迄持合",
+        "isTextline": "true",
+        "confidence": 0.469
+      },
+      {
+        "boundingBox": [
+          [
+            1215,
+            376
+          ],
+          [
+            1215,
+            446
+          ],
+          [
+            1232,
+            376
+          ],
+          [
+            1232,
+            446
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "四月より",
+        "isTextline": "true",
+        "confidence": 0.356
+      },
+      {
+        "boundingBox": [
+          [
+            1201,
+            365
+          ],
+          [
+            1201,
+            786
+          ],
+          [
+            1230,
+            365
+          ],
+          [
+            1230,
+            786
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "四月まで二十九俵位",
+        "isTextline": "true",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          [
+            1197,
+            376
+          ],
+          [
+            1197,
+            445
+          ],
+          [
+            1215,
+            376
+          ],
+          [
+            1215,
+            445
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "五月まで",
+        "isTextline": "true",
+        "confidence": 0.341
+      },
+      {
+        "boundingBox": [
+          [
+            1162,
+            659
+          ],
+          [
+            1162,
+            1062
+          ],
+          [
+            1186,
+            659
+          ],
+          [
+            1186,
+            1062
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "二十五俵五分位(甲天井六十五俵位上げ)",
+        "isTextline": "true",
+        "confidence": 0.524
+      },
+      {
+        "boundingBox": [
+          [
+            1160,
+            376
+          ],
+          [
+            1160,
+            449
+          ],
+          [
+            1186,
+            376
+          ],
+          [
+            1186,
+            449
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "六七月",
+        "isTextline": "true",
+        "confidence": 0.37
+      },
+      {
+        "boundingBox": [
+          [
+            1157,
+            360
+          ],
+          [
+            1157,
+            1074
+          ],
+          [
+            1188,
+            360
+          ],
+          [
+            1188,
+            1074
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "六七月二十五俵五分位(甲天井六十五俵位上げ)",
+        "isTextline": "true",
+        "confidence": 0.364
+      },
+      {
+        "boundingBox": [
+          [
+            947,
+            554
+          ],
+          [
+            947,
+            744
+          ],
+          [
+            971,
+            554
+          ],
+          [
+            971,
+            744
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "一塞子七月甲",
+        "isTextline": "true",
+        "confidence": 0.457
+      },
+      {
+        "boundingBox": [
+          [
+            945,
+            337
+          ],
+          [
+            945,
+            482
+          ],
+          [
+            971,
+            337
+          ],
+          [
+            971,
+            482
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "寛政七卯年",
+        "isTextline": "true",
+        "confidence": 0.561
+      },
+      {
+        "boundingBox": [
+          [
+            903,
+            368
+          ],
+          [
+            903,
+            781
+          ],
+          [
+            928,
+            368
+          ],
+          [
+            928,
+            781
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "新三十一俵",
+        "isTextline": "true",
+        "confidence": 0.516
+      },
+      {
+        "boundingBox": [
+          [
+            860,
+            382
+          ],
+          [
+            860,
+            811
+          ],
+          [
+            887,
+            382
+          ],
+          [
+            887,
+            811
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "七月廿三日二十三俵五分",
+        "isTextline": "true",
+        "confidence": 0.556
+      },
+      {
+        "boundingBox": [
+          [
+            829,
+            863
+          ],
+          [
+            829,
+            1090
+          ],
+          [
+            848,
+            863
+          ],
+          [
+            848,
+            1090
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "丑の日戊天井百廿八俵上げ)",
+        "isTextline": "true",
+        "confidence": 0.535
+      },
+      {
+        "boundingBox": [
+          [
+            816,
+            384
+          ],
+          [
+            816,
+            521
+          ],
+          [
+            840,
+            384
+          ],
+          [
+            840,
+            521
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "十一月十八日",
+        "isTextline": "true",
+        "confidence": 0.505
+      },
+      {
+        "boundingBox": [
+          [
+            775,
+            373
+          ],
+          [
+            775,
+            758
+          ],
+          [
+            801,
+            373
+          ],
+          [
+            801,
+            758
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "十二月二十俵",
+        "isTextline": "true",
+        "confidence": 0.512
+      },
+      {
+        "boundingBox": [
+          [
+            733,
+            364
+          ],
+          [
+            733,
+            410
+          ],
+          [
+            756,
+            364
+          ],
+          [
+            756,
+            410
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "翌辰",
+        "isTextline": "true",
+        "confidence": 0.559
+      },
+      {
+        "boundingBox": [
+          [
+            732,
+            467
+          ],
+          [
+            732,
+            509
+          ],
+          [
+            748,
+            467
+          ],
+          [
+            748,
+            509
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "東京{",
+        "isTextline": "true",
+        "confidence": 0.359
+      },
+      {
+        "boundingBox": [
+          [
+            692,
+            671
+          ],
+          [
+            692,
+            787
+          ],
+          [
+            716,
+            671
+          ],
+          [
+            716,
+            787
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "十九俵より",
+        "isTextline": "true",
+        "confidence": 0.534
+      },
+      {
+        "boundingBox": [
+          [
+            690,
+            381
+          ],
+          [
+            690,
+            483
+          ],
+          [
+            712,
+            381
+          ],
+          [
+            712,
+            483
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "正二三月",
+        "isTextline": "true",
+        "confidence": 0.445
+      },
+      {
+        "boundingBox": [
+          [
+            650,
+            672
+          ],
+          [
+            650,
+            765
+          ],
+          [
+            675,
+            672
+          ],
+          [
+            675,
+            765
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "二十俵位",
+        "isTextline": "true",
+        "confidence": 0.538
+      },
+      {
+        "boundingBox": [
+          [
+            610,
+            801
+          ],
+          [
+            610,
+            1049
+          ],
+          [
+            634,
+            801
+          ],
+          [
+            634,
+            1049
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "到底也百二俵下げ)",
+        "isTextline": "true",
+        "confidence": 0.389
+      },
+      {
+        "boundingBox": [
+          [
+            609,
+            677
+          ],
+          [
+            609,
+            1047
+          ],
+          [
+            634,
+            677
+          ],
+          [
+            634,
+            1047
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "二十八俵五分(底也百二俵下げ)",
+        "isTextline": "true",
+        "confidence": 0.508
+      },
+      {
+        "boundingBox": [
+          [
+            607,
+            485
+          ],
+          [
+            607,
+            938
+          ],
+          [
+            632,
+            485
+          ],
+          [
+            632,
+            938
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "二日頃二十八俵五分(底也百",
+        "isTextline": "true",
+        "confidence": 0.354
+      },
+      {
+        "boundingBox": [
+          [
+            603,
+            361
+          ],
+          [
+            603,
+            1053
+          ],
+          [
+            633,
+            361
+          ],
+          [
+            633,
+            1053
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "六月廿二三日頃二十八俵五分(底也百二俵下げ)",
+        "isTextline": "true",
+        "confidence": 0.409
+      },
+      {
+        "boundingBox": [
+          [
+            565,
+            407
+          ],
+          [
+            565,
+            520
+          ],
+          [
+            586,
+            407
+          ],
+          [
+            586,
+            520
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "夫より又々",
+        "isTextline": "true",
+        "confidence": 0.724
+      },
+      {
+        "boundingBox": [
+          [
+            521,
+            425
+          ],
+          [
+            521,
+            659
+          ],
+          [
+            545,
+            425
+          ],
+          [
+            545,
+            659
+          ]
+        ],
+        "id": 52,
+        "isVertical": "true",
+        "text": "二十三俵半位迄上る也",
+        "isTextline": "true",
+        "confidence": 0.848
+      },
+      {
+        "boundingBox": [
+          [
+            476,
+            330
+          ],
+          [
+            476,
+            754
+          ],
+          [
+            501,
+            330
+          ],
+          [
+            501,
+            754
+          ]
+        ],
+        "id": 53,
+        "isVertical": "true",
+        "text": "寛政八辰年塞子五月甲",
+        "isTextline": "true",
+        "confidence": 0.614
+      },
+      {
+        "boundingBox": [
+          [
+            437,
+            676
+          ],
+          [
+            437,
+            813
+          ],
+          [
+            461,
+            676
+          ],
+          [
+            461,
+            813
+          ]
+        ],
+        "id": 54,
+        "isVertical": "true",
+        "text": "三十一俵四分",
+        "isTextline": "true",
+        "confidence": 0.654
+      },
+      {
+        "boundingBox": [
+          [
+            399,
+            870
+          ],
+          [
+            399,
+            1059
+          ],
+          [
+            419,
+            870
+          ],
+          [
+            419,
+            1059
+          ]
+        ],
+        "id": 55,
+        "isVertical": "true",
+        "text": "唯の日庚八十七俵上げ)",
+        "isTextline": "true",
+        "confidence": 0.498
+      },
+      {
+        "boundingBox": [
+          [
+            391,
+            377
+          ],
+          [
+            391,
+            1055
+          ],
+          [
+            420,
+            377
+          ],
+          [
+            420,
+            1055
+          ]
+        ],
+        "id": 56,
+        "isVertical": "true",
+        "text": "十一月十六日二十二俵八分(唯の日庚八十七俵上げ)",
+        "isTextline": "true",
+        "confidence": 0.482
+      },
+      {
+        "boundingBox": [
+          [
+            350,
+            388
+          ],
+          [
+            350,
+            435
+          ],
+          [
+            372,
+            388
+          ],
+          [
+            372,
+            435
+          ]
+        ],
+        "id": 57,
+        "isVertical": "true",
+        "text": "翌巳",
+        "isTextline": "true",
+        "confidence": 0.607
+      },
+      {
+        "boundingBox": [
+          [
+            318,
+            1136
+          ],
+          [
+            318,
+            1186
+          ],
+          [
+            337,
+            1136
+          ],
+          [
+            337,
+            1186
+          ]
+        ],
+        "id": 58,
+        "isVertical": "true",
+        "text": "一六九",
+        "isTextline": "true",
+        "confidence": 0.474
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0093_0000.jpg",
+    "img_name": "0093_0000.jpg"
+  }
+}

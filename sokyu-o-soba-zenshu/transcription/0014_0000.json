@@ -1,0 +1,1162 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1759,
+            83
+          ],
+          [
+            1759,
+            1451
+          ],
+          [
+            1796,
+            83
+          ],
+          [
+            1796,
+            1451
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.493
+      },
+      {
+        "boundingBox": [
+          [
+            1516,
+            259
+          ],
+          [
+            1516,
+            278
+          ],
+          [
+            1532,
+            259
+          ],
+          [
+            1532,
+            278
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.367
+      },
+      {
+        "boundingBox": [
+          [
+            1467,
+            260
+          ],
+          [
+            1467,
+            278
+          ],
+          [
+            1482,
+            260
+          ],
+          [
+            1482,
+            278
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            1419,
+            258
+          ],
+          [
+            1419,
+            278
+          ],
+          [
+            1434,
+            258
+          ],
+          [
+            1434,
+            278
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "翁",
+        "isTextline": "true",
+        "confidence": 0.377
+      },
+      {
+        "boundingBox": [
+          [
+            1370,
+            258
+          ],
+          [
+            1370,
+            277
+          ],
+          [
+            1386,
+            258
+          ],
+          [
+            1386,
+            277
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.363
+      },
+      {
+        "boundingBox": [
+          [
+            1321,
+            257
+          ],
+          [
+            1321,
+            277
+          ],
+          [
+            1339,
+            257
+          ],
+          [
+            1339,
+            277
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "塲",
+        "isTextline": "true",
+        "confidence": 0.343
+      },
+      {
+        "boundingBox": [
+          [
+            1272,
+            258
+          ],
+          [
+            1272,
+            276
+          ],
+          [
+            1288,
+            258
+          ],
+          [
+            1288,
+            276
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.317
+      },
+      {
+        "boundingBox": [
+          [
+            1222,
+            255
+          ],
+          [
+            1222,
+            278
+          ],
+          [
+            1239,
+            255
+          ],
+          [
+            1239,
+            278
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.317
+      },
+      {
+        "boundingBox": [
+          [
+            1707,
+            1112
+          ],
+          [
+            1707,
+            1145
+          ],
+          [
+            1729,
+            1112
+          ],
+          [
+            1729,
+            1145
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "三",
+        "isTextline": "true",
+        "confidence": 0.492
+      },
+      {
+        "boundingBox": [
+          [
+            1660,
+            367
+          ],
+          [
+            1660,
+            866
+          ],
+          [
+            1690,
+            367
+          ],
+          [
+            1690,
+            866
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "第六十四章買米、利運、取留心得の事。",
+        "isTextline": "true",
+        "confidence": 0.654
+      },
+      {
+        "boundingBox": [
+          [
+            1610,
+            362
+          ],
+          [
+            1610,
+            828
+          ],
+          [
+            1640,
+            362
+          ],
+          [
+            1640,
+            828
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "第六十五章商急ぐ可からざる事。",
+        "isTextline": "true",
+        "confidence": 0.767
+      },
+      {
+        "boundingBox": [
+          [
+            1559,
+            363
+          ],
+          [
+            1559,
+            1351
+          ],
+          [
+            1591,
+            363
+          ],
+          [
+            1591,
+            1351
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "第六十六章心易き人にも、賣買進め間敷事。…………………………………………………一四四",
+        "isTextline": "true",
+        "confidence": 0.717
+      },
+      {
+        "boundingBox": [
+          [
+            1515,
+            959
+          ],
+          [
+            1515,
+            1319
+          ],
+          [
+            1534,
+            959
+          ],
+          [
+            1534,
+            1319
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・",
+        "isTextline": "true",
+        "confidence": 0.344
+      },
+      {
+        "boundingBox": [
+          [
+            1510,
+            356
+          ],
+          [
+            1510,
+            969
+          ],
+          [
+            1541,
+            356
+          ],
+          [
+            1541,
+            969
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "「第六十七章前年賣方にて利運の人心得の事。",
+        "isTextline": "true",
+        "confidence": 0.656
+      },
+      {
+        "boundingBox": [
+          [
+            1459,
+            354
+          ],
+          [
+            1459,
+            1357
+          ],
+          [
+            1492,
+            354
+          ],
+          [
+            1492,
+            1357
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "第六十八章下相塲にて、利運落引の節、心得の事。……………………一四六",
+        "isTextline": "true",
+        "confidence": 0.715
+      },
+      {
+        "boundingBox": [
+          [
+            1410,
+            342
+          ],
+          [
+            1410,
+            1355
+          ],
+          [
+            1438,
+            342
+          ],
+          [
+            1438,
+            1355
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "第六十九章落に掛る人掛引の事。……………………………一四六",
+        "isTextline": "true",
+        "confidence": 0.457
+      },
+      {
+        "boundingBox": [
+          [
+            1411,
+            353
+          ],
+          [
+            1411,
+            826
+          ],
+          [
+            1441,
+            353
+          ],
+          [
+            1441,
+            826
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "、第六十九章落に掛る人掛引の事。",
+        "isTextline": "true",
+        "confidence": 0.756
+      },
+      {
+        "boundingBox": [
+          [
+            1361,
+            361
+          ],
+          [
+            1361,
+            897
+          ],
+          [
+            1390,
+            361
+          ],
+          [
+            1390,
+            897
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "第七十章夏中、雨勝に育ち候米の事。",
+        "isTextline": "true",
+        "confidence": 0.681
+      },
+      {
+        "boundingBox": [
+          [
+            1312,
+            363
+          ],
+          [
+            1312,
+            1341
+          ],
+          [
+            1339,
+            363
+          ],
+          [
+            1339,
+            1341
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "第七十一章平日心得の事。一四七",
+        "isTextline": "true",
+        "confidence": 0.62
+      },
+      {
+        "boundingBox": [
+          [
+            1311,
+            362
+          ],
+          [
+            1311,
+            728
+          ],
+          [
+            1341,
+            362
+          ],
+          [
+            1341,
+            728
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "第七十一章平日心得の事。",
+        "isTextline": "true",
+        "confidence": 0.607
+      },
+      {
+        "boundingBox": [
+          [
+            1266,
+            815
+          ],
+          [
+            1266,
+            1315
+          ],
+          [
+            1283,
+            815
+          ],
+          [
+            1283,
+            1315
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "一四七",
+        "isTextline": "true",
+        "confidence": 0.311
+      },
+      {
+        "boundingBox": [
+          [
+            1261,
+            361
+          ],
+          [
+            1261,
+            804
+          ],
+          [
+            1290,
+            361
+          ],
+          [
+            1290,
+            804
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "第七十二章買米の節、心得の事。",
+        "isTextline": "true",
+        "confidence": 0.685
+      },
+      {
+        "boundingBox": [
+          [
+            1208,
+            362
+          ],
+          [
+            1208,
+            1342
+          ],
+          [
+            1240,
+            362
+          ],
+          [
+            1240,
+            1342
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "第七十三章年中、商手の内にある時の事。……………………………………………………一四八",
+        "isTextline": "true",
+        "confidence": 0.708
+      },
+      {
+        "boundingBox": [
+          [
+            1157,
+            360
+          ],
+          [
+            1157,
+            1337
+          ],
+          [
+            1191,
+            360
+          ],
+          [
+            1191,
+            1337
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "第七十四章一日の相塲を考へ商致、不宜事。",
+        "isTextline": "true",
+        "confidence": 0.741
+      },
+      {
+        "boundingBox": [
+          [
+            1105,
+            361
+          ],
+          [
+            1105,
+            1331
+          ],
+          [
+            1141,
+            361
+          ],
+          [
+            1141,
+            1331
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "第七十五章年中の内、兩三度の外商塲なき事。……………………………一四九",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            1057,
+            358
+          ],
+          [
+            1057,
+            1335
+          ],
+          [
+            1091,
+            358
+          ],
+          [
+            1091,
+            1335
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "第七十六章商致節、金高見積りの事。一五〇",
+        "isTextline": "true",
+        "confidence": 0.643
+      },
+      {
+        "boundingBox": [
+          [
+            450,
+            262
+          ],
+          [
+            450,
+            281
+          ],
+          [
+            469,
+            262
+          ],
+          [
+            469,
+            281
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "次",
+        "isTextline": "true",
+        "confidence": 0.378
+      },
+      {
+        "boundingBox": [
+          [
+            744,
+            258
+          ],
+          [
+            744,
+            277
+          ],
+          [
+            761,
+            258
+          ],
+          [
+            761,
+            277
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "同",
+        "isTextline": "true",
+        "confidence": 0.338
+      },
+      {
+        "boundingBox": [
+          [
+            892,
+            357
+          ],
+          [
+            892,
+            865
+          ],
+          [
+            927,
+            357
+          ],
+          [
+            927,
+            865
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "第七十七章急に高下の節、心得の事。",
+        "isTextline": "true",
+        "confidence": 0.734
+      },
+      {
+        "boundingBox": [
+          [
+            844,
+            357
+          ],
+          [
+            844,
+            1348
+          ],
+          [
+            883,
+            357
+          ],
+          [
+            883,
+            1348
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "第七十八章持合の時慰みに商仕掛間敷事。………………………一五一",
+        "isTextline": "true",
+        "confidence": 0.6
+      },
+      {
+        "boundingBox": [
+          [
+            811,
+            832
+          ],
+          [
+            811,
+            1319
+          ],
+          [
+            834,
+            832
+          ],
+          [
+            834,
+            1319
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "一五二",
+        "isTextline": "true",
+        "confidence": 0.332
+      },
+      {
+        "boundingBox": [
+          [
+            799,
+            372
+          ],
+          [
+            799,
+            1338
+          ],
+          [
+            831,
+            372
+          ],
+          [
+            831,
+            1338
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "第七十九章秋米は、賣方無用の事。………………………………一五二",
+        "isTextline": "true",
+        "confidence": 0.453
+      },
+      {
+        "boundingBox": [
+          [
+            792,
+            364
+          ],
+          [
+            792,
+            818
+          ],
+          [
+            828,
+            364
+          ],
+          [
+            828,
+            818
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "第七十九章秋米は、売方無用の事",
+        "isTextline": "true",
+        "confidence": 0.807
+      },
+      {
+        "boundingBox": [
+          [
+            760,
+            802
+          ],
+          [
+            760,
+            1322
+          ],
+          [
+            781,
+            802
+          ],
+          [
+            781,
+            1322
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "。…………一五三",
+        "isTextline": "true",
+        "confidence": 0.529
+      },
+      {
+        "boundingBox": [
+          [
+            743,
+            359
+          ],
+          [
+            743,
+            806
+          ],
+          [
+            776,
+            359
+          ],
+          [
+            776,
+            806
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "第八十章此書、他見無用の事。",
+        "isTextline": "true",
+        "confidence": 0.809
+      },
+      {
+        "boundingBox": [
+          [
+            710,
+            810
+          ],
+          [
+            710,
+            1324
+          ],
+          [
+            731,
+            810
+          ],
+          [
+            731,
+            1324
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "一五三・",
+        "isTextline": "true",
+        "confidence": 0.56
+      },
+      {
+        "boundingBox": [
+          [
+            692,
+            361
+          ],
+          [
+            692,
+            796
+          ],
+          [
+            727,
+            361
+          ],
+          [
+            727,
+            796
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "第八十一章作割平均見様の事。",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            650,
+            382
+          ],
+          [
+            650,
+            1340
+          ],
+          [
+            680,
+            382
+          ],
+          [
+            680,
+            1340
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "第八十二章甲月の繰り方の事。…………………………………………一五五",
+        "isTextline": "true",
+        "confidence": 0.381
+      },
+      {
+        "boundingBox": [
+          [
+            643,
+            367
+          ],
+          [
+            643,
+            790
+          ],
+          [
+            677,
+            367
+          ],
+          [
+            677,
+            790
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "第八十二章甲月の繰り方の事。",
+        "isTextline": "true",
+        "confidence": 0.854
+      },
+      {
+        "boundingBox": [
+          [
+            599,
+            360
+          ],
+          [
+            599,
+            1335
+          ],
+          [
+            629,
+            360
+          ],
+          [
+            629,
+            1335
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "第八十三章年塞りの事。………………………………………………………一五六一",
+        "isTextline": "true",
+        "confidence": 0.562
+      },
+      {
+        "boundingBox": [
+          [
+            593,
+            363
+          ],
+          [
+            593,
+            701
+          ],
+          [
+            625,
+            363
+          ],
+          [
+            625,
+            701
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "第八十三章年塞りの事。",
+        "isTextline": "true",
+        "confidence": 0.736
+      },
+      {
+        "boundingBox": [
+          [
+            543,
+            364
+          ],
+          [
+            543,
+            1317
+          ],
+          [
+            585,
+            364
+          ],
+          [
+            585,
+            1317
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "第八十四章暦の上段下段の内にて、三日考ふべき日割の事。……一五六",
+        "isTextline": "true",
+        "confidence": 0.762
+      },
+      {
+        "boundingBox": [
+          [
+            493,
+            364
+          ],
+          [
+            493,
+            1319
+          ],
+          [
+            535,
+            364
+          ],
+          [
+            535,
+            1319
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "第八十五章三年塞、西へ廻る年の試めし、丼に、明和九年より寛政九年",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            444,
+            540
+          ],
+          [
+            444,
+            857
+          ],
+          [
+            478,
+            540
+          ],
+          [
+            478,
+            857
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "迄、酒田米商直段付の事。",
+        "isTextline": "true",
+        "confidence": 0.707
+      },
+      {
+        "boundingBox": [
+          [
+            293,
+            307
+          ],
+          [
+            293,
+            873
+          ],
+          [
+            343,
+            307
+          ],
+          [
+            343,
+            873
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "宗久翁相場全集下卷目次了",
+        "isTextline": "true",
+        "confidence": 0.785
+      },
+      {
+        "boundingBox": [
+          [
+            264,
+            1115
+          ],
+          [
+            264,
+            1171
+          ],
+          [
+            286,
+            1115
+          ],
+          [
+            286,
+            1171
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "一三、",
+        "isTextline": "true",
+        "confidence": 0.405
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0014_0000.jpg",
+    "img_name": "0014_0000.jpg"
+  }
+}

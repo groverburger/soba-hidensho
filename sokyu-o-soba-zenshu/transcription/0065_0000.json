@@ -1,0 +1,1162 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1817,
+            111
+          ],
+          [
+            1817,
+            1376
+          ],
+          [
+            1846,
+            111
+          ],
+          [
+            1846,
+            1376
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.369
+      },
+      {
+        "boundingBox": [
+          [
+            1751,
+            1094
+          ],
+          [
+            1751,
+            1145
+          ],
+          [
+            1775,
+            1094
+          ],
+          [
+            1775,
+            1145
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一〇〇",
+        "isTextline": "true",
+        "confidence": 0.478
+      },
+      {
+        "boundingBox": [
+          [
+            1682,
+            463
+          ],
+          [
+            1682,
+            1003
+          ],
+          [
+            1713,
+            463
+          ],
+          [
+            1713,
+            1003
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "第五章三年塞西の方へ廻る年心得の事",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            1539,
+            243
+          ],
+          [
+            1539,
+            266
+          ],
+          [
+            1555,
+            243
+          ],
+          [
+            1555,
+            266
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.378
+      },
+      {
+        "boundingBox": [
+          [
+            1505,
+            246
+          ],
+          [
+            1505,
+            266
+          ],
+          [
+            1522,
+            246
+          ],
+          [
+            1522,
+            266
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.412
+      },
+      {
+        "boundingBox": [
+          [
+            1473,
+            245
+          ],
+          [
+            1473,
+            267
+          ],
+          [
+            1490,
+            245
+          ],
+          [
+            1490,
+            267
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "鰕",
+        "isTextline": "true",
+        "confidence": 0.406
+      },
+      {
+        "boundingBox": [
+          [
+            1440,
+            246
+          ],
+          [
+            1440,
+            268
+          ],
+          [
+            1458,
+            246
+          ],
+          [
+            1458,
+            268
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.4
+      },
+      {
+        "boundingBox": [
+          [
+            1405,
+            246
+          ],
+          [
+            1405,
+            264
+          ],
+          [
+            1421,
+            246
+          ],
+          [
+            1421,
+            264
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "場",
+        "isTextline": "true",
+        "confidence": 0.375
+      },
+      {
+        "boundingBox": [
+          [
+            1372,
+            246
+          ],
+          [
+            1372,
+            264
+          ],
+          [
+            1389,
+            246
+          ],
+          [
+            1389,
+            264
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.391
+      },
+      {
+        "boundingBox": [
+          [
+            1341,
+            246
+          ],
+          [
+            1341,
+            265
+          ],
+          [
+            1357,
+            246
+          ],
+          [
+            1357,
+            265
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.396
+      },
+      {
+        "boundingBox": [
+          [
+            1308,
+            246
+          ],
+          [
+            1308,
+            264
+          ],
+          [
+            1324,
+            246
+          ],
+          [
+            1324,
+            264
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.355
+      },
+      {
+        "boundingBox": [
+          [
+            1276,
+            247
+          ],
+          [
+            1276,
+            265
+          ],
+          [
+            1292,
+            247
+          ],
+          [
+            1292,
+            265
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.379
+      },
+      {
+        "boundingBox": [
+          [
+            1619,
+            297
+          ],
+          [
+            1619,
+            1308
+          ],
+          [
+            1650,
+            297
+          ],
+          [
+            1650,
+            1308
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "一三年寒西の方へ廻る年は、米大に上る者也。但し、此事相違なし、夫共、御蔵米滯、又は札方申分",
+        "isTextline": "true",
+        "confidence": 0.875
+      },
+      {
+        "boundingBox": [
+          [
+            1576,
+            295
+          ],
+          [
+            1576,
+            1303
+          ],
+          [
+            1607,
+            295
+          ],
+          [
+            1607,
+            1303
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "出て、又数年上作續き、米澤山極安廻りの節、見合せ深く思入立つべからず。右變なく、日本中並に",
+        "isTextline": "true",
+        "confidence": 0.893
+      },
+      {
+        "boundingBox": [
+          [
+            1532,
+            290
+          ],
+          [
+            1532,
+            1304
+          ],
+          [
+            1562,
+            290
+          ],
+          [
+            1562,
+            1304
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "当地上作年にて、年柄より見越し安直段に候はゞ、隨分買入るべし。此三年塞に廻る年は、九州上方",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            1489,
+            285
+          ],
+          [
+            1489,
+            1318
+          ],
+          [
+            1519,
+            285
+          ],
+          [
+            1519,
+            1318
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "当地共に天災ある年也、疑ふ可からず。冬中天井直段出る後、少々引下げ居り、其後十一月正月三月甲",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            1446,
+            296
+          ],
+          [
+            1446,
+            1310
+          ],
+          [
+            1476,
+            296
+          ],
+          [
+            1476,
+            1310
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "に廻る故、此時五六十俵上ある也、疑ふべからず。此事、七月甲に廻る年、日本當地共上作にても見",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            1406,
+            292
+          ],
+          [
+            1406,
+            717
+          ],
+          [
+            1430,
+            292
+          ],
+          [
+            1430,
+            717
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "合せなく、六月より油斷なく買入るべし。",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            1360,
+            313
+          ],
+          [
+            1360,
+            1280
+          ],
+          [
+            1390,
+            313
+          ],
+          [
+            1390,
+            1280
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "(釋)本章は、必らずしも信ずべきことではないが、茲には、翁の本文通りに、解釋を下さう。",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            1315,
+            316
+          ],
+          [
+            1315,
+            1291
+          ],
+          [
+            1346,
+            316
+          ],
+          [
+            1346,
+            1291
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "偖卷末の繰方にある、西三年の塞、即ち亥子丑の三ヶ年は、相場が大に上げる者である。此事は、",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            1272,
+            317
+          ],
+          [
+            1272,
+            1301
+          ],
+          [
+            1302,
+            317
+          ],
+          [
+            1302,
+            1301
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "是迄の經驗に因ると、十中の八九は間違はないが、夫でも、建米たる券米が、空札發行で不渡だと",
+        "isTextline": "true",
+        "confidence": 0.904
+      },
+      {
+        "boundingBox": [
+          [
+            1229,
+            311
+          ],
+          [
+            1229,
+            1315
+          ],
+          [
+            1260,
+            311
+          ],
+          [
+            1260,
+            1315
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "か、又は、数年來の上作続きで、余剰米が澤山市場に溢れて居ると云ふ樣な年であれば、假令、此",
+        "isTextline": "true",
+        "confidence": 0.908
+      },
+      {
+        "boundingBox": [
+          [
+            1186,
+            318
+          ],
+          [
+            1186,
+            1306
+          ],
+          [
+            1217,
+            318
+          ],
+          [
+            1217,
+            1306
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "西三年寒に當る年でも、餘り上げはない者であるから、思惑を立てゝはならない、若し、右の樣な",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            1142,
+            319
+          ],
+          [
+            1142,
+            1301
+          ],
+          [
+            1173,
+            319
+          ],
+          [
+            1173,
+            1301
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "事情もなく、日本國中、就中當地方が上作であつて、作柄に比べて割安ならば、十分に買思惑をし",
+        "isTextline": "true",
+        "confidence": 0.896
+      },
+      {
+        "boundingBox": [
+          [
+            1099,
+            321
+          ],
+          [
+            1099,
+            1298
+          ],
+          [
+            1129,
+            321
+          ],
+          [
+            1129,
+            1298
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "ても宜しい。此三年寒に廻る年は、是迄の例に依ると、天災ある廻り合せの順になつて居る、此際、",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            761,
+            247
+          ],
+          [
+            761,
+            268
+          ],
+          [
+            777,
+            247
+          ],
+          [
+            777,
+            268
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "第",
+        "isTextline": "true",
+        "confidence": 0.336
+      },
+      {
+        "boundingBox": [
+          [
+            934,
+            317
+          ],
+          [
+            934,
+            1302
+          ],
+          [
+            966,
+            317
+          ],
+          [
+            966,
+            1302
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "冬天井を出した跡に、少し引下げて居る内、十一月甲正月甲三月甲となるから、此時、各五六十俵",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            893,
+            322
+          ],
+          [
+            893,
+            536
+          ],
+          [
+            916,
+            322
+          ],
+          [
+            916,
+            536
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "の上となる者である。",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            848,
+            319
+          ],
+          [
+            848,
+            1303
+          ],
+          [
+            879,
+            319
+          ],
+          [
+            879,
+            1303
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "前に説いた大上の事は、月々干支の繰方で七月甲に回り合せた年は、六月から、油断なく買方に回",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            804,
+            319
+          ],
+          [
+            804,
+            1304
+          ],
+          [
+            835,
+            319
+          ],
+          [
+            835,
+            1304
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "るべきである。本文但し書の中に、御蔵米滯りとあるのは、在米の堆積して減らないのを指すの",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            766,
+            323
+          ],
+          [
+            766,
+            361
+          ],
+          [
+            788,
+            323
+          ],
+          [
+            788,
+            361
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "だ。",
+        "isTextline": "true",
+        "confidence": 0.66
+      },
+      {
+        "boundingBox": [
+          [
+            681,
+            248
+          ],
+          [
+            681,
+            268
+          ],
+          [
+            697,
+            248
+          ],
+          [
+            697,
+            268
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "天",
+        "isTextline": "true",
+        "confidence": 0.362
+      },
+      {
+        "boundingBox": [
+          [
+            693,
+            471
+          ],
+          [
+            693,
+            806
+          ],
+          [
+            723,
+            471
+          ],
+          [
+            723,
+            806
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "第六章天一天上日の事",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            602,
+            250
+          ],
+          [
+            602,
+            268
+          ],
+          [
+            617,
+            250
+          ],
+          [
+            617,
+            268
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "上",
+        "isTextline": "true",
+        "confidence": 0.308
+      },
+      {
+        "boundingBox": [
+          [
+            569,
+            251
+          ],
+          [
+            569,
+            268
+          ],
+          [
+            583,
+            251
+          ],
+          [
+            583,
+            268
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "日",
+        "isTextline": "true",
+        "confidence": 0.324
+      },
+      {
+        "boundingBox": [
+          [
+            536,
+            250
+          ],
+          [
+            536,
+            267
+          ],
+          [
+            551,
+            250
+          ],
+          [
+            551,
+            267
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.319
+      },
+      {
+        "boundingBox": [
+          [
+            503,
+            250
+          ],
+          [
+            503,
+            268
+          ],
+          [
+            519,
+            250
+          ],
+          [
+            519,
+            268
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "事",
+        "isTextline": "true",
+        "confidence": 0.386
+      },
+      {
+        "boundingBox": [
+          [
+            632,
+            304
+          ],
+          [
+            632,
+            678
+          ],
+          [
+            658,
+            304
+          ],
+          [
+            658,
+            678
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "一天一天上、八専入、丑日、不成日、",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            588,
+            303
+          ],
+          [
+            588,
+            1304
+          ],
+          [
+            618,
+            303
+          ],
+          [
+            618,
+            1304
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "右、米、段々上げ、百俵近く成り、此日に當つて高直段出る時は、是即ち年中行附天井直段也。此後、",
+        "isTextline": "true",
+        "confidence": 0.884
+      },
+      {
+        "boundingBox": [
+          [
+            544,
+            293
+          ],
+          [
+            544,
+            1306
+          ],
+          [
+            574,
+            293
+          ],
+          [
+            574,
+            1306
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "是より高直出ることなし、右三年寒の年、七月甲に廻る年、决して此日天井也。但し、通例の年にても、",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            501,
+            291
+          ],
+          [
+            501,
+            1318
+          ],
+          [
+            532,
+            291
+          ],
+          [
+            532,
+            1318
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "此日天井出るとあれども、多くは稀也、唯の日天井出る也。米段々上げ、百俵近く成り、廿九日晦日",
+        "isTextline": "true",
+        "confidence": 0.862
+      },
+      {
+        "boundingBox": [
+          [
+            459,
+            295
+          ],
+          [
+            459,
+            1040
+          ],
+          [
+            487,
+            295
+          ],
+          [
+            487,
+            1040
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "兩日、一二分方も景氣克く出る時は、其次月、天井直段出ると心得べし。",
+        "isTextline": "true",
+        "confidence": 0.895
+      },
+      {
+        "boundingBox": [
+          [
+            415,
+            317
+          ],
+          [
+            415,
+            1308
+          ],
+          [
+            445,
+            317
+          ],
+          [
+            445,
+            1308
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "(釋)本章は、三年西塞、七月甲に當る年の經驗を記した者で、西塞の七月甲年は、上げ詰る時は、",
+        "isTextline": "true",
+        "confidence": 0.879
+      },
+      {
+        "boundingBox": [
+          [
+            371,
+            319
+          ],
+          [
+            371,
+            1306
+          ],
+          [
+            402,
+            319
+          ],
+          [
+            402,
+            1306
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "斷じて、右の中の一つに當る日、天井を打つ者であるが、其他の年は、極りはなく、右に當らない、",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            328,
+            320
+          ],
+          [
+            328,
+            1302
+          ],
+          [
+            359,
+            320
+          ],
+          [
+            359,
+            1302
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "唯の日に、天井を打つ者だ。そして其天井の見樣は、段々と數ケ月上げて來て、晦日頃の内氣配が",
+        "isTextline": "true",
+        "confidence": 0.854
+      },
+      {
+        "boundingBox": [
+          [
+            292,
+            1101
+          ],
+          [
+            292,
+            1152
+          ],
+          [
+            314,
+            1101
+          ],
+          [
+            314,
+            1152
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "一〇一",
+        "isTextline": "true",
+        "confidence": 0.502
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0065_0000.jpg",
+    "img_name": "0065_0000.jpg"
+  }
+}

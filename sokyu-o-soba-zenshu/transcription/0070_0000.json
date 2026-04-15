@@ -1,0 +1,1312 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1547,
+            258
+          ],
+          [
+            1547,
+            279
+          ],
+          [
+            1562,
+            258
+          ],
+          [
+            1562,
+            279
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.512
+      },
+      {
+        "boundingBox": [
+          [
+            1515,
+            259
+          ],
+          [
+            1515,
+            279
+          ],
+          [
+            1529,
+            259
+          ],
+          [
+            1529,
+            279
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.48
+      },
+      {
+        "boundingBox": [
+          [
+            1482,
+            256
+          ],
+          [
+            1482,
+            278
+          ],
+          [
+            1499,
+            256
+          ],
+          [
+            1499,
+            278
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "翁",
+        "isTextline": "true",
+        "confidence": 0.443
+      },
+      {
+        "boundingBox": [
+          [
+            1448,
+            255
+          ],
+          [
+            1448,
+            277
+          ],
+          [
+            1466,
+            255
+          ],
+          [
+            1466,
+            277
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.427
+      },
+      {
+        "boundingBox": [
+          [
+            1417,
+            254
+          ],
+          [
+            1417,
+            277
+          ],
+          [
+            1434,
+            254
+          ],
+          [
+            1434,
+            277
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "場",
+        "isTextline": "true",
+        "confidence": 0.422
+      },
+      {
+        "boundingBox": [
+          [
+            1383,
+            254
+          ],
+          [
+            1383,
+            276
+          ],
+          [
+            1401,
+            254
+          ],
+          [
+            1401,
+            276
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.388
+      },
+      {
+        "boundingBox": [
+          [
+            1350,
+            253
+          ],
+          [
+            1350,
+            276
+          ],
+          [
+            1368,
+            253
+          ],
+          [
+            1368,
+            276
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.408
+      },
+      {
+        "boundingBox": [
+          [
+            1320,
+            253
+          ],
+          [
+            1320,
+            272
+          ],
+          [
+            1335,
+            253
+          ],
+          [
+            1335,
+            272
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.376
+      },
+      {
+        "boundingBox": [
+          [
+            1286,
+            248
+          ],
+          [
+            1286,
+            272
+          ],
+          [
+            1302,
+            248
+          ],
+          [
+            1302,
+            272
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.375
+      },
+      {
+        "boundingBox": [
+          [
+            1755,
+            1111
+          ],
+          [
+            1755,
+            1166
+          ],
+          [
+            1778,
+            1111
+          ],
+          [
+            1778,
+            1166
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一一",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            1713,
+            319
+          ],
+          [
+            1713,
+            1317
+          ],
+          [
+            1745,
+            319
+          ],
+          [
+            1745,
+            1317
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "者也。其故は、強氣の味方には、風雨、旱魃、虫付、洪水等の天災、時變、船間等あり。弱氣の味方は、天保",
+        "isTextline": "true",
+        "confidence": 0.773
+      },
+      {
+        "boundingBox": [
+          [
+            1669,
+            330
+          ],
+          [
+            1669,
+            1316
+          ],
+          [
+            1701,
+            330
+          ],
+          [
+            1701,
+            1316
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "の適順、入米の外には、一の材料あるとなきを以てなりと説明したが。又本節同樣の意味合である。",
+        "isTextline": "true",
+        "confidence": 0.892
+      },
+      {
+        "boundingBox": [
+          [
+            1625,
+            329
+          ],
+          [
+            1625,
+            1319
+          ],
+          [
+            1657,
+            329
+          ],
+          [
+            1657,
+            1319
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "但し書は酒田米会所の商習慣として、賣方が其仕掛た月の内に手仕廻をしないで、其次の月に商内",
+        "isTextline": "true",
+        "confidence": 0.904
+      },
+      {
+        "boundingBox": [
+          [
+            1582,
+            320
+          ],
+          [
+            1582,
+            1329
+          ],
+          [
+            1616,
+            320
+          ],
+          [
+            1616,
+            1329
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "を持越す時は、其月数に應じ、差引勘定の時になつて、其相手方たる買方から賣方に向つて、利足",
+        "isTextline": "true",
+        "confidence": 0.912
+      },
+      {
+        "boundingBox": [
+          [
+            1538,
+            327
+          ],
+          [
+            1538,
+            1315
+          ],
+          [
+            1571,
+            327
+          ],
+          [
+            1571,
+            1315
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "として一ケ月に何程づゝかを仕拂はねばならぬとは、已に首卷に説いて置た通りてあつて、賣方は、",
+        "isTextline": "true",
+        "confidence": 0.891
+      },
+      {
+        "boundingBox": [
+          [
+            1496,
+            328
+          ],
+          [
+            1496,
+            1308
+          ],
+          [
+            1528,
+            328
+          ],
+          [
+            1528,
+            1308
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "買方から利足を取つた上に、利がのる時は、甚だ都合のよい樣なものゝ、萬一作難等が出る時は、",
+        "isTextline": "true",
+        "confidence": 0.909
+      },
+      {
+        "boundingBox": [
+          [
+            1452,
+            319
+          ],
+          [
+            1452,
+            1318
+          ],
+          [
+            1484,
+            319
+          ],
+          [
+            1484,
+            1318
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "急上げとなつて、買埋方が後れて損となり易い者だ。之に反して、買方は、利足の仕拂方で、甚だ",
+        "isTextline": "true",
+        "confidence": 0.903
+      },
+      {
+        "boundingBox": [
+          [
+            1409,
+            323
+          ],
+          [
+            1409,
+            1319
+          ],
+          [
+            1441,
+            323
+          ],
+          [
+            1441,
+            1319
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "割の惡い様だが、呼吸にかゝる時は、大上げする者だから、利足の如きは利盆金に比ぶれば、ほん",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            1366,
+            326
+          ],
+          [
+            1366,
+            1318
+          ],
+          [
+            1398,
+            326
+          ],
+          [
+            1398,
+            1318
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "の九牛が一毛で、少しも苦にならない者である。特に秋になつては、ヤレ鎌入不足だの、譽め過ぎ",
+        "isTextline": "true",
+        "confidence": 0.894
+      },
+      {
+        "boundingBox": [
+          [
+            1324,
+            327
+          ],
+          [
+            1324,
+            1312
+          ],
+          [
+            1356,
+            327
+          ],
+          [
+            1356,
+            1312
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "だの、秋上不良だの、何の彼のと、相塲は上勝の者であるから、賣方となつては、割の惡い者であ",
+        "isTextline": "true",
+        "confidence": 0.899
+      },
+      {
+        "boundingBox": [
+          [
+            1280,
+            320
+          ],
+          [
+            1280,
+            1310
+          ],
+          [
+            1312,
+            320
+          ],
+          [
+            1312,
+            1310
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "る。其外に、割の悪い理由を云へば、受渡の時に、買方は金の準備計りをすればよいが、賣方は、",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            1238,
+            314
+          ],
+          [
+            1238,
+            1069
+          ],
+          [
+            1266,
+            314
+          ],
+          [
+            1266,
+            1069
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "資金を用意した上に、米を集めて渡さなければならぬと云ふ手數がある。",
+        "isTextline": "true",
+        "confidence": 0.894
+      },
+      {
+        "boundingBox": [
+          [
+            1169,
+            472
+          ],
+          [
+            1169,
+            939
+          ],
+          [
+            1201,
+            472
+          ],
+          [
+            1201,
+            939
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "第十五章豊年に米売り不可申事",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            1111,
+            302
+          ],
+          [
+            1111,
+            636
+          ],
+          [
+            1135,
+            302
+          ],
+          [
+            1135,
+            636
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "一豊年に、米賣るなと云事あり。一",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            750,
+            256
+          ],
+          [
+            750,
+            277
+          ],
+          [
+            766,
+            256
+          ],
+          [
+            766,
+            277
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "第",
+        "isTextline": "true",
+        "confidence": 0.392
+      },
+      {
+        "boundingBox": [
+          [
+            730,
+            257
+          ],
+          [
+            730,
+            277
+          ],
+          [
+            744,
+            257
+          ],
+          [
+            744,
+            277
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "十",
+        "isTextline": "true",
+        "confidence": 0.391
+      },
+      {
+        "boundingBox": [
+          [
+            708,
+            256
+          ],
+          [
+            708,
+            278
+          ],
+          [
+            723,
+            256
+          ],
+          [
+            723,
+            278
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "六",
+        "isTextline": "true",
+        "confidence": 0.406
+      },
+      {
+        "boundingBox": [
+          [
+            685,
+            257
+          ],
+          [
+            685,
+            277
+          ],
+          [
+            701,
+            257
+          ],
+          [
+            701,
+            277
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "章",
+        "isTextline": "true",
+        "confidence": 0.393
+      },
+      {
+        "boundingBox": [
+          [
+            665,
+            257
+          ],
+          [
+            665,
+            277
+          ],
+          [
+            679,
+            257
+          ],
+          [
+            679,
+            277
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "凶",
+        "isTextline": "true",
+        "confidence": 0.401
+      },
+      {
+        "boundingBox": [
+          [
+            644,
+            256
+          ],
+          [
+            644,
+            278
+          ],
+          [
+            659,
+            256
+          ],
+          [
+            659,
+            278
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "年",
+        "isTextline": "true",
+        "confidence": 0.355
+      },
+      {
+        "boundingBox": [
+          [
+            927,
+            301
+          ],
+          [
+            927,
+            1326
+          ],
+          [
+            959,
+            301
+          ],
+          [
+            959,
+            1326
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "但し、豊年故人気弱く、相塲見越し安き也。日本中、上作稀也。何れの國か欠作出る故、九十月より",
+        "isTextline": "true",
+        "confidence": 0.821
+      },
+      {
+        "boundingBox": [
+          [
+            882,
+            300
+          ],
+          [
+            882,
+            1007
+          ],
+          [
+            912,
+            300
+          ],
+          [
+            912,
+            1007
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "大阪上げ來る可し。又豊年と諸方へ聞ゆる故、冬中買人も來る可し。",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            838,
+            325
+          ],
+          [
+            838,
+            1314
+          ],
+          [
+            871,
+            325
+          ],
+          [
+            871,
+            1314
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "(釋)本章は豊年となる樣な年は順氣が順々に善くなるから、相塲も豐作を見越して、段々下がれ",
+        "isTextline": "true",
+        "confidence": 0.908
+      },
+      {
+        "boundingBox": [
+          [
+            796,
+            327
+          ],
+          [
+            796,
+            1312
+          ],
+          [
+            829,
+            327
+          ],
+          [
+            829,
+            1312
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "る迄は引下げて居て、豊年と保險の付いた時分には、已に相塲は底を極めて居る者である。併し、",
+        "isTextline": "true",
+        "confidence": 0.899
+      },
+      {
+        "boundingBox": [
+          [
+            752,
+            317
+          ],
+          [
+            752,
+            1318
+          ],
+          [
+            786,
+            317
+          ],
+          [
+            786,
+            1318
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "日本中、揃て上作と云ふとは極稀で、何れの国かに、作柄の故障が出る者であるから夫等を動機と",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            709,
+            328
+          ],
+          [
+            709,
+            1169
+          ],
+          [
+            740,
+            328
+          ],
+          [
+            740,
+            1169
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "して、相塲は引返す者である。是れが、即ち豐年に米を賣るなと云ふ訓戒の理由だ。",
+        "isTextline": "true",
+        "confidence": 0.854
+      },
+      {
+        "boundingBox": [
+          [
+            639,
+            477
+          ],
+          [
+            639,
+            911
+          ],
+          [
+            671,
+            477
+          ],
+          [
+            671,
+            911
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "第十六章凶年に米買不可申事",
+        "isTextline": "true",
+        "confidence": 0.831
+      },
+      {
+        "boundingBox": [
+          [
+            600,
+            258
+          ],
+          [
+            600,
+            278
+          ],
+          [
+            615,
+            258
+          ],
+          [
+            615,
+            278
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "米",
+        "isTextline": "true",
+        "confidence": 0.391
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            258
+          ],
+          [
+            579,
+            279
+          ],
+          [
+            595,
+            258
+          ],
+          [
+            595,
+            279
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "買",
+        "isTextline": "true",
+        "confidence": 0.387
+      },
+      {
+        "boundingBox": [
+          [
+            557,
+            258
+          ],
+          [
+            557,
+            277
+          ],
+          [
+            572,
+            258
+          ],
+          [
+            572,
+            277
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "不",
+        "isTextline": "true",
+        "confidence": 0.402
+      },
+      {
+        "boundingBox": [
+          [
+            537,
+            258
+          ],
+          [
+            537,
+            278
+          ],
+          [
+            551,
+            258
+          ],
+          [
+            551,
+            278
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "可",
+        "isTextline": "true",
+        "confidence": 0.395
+      },
+      {
+        "boundingBox": [
+          [
+            515,
+            256
+          ],
+          [
+            515,
+            278
+          ],
+          [
+            530,
+            256
+          ],
+          [
+            530,
+            278
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "申",
+        "isTextline": "true",
+        "confidence": 0.377
+      },
+      {
+        "boundingBox": [
+          [
+            491,
+            257
+          ],
+          [
+            491,
+            278
+          ],
+          [
+            506,
+            257
+          ],
+          [
+            506,
+            278
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "事",
+        "isTextline": "true",
+        "confidence": 0.421
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            313
+          ],
+          [
+            579,
+            640
+          ],
+          [
+            603,
+            313
+          ],
+          [
+            603,
+            640
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "一凶年に米買ふなと云ふとあり。",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            533,
+            303
+          ],
+          [
+            533,
+            1323
+          ],
+          [
+            566,
+            303
+          ],
+          [
+            566,
+            1323
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "但し、凶年故見越し高直に商出て、其上、地方他所の商人共思入多く、其外、町在共に無用の米も買",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            490,
+            307
+          ],
+          [
+            490,
+            1323
+          ],
+          [
+            523,
+            307
+          ],
+          [
+            523,
+            1323
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "取、札納旁々、作割よりも、七八九十月迄に上詰る、其上人氣張詰め夏中迄に持詰る故、極意は下る",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            447,
+            310
+          ],
+          [
+            447,
+            479
+          ],
+          [
+            471,
+            310
+          ],
+          [
+            471,
+            479
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "なり、心得べし。",
+        "isTextline": "true",
+        "confidence": 0.819
+      },
+      {
+        "boundingBox": [
+          [
+            403,
+            323
+          ],
+          [
+            403,
+            1321
+          ],
+          [
+            437,
+            323
+          ],
+          [
+            437,
+            1321
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "本章は、凶作の場合は、前章の説明と反對で、凶年であるから、相場は割高を叩く、割高の",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            361,
+            327
+          ],
+          [
+            361,
+            1324
+          ],
+          [
+            393,
+            327
+          ],
+          [
+            393,
+            1324
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "相場は、詰り下るに極まつて居るから、其上詰めた處は、大に警戒して買てはならぬと云ふのであ",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            323,
+            331
+          ],
+          [
+            323,
+            382
+          ],
+          [
+            343,
+            331
+          ],
+          [
+            343,
+            382
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.331
+      },
+      {
+        "boundingBox": [
+          [
+            320,
+            334
+          ],
+          [
+            320,
+            366
+          ],
+          [
+            339,
+            334
+          ],
+          [
+            339,
+            366
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.494
+      },
+      {
+        "boundingBox": [
+          [
+            285,
+            1109
+          ],
+          [
+            285,
+            1157
+          ],
+          [
+            305,
+            1109
+          ],
+          [
+            305,
+            1157
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "二一",
+        "isTextline": "true",
+        "confidence": 0.438
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0070_0000.jpg",
+    "img_name": "0070_0000.jpg"
+  }
+}

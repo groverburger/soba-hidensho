@@ -1,0 +1,962 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1548,
+            256
+          ],
+          [
+            1548,
+            278
+          ],
+          [
+            1563,
+            256
+          ],
+          [
+            1563,
+            278
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "宗",
+        "isTextline": "true",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          [
+            1516,
+            257
+          ],
+          [
+            1516,
+            277
+          ],
+          [
+            1530,
+            257
+          ],
+          [
+            1530,
+            277
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "久",
+        "isTextline": "true",
+        "confidence": 0.445
+      },
+      {
+        "boundingBox": [
+          [
+            1482,
+            255
+          ],
+          [
+            1482,
+            276
+          ],
+          [
+            1499,
+            255
+          ],
+          [
+            1499,
+            276
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "翁",
+        "isTextline": "true",
+        "confidence": 0.45
+      },
+      {
+        "boundingBox": [
+          [
+            1417,
+            253
+          ],
+          [
+            1417,
+            272
+          ],
+          [
+            1435,
+            253
+          ],
+          [
+            1435,
+            272
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "場",
+        "isTextline": "true",
+        "confidence": 0.378
+      },
+      {
+        "boundingBox": [
+          [
+            1449,
+            254
+          ],
+          [
+            1449,
+            276
+          ],
+          [
+            1467,
+            254
+          ],
+          [
+            1467,
+            276
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "相",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            1385,
+            254
+          ],
+          [
+            1385,
+            273
+          ],
+          [
+            1401,
+            254
+          ],
+          [
+            1401,
+            273
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "全",
+        "isTextline": "true",
+        "confidence": 0.372
+      },
+      {
+        "boundingBox": [
+          [
+            1351,
+            253
+          ],
+          [
+            1351,
+            272
+          ],
+          [
+            1369,
+            253
+          ],
+          [
+            1369,
+            272
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "集",
+        "isTextline": "true",
+        "confidence": 0.399
+      },
+      {
+        "boundingBox": [
+          [
+            1321,
+            253
+          ],
+          [
+            1321,
+            271
+          ],
+          [
+            1336,
+            253
+          ],
+          [
+            1336,
+            271
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "下",
+        "isTextline": "true",
+        "confidence": 0.379
+      },
+      {
+        "boundingBox": [
+          [
+            1287,
+            253
+          ],
+          [
+            1287,
+            270
+          ],
+          [
+            1302,
+            253
+          ],
+          [
+            1302,
+            270
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "卷",
+        "isTextline": "true",
+        "confidence": 0.397
+      },
+      {
+        "boundingBox": [
+          [
+            1757,
+            1108
+          ],
+          [
+            1757,
+            1159
+          ],
+          [
+            1777,
+            1108
+          ],
+          [
+            1777,
+            1159
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一一四",
+        "isTextline": "true",
+        "confidence": 0.443
+      },
+      {
+        "boundingBox": [
+          [
+            1714,
+            323
+          ],
+          [
+            1714,
+            1300
+          ],
+          [
+            1744,
+            323
+          ],
+          [
+            1744,
+            1300
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "延ばしの高も决して少額ではないのだが、凡べて、上作が二三年續く時は、不足した時の心持を占",
+        "isTextline": "true",
+        "confidence": 0.798
+      },
+      {
+        "boundingBox": [
+          [
+            1668,
+            329
+          ],
+          [
+            1668,
+            1321
+          ],
+          [
+            1700,
+            329
+          ],
+          [
+            1700,
+            1321
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "れて、需要者は冠婚喪祭の祝ひ事は勿論、日常の生活に至る迄、悉く米食の傾向を生ずる者で、此",
+        "isTextline": "true",
+        "confidence": 0.867
+      },
+      {
+        "boundingBox": [
+          [
+            1626,
+            327
+          ],
+          [
+            1626,
+            1319
+          ],
+          [
+            1657,
+            327
+          ],
+          [
+            1657,
+            1319
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "額も又決して少くはない者である。故に、ケ樣の年柄は、一兩年の内、反對に供給米の欠乏を來す",
+        "isTextline": "true",
+        "confidence": 0.871
+      },
+      {
+        "boundingBox": [
+          [
+            1588,
+            325
+          ],
+          [
+            1588,
+            808
+          ],
+          [
+            1613,
+            325
+          ],
+          [
+            1613,
+            808
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "もので、隨つて意想外の高直を顯すとがある。",
+        "isTextline": "true",
+        "confidence": 0.905
+      },
+      {
+        "boundingBox": [
+          [
+            1540,
+            328
+          ],
+          [
+            1540,
+            1324
+          ],
+          [
+            1570,
+            328
+          ],
+          [
+            1570,
+            1324
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "近來は、内國米不作の時は、外國米の輸入に因て、供給の不足を補ふとが出來るが、夫でも、米價",
+        "isTextline": "true",
+        "confidence": 0.83
+      },
+      {
+        "boundingBox": [
+          [
+            1498,
+            315
+          ],
+          [
+            1498,
+            1179
+          ],
+          [
+            1527,
+            315
+          ],
+          [
+            1527,
+            1179
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "は内國不作に比例して上る者であるから、本章を心得て置いて、駈引すべきである。",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            1428,
+            474
+          ],
+          [
+            1428,
+            1069
+          ],
+          [
+            1459,
+            474
+          ],
+          [
+            1459,
+            1069
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "第十九章足らぬは餘る餘るは足らぬと申事",
+        "isTextline": "true",
+        "confidence": 0.842
+      },
+      {
+        "boundingBox": [
+          [
+            1365,
+            313
+          ],
+          [
+            1365,
+            1311
+          ],
+          [
+            1395,
+            313
+          ],
+          [
+            1395,
+            1311
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一足らぬ物は餘る、餘る物は足らぬ、と申とあり。但し、多き物は、諸人澤山と心得、油斷して覺悟",
+        "isTextline": "true",
+        "confidence": 0.865
+      },
+      {
+        "boundingBox": [
+          [
+            1321,
+            315
+          ],
+          [
+            1321,
+            1306
+          ],
+          [
+            1352,
+            315
+          ],
+          [
+            1352,
+            1306
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "せず、夫故極意不足する也。不足なる物は、人々、油斷なく覺悟して調のへ置く故、極意は餘る也。",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            1278,
+            317
+          ],
+          [
+            1278,
+            1305
+          ],
+          [
+            1309,
+            317
+          ],
+          [
+            1309,
+            1305
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "(釋)不作の年は、諸人用心覺悟して、目前に需要なき米迄も買貯へる氣になり、又、買思惑人の",
+        "isTextline": "true",
+        "confidence": 0.881
+      },
+      {
+        "boundingBox": [
+          [
+            1233,
+            321
+          ],
+          [
+            1233,
+            1311
+          ],
+          [
+            1266,
+            321
+          ],
+          [
+            1266,
+            1311
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "顯はるゝのみならず、農家の如きは、賣惜んで中々手放さない者で、隨て、市塲に出廻り高不足す",
+        "isTextline": "true",
+        "confidence": 0.868
+      },
+      {
+        "boundingBox": [
+          [
+            1190,
+            324
+          ],
+          [
+            1190,
+            1304
+          ],
+          [
+            1222,
+            324
+          ],
+          [
+            1222,
+            1304
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "る者だが、翌春になつて、麥作も好况、順氣立直る時は、そろ〳〵不氣配となつて賣人も顯はれ、",
+        "isTextline": "true",
+        "confidence": 0.878
+      },
+      {
+        "boundingBox": [
+          [
+            1147,
+            322
+          ],
+          [
+            1147,
+            1293
+          ],
+          [
+            1179,
+            322
+          ],
+          [
+            1179,
+            1293
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "現米が、市場に出廻り、加之、七八月照込み強く、上作の見込立つ時は、正米一度に出廻つて、一",
+        "isTextline": "true",
+        "confidence": 0.872
+      },
+      {
+        "boundingBox": [
+          [
+            1105,
+            312
+          ],
+          [
+            1105,
+            1250
+          ],
+          [
+            1135,
+            312
+          ],
+          [
+            1135,
+            1250
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "時市塲に堆積する者である。尚、本書上卷、第五十五章、六月崩しの項を參照するがよい。",
+        "isTextline": "true",
+        "confidence": 0.838
+      },
+      {
+        "boundingBox": [
+          [
+            896,
+            462
+          ],
+          [
+            896,
+            970
+          ],
+          [
+            932,
+            462
+          ],
+          [
+            932,
+            970
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "第二十章人の商を羨むべからざる事",
+        "isTextline": "true",
+        "confidence": 0.846
+      },
+      {
+        "boundingBox": [
+          [
+            841,
+            297
+          ],
+          [
+            841,
+            625
+          ],
+          [
+            865,
+            297
+          ],
+          [
+            865,
+            625
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "一人の商を、羨敷思ふ可からず。",
+        "isTextline": "true",
+        "confidence": 0.891
+      },
+      {
+        "boundingBox": [
+          [
+            789,
+            305
+          ],
+          [
+            789,
+            1296
+          ],
+          [
+            823,
+            305
+          ],
+          [
+            823,
+            1296
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "しはしし今、無と思ふ時は、其時の相場の位を辨へず、唯羨ましく思ふ心計りにてする故、手違ひになる也。",
+        "isTextline": "true",
+        "confidence": 0.843
+      },
+      {
+        "boundingBox": [
+          [
+            749,
+            301
+          ],
+          [
+            749,
+            1110
+          ],
+          [
+            779,
+            301
+          ],
+          [
+            779,
+            1110
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "八木虎之卷に曰く、羨みの賣買は愼むべき者也と、本章の意味である。",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            678,
+            460
+          ],
+          [
+            678,
+            899
+          ],
+          [
+            710,
+            460
+          ],
+          [
+            710,
+            899
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "第二十一章腹立売買不可致事",
+        "isTextline": "true",
+        "confidence": 0.886
+      },
+      {
+        "boundingBox": [
+          [
+            619,
+            297
+          ],
+          [
+            619,
+            854
+          ],
+          [
+            647,
+            297
+          ],
+          [
+            647,
+            854
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "一腹立賣、腹立買、決してすべからず、大に愼むべし。",
+        "isTextline": "true",
+        "confidence": 0.87
+      },
+      {
+        "boundingBox": [
+          [
+            571,
+            308
+          ],
+          [
+            571,
+            1304
+          ],
+          [
+            604,
+            308
+          ],
+          [
+            604,
+            1304
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "(釋)相塲の見込を立てるには、理想的に據るべき者で、決して情的に亘てはならぬと云とは、前",
+        "isTextline": "true",
+        "confidence": 0.893
+      },
+      {
+        "boundingBox": [
+          [
+            527,
+            305
+          ],
+          [
+            527,
+            1316
+          ],
+          [
+            562,
+            305
+          ],
+          [
+            562,
+            1316
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "章にも、屡〻説て置たが、此人の商を羨ましく思ふて賣買をすると、亦自分の商が、餘り不手合續一",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            485,
+            312
+          ],
+          [
+            485,
+            1304
+          ],
+          [
+            517,
+            312
+          ],
+          [
+            517,
+            1304
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "きの為め、腹立の餘り賣買するなんどは、皆相塲の見込を立てるでなくつて、一時の感情に走つ",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            447,
+            310
+          ],
+          [
+            447,
+            795
+          ],
+          [
+            474,
+            310
+          ],
+          [
+            474,
+            795
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "賣買するのであるから、大に愼むべきとである。",
+        "isTextline": "true",
+        "confidence": 0.862
+      },
+      {
+        "boundingBox": [
+          [
+            372,
+            456
+          ],
+          [
+            372,
+            1174
+          ],
+          [
+            406,
+            456
+          ],
+          [
+            406,
+            1174
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "第二十二章天井直段底直段三年続き夫より變ずる事",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            319,
+            314
+          ],
+          [
+            319,
+            980
+          ],
+          [
+            348,
+            314
+          ],
+          [
+            348,
+            980
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "一天井直段、底直段、三ケ年續き、夫より變ずるもの也、疑なし。",
+        "isTextline": "true",
+        "confidence": 0.8
+      },
+      {
+        "boundingBox": [
+          [
+            276,
+            1089
+          ],
+          [
+            276,
+            1147
+          ],
+          [
+            297,
+            1089
+          ],
+          [
+            297,
+            1147
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "一一五",
+        "isTextline": "true",
+        "confidence": 0.424
+      },
+      {
+        "boundingBox": [
+          [
+            211,
+            91
+          ],
+          [
+            211,
+            1398
+          ],
+          [
+            236,
+            91
+          ],
+          [
+            236,
+            1398
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.309
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0072_0000.jpg",
+    "img_name": "0072_0000.jpg"
+  }
+}

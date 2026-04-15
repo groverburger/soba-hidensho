@@ -1,0 +1,637 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1747,
+            63
+          ],
+          [
+            1747,
+            1467
+          ],
+          [
+            1788,
+            63
+          ],
+          [
+            1788,
+            1467
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "}",
+        "isTextline": "true",
+        "confidence": 0.396
+      },
+      {
+        "boundingBox": [
+          [
+            882,
+            307
+          ],
+          [
+            882,
+            861
+          ],
+          [
+            928,
+            307
+          ],
+          [
+            928,
+            861
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "宗久翁相塲全集上巻",
+        "isTextline": "true",
+        "confidence": 0.798
+      },
+      {
+        "boundingBox": [
+          [
+            812,
+            757
+          ],
+          [
+            812,
+            1249
+          ],
+          [
+            845,
+            757
+          ],
+          [
+            845,
+            1249
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "出羽酒田本間古作遺著",
+        "isTextline": "true",
+        "confidence": 0.686
+      },
+      {
+        "boundingBox": [
+          [
+            747,
+            258
+          ],
+          [
+            747,
+            279
+          ],
+          [
+            764,
+            258
+          ],
+          [
+            764,
+            279
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "第",
+        "isTextline": "true",
+        "confidence": 0.373
+      },
+      {
+        "boundingBox": [
+          [
+            752,
+            944
+          ],
+          [
+            752,
+            1249
+          ],
+          [
+            783,
+            944
+          ],
+          [
+            783,
+            1249
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "早坂豊藏校註",
+        "isTextline": "true",
+        "confidence": 0.696
+      },
+      {
+        "boundingBox": [
+          [
+            700,
+            258
+          ],
+          [
+            700,
+            278
+          ],
+          [
+            715,
+            258
+          ],
+          [
+            715,
+            278
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "章",
+        "isTextline": "true",
+        "confidence": 0.384
+      },
+      {
+        "boundingBox": [
+          [
+            675,
+            257
+          ],
+          [
+            675,
+            279
+          ],
+          [
+            692,
+            257
+          ],
+          [
+            692,
+            279
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "米",
+        "isTextline": "true",
+        "confidence": 0.387
+      },
+      {
+        "boundingBox": [
+          [
+            652,
+            257
+          ],
+          [
+            652,
+            279
+          ],
+          [
+            667,
+            257
+          ],
+          [
+            667,
+            279
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "商",
+        "isTextline": "true",
+        "confidence": 0.451
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            258
+          ],
+          [
+            628,
+            279
+          ],
+          [
+            643,
+            258
+          ],
+          [
+            643,
+            279
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "は",
+        "isTextline": "true",
+        "confidence": 0.435
+      },
+      {
+        "boundingBox": [
+          [
+            603,
+            258
+          ],
+          [
+            603,
+            279
+          ],
+          [
+            619,
+            258
+          ],
+          [
+            619,
+            279
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "踏",
+        "isTextline": "true",
+        "confidence": 0.508
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            258
+          ],
+          [
+            579,
+            279
+          ],
+          [
+            595,
+            258
+          ],
+          [
+            595,
+            279
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "出",
+        "isTextline": "true",
+        "confidence": 0.484
+      },
+      {
+        "boundingBox": [
+          [
+            554,
+            258
+          ],
+          [
+            554,
+            278
+          ],
+          [
+            569,
+            258
+          ],
+          [
+            569,
+            278
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "大",
+        "isTextline": "true",
+        "confidence": 0.516
+      },
+      {
+        "boundingBox": [
+          [
+            532,
+            258
+          ],
+          [
+            532,
+            279
+          ],
+          [
+            549,
+            258
+          ],
+          [
+            549,
+            279
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "切",
+        "isTextline": "true",
+        "confidence": 0.484
+      },
+      {
+        "boundingBox": [
+          [
+            512,
+            258
+          ],
+          [
+            512,
+            278
+          ],
+          [
+            528,
+            258
+          ],
+          [
+            528,
+            278
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.381
+      },
+      {
+        "boundingBox": [
+          [
+            488,
+            257
+          ],
+          [
+            488,
+            278
+          ],
+          [
+            506,
+            257
+          ],
+          [
+            506,
+            278
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "事",
+        "isTextline": "true",
+        "confidence": 0.479
+      },
+      {
+        "boundingBox": [
+          [
+            673,
+            480
+          ],
+          [
+            673,
+            868
+          ],
+          [
+            705,
+            480
+          ],
+          [
+            705,
+            868
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "第一章米商は踏出大切の事",
+        "isTextline": "true",
+        "confidence": 0.78
+      },
+      {
+        "boundingBox": [
+          [
+            612,
+            309
+          ],
+          [
+            612,
+            1317
+          ],
+          [
+            642,
+            309
+          ],
+          [
+            642,
+            1317
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一米商は、踏出口大切也。踏出し惡き時は、决して手違になる也。父商内進み急ぐべからず、急ぐ時",
+        "isTextline": "true",
+        "confidence": 0.818
+      },
+      {
+        "boundingBox": [
+          [
+            568,
+            309
+          ],
+          [
+            568,
+            1313
+          ],
+          [
+            598,
+            309
+          ],
+          [
+            598,
+            1313
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "は踏出惡しきと同じ。賣買共、今日より外、商塲なしと進み立時、三日待べし、是傳也。得と、米の",
+        "isTextline": "true",
+        "confidence": 0.869
+      },
+      {
+        "boundingBox": [
+          [
+            525,
+            304
+          ],
+          [
+            525,
+            1314
+          ],
+          [
+            555,
+            304
+          ],
+          [
+            555,
+            1314
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "通ひを考へ、天井底の位を考へ、賣買すべし。是三位の傳也。底直段出ざる内は、幾月も見合、圖に",
+        "isTextline": "true",
+        "confidence": 0.861
+      },
+      {
+        "boundingBox": [
+          [
+            484,
+            304
+          ],
+          [
+            484,
+            599
+          ],
+          [
+            508,
+            304
+          ],
+          [
+            508,
+            599
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "当る時を考へ、売買すべし。",
+        "isTextline": "true",
+        "confidence": 0.804
+      },
+      {
+        "boundingBox": [
+          [
+            438,
+            330
+          ],
+          [
+            438,
+            1313
+          ],
+          [
+            468,
+            330
+          ],
+          [
+            468,
+            1313
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "(釋)是宗久翁相塲法の總序であつて、以下に説く所の百數十章は、總て此序論を細説したる者と",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            395,
+            332
+          ],
+          [
+            395,
+            1315
+          ],
+          [
+            426,
+            332
+          ],
+          [
+            426,
+            1315
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "見做してよい。先づ踏み出とは、商の付出しのことであるが、偖、此米賣つて出様か、イヤ買つて出",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            352,
+            327
+          ],
+          [
+            352,
+            1317
+          ],
+          [
+            382,
+            327
+          ],
+          [
+            382,
+            1317
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "様か抔と、首鼠兩端に疑を挾んで、偖何れへか出る米、兵法に所謂、廟算の初めから少い米であつて、",
+        "isTextline": "true",
+        "confidence": 0.844
+      },
+      {
+        "boundingBox": [
+          [
+            307,
+            329
+          ],
+          [
+            307,
+            1315
+          ],
+          [
+            337,
+            329
+          ],
+          [
+            337,
+            1315
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "測らかに、損の部類に屬すべき商である。本章は商内の付出しの、大切なるを詳説したものて、附",
+        "isTextline": "true",
+        "confidence": 0.819
+      },
+      {
+        "boundingBox": [
+          [
+            269,
+            1115
+          ],
+          [
+            269,
+            1134
+          ],
+          [
+            291,
+            1115
+          ],
+          [
+            291,
+            1134
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "二",
+        "isTextline": "true",
+        "confidence": 0.355
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 2048,
+    "img_height": 1579,
+    "img_path": "/Users/grob/Documents/projects/japanese/sokyu-o-soba-zenshu/original-manuscript/0015_0000.jpg",
+    "img_name": "0015_0000.jpg"
+  }
+}
