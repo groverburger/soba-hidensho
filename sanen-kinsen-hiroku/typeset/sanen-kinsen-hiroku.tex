@@ -207,10 +207,11 @@ Reuse policy: \url{https://rmda.kulib.kyoto-u.ac.jp/reuse}\\[1em]
 \jp{所蔵：京都大学附属図書館}\\[1em]
 
 \noindent\textbf{Open Source}\\[0.3em]
-\noindent The complete methodology---including manuscript scans,
-character-by-character transcription, working translation files, and
+\begin{sloppypar}\noindent The complete methodology---including
+manuscript scans, transcription, working translation files, and
 \LaTeX{} source---is available at
 \url{https://github.com/groverburger/sanen-kinsen-hiroku}.
+\end{sloppypar}
 \end{small}
 \newpage
 
@@ -225,19 +226,21 @@ under CC BY-NC-SA 4.0.\\[0.5em]
 ISBN 979-8-254-10079-9\\[1em]
 
 \noindent\textbf{About This Edition}\\[0.3em]
-\noindent This is the first English translation of the \textit{Sanen Kinsen
-Hiroku}. The manuscript was sourced and the translation project directed
-by Zach Booth. The original text is in \textit{kobun} (classical Japanese)
-with \textit{kanbun kundoku} reading marks in cursive script
-(\textit{kuzushiji}) on aged paper. The translation was produced in two
-mechanically-separated stages:\\[0.4em]
-\noindent\textit{1. Transcription.} The manuscript images were passed
-through \mbox{NDL~\jp{古典籍OCR-Lite}} --- a specialist OCR toolchain
+\begin{sloppypar}\noindent This is the first English translation of
+the \textit{Sanen Kinsen Hiroku}. The manuscript was sourced and the
+translation project directed by Zach Booth. The original text is in
+\textit{kobun} (classical Japanese) with \textit{kanbun kundoku}
+reading marks in cursive script (\textit{kuzushiji}) on aged paper.
+The translation was produced in two mechanically-separated
+stages:\end{sloppypar}\par\vspace{0.4em}
+\begin{sloppypar}
+\noindent\textit{1. Transcription.} The manuscript images were
+passed through NDL~\jp{古典籍OCR-Lite}, a specialist OCR toolchain
 released by Japan's National Diet Library for Edo-period and earlier
-classical texts (RTMDet text-region detection + PARSeq character
-recognition, ONNX, CPU-only). This step is purely mechanical: the
-model reads pixels, not meaning, and cannot silently interpolate from
-context it does not have.\\[0.3em]
+classical texts. This step is purely mechanical: the model reads
+pixels, not meaning, and cannot interpolate from context it does
+not have.
+\end{sloppypar}\vspace{0.3em}
 \noindent\textit{2. Translation.} The OCR output was then rendered
 into English with AI assistance (Claude Opus~4.6, Anthropic), working
 from the mechanical transcription and consulting the manuscript images
@@ -379,15 +382,17 @@ manuscript held at Kyoto University.
 
 \section*{A Note on Method}
 
+\begin{sloppypar}
 The translation proceeds in two mechanically-separated stages. The
-cursive manuscript pages are first read by a specialist optical-
-character-recognition toolchain, NDL~\jp{古典籍OCR-Lite}, released
-by Japan's National Diet Library for Edo-period and earlier
-classical texts. The OCR is mechanical: it reads pixels and emits
-characters, with no interpretive access to the text's meaning. An
-LLM (Claude Opus~4.6, Anthropic) then works from the mechanical
-transcription to produce the English, consulting the manuscript
-images only to sanity-check OCR artifacts.
+cursive manuscript pages are first read by a specialist OCR
+toolchain, NDL~\jp{古典籍OCR-Lite}, released by Japan's National
+Diet Library for Edo-period and earlier classical texts. The OCR is
+mechanical: it reads pixels and emits characters, with no
+interpretive access to the text's meaning. An LLM (Claude
+Opus~4.6, Anthropic) then works from the mechanical transcription
+to produce the English, consulting the manuscript images only to
+sanity-check OCR artifacts.
+\end{sloppypar}
 
 The separation is deliberate. A single model asked to read cursive
 script and produce English in one pass has no way to distinguish
@@ -629,7 +634,8 @@ children and the children's children: selling is forbidden.
 % =============================================================================
 \chapter{The Thirty-Eight Articles\\ and the Fifteen Prohibitions}
 
-\section{The Thirty-Eight Articles of Trading (\jp{三十八ヶ条商内})}\tn{%
+\section{The Thirty-Eight Articles of Trading}\tn{%
+\jp{三十八ヶ条商内}:
 \jt{商内}{akinai}, glossed with furigana in the manuscript
 as the native Japanese reading rather than the Sino-Japanese
 \textit{sh\=onai}. Each article opens with \jp{一} (``one'') and
@@ -1049,7 +1055,7 @@ ships to sea. If by some chance the calm fails, it is an exception
 --- know that even such an exception is only one year in a hundred.
 
 % =============================================================================
-\chapter{Weather Signs and the Nine-Body Song}
+\chapter{Weather Signs\\ and the Nine-Body Song}
 
 \section{On the Entry of the Rainy Season (\jp{入梅三十日})}
 
@@ -1116,7 +1122,7 @@ mid-month; the end of the fifth month --- these are the swayings
 of high and low.
 
 % =============================================================================
-\chapter{The Three Virtues --- Forty-Eight Verses}
+\chapter{The Three Virtues\\Forty-Eight Verses}
 
 \begin{editorialnote}
 The manuscript's self-count is explicit: the header reads \jp{四十
@@ -1125,16 +1131,16 @@ The manuscript's self-count is explicit: the header reads \jp{四十
 Benevolence, and ten to Courage.
 \end{editorialnote}
 
-\begin{center}
+\begin{center}\small
 \begin{tabular}{@{}c l r l@{}}
 \toprule
 \multicolumn{2}{c}{\textbf{Virtue}} & \textbf{Verses} & \textbf{Theme}\\
 \midrule
-\jp{智} & \textit{Chi} --- Wisdom        & 10 & seeing the pattern, knowing the season\\
-\jp{仁} & \textit{Jin} --- Benevolence   & 28 & patience, waiting, not rushing\\
-\jp{勇} & \textit{Y\=u} --- Courage      & 10 & acting with the crowd reversed\\
+\jp{智} & \textit{Chi} --- Wisdom       & 10 & pattern, season\\
+\jp{仁} & \textit{Jin} --- Benevolence  & 28 & patience, waiting\\
+\jp{勇} & \textit{Y\=u} --- Courage     & 10 & acting against the crowd\\
 \midrule
-        & \textbf{Total}                 & \textbf{48} & \\
+        & \textbf{Total}                & \textbf{48} & \\
 \bottomrule
 \end{tabular}
 \end{center}
@@ -1286,15 +1292,15 @@ price.}
 \noindent The glosses for each tier, with the manuscript's weight-
 and-price annotations:
 
-\begin{center}
+\begin{center}\small
 \begin{tabular}{@{}l r l l@{}}
 \toprule
-\textbf{Level} & \textbf{Tawara} & \textbf{Weight /\ tawara} & \textbf{Price /\ tawara}\\
+\textbf{Level} & \textbf{Tawara} & \textbf{Weight} & \textbf{Price}\\
 \midrule
-\jp{●}\ \jp{天井}\ Ceiling & 25 & --- & --- \\
-\jp{◯}\ \jp{上}\ Upper     & 35 & \jp{一石四斗}  & \jp{四十五匁七分}\\
-\jp{◉}\ \jp{中墨}\ Middle-ink (three-star) & 30\,+\,1\,bu & \jp{一石二斗}  & \jp{五十三匁一分}\\
-\jp{◯}\ \jp{下}\ Lower      & 25 & \jp{一石}      & \jp{五十三匁九分}\\
+\jp{●}\ \jp{天井}\ Ceiling  & 25       & ---            & --- \\
+\jp{◯}\ \jp{上}\ Upper      & 35       & \jp{一石四斗}  & \jp{四十五匁七分}\\
+\jp{◉}\ \jp{中墨}\ Mid-ink  & 30+1\,bu & \jp{一石二斗}  & \jp{五十三匁一分}\\
+\jp{◯}\ \jp{下}\ Lower      & 25       & \jp{一石}      & \jp{五十三匁九分}\\
 \bottomrule
 \end{tabular}
 \end{center}
@@ -1390,7 +1396,7 @@ three-step-up. However, as long as the buying side shows a
 one-step strength, there is no losing the buying side. In any year,
 take the new-rice opening price as middle-ink, and buy.
 
-\section{The Strong-Qi Reverse-Weight Trade (\jp{強気逆権商内})}
+\section{The Strong-Qi Reverse-Weight Trade}
 
 The reverse-weight trading force has its middle-ink. Up through
 two steps there is no one-step; beyond two steps there is no
@@ -1621,7 +1627,7 @@ of the work --- I have seen much that is lamented before it has
 even been seen: letters on fine papers, matters now reduced to
 paper-scraps.
 
-\section{A Single Step, a Thousand }\textit{Ri}
+\section{A Single Step, a Thousand \textit{Ri}}
 
 When the early-spring buying is applied wrongly, it becomes, as
 the saying has it, a \textit{one-step error, thousand-}ri
@@ -1892,10 +1898,11 @@ decision can be checked end-to-end: every English sentence traces
 to a specific line of NDL-OCR transcription, which traces to a
 specific region of the manuscript scan.
 
+\begin{sloppypar}
 This is his first published translation. The complete source
-materials---original manuscript scans, character-by-character
-transcription with confidence levels, working translation files, and
-\LaTeX{} source---are available at:\\
+materials---original manuscript scans, transcription, working
+translation files, and \LaTeX{} source---are available at:\\
+\end{sloppypar}
 \url{https://github.com/groverburger/sanen-kinsen-hiroku}
 
 % =============================================================================
