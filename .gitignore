@@ -21,3 +21,6 @@ reference/
 *.bak
 *.bak2
 *.backup
+
+# Exported conversation logs
+2026-*.txt

@@ -18,8 +18,12 @@ Kyoto University. See that folder's README for the full scholarly case.
 
 ### [sokyu-o-soba-zenshu/](./sokyu-o-soba-zenshu/) — 宗久翁相場全集
 
-*The Complete Collection of the Elder Sōkyū on the Market* — a second
-translation project in progress.
+*Complete Collected Works on Markets by Master Sōkyū* — the trading
+teachings of Honma Sōkyū (本間宗久, 1717–1803), the legendary rice
+speculator of Sakata. This is the Meiji 43 (1910) annotated edition
+compiled by Hayasaka Nikiku (早阪二菊), published by Shingidō, Tokyo.
+158 articles across two volumes with extensive Meiji-era commentary.
+First English translation. Source: NDL digital collection.
 
 ## Method
 
@@ -71,7 +75,7 @@ the shift.
 ├── sanen-kinsen-hiroku/            # Book 1 — see its own README
 │   ├── original-manuscript/        #   page JPGs (source of truth)
 │   ├── transcription/              #   NDL OCR output (Phase 3)
-│   ├── translation/                #   English translation (in progress)
+│   ├── translation/                #   English translation + STYLE.md
 │   ├── typeset/                    #   LaTeX / PDF / EPUB + covers & figures
 │   └── archive/                    #   DEPRECATED Phase 2 vision-LLM work
 ├── sokyu-o-soba-zenshu/            # Book 2 — same shape
