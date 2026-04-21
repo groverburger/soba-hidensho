@@ -22,5 +22,7 @@ reference/
 *.bak2
 *.backup
 
-# Exported conversation logs
-2026-*.txt
+# Exported conversation logs at the project root (unfiled)
+/2026-*.txt
+# …but transcripts archived into a project folder are kept in VCS.
+!**/claude-code-transcripts/2026-*.txt
