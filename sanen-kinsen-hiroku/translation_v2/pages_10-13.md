@@ -1,16 +1,16 @@
 # Pages 10–13: Trading-method diagrams — 三平二乗半板, 半板, 安楽, 転変
 
-*[These four pages contain the book's core trading figures. Pages
-10–11 are **price-and-quantity ladders**: a central* **中墨**
-*(chūzumi, reference price) with symmetric buy and sell rungs at
-named step-levels (天元, 一乗, 二乗 / 二来, 三平, 半板, 安楽,
-順徳). Pages 12–13 are **schematic method-diagrams**: four-stage
-cycles laid out with red-circled numerals ①②③④, showing the
-method's essential shape rather than specific prices. The ladder
-figures on pp. 10–11 have been partially reconstructed from the
-OCR numeric fragments, with the original layout verified against
-the manuscript image; the cycle figures on pp. 12–13 have been
-verified against the manuscript image directly.]*
+*[Interpretive throughout. These four pages contain the book's core
+trading-configuration diagrams. The OCR reduces each diagram to a
+run of price numbers (in *momme*/分), quantities (in *tawara*), and
+position labels (買 / 売 / 転変 / 徳) without preserving the visual
+layout. Where the figures are recoverable they are reproduced as
+ASCII; where they are not, the prose describes what the diagram
+names rather than inventing a layout. The general scheme — a
+central **中墨** (chūzumi) reference price, symmetric buying and
+selling ladders below and above it, and marked transition prices
+for *tenpen* (転変) flips — is stable across the four configurations
+and is what the commentary turns on.]*
 
 ## Page 10 — End of the fifteen prohibitions; opening of the 順逆平乗 trading application
 
@@ -136,70 +136,49 @@ straight-edge. [OCR `義無月` → `水無月`.]
 
 ---
 
-## Page 12 — Hanban and Anraku method diagrams
+## Page 12 — Hanban trading and the anraku diagram
 
-Pages 12 and 13 present the book's three **method diagrams** — a
-shift from the ladder tables of pages 10–11 to schematic figures of
-the trading *method itself*. Each is a four-stage cycle laid out
-with **red-circled numerals ①②③④** in the manuscript, marking the
-sequence of operations. The figures below reproduce the spatial
-layout as verified against the manuscript images (pp. 12–13).
-
-### ◯ 半板商内之図 — *Diagram of hanban trading*
-
-Four stages, alternating 1,000-ryō buy and 500-ryō sell:
+**半板商内之図** (laid out symmetrically around the central pivot):
 
 ```
-        ② 五百両売         ④ 五百両売
-          (500 ryō sell)     (500 ryō sell)
-                ╲               ╱
-                 ╲             ╱
-                  ①           ③
-                1,000 ryō    1,000 ryō
-                  buy          buy
+              500 ryō sell  ────┐
+              500 ryō sell  ────┤
+                                │  level 4
+              ── pivot ──       │
+              1000 ryō buy  ────┤
+              1000 ryō buy  ────┘
 ```
 
-The four operations run in order ① → ② → ③ → ④, each at a fresh
-5-*bu* / 1-*koku* step. Net across the full cycle: **2,000 bought,
-1,000 sold → 1,000 held long** at a reduced average cost. The name
-**半板** (*hanban*, "half-plank") names the figure's signature
-move: at each rise, half the position is "finished off"
-(*shimau*) while the other half remains underfoot — so the trader
-is always walking on half a plank.
+The rule: at a 5-*bu* or 1-*koku* fly-rise on an autumn-day/rain-day
+buy, finish (*shimau*) half. *This is* **半板** — "half-plank": one
+half off, the other half held. When the price falls a further 5-*bu*
+or 1-*koku*, the 500 ryō buy is re-entered. This method is called
+**買桶半板商内** (*kaioke hanban shōnai*).
 
-The rule: *on an autumn day in a child-rain, buy; at a 5-*bu* to
-1-*koku* fly-rise, finish out half. This is the* hanban*. When
-the price then falls a further 5-*bu* or 1-*koku*, re-enter the
-500-ryō buy. This trading method is called* **買桶半板商内**
-(*kaioke hanban shōnai*).
+The hanban style applies equally on either side. Profit appears in
+both rise and fall, without losing the position's essential form:
+"the single most extraordinary profit under heaven." Further: in the
+year of the boar (*i*) [OCR: `亥更に金のや源らかる` → reading
+uncertain], with gold fluent, the hanban produces profit whether one
+trades or rests.
 
-Applied symmetrically, the hanban realises profit on both the rise
-and the fall without compromising the position's essential form —
-"the single most extraordinary profit under heaven." In a year of
-easy money (OCR: `亥更に金のや源らかる`; a cursive-dense phrase of
-uncertain reading), the hanban produces profit whether the trader
-acts or rests.
-
-### ◯ 安楽商内之図 — *Diagram of anraku trading*
-
-Four stages on the same schematic cycle, scaled down to 100 ryō
-each:
+### ◯ 安楽商内之図 — *Anraku trading diagram*
 
 ```
-        ② 百両売            ④ 百両売
-          (100 ryō sell)    (100 ryō sell)
-                ╲               ╱
-                 ╲             ╱
-                  ①           ③
-                 100 ryō     100 ryō
-                  buy          buy
+              100 ryō buy
+              100 ryō sell
+                 │ level 3
+              100 ryō buy
+              100 ryō sell
+                 │ level 4
 ```
 
-As in the hanban: at an autumn 5-*bu* / 1-*koku* rise on a rising
-day, sell off all held positions and take the profit; on a
-subsequent 5-*bu* / 1-*koku* fall, buy back as before; at the next
-high, sell off again. This trading method is called **買桶安楽商内**
-(*kaioke anraku shōnai*). Commentary continues on page 13.
+If, as the diagram shows, rice rises foot by foot, the buy-*oke*
+moves to its exit. At an autumn 5-*bu*/1-*koku* rise on a rising
+day, sell off all positions, take the profit; at a subsequent
+5-*bu*/1-*koku* fall, buy back as before; when high again, sell off
+again. This method is called **買桶安楽商内** (*kaioke anraku
+shōnai*) — and continues on page 13.
 
 ---
 
@@ -212,33 +191,25 @@ the trader's heart is at ease; this is the **福徳円満の世楽商**
 (*fukutoku enman no seraku-shō*), the trade of complete fortune
 and worldly ease.
 
-### ◯ 轉變商内之図 — *Diagram of tenpen trading*
-
-The third of the four-stage cycle figures. Same schematic frame as
-the hanban and anraku, but with the sell legs at **double** the
-size of the buy legs — which flips the trader from long to short
-within a single cycle:
+### ◯ 転変商内之図 — *Tenpen trading diagram*
 
 ```
-        ② 二千両売          ④ 二千両売
-          (2,000 ryō sell)   (2,000 ryō sell)
-                ╲               ╱
-                 ╲             ╱
-                  ①           ③
-                1,000 ryō    1,000 ryō
-                  buy          buy
+   ── upper line ──
+              2000 ryō sell  (level 1)
+              2000 ryō sell  (level 4)
+   ── pivot ──
+              1000 ryō buy   (level 3)
+              1000 ryō buy
 ```
 
-Net across the cycle: **2,000 bought, 4,000 sold → 2,000 short**
-at the end. Where the hanban keeps the trader long-biased and the
-anraku keeps him flat over the full cycle, the *tenpen* figure
-turns him from long to short by design. The ② and ④ sells are
-each exactly twice the preceding buy: ② unwinds the ①-buy *and*
-opens a short of equal size; ④ does the same against ③.
+*[Positional numerals (一 / 三 / 四) in the OCR mark the rung order
+but the physical layout of the original diagram cannot be fully
+reconstructed from the OCR.]*
 
-Buying and selling in this pattern is called **轉變** (*tenpen*,
-"turning-change"): the essence of rice turning, in strength and
-weakness, in its due order — the secret of tenpen trading.
+Buying and selling in this pattern is called **転変** (*tenpen*,
+literally "turning-change"): the essence of rice turning, in
+strength-and-weakness, in its due order — the secret of tenpen
+trading.
 
 > **口伝曰** — *oral tradition says*: *tenpen* is of two forms —
 > **買桶転変** (*kaioke tenpen*) and **売桶転変** (*urioke
@@ -257,34 +228,3 @@ weakness, in its due order — the secret of tenpen trading.
 > stance, what was a loss becomes profit. The symmetrical case —
 > a bought trade turning to loss — is governed by the same
 > principle, *sen-ka* (千架).
-
----
-
-## Confidence
-
-**High confidence**: the three method-diagrams on pp. 12–13 (半板 /
-安楽 / 轉變) rendered as four-stage cycles with ①②③④ markers —
-the red-circled numerals and the denominations at each stage are
-directly verified against the manuscript images (pp. 12, 13). The
-section titles **大黒天神秋名月商内 / 二百十日商内 / 西宮惠日
-太神宮五月下旬商内 / 半板商内之図 / 安楽商内之図 / 轉變商内之図**
-and the associated keyword labels (天元, 一乗, 二乗, 二来, 三平,
-半板, 安楽, 順徳, 轉變, 出染, 合わせ) are legible across the
-spread.
-
-**Medium confidence**: the price-ladder reconstructions on pp. 10–11.
-The OCR returns each cell in a readable line but flattens the
-spatial column structure. The summary totals (**八百両買 / 七十俵
-積米 / 三十両代金 / 四十両敷金** on p. 10; **四百両売 / 三拾俵
-損米 / 拾五両代金 / 十両敷金** on p. 11) are legible and
-high-confidence; each ladder's cell-by-cell ordering is a
-best-fit reconstruction and should be audited against the image
-before citation.
-
-**Lower confidence**: the cryptic footer **酉至五月中二候三保**
-at the bottom of p. 10; v1 proposes `三保 → 三俵` (*three
-tawara*), a palaeographically plausible reading that fits the
-trading context but cannot be confirmed from the OCR alone. The
-year-of-the-boar (亥) phrase introducing the hanban commentary
-on p. 12 (`亥更に金のや源らかる`) is cursive-dense and here given
-only in gist.

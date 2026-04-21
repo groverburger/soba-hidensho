@@ -271,27 +271,3 @@ both even out to nothing — **trading is forbidden.**
   reading uncertain.]
 
 *[The sequence of prohibitions continues at the top of page 10.]*
-
----
-
-## Confidence
-
-**High confidence**: the section-titles **順来変来十二平商内**,
-**三十八首 / 三十八来商内**, **十五禁制**, and their four-season
-subdivisions; the preface-closing signature-block dated **宝暦五年
-秋九月下旬 / 慈雲斎 牛田權三郎** (1755); the cadence of each
-verse-group (6–6–6–6 for the twelve-level, then 38 verses, then
-15 prohibitions).
-
-**Medium confidence**: individual verses in the 38-verse and
-15-prohibitions lists. Many verses are cursive-dense and the OCR
-introduces recoverable but noisy artefacts (`桜の心`, `やまかひ`,
-`子山の種`, etc.). Technical terms such as **はこ**, **こね**,
-**ko-yama**, **toku-nori** are preserved in their kana forms
-since their specific trading referents are not explained in-text.
-
-**Lower confidence / interpretive**: the two long illegibility runs
-(p. 7 line 11 and p. 8 line 13, both recorded as `□□…` in the
-OCR); the proper noun at p. 8 line 2 rendered in the OCR as
-`荻の泰子郎殿`, which is almost certainly a garbled personal name
-and has been marked as unrecovered.

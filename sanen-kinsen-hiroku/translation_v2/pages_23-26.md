@@ -153,12 +153,10 @@ From *chūzumi* 20, *more than three koku up*, the price reaches
 a once-in-a-lifetime trial. Further rises of that magnitude occur
 only six or seven times in a thousand.
 
-### ◯ 七福即生秘密 の巻 — *Chapter of the immediate arising of the seven fortunes*
+### ◯ 七福郎生秘密 の巻 — *Chapter of the seven-fortunes secret*
 
-[Emended from OCR `七福郎生秘密巻目` to `七福即生秘密（の）巻` per
-manuscript page image (p. 25): the middle character is 即 (*soku*,
-"immediate / at once"), not 郎. The compound 即生 (*sokushō*) is
-standard Buddhist vocabulary for "immediate arising."]
+[OCR `七福郎生秘密巻目` — the title `郎生` may be `生誕` or a
+similar auspicious compound; reading uncertain.]
 
 In the round, the *karahashi* (唐端) extends three *koku* high and
 three *koku* low — so it is said. But the buy side carries a
@@ -166,13 +164,7 @@ three *koku* low — so it is said. But the buy side carries a
 so the buy side is never excessive. In any year, take the new
 rice's first-sale price as the *chūzumi* and **buy**.
 
-### ◯ 強気逆積商内 — *Bull-side reverse-accumulation trading*
-
-[Emended from OCR `強気逆権商内` to `強気逆積商内` per manuscript
-page image (p. 25): the middle character is 積 (*seki*,
-"accumulate"), not 権. The section opens *"逆積の商内…"* and the
-prose describes a reverse-*accumulation* ladder, which confirms
-the reading.]
+### ◯ 強気逆権商内 — *Bull-side reverse-power trading*
 
 *Reverse-accumulated* trading: working off the *chūzumi*, up to a
 two-*koku* move there is no one-*koku* step used — beyond two
@@ -286,32 +278,3 @@ fragments (`天久三年`, `二度目天元目`, `二州上リテ天井ゟ見積
 bull-side rise, the retained-profit trade holds its short
 position, scales the ladder with symmetrical entries around the
 *ten'gen*, and never sells on a pure direct (*jiki-uri*, 直売).]*
-
----
-
-## Confidence
-
-**High confidence**: the two five-step ladders (五 bullish / 五
-bearish); the common rule *"take the new rice's first-sale price
-as the* chūzumi" as the first secret; the section-titles
-**七福即生秘密の巻**, **強気逆積商内**, **強気一割あげ順徳逆損
-商内** — all verified against the manuscript images (p. 25) and
-carrying corrections from the OCR (`七福郎生 → 七福即生`, `逆権
-→ 逆積`).
-
-**Medium confidence**: the individual rungs of each ladder. The
-tawara / momme / ryō values are legibly present in the OCR, but
-the pairing of each figure to the correct rung required
-reconstruction from the column-of-numbers layout. The totals and
-profit figures at the foot of each ladder (70-tawara paper loss /
-160-tawara profit on a 1-*koku* move) are consistent across the
-five worked examples, which gives a structural check.
-
-**Lower confidence / interpretive**: the continuation of the
-**強気一割半あげ順徳逆損商内** and **強気二刻あげ順徳逆損商内**
-variants on p. 26. The OCR for these pages carries numerous
-fragments (`天久三年`, `二度目天元目`, `一刻半ナリ`, `壱通し`)
-whose placement in the original ladder is uncertain. The *sense*
-of each variant — stepped entries of matched size, symmetrical
-around the pivot — is stable; the exact arithmetic by rung should
-not be cited without a cross-check against the image.

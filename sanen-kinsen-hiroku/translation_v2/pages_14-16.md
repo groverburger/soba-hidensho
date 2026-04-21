@@ -170,33 +170,3 @@ for seven days more — again, fifteen windless days.
 This is why ships are taken out to sea within these windows; if the
 wind rises outside them, treat it as one in a hundred years — in
 the long run, of no consequence.
-
----
-
-## Confidence
-
-**High confidence**: the seven-class structure of the almanac —
-暴風 12 / 洪水 5 / 寒冷 3 / 霖雨 2 / 極凶 8 / 豊作 28 / 中豊作 2
-(summing to 60, the full sexagenary cycle) — and the per-class
-trading rules (e.g., *"at the 210th day, deploy the 三平二乗
-半板出染転変 trade"*; *"at the autumn meigetsu, deploy the
-三平二乗半板安楽転変 trade"*). The editor's closing note that
-the aggregate is a **大周六十年** (*dai-shū rokujū-nen*) is
-confirmed.
-
-**Medium confidence**: the individual sexagenary lists within each
-class. The year-counts match the class-counts in most cases, but
-the OCR artefacts in the **極凶八箇年** list (`丙寅丙寅丙寅丙寅
-丙寅` appears to be a stamp-slur) prevent a clean recovery of all
-eight years; four of the eight are recoverable. The sexagenary
-reading of 辛来 as 辛未 is a standard cursive emendation.
-
-**Lower confidence / interpretive**: the variant-ki glosses
-(*mokki uppatsu*, *doki uppatsu*, etc.) paired with each class
-are recorded as the OCR presents them; the 五行 / 運気 tradition
-they index is a larger Edo-period weather-calendar doctrine that
-would reward a separate editorial apparatus. The tide and wind
-cycles on page 16 are high-confidence on their sexagenary anchors
-(庚申 / 庚午 / 丁丑 / 戊寅) but the day-counts around them (11, 7,
-15) are OCR-derived and should be cross-checked against a
-standard Edo almanac (*gyokurekishō*) before citation.

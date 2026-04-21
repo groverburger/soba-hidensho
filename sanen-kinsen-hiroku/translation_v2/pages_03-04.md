@@ -7,50 +7,32 @@ then opens the preface proper.
 
 ### ◯ Publication marks
 
-- **嘉永四年辛亥五月新鐫** (*Kaei yonnen, Kanoto-I, gogatsu, shinsen*)
-  — *"Newly engraved: Kaei 4 (1851), the year* Kanoto-I*, fifth
-  month."* A top-margin date band, verified against the manuscript
-  image (p. 3). The 1851 date matches the colophon on page 32, which
-  is signed *Kaei 4, fifth month, third day.* [OCR returned the
-  stray fragment `十一月廿九` — a stamp or cataloguing artifact on
-  the opposite margin, not a publication date.]
-- **牛田権三郎遺稿** (*Ushida Gonsaburō ikō*) — "posthumous manuscript
-  of Ushida Gonsaburō." The preface on the same page is signed by
-  Ushida under his style **慈雲斎** (*Jiunsai*). The Kyoto University
-  RMDA catalogue (record RB00012360) romanises the given name as
-  *Gonsaburō* (see SOURCES.md).
-- **鳴川猛之助校正** (*Narukawa Takesuke kōsei*) — "proofread by
-  Narukawa Takesuke." The RMDA catalogue gives the reading
-  *Takesuke*; the colophon on page 32 signs the same man with the
-  literary style **鳴川繁楽** (*Shigeraku*).
-- **温故知新活法窮理** (*onko chishin — kappō kyūri*) — "review the
-  old to know the new; the living method, probing the principle."
-  A classical banner-motto. The first half is *Analects* 2.11; the
-  second pairs it as *kappō kyūri*, glossing the project as a
-  practical (*kappō*) investigation of principle. *[Emended from
-  OCR `治法` to `活法` per manuscript image (p. 3); the 氵 radical
-  of 活 is commonly misread as 治 in cursive script.]*
-- **校正三猿金泉秘録　全** (*Kōsei Sanen Kinsen Hiroku — zen*) — the
-  main title and the mark **全** (*zen*, "complete"): *the
-  proofread* Sanen Kinsen Hiroku*, complete*.
-- **天問秋作見積之圖　補附** [OCR: `天周秋佐見積之図一補附` → likely
-  `天問秋作見積之圖　補附`] — "appendix: diagram for the *tenmon*
-  (Heavenly Inquiry) estimation of the autumn crop." The reading
-  *Tenmon* is v1's reconstruction against the printed scholarly
-  record; the manuscript character is partially obscured by margin
-  damage. An alternative reading *ten'gen* (天元), matching the
-  book's own technical term for the central reference price, is
-  palaeographically possible but bibliographically unattested; we
-  preserve the *Tenmon* reading while flagging the uncertainty.
-- **好問堂藏版** (*Kōmondō zōhan*) — "Kōmondō house edition."
-  Verified against the manuscript image (p. 3) and confirmed by
-  the Kyoto RMDA catalogue note for this item (see SOURCES.md).
-  *[OCR `好問宜` → `好問堂`; the 宜 reading is a cursive misread
-  of 堂.]* Below the publisher's name a further inscription reads
-  **五十瀬津** — a place-name or a sub-title. The v1 draft
-  proposes the emendation *五十嵐津* (*Igarashi-tsu*), following an
-  unspecified scholarly record; we preserve the OCR as **五十瀬津**
-  and flag the reading as uncertain pending a citable source.
+- **水沢** (*Mizusawa*) — a place-name, likely the origin of the author
+  or editor.
+- **牛田権三郎遺稿** (*Ushida Gonzaburō ikō*) — "posthumous manuscript
+  of Ushida Gonzaburō." The preface on the same page is signed by
+  Ushida under his style **慈雲斎** (*Jiunsai*).
+- **鳴川猛之助校正** (*Narukawa Takenosuke kōsei*) — "proofread by
+  Narukawa Takenosuke." [OCR gives 猛之助; the colophon on page 32
+  signs the same man as 鳴川繁楽, so the reading of the personal name
+  is uncertain. In the style of the period the editor's personal name
+  would be given only once.]
+- **温故知新治法窮理** (*onko chishin, chihō kyūri*) — "review the old
+  to know the new; [attend to] the method of governance, probe the
+  principle [of things]." A classical banner-motto.
+- **辛亥年** (*Kanoto-I no toshi*) — the sexagenary year 1851. With
+  **十一月廿九** (*jūichigatsu nijūku[nichi]*), "29th day of the 11th
+  month," this is the publication date of the edited recension, not
+  of the original 1755 manuscript.
+- **三猿金泉秘録　全** — the title and the mark **全** (*zen*),
+  "complete."
+- **天元秋作見積之図一補附** [OCR: `天周秋佐見積之図一補附` → likely
+  `天元秋作見積之図　補附`] — "appendix: diagram for the *ten'gen*
+  estimation of the autumn crop." The term *ten'gen* (天元) recurs
+  inside the body as a name for the central reference price in the
+  trading diagrams.
+- **五十瀬津好問宜蔵版** — publisher / woodblock-owner mark; uncertain
+  reading of the personal name.
 
 ### ◯ 三猿金泉録序 — *Preface to the Sanen Kinsen Roku*
 
@@ -90,10 +72,8 @@ The grain of rice itself — round in the middle, tapered at each end
 — takes its form from yin and yang: the round is yang, the tapered
 is yin. Receiving the energies of heaven, earth, yin, and yang, it
 supplies the four classes — scholar, farmer, artisan, merchant
-(*shi-nō-kō-shō*, 士農工商) — and is therefore the single foremost
-treasure under heaven. *[Emended from OCR `士略 … 四民工商` to
-`四民 士農工商` per manuscript image (p. 4): the reading 士農 is
-clearly visible; the OCR's 略 is a stroke-slip from 農.]*
+[OCR: `士略 … 四民工商` → likely `士農工商 四民`] — and is therefore
+the single foremost treasure under heaven.
 
 **三猿** (*san'en*) — *the three monkeys*:
 
@@ -139,25 +119,3 @@ When old rice is plentiful and a low price carries over to the new
 rice, that is a year of **空腹上り** (*kūfuku-agari*), *empty-belly
 rise*. Such a year is called an **順来の年** (*junrai no toshi*) —
 a year of *orderly incoming*.
-
----
-
-## Confidence
-
-**High confidence**: the preface's classical opening (the Neo-Confucian
-cycle of 太極 → 陽 → 陰, dated in the printed colophon to Kaei 4 /
-1851); the three-monkeys doctrine and its cursive-OCR confusion
-`強変/弱変` → `強気/弱気` (verified against the manuscript image, p. 4,
-where 氣 is legible throughout); the publisher **好問堂藏版** and the
-full title **校正三猿金泉秘録 全** (verified against the image and
-confirmed by the Kyoto RMDA catalogue).
-
-**Lower confidence**: the appendix name **天問秋作見積之圖** — the
-second character is obscured by margin damage; v1's *Tenmon* reading
-is adopted provisionally. The location inscription **五十瀬津** is
-preserved as the OCR reading; v1's emendation to **五十嵐津** cannot
-yet be anchored to a primary catalogue source.
-
-**Key emendations** (all verified against the manuscript image
-p. 3–4): `治法窮理 → 活法窮理`; `好問宜 → 好問堂`; `士略 → 士農`;
-`十一月廿九 → 嘉永四年五月新鐫`.

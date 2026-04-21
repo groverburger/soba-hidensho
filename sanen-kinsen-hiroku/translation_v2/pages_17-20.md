@@ -43,20 +43,13 @@ The first five, given on this page:
 > partly illegible at `鯉と非とのなかに…理州の理…`; the rendering
 > captures what is recoverable.]
 
-**3. 陰含陽** (*in gan yō*) — *yin contains yang*:
+**3. 陰食陽** (*in shoku yō*) — *yin consuming yang*:
 > *"When every one of the ten thousand is bearish, the rice holds
 > within itself the principle that must rise."*
 
-**4. 陽含陰** (*yō gan in*) — *yang contains yin*:
+**4. 陽食陰** (*yō shoku in*) — *yang consuming yin*:
 > *"When every one of the thousand is bullish, the rice holds
 > within itself the principle that must sink."*
-
-*[Emended from OCR 陰食陽 / 陽食陰 (`食`) to 陰含陽 / 陽含陰 (`含`)
-per manuscript page image (p. 17): the manuscript clearly reads 含
-(*gan*, "contain"), not 食 (*shoku*, "consume"). The cosmological
-sense — yin holding yang as its seed and vice versa — also fits
-the preface passage on page 4 (*"within that extreme is already
-contained the principle of the bear"*).]*
 
 **5. 高安大法** (*kōan taihō*) — *the great law of high and low*:
 > *"The great law: at the autumn meigetsu the high peak; at the
@@ -236,29 +229,3 @@ reading uncertain.]
   one thing, sow the *hako* seed. *[The couplet runs across lines
   27 of page 20 into line 1 of page 21; the two halves are
   preserved together here.]*
-
----
-
-## Confidence
-
-**High confidence**: the four divination pieces opening p. 17
-(入梅 / 虹図 / 八専 / 玄雲目); the section titles
-**一部極意九躰の歌** and **智仁勇三徳 四十八首**; the nine
-headings of the nine-body song — including the image-verified
-emendation `陰食陽 → 陰含陽`, `陽食陰 → 陽含陰` (the manuscript
-clearly reads 含 *gan*, "contain," not 食 *shoku*, "consume").
-
-**Medium confidence**: the individual verses of the three virtues.
-The 48-verse structure is consistently legible but individual
-couplets carry cursive-noise (`ぶる`, `蘭齋`, `王主`, `桑がよし`,
-`雉子口上`, `玉ふ理`) that resists clean reading. Where we render
-the verse's argument we preserve the original kana fragments in
-the apparatus so a reader can judge the rendering.
-
-**Lower confidence**: the editor's bracketed glosses on p. 18
-distinguishing the nine-body items (*天ノ性*, *商定式*, *平来定式*,
-*売買定式*) — the OCR is dense here and the distinctions between
-these four rules partly cross each other; the individual glosses
-are approximate rather than exact. The 勇-opening rubric on p. 19
-(`勇二十六日辛子ナリストナリストナリ平スナリ`) is an editor's
-mnemonic whose structure is unclear.
