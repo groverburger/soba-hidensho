@@ -93,3 +93,29 @@ position") is taken and the *matsuba* stances are numerous,
 > **金鬼秘録 [終]** — *Kinki Hiroku [end].* *[OCR reads `金鬼秘録`;
 > the reading pairs the original title-frame `金泉秘録` with a
 > visual variant. Either reading closes the body of the text.]*
+
+---
+
+## Confidence
+
+**High confidence**: the **強気の功 / 弱気の功** pair as the closing
+pedagogical frame; the **三第一秘伝** sequence (**初通段 = 中墨 /
+早々中墨を買 / 正金百両にて百両の商印**) restated as the book's
+distilled three first-tier rules; the **陰米・陽米** appendix (*rising
+rice is yang, falling rice is yin*); the end-mark at the close of
+the body.
+
+**Medium confidence**: the sumptuary-notice / buy-close rumor
+passage on p. 30. Its argument is clear — that political and
+moral rumors accompany every bull-market peak, with "Japan as
+the divine country" cited as the reason such rumors are generally
+justified — but individual phrases are dense with era-specific
+vocabulary (*o-me-amai*, *o-kan-mon*, *mi-kuni*) that would repay
+fuller annotation in a future edition.
+
+**Lower confidence / interpretive**: the Osaka long-holiday and
+**松場** (*matsuba*) passage on p. 31. The term *matsuba* here
+(literally "pine field/site/position") is a locally-scoped Dōjima
+trading-floor idiom not glossed in this text. The translation
+follows the OCR's syntax but the referent of *matsuba* is not
+secure. Low-confidence on citation.

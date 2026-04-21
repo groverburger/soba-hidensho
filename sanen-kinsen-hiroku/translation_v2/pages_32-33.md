@@ -67,3 +67,30 @@ Almost entirely blank in the OCR. A long run of illegibility markers
 
 - **二十一日** (*nijūichi-nichi*) — "the twenty-first day." A
   cataloguing or notation mark without further context.
+
+---
+
+## Confidence
+
+**Page 32 is the lowest-confidence page in the edition.** The
+afterword is in the densest cursive anywhere in the manuscript,
+on a leaf that has taken visible water- and margin-damage. Only
+the structural anchors are high-confidence: the dated signature
+**嘉永四年五月三日　鳴川繁楽** (Kaei 4 / third day of the fifth
+month / Narukawa Shigeraku); the figure-name **牛田大介** in the
+body (identified in SOURCES.md as probably a variant or honorific
+reference to the author 牛田権三郎, though the RMDA record does
+not confirm this); and the governing concern — *"one step aside,
+a thousand* li *in divergence"* (**一歩千里のちがい**), a classical
+proverb about the propagation of small errors in esoteric
+transmission.
+
+The *connective prose* of the afterword is given here as a
+paragraph-by-paragraph rendering of the apparent argument. It is
+**not** a character-by-character translation. The OCR block is
+preserved below the translation so that a reader with
+classical-cursive reading can audit and replace the rendering
+against the image directly.
+
+**Page 33** is a near-blank leaf; the single legible date fragment
+is incidental.

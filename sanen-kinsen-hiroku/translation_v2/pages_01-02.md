@@ -39,12 +39,40 @@ An inner leaf carrying a secondary title and library provenance.
 - **校正三猿金泉秘録** (*Kōsei Sanen Kinsen Hiroku*) — "Proofread
   edition of *Sanen Kinsen Hiroku*." The *kōsei* marker signals this
   is the corrected recension by the later editor named in the
-  preface (Narukawa Mōnosuke, 鳴川猛之助).
-- **91006836** — library accession number.
-- **嶋田君寄贈** (*Shimada-kun kizō*) — "donated by Mr. Shimada."
-- **谷村文庫** [OCR: `香村攻庫` → likely `谷村文庫` (*Tanimura Bunko*)]
-  — the Tanimura Collection stamp.
+  preface (Narukawa Takesuke, 鳴川猛之助; romanisation per RMDA).
+- **91006836** — library accession number. Matches the Kyoto
+  University RMDA accession for this holding (record RB00012360);
+  see SOURCES.md.
+- **嶋田君寄贈** (*Shimada-kun kizō*) — "donated by Mr. Shimada." An
+  ownership inscription on the Kyoto manuscript copy, unrelated to
+  the author or the editor.
+- **谷村文庫　9-64/サ/1** [OCR: `香村攻庫` → `谷村文庫` per
+  manuscript image (p. 2)] — the Tanimura Collection shelfmark.
+  The stamp is visible in the top-right corner of the page; the
+  shelfmark reading matches the RMDA record.
 - A long rubber-stamp band `第一著著著著著…` — the OCR has
   converted a repeated stamp impression into a run of `著` and
   should be read as a single library seal rather than meaningful
   text.
+
+---
+
+## Confidence
+
+**High confidence**: the title cartouche **校正三猿金泉秘録 全** on
+both cover and inner leaf; the accession stamp **91006836**; the
+**嶋田君寄贈** donor inscription; the **谷村文庫 9-64/サ/1**
+shelfmark.
+
+**Lower confidence**: the handful of handwritten marginal fragments
+on the cover (`百廿九日`, `つゆ`, `廿九日`) — likely library
+cataloguing marks, but their exact referents cannot be determined
+from OCR alone.
+
+**Rejected emendations** (where v1 proposed readings that the
+manuscript image contradicts): v1's reading of `活法秘論首巻` as
+`諸秘論首巻` is not supported — the image (p. 2) shows `活法` with
+the standard cursive form of 活. v1's reading of a bottom-right
+label as **三猿軍書選** is also not supported — the visible
+bottom-right label on p. 2 reads `三猿金泉秘録` (the book's own
+title).

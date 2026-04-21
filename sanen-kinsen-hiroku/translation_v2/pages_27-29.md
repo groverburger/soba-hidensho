@@ -72,43 +72,80 @@ first impulse the greater-than-greater is the order: this is the
 root of rice trading. **If you do not scatter, you cannot lose at
 a thousand turns in a single seat.**
 
-### ◯ 下の三割高下の割 — *The three-wari high-low rate of the lower side*
+### ◯ 三割上下割之圖 — *The three-wari upper-and-lower-wari diagram*
 
-A proofreader's supplemental table. Third upper-*wari* (第三上割)
-three, upper-*wari* three; lower-*wari* three, upper-*wari* three —
-the reciprocal balance of the *dohan* diagram.
+[Emended from OCR `下の三割高下の割は狭正補` to `三割上下割之圖 …
+校正補` per manuscript image (p. 28): the boxed section title is
+visible in the top-left corner of the page; the OCR's `狭正補` is
+a cursive slip for `校正補` (*kōsei-ho*, "proofreader's
+supplement"), indicating this diagram is the editor Narukawa's
+addition to the older recension.]
 
-Associated numbers: **十一丁** (11 *chō*), **弐斤** (2 *kin*),
-**十五匁** (15 *momme*), the day **十一日** (11th), **新今井**
-and **森川中** (locality references), **大名** (retainer).
+This is the book's most elaborate single figure — a radial
+diagram centered on the **中墨** (*chūzumi*, reference price),
+with tawara-price rungs fanning outward in a circle and
+cosmological anchors at top and bottom. It is not a column-of-
+captions but a compass-like figure; the OCR's column of
+fragments records the diagram's labels as it scanned left-to-right.
 
-> *[Interpretive. These figures and labels are the editor's
-> tags-in-the-margin for a diagram that follows. The OCR
-> preserves them as a column of captions rather than the diagram
-> itself. The captions above — locality names, calendar day,
-> measurement — suggest they identify the provenance of the
-> diagram rather than its internal structure.]*
+**Structure of the figure (verified against the manuscript image,
+p. 28):**
 
-**度端極意の図 — recoverable labels (central to outer):**
+```
+                         (yin side — outer)
+                          ○  ○  ○  ○  ○
+                         廿一 廿二 廿三 廿四 廿五
+                          ○                    ○
+                        廿  ┌─────────┐          廿
+                         ○ │          │          ○
+                        俵  │ 中墨      │          俵
+                         ○ │ 廿俵      │          ○
+                           │          │
+                         ○ └─────────┘          ○
+                        十九 十八 十七 十六 十五
+                          ○  ○  ○  ○  ○
+                          (yang side — outer)
 
-- **中墨 廿俵** (*chūzumi*, 20 tawara) — the diagram's pivot.
-- Outward on the bull side: **廿一俵** (21), **廿二俵** (22,
-  marked 1½-*wari*), **廿三俵** (23), **廿四俵** (24), **廿五俵**
-  (25, marked half-*wari*).
-- Outward on the bear side: **十九俵** (19), **十八俵** (18,
-  marked 1½-*wari*), **十七俵** (17), **十六俵** (16), **十五俵**
-  (15, marked 2½-*wari*).
-- **ウリ** (*uri*, sell) marked on the bear-side rungs; the bull-side
-  rungs implicitly mark the buy side.
-- Two outermost labels: **陽一　四俵** (*yō-ichi, yon-tawara*) on
-  the bull side; **陰話** (*in-wa*) on the bear side.
-- An inner band: **太極　廿俵　天元** (*taikyoku, 20 tawara,
-  ten'gen*) — the one-with-another identification of *chūzumi*
-  as the Great Ultimate itself.
-- Outer middle labels: **中中中** / **中守** (*chū-chū-chū* /
-  *chūju*), four repetitions of "middle," surrounding the pivot.
+                          ── ── ── ── ──
 
-> *"This diagram is drawn from the Tenmei old manuscript."*
+                        陰      太極      陽
+                        ──      廿俵      ──
+                       廿六    (天元ノ一)   十四
+                       廿五               十五
+                       廿四               十六
+                       廿三               十七
+                       廿二               十八
+                       廿一 (一割半)  (一割半) 十九
+                            (一割)      (一割)
+                            (半)         (半)
+```
+
+**Labels, central to outer:**
+
+- **中墨　廿俵** (*chūzumi, nijū-tawara*) — the diagram's pivot, at
+  the geometric center. Matches the *chūzumi*-20-tawara worked
+  example used throughout chapters 5–7.
+- **太極　廿俵　天元ノ一** (*taikyoku / ten'gen no ichi*) — an
+  inner band identifying the pivot as the **Great Ultimate** and
+  the *ten'gen* (reference-one) at once. The diagram compresses
+  the book's cosmology and its pricing convention into a single
+  mark.
+- **陽** (*yō*) — the right-hand / buy-side axis, extending down
+  through tawara counts 19, 18, 17, 16, 15, 14 with ascending
+  price.
+- **陰** (*in*) — the left-hand / sell-side axis, extending up
+  through tawara counts 21, 22, 23, 24, 25, 26 with descending
+  price.
+- Along each axis, rung markers **一割半** (1½-*wari*), **一割**
+  (1-*wari*), **半** (½-*wari*) identify the percentage step each
+  ring away from the pivot represents.
+- The *chūzumi* box on the left page of the spread is flanked by
+  outer rings of **十方 / 東西南北 / 乾坤** (*jippō*; east-west-
+  south-north; *kenkon*) — read as cardinal compass anchors
+  superimposed on the price ring (see page 29).
+
+> Footer inscription: *"This diagram is drawn from the Tenmei
+> old manuscript"* (天明古寫本).
 
 ---
 
@@ -169,3 +206,30 @@ five-fold autumn (*go-ka aki*).
 - Summer rain in the eighth or ninth month: mochi-rice rots.
 - Long rain in the fifth or sixth month: a cold half-year, and
   autumn —
+
+---
+
+## Confidence
+
+**High confidence**: the section-titles **度端一六の商内 / 立用商内
+/ 隠色商内 / 度端極意の巻**; the **三割上下割之圖** (image-verified
+as a radial figure centered on **中墨廿俵**, with **陰 / 陽 /
+太極 / 天元ノ一** anchors and outer tawara-price rungs marked
+**一割半 / 一割 / 半**); the editor's "proofreader's supplement"
+(**校正補**) marker in the diagram's title box; the Tenmei-old-
+manuscript provenance footer (**天明古寫本**).
+
+**Medium confidence**: the prose of the **立用商内** and **隠色
+商内** sections. The OCR is intact but cursive-dense; the core
+teaching (`standby trade: wait for the market's real direction
+before committing size` and `hidden-color trade: small counter-
+entries on sudden bursts, 100–200 ryō at most`) is stable; individual
+turns of phrase are not.
+
+**Lower confidence / interpretive**: the column of editorial tags
+running beside the diagram on p. 28 (`十一丁`, `弐斤`, `新聞法`,
+`十五匁`, `新今井`, `森川中`, `大名`). These appear to be
+provenance captions identifying the copyist or the source
+manuscript from which this diagram was redrawn; they do not carry
+content internal to the diagram itself. They are preserved as a
+list without interpretation.

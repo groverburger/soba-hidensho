@@ -138,3 +138,32 @@ verse. Even two thousand ryō should be bought."*
 > ought to drop a full three-*wari* — **never sell.**
 
 *[The example calculations for the first step continue on page 23.]*
+
+---
+
+## Confidence
+
+**High confidence**: the close of the three virtues (**智仁勇三徳
+の歌終**); the section-titles **田地米の数目** and **世の中三段
+年々秋作見積**; the five-step ladder of the bullish secrets and
+its editor's gloss (*"these five steps are the ten'gen trading
+verse"*).
+
+**Medium confidence**: the rice-and-field totals **28,085,482 koku
+/ 947,801 chō**. These are the OCR figures; they should be
+cross-checked against a standard Edo national-production estimate
+(*kokudaka*) before citation. The *Wamyōshō* citation preceding
+the totals is given in corrupted form (`順和名抄拾粉廿三才`) and
+is rendered here on the assumption that it references *Wamyōshō*
+volume 10, section 23. The ten-tier *chūzumi* mapping (1-bu = 3
+tawara, … 10-bu = 30 tawara) is recoverable from the OCR modulo
+one typographic slip (`九分十八` should read `六分十八`).
+
+**Lower confidence / interpretive**: the era-year chronology of
+the 3-by-5 multiplier running across the bottom of p. 21 and the
+top of p. 22. The OCR collapses multiple era names (*Genroku 9,
+Kyōhō 3, Bunka (丙辰)*, etc.) into a continuous string; the
+substantive claim — that the multiplier was revised at least
+twice and that famine-years used a 5-*kake* multiplier — is
+recoverable, but the exact chronology is not. Not citable
+without a cross-check against the printed Narukawa recension.
