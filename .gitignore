@@ -26,3 +26,9 @@ reference/
 /2026-*.txt
 # …but transcripts archived into a project folder are kept in VCS.
 !**/claude-code-transcripts/2026-*.txt
+
+# Private working docs (kept on disk, not in version control).
+# research-notes.md is intentionally tracked.
+/docs/go-to-market.md
+/docs/jadh-abstract.md
+/docs/jadh-abstract-pdf/
